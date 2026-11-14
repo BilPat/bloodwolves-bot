@@ -27,4 +27,9 @@ assert embeds2 == [], embeds2
 # feed down: no crash, no posts
 embeds3, _ = news.build_news(state, fetcher=lambda u: (_ for _ in ()).throw(OSError("down")))
 assert embeds3 == []
+# promotional titles are skipped, real notices are kept
+assert news.is_promo("Watch the WoW: Forever Podcast – The Lore Episode")
+assert news.is_promo("WoW Weekly Highlights the WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More!")
+assert not news.is_promo("Lost Training Purchase Refunds - November 13")
+assert not news.is_promo("Hotfixes: November 13, 2026")
 print("news tests pass")

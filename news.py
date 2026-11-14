@@ -12,6 +12,8 @@ Rules:
   title and under 200 characters of body). "We're looking into it" is not news.
 - Links point at Blizzard, never Wowhead: forum topics to us/eu.forums.blizzard.com, articles to
   news.blizzard.com.
+- Promotional posts (podcasts, short stories, videos, weekly roundups, streams, contests, merch)
+  are skipped by title: #announcements is for things that change the game or the servers.
 - At most MAX_PER_RUN cards per run; the rest wait for the next run. Seen titles are kept 14 days.
 
 Uses only the standard library. Nothing here posts; it returns embeds for the tracker's queue.
@@ -36,6 +38,17 @@ KEYWORDS = {
     "service": ("Service", 0x3498DB, r"maintenance|realm|server|login|queue|downtime|connection|latency|disconnect|restart|outage"),
     "news": ("News", 0x9B59B6, r"."),
 }
+
+# Titles that are marketing rather than game or server changes. Matched on the title only.
+PROMO = re.compile(
+    r"podcast|short story|\bwatch\b|weekly highlights|wow weekly|\bvideos?\b|livestream|\bstream(ing)?\b"
+    r"|cinematic|trailer|fan ?art|community spotlight|contest|giveaway|sweepstakes|twitch|\bdrops\b"
+    r"|merch|gear store|interview|soundtrack|\bcomic\b|novel|cosplay|\blore\b",
+    re.I)
+
+
+def is_promo(title):
+    return bool(PROMO.search(title or ""))
 
 
 def fetch(url, timeout=20):
@@ -185,6 +198,9 @@ def build_news(state, now_ts=None, fetcher=fetch):
             seen[key] = now_ts  # remembered under the pre-v1.12 key shape
         if key in seen:
             seen[key] = now_ts  # still in the feed: keep it remembered so it cannot come back as new
+            continue
+        if is_promo(it["title"]):
+            seen[key] = now_ts
             continue
         body, author = strip_author(it["description"])
         forum = forum_bodies.get(it["bid"] or "")
