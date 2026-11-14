@@ -16,6 +16,8 @@
   "settings": {
     "max_level": 60,
     "milestone_levels": [
+      10,
+      20,
       30,
       40,
       50,
@@ -77,7 +79,8 @@
         "dungeon",
         "The Deadmines"
       ]
-    ]
+    ],
+    "dungeon_min_level": 30
   },
   "friends": [
     {

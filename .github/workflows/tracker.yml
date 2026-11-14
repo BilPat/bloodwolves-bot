@@ -14,6 +14,10 @@ on:
         description: "Also post the weekly recap now"
         type: boolean
         default: false
+      preview_ding:
+        description: "Only post sample ding cards to the officers channel"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -44,7 +48,7 @@ jobs:
           DISCORD_STAFF_WEBHOOK_URL: ${{ secrets.DISCORD_STAFF_WEBHOOK_URL }}
           DISCORD_NEWS_WEBHOOK_URL: ${{ secrets.DISCORD_NEWS_WEBHOOK_URL }}
           PROFILE_NAMESPACE: ${{ vars.PROFILE_NAMESPACE }}
-        run: python3 tracker.py ${{ inputs.test_webhook && '--test-webhook' || '' }} ${{ inputs.recap_now && '--recap-now' || '' }}
+        run: python3 tracker.py ${{ inputs.test_webhook && '--test-webhook' || '' }} ${{ inputs.recap_now && '--recap-now' || '' }} ${{ inputs.preview_ding && '--preview-ding' || '' }}
 
       - name: Save progress
         # Runs even if the check step failed part-way, so anything already

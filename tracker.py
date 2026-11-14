@@ -114,7 +114,8 @@ DEFAULT_SETTINGS = {
     "timezone": "America/Los_Angeles",
     "class_emojis": {},
     # --- guild bot additions
-    "milestone_levels": [30, 40, 50, 60],
+    "milestone_levels": [10, 20, 30, 40, 50, 60],
+    "dungeon_min_level": 30,           # dungeon clears below this level are recorded quietly, not announced
     "epic_riding_skill": 150,          # Classic: 75 = 60% mount, 150 = epic (100%) mount
     "first_riding_skill": 75,          # first mount
     "ilvl_milestones": [40, 50, 60, 70],
@@ -374,6 +375,46 @@ def parse_equipment(body):
     return out
 
 
+SKIP_BEST_SLOTS = {"SHIRT", "TABARD", "BODY"}
+
+
+def parse_best_item(body):
+    """The highest item-level piece equipped (ties: better quality), for ding cards."""
+    if not isinstance(body, dict):
+        return None
+    best = None
+    for it in body.get("equipped_items") or []:
+        slot = ((it.get("slot") or {}).get("type") or "").upper()
+        if slot in SKIP_BEST_SLOTS:
+            continue
+        lvl = (it.get("level") or {}).get("value") if isinstance(it.get("level"), dict) else it.get("level")
+        lvl = lvl if isinstance(lvl, int) else 0
+        quality = ((it.get("quality") or {}).get("type") or "").upper()
+        rank = (lvl, QUALITY_RANK.get(quality, 0))
+        if best is None or rank > best["_rank"]:
+            best = {"_rank": rank, "id": (it.get("item") or {}).get("id"), "name": it.get("name") or name_of(it) or "an item",
+                    "ilvl": lvl or None, "quality": quality, "slot": (it.get("slot") or {}).get("name") or ""}
+    if best:
+        best.pop("_rank")
+    return best
+
+
+EXPLORE = re.compile(r"^Explore (.+)$", re.I)
+
+
+def parse_last_explored(body):
+    """Zone of the most recently completed 'Explore <zone>' achievement. The API has no live location."""
+    if not isinstance(body, dict):
+        return None
+    latest = None
+    for item in body.get("achievements") or []:
+        ts = item.get("completed_timestamp")
+        m = EXPLORE.match(name_of(item.get("achievement")) or "")
+        if ts and m and (latest is None or ts > latest[0]):
+            latest = (ts, m.group(1).strip())
+    return latest[1] if latest else None
+
+
 def parse_mounts(body):
     """{mount id: name} for mounts the account has collected."""
     if not isinstance(body, dict):
@@ -603,15 +644,19 @@ def fetch_snapshot(c, region, token, namespace, settings):
         if settings["track_raids"]:
             snap["raids"] = sub("/encounters/raids", parse_encounters)
         if settings["track_achievements"]:
-            snap["achievements"] = sub("/achievements", parse_achievements)
+            a_status, a_body = api_get(region, f"{path}/achievements", token, namespace)
+            snap["achievements"] = parse_achievements(a_body) if a_status == 200 else None
+            snap["last_explored"] = parse_last_explored(a_body) if a_status == 200 else None
         s_status, s_body = api_get(region, f"{path}/achievements/statistics", token, namespace)
         stats, kills = parse_statistics(s_body) if s_status == 200 else (None, None)
         snap["stats"] = stats
         if settings["track_dungeons"] or settings["track_raids"]:
             snap["boss_kills"] = kills
         snap["spec"] = sub("/specializations", parse_spec)
+        e_status, e_body = api_get(region, f"{path}/equipment", token, namespace)
+        snap["best_item"] = parse_best_item(e_body) if e_status == 200 else None
         if settings["track_gear"]:
-            snap["_equipped"] = sub("/equipment", parse_equipment)
+            snap["_equipped"] = parse_equipment(e_body) if e_status == 200 else None
         if settings["track_mounts"]:
             snap["_mounts"] = sub("/collections/mounts", parse_mounts)
         if settings["track_reputation"]:
@@ -699,11 +744,16 @@ def find_changes(key, old, new, settings, group, hype=None):
         if crossed:
             lines.append(f"Item level **{max(crossed)}**")
 
-    # Dungeons
+    # Dungeons. Below dungeon_min_level a clear is recorded quietly (no line, no card):
+    # low-level clears are routine and would flood #general and #progress.
+    quiet_dungeons = level < int(settings.get("dungeon_min_level") or 0)
     old_d, new_d = old.get("dungeons"), new.get("dungeons")
     if old_d is not None and new_d is not None:
         for inst, info in sorted(new_d.items()):
             if info["cleared"] and not (old_d.get(inst) or {}).get("cleared"):
+                if quiet_dungeons:
+                    hype.append(("clear_quiet", inst))
+                    continue
                 lines.append(f"🗝️ Cleared **{inst}** for the first time")
                 hype.append(("clear", inst))
 
@@ -733,9 +783,14 @@ def find_changes(key, old, new, settings, group, hype=None):
                 continue
             kind, dungeon = DUNGEONS.classify(new_k[sid])
             if kind == "clear" and dungeon not in already:
+                already.add(dungeon)
+                if quiet_dungeons:
+                    hype.append(("clear_quiet", dungeon))
+                    continue
                 lines.append(f"🗝️ Cleared **{dungeon}** for the first time")
                 hype.append(("clear", dungeon))
-                already.add(dungeon)
+            elif kind == "boss" and quiet_dungeons and new_k[sid]["instance"] not in (new.get("raids") or {}):
+                continue
             elif kind == "boss":
                 lines.append(f"⚔️ First kill: **{new_k[sid]['boss']}** ({new_k[sid]['instance']})")
                 hype.append(("boss", f"{new_k[sid]['boss']} ({new_k[sid]['instance']})"))
@@ -888,6 +943,75 @@ def digest_embeds(items, settings, budget=5000, max_lines=12):
     return out
 
 
+WOWHEAD_ITEM = "https://www.wowhead.com/forever/item={id}"
+
+# One line of flavor on every ding card. {name} etc. are filled from the character;
+# a line whose fields are missing is skipped. Picked by a seed of character + level,
+# so the same ding always gets the same line.
+DING_LINES = [
+    "Coming for your raid spot.",
+    "Still has not read a single quest.",
+    "Has died to fall damage more than to mobs. Allegedly.",
+    "The innkeeper knows them by name.",
+    "Ran past three graveyards to get here.",
+    "Logged out in a city like a responsible adult.",
+    "Blames lag for everything below level {prev}.",
+    "Owes at least one hunter a Wing Clip apology.",
+    "Bag space: zero. Gray items: many.",
+    "Has strong opinions about need before greed.",
+    "Was spotted dancing on a mailbox in {zone}.",
+    "Last seen sightseeing in {zone}.",
+    "Claims {zone} was on purpose.",
+    "The best {prof} this side of the Maelstrom.",
+    "Their {prof} skill is the talk of the trade channel.",
+    "Swears the {item} was a planned upgrade.",
+    "Wearing {item} like it's tier gear.",
+    "The {race} {cls} the guild deserves.",
+    "Proof that {cls} is the best class. Do not argue.",
+    "{level} levels down. Somebody tell the hearthstone.",
+    "Hearthed to celebrate. Missed the flight path again.",
+    "Already planning the next alt.",
+    "Trained every rank of everything. Has zero gold left.",
+    "Has been asked to stop pulling extra mobs. Has not stopped.",
+]
+
+
+def ding_line(key, snap):
+    level = snap.get("level") or 0
+    profs = sorted(((k, v) for k, v in (snap.get("professions") or {}).items() if k.lower() != "riding" and v), key=lambda kv: -kv[1])
+    vals = {
+        "name": None, "level": level, "prev": max(0, (level // 10) * 10 - 10) or None,
+        "zone": snap.get("last_explored"), "prof": profs[0][0].lower() if profs else None,
+        "item": (snap.get("best_item") or {}).get("name"), "race": snap.get("race"), "cls": snap.get("class"),
+    }
+    usable = []
+    for line in DING_LINES:
+        fields = re.findall(r"{(\w+)}", line)
+        if all(vals.get(f) for f in fields):
+            usable.append(line.format(**{f: vals[f] for f in fields}))
+    if not usable:
+        return None
+    seed = sum(ord(ch) for ch in f"{key}:{level}")
+    return usable[seed % len(usable)]
+
+
+def ding_fields(snap):
+    """Class/spec, best gear (Wowhead link) and last zone explored, when Blizzard has them."""
+    out = []
+    cls = " ".join(x for x in (snap.get("spec"), snap.get("class")) if x)
+    if cls:
+        role = snap.get("role")
+        out.append({"name": "Class", "value": cls + (f" · plays {role}" if role else ""), "inline": True})
+    item = snap.get("best_item") or {}
+    if item.get("name"):
+        label = item["name"] + (f" ({item['ilvl']})" if item.get("ilvl") else "")
+        value = f"[{label}]({WOWHEAD_ITEM.format(id=item['id'])})" if item.get("id") else label
+        out.append({"name": "Best gear", "value": value[:1024], "inline": True})
+    if snap.get("last_explored"):
+        out.append({"name": "Last explored", "value": snap["last_explored"], "inline": True})
+    return out
+
+
 def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts):
     """
     A single milestone card: Level 40 / Level 60 / First to 60 / Epic Mount.
@@ -924,6 +1048,10 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
             since_label, since_ts = "since first tracked", state_char["first_seen"]
         if since_ts:
             fields.append({"name": "Time", "value": f"{human_duration(now_ts - since_ts)} {since_label}", "inline": True})
+        fields.extend(ding_fields(snap))
+        flavor = ding_line(detail["key"], snap)
+        if flavor:
+            headline += f"\n*{flavor}*"
     elif event == "epic_mount":
         title = "Epic Mount"
         color = HYPE_COLOR
@@ -1516,6 +1644,8 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="print messages instead of posting; save nothing")
     parser.add_argument("--test-webhook", action="store_true", help="send a test message to Discord and exit")
     parser.add_argument("--recap-now", action="store_true", help="also post the weekly recap on this run")
+    parser.add_argument("--preview-ding", action="store_true",
+                        help="post a sample ding card per character (live data) to the officers channel and exit")
     args = parser.parse_args()
 
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
@@ -1615,6 +1745,24 @@ def main():
     with ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(check, characters))
 
+    if args.preview_ding:
+        hook = os.environ.get("DISCORD_STAFF_WEBHOOK_URL", "").strip()
+        cards = []
+        for c, (snap, err) in zip(characters, results):
+            if not snap:
+                continue
+            if c.get("role"):
+                snap["role"] = c["role"]
+            key = f"{(c.get('region') or default_region).lower()}:{char_slug(c)}"
+            lvl = ((snap.get("level") or 10) // 10) * 10 or 10
+            card = milestone_embed(c, {**snap, "level": lvl}, "milestone", {"level": lvl, "key": key}, {}, {}, settings, int(time.time()))
+            card["title"] = f"Preview: Level {lvl}"
+            cards.append(card)
+        if hook and cards:
+            post_to_discord(hook, cards)
+        print(json.dumps(cards, indent=1, ensure_ascii=False))
+        return
+
     keyed = []
     for c, (snap, err) in zip(characters, results):
         key = f"{(c.get('region') or default_region).lower()}:{char_slug(c)}"
@@ -1691,6 +1839,9 @@ def main():
         else:
             mine = set()
             for ev, what in list(hype):
+                if ev == "clear_quiet":
+                    firsts["dungeon"].setdefault(what, [key])  # remembered, never announced
+                    continue
                 kind = {"clear": "dungeon", "boss": "boss", "raid_clear": "raid"}.get(ev)
                 if not kind:
                     continue
