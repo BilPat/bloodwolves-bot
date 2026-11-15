@@ -54,7 +54,7 @@ welcome: [
 "<#1568797253680767078> shows who plays what and who can craft what.",
 "**Need something crafted?** `/need` and pick the item. Whoever can make it gets a ping.",
 "**Got something you don't need?** `/give` and pick the item. Others press Need or Greed. When it closes, the winner is named under the card and presses *Received* once it arrives.",
-"<#1568797262065311856> is for gifts, crafting and trading. Found a vendor? Post a screenshot of its item list there.",
+"<#1568797262065311856> is for gifts, crafting requests and trades.",
 "",
 "**Set up once:** `/iam` and pick your main (add an alt if you have one). Your name takes your class color.",
 "**Tank, Healer, DPS:** press what you play. More than one is fine.",
