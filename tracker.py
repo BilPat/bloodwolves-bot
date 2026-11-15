@@ -1171,7 +1171,7 @@ def build_roster_board(entries, settings, max_level):
         "description": "\n".join(desc),
         "color": ROSTER_COLOR,
         "fields": fields[:25],
-        "footer": {"text": "🟢 last 2 days · 🟡 last week · ⚫ longer · ⚪ not seen yet · updates about every 15 min"},
+        "footer": {"text": "🟢 last 2 days · 🟡 last week · ⚫ longer · ⚪ not seen yet"},
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -1220,7 +1220,7 @@ def build_professions_board(entries, settings):
         more = f" · +{len(rows) - 6} more" if len(rows) > 6 else ""
         parts.append(f"{PROF_ICON.get(prof, '')} **{prof}**\n{shown}{more}")
     embeds.append({"title": "Secondary", "description": ("\n".join(parts) or "Cooking, First Aid and Fishing appear here as people learn them.")[:4000], "color": 0x95A5A6})
-    embeds[-1]["footer"] = {"text": "🟢 last 2 days · 🟡 last week · ⚫ longer · ⚪ not seen yet · 300 is max skill · updates about every 15 min"}
+    embeds[-1]["footer"] = {"text": "🟢 last 2 days · 🟡 last week · ⚫ longer · ⚪ not seen yet · 300 is max skill"}
     embeds[-1]["timestamp"] = stamp
     return embeds
 
