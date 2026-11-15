@@ -1007,6 +1007,7 @@
     "us:whizz-aard": {
       "achievements": {
         "61994": "Novice Mage",
+        "62018": "Journeyman Enchanter",
         "776": "Explore Elwynn Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/151/7402647-avatar.jpg",
@@ -1075,7 +1076,7 @@
       },
       "ilvl": 17,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794711184000,
+      "last_login": 1794728179000,
       "level": 26,
       "level_at": {
         "18": 1794190280,
@@ -1090,7 +1091,7 @@
       },
       "professions": {
         "Cooking": 58,
-        "Enchanting": 143,
+        "Enchanting": 150,
         "First Aid": 78,
         "Tailoring": 103
       },
@@ -1129,8 +1130,32 @@
         ],
         "Enchanting": [
           {
+            "id": 4402,
+            "name": "Enchant Boots - Minor Stamina"
+          },
+          {
             "id": 7425,
             "name": "Enchant Bracer - Lesser Stamina"
+          },
+          {
+            "id": 7457,
+            "name": "Enchant Chest - Lesser Absorption"
+          },
+          {
+            "id": 7500,
+            "name": "Enchant Bracer - Lesser Intellect"
+          },
+          {
+            "id": 7501,
+            "name": "Enchant Chest - Minor Stats"
+          },
+          {
+            "id": 7502,
+            "name": "Runed Golden Rod"
+          },
+          {
+            "id": 7426,
+            "name": "Enchant Weapon - Lesser Striking"
           },
           {
             "id": 7999,
@@ -1409,6 +1434,11 @@
           "raw": 1298,
           "tier": 3
         },
+        "Darkmoon Faire": {
+          "name": "Neutral",
+          "raw": 50,
+          "tier": 3
+        },
         "Darnassus": {
           "name": "Friendly",
           "raw": 7302,
@@ -1455,17 +1485,17 @@
         "critters": 63,
         "deaths": 60,
         "drinks": 517,
-        "flights": 35,
+        "flights": 36,
         "food": 114,
         "health_potions": 40,
         "hearths": 20,
-        "killing_blows": 1451,
+        "killing_blows": 1452,
         "mana_potions": 13,
-        "mobs": 2550,
+        "mobs": 2551,
         "need_rolls": 35,
-        "quests": 233
+        "quests": 234
       },
-      "xp": 20062
+      "xp": 20712
     }
   },
   "group": {
@@ -1505,59 +1535,59 @@
   "news_seen": {
     "1 12 5 and forever highlights midnight more weekly worldcore wow wow": 1794504668,
     "10 11 2026 forever hotfixes wow": 1794444367,
-    "10 11 balance faction pvp updates": 1794727871,
-    "10 11 class incoming tuning": 1794727871,
+    "10 11 balance faction pvp updates": 1794728569,
+    "10 11 class incoming tuning": 1794728569,
     "10 16 forever join of stress test the updated warcraft world": 1794505572,
-    "11 11 2026 forever hotfixes wow": 1794727871,
-    "11 11 balance faction pvp updates": 1794727871,
-    "11 13 2026 forever hotfixes wow": 1794727871,
-    "11 13 lost purchase refunds training": 1794727871,
-    "11 14 adjustment dungeon level player xp": 1794727871,
-    "11 15 adjustment dungeon level player xp": 1794727871,
-    "11 2 beta development forever notes updated wow": 1794727871,
+    "11 11 2026 forever hotfixes wow": 1794728569,
+    "11 11 balance faction pvp updates": 1794728569,
+    "11 13 2026 forever hotfixes wow": 1794728569,
+    "11 13 lost purchase refunds training": 1794728569,
+    "11 14 adjustment dungeon level player xp": 1794728569,
+    "11 15 adjustment dungeon level player xp": 1794728569,
+    "11 2 beta development forever notes updated wow": 1794728569,
     "11 2026 6 forever hotfixes wow": 1794367867,
     "11 2026 9 forever hotfixes wow": 1794367867,
-    "11 3 beta development forever notes updated wow": 1794727871,
-    "11 5 forever issues known updated wow": 1794727871,
-    "11 8 dungeon enemy increased xp": 1794727871,
-    "60 at for gold quests": 1794727871,
-    "60 at from gold lvl no quests seriously": 1794727871,
-    "7 episode forever ft ing lore nerds nobbel87 out platinum podcast the turbo wow wow": 1794727871,
-    "8 city do i inside main maybe people see the why": 1794727871,
-    "a and forever highlights more new podcast s short story the this videos week weekly wow wow": 1794727871,
-    "a explore forever gamepad with wow": 1794727871,
-    "a for friend invite issues players resolved": 1794727871,
-    "about bug category forever report the wow": 1794727871,
+    "11 3 beta development forever notes updated wow": 1794728569,
+    "11 5 forever issues known updated wow": 1794728569,
+    "11 8 dungeon enemy increased xp": 1794728569,
+    "60 at for gold quests": 1794728569,
+    "60 at from gold lvl no quests seriously": 1794728569,
+    "7 episode forever ft ing lore nerds nobbel87 out platinum podcast the turbo wow wow": 1794728569,
+    "8 city do i inside main maybe people see the why": 1794728569,
+    "a and forever highlights more new podcast s short story the this videos week weekly wow wow": 1794728569,
+    "a explore forever gamepad with wow": 1794728569,
+    "a for friend invite issues players resolved": 1794728569,
+    "about bug category forever report the wow": 1794728569,
     "about the wow forever bug report category": 1794195649,
-    "adventure and begins connected discord forever in in shape stay takes taldramir the weekly with wow wow": 1794727871,
+    "adventure and begins connected discord forever in in shape stay takes taldramir the weekly with wow wow": 1794728569,
     "aman and dive end forever gods hallow in into more of s the weekly wow wow zul": 1794347719,
     "and attunement forever locations of overview raid raid sizes warcraft world": 1794504668,
-    "and azeroth begin forever in journey next of purchase upgrades warcraft world your": 1794727871,
+    "and azeroth begin forever in journey next of purchase upgrades warcraft world your": 1794728569,
     "and discover for forever in midnight prepare s sweet talebound treats try weekly wow": 1794592867,
     "and familiar feels forever new s what what wow": 1794619867,
-    "and language settings social": 1794727871,
+    "and language settings social": 1794728569,
     "are early forever live name now of reservations warcraft world": 1794347719,
     "around campfire forever gather in of the warcraft world": 1794499269,
-    "beta from group issues persist phasing still with": 1794727871,
-    "broken zeppelins": 1794727871,
-    "bug forever forum guidelines report wow": 1794727871,
-    "bugged chaos missing monday s server shaman since totems": 1794727871,
+    "beta from group issues persist phasing still with": 1794728569,
+    "broken zeppelins": 1794728569,
+    "bug forever forum guidelines report wow": 1794728569,
+    "bugged chaos missing monday s server shaman since totems": 1794728569,
     "choose forever in of ruleset warcraft world your": 1794432680,
     "choose your ruleset in world of warcraft forever": 1794195649,
     "class tuning incoming": 1794195649,
-    "cost forever honor of short story the watch wow": 1794727871,
+    "cost forever honor of short story the watch wow": 1794728569,
     "dive into wow forever the gods of zul aman hallow s end and more in wow weekly": 1794195649,
     "dungeon enemy xp increased": 1794195649,
-    "dungeon enough not still xp": 1794727871,
-    "dungeon increased majority the wants xp": 1794727871,
+    "dungeon enough not still xp": 1794728569,
+    "dungeon increased majority the wants xp": 1794728569,
     "dungeons explore forever new of of the warcraft world": 1794505572,
-    "episode forever lore podcast the the watch wow": 1794727871,
+    "episode forever lore podcast the the watch wow": 1794728569,
     "explore the new dungeons of world of warcraft forever": 1794195649,
     "explore wow forever with a gamepad": 1794195649,
-    "forever forever forging watch wow": 1794727871,
-    "forever guide new of player s starter to warcraft welcome world": 1794727871,
-    "forever launch of time warcraft world": 1794727871,
-    "forever live now of warcraft world": 1794727871,
+    "forever forever forging watch wow": 1794728569,
+    "forever guide new of player s starter to warcraft welcome world": 1794728569,
+    "forever launch of time warcraft world": 1794728569,
+    "forever live now of warcraft world": 1794728569,
     "forever short story the unbowed watch wow": 1794358867,
     "gather around the campfire in world of warcraft forever": 1794195649,
     "issues resolved for invite a friend players": 1794195649,
@@ -1618,7 +1648,7 @@
       "1569216360347607131"
     ]
   },
-  "saved_at": 1794727873,
+  "saved_at": 1794728571,
   "weekly": {
     "baseline": {
       "us:pwanage-ownage": {
