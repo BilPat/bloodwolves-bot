@@ -32,4 +32,14 @@ assert news.is_promo("Watch the WoW: Forever Podcast – The Lore Episode")
 assert news.is_promo("WoW Weekly Highlights the WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More!")
 assert not news.is_promo("Lost Training Purchase Refunds - November 13")
 assert not news.is_promo("Hotfixes: November 13, 2026")
+# US/EU twins with different dates in the title post once
+def _feed(items):
+    rows = "".join(f"<item><title>{t}</title><link>https://www.wowhead.com/forever/blue-tracker/topic/{r}/{i}</link><description>{"Body text long enough to be a real notice. " * 8}</description><pubDate>Sat, 14 Nov 2026 1{i}:00:00 GMT</pubDate></item>" for i, (t, r) in enumerate(items))
+    return f"<rss><channel>{rows}</channel></rss>"
+st = {"news_seen": {"x": 1}, "news_started": True}
+feed1 = _feed([("Player-Level Dungeon XP Adjustment - November 14", "us")])
+e1, st = news.build_news(st, now_ts=1794700000, fetcher=lambda u: feed1 if "blue-tracker" in u else "<rss><channel></channel></rss>")
+feed2 = _feed([("Player-Level Dungeon XP Adjustment - November 14", "us"), ("Player-Level Dungeon XP Adjustment - 15 November", "eu")])
+e2, st = news.build_news(st, now_ts=1794700000 + 3600, fetcher=lambda u: feed2 if "blue-tracker" in u else "<rss><channel></channel></rss>")
+assert len(e1) == 1 and len(e2) == 0, (len(e1), len(e2))
 print("news tests pass")

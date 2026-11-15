@@ -158,6 +158,9 @@ def build_news(state, now_ts=None, fetcher=fetch):
     for k in [k for k, ts in seen.items() if now_ts - ts > KEEP_DAYS * 86400]:
         del seen[k]
     first_run = not seen and not state.get("news_started")
+    recent = state.setdefault("news_recent", {})
+    for k in [k for k, v in recent.items() if now_ts - v.get("ts", 0) > 3 * 86400]:
+        del recent[k]
 
     try:
         items = rss_items(fetcher(FOREVER_RSS))
@@ -202,6 +205,13 @@ def build_news(state, now_ts=None, fetcher=fetch):
         if is_promo(it["title"]):
             seen[key] = now_ts
             continue
+        # The EU forum often reposts a US notice a day later with its own date in the title
+        # ("... November 14" vs "... 15 November"). Same title without the date, the other
+        # region, within 36 hours: treat it as the same notice.
+        twin = recent.get(legacy_key(it["title"]))
+        if twin and twin["region"] != it["region"] and now_ts - twin["ts"] < 36 * 3600:
+            seen[key] = now_ts
+            continue
         body, author = strip_author(it["description"])
         forum = forum_bodies.get(it["bid"] or "")
         if forum and "forums.blizzard.com" in it["url"]:
@@ -212,6 +222,7 @@ def build_news(state, now_ts=None, fetcher=fetch):
             seen[key] = now_ts
             continue
         seen[key] = now_ts
+        recent[legacy_key(it["title"])] = {"region": it["region"], "ts": now_ts}
         source = "Blizzard News" if "news.blizzard.com" in it["url"] else f"{it['region'].upper()} forums"
         embeds.append({
             "title": clean_title(it["title"])[:256],
