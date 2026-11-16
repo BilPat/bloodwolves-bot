@@ -17,9 +17,10 @@ CREATE TABLE IF NOT EXISTS claims (
 );
 CREATE TABLE IF NOT EXISTS chars (    -- /iam mapping, C2
   user_id TEXT PRIMARY KEY, name TEXT NOT NULL, surname TEXT, class TEXT, updated_at INTEGER,
-  alt TEXT, alt_class TEXT                -- optional alt (key and class), 9 Nov
+  alt TEXT, alt_class TEXT,               -- optional alt (key and class), 9 Nov
+  owner TEXT                              -- Discord display name at link time, 16 Nov
 );
--- existing databases: ALTER TABLE chars ADD COLUMN alt TEXT; ALTER TABLE chars ADD COLUMN alt_class TEXT;
+-- existing databases: ALTER TABLE chars ADD COLUMN alt TEXT; ALTER TABLE chars ADD COLUMN alt_class TEXT; ALTER TABLE chars ADD COLUMN owner TEXT;
 CREATE TABLE IF NOT EXISTS requests (  -- /need craft requests, W1
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   user_id TEXT NOT NULL, user_name TEXT NOT NULL,

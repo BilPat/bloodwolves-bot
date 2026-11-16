@@ -1639,6 +1639,39 @@ def load_characters(config):
     return [c for c in chars if c.get("name")]
 
 
+LINKED_URL = "https://guild-bot.jcenno.workers.dev/linked"
+
+
+def merge_linked(chars, linked):
+    """Add characters people linked with the Discord bot that characters.json doesn't list yet."""
+    have = {char_slug(c) for c in chars}
+    out = list(chars)
+    for c in linked or []:
+        if not isinstance(c, dict) or not c.get("name"):
+            continue
+        entry = {k: c[k] for k in ("name", "surname", "owner", "region") if c.get(k)}
+        if char_slug(entry) not in have:
+            have.add(char_slug(entry))
+            out.append(entry)
+    return out
+
+
+def fetch_linked():
+    """Characters linked through the Discord bot. Any failure means 'none extra', never a crash."""
+    url = os.environ.get("LINKED_URL", LINKED_URL).strip()
+    if not url:
+        return []
+    try:
+        status, body = http("GET", url)
+    except Exception as err:
+        print(f"[warn] linked characters: {err}")
+        return []
+    if status != 200 or not isinstance(body, list):
+        print(f"[warn] linked characters: HTTP {status}")
+        return []
+    return body
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--dry-run", action="store_true", help="print messages instead of posting; save nothing")
@@ -1669,7 +1702,7 @@ def main():
         sys.exit("DISCORD_WEBHOOK_URL must be set (or use --dry-run).")
 
     config = load_json(CONFIG_PATH, None) or {}
-    characters = load_characters(config)
+    characters = merge_linked(load_characters(config), fetch_linked())
     settings = {**DEFAULT_SETTINGS, **config.get("settings", {})}
     guild = {**GUILD_DEFAULTS, **(config.get("guild") or {})}
     global DUNGEONS

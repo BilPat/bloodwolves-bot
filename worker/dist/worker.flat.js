@@ -50,8 +50,17 @@ noRecipes: "No recipes recorded yet. They appear after the next check.",
 nobodyCrafts: (q) => `Nobody in the guild knows a recipe matching "${q}" yet.`,
 whoCraftsTitle: (q) => `Who can make "${q}"`,
 reportTitle: "This week in the Workshop",
+linkBtn: "Link my character",
+linkTitle: "Link your character",
+linkLabel: "Character name (first and last)",
+linkPlaceholder: "Steel Appeal",
+linkDone: (name, cls, level) => `Linked **${name}**${cls ? ` (${level ? `level ${level} ` : ""}${cls})` : ""}. You'll show up on the roster within about 15 minutes.`,
+linkNotFound: (name) => `Couldn't find **${name}**. Check the spelling, log in with that character once, then try again in a few minutes.`,
+linkTaken: (name) => `**${name}** is already linked to someone else. Ask an officer if that's wrong.`,
 welcome: [
 "**How this server works**",
+"",
+"**New here?** Press *Link my character* below and type your character's name. That sets your class color and adds you to the roster.",
 "",
 "**Dings** post here every 10 levels. Smaller updates (skills, recipes, rep) go to <#1569828382584082603>.",
 "<#1568797253680767078> shows who plays what and who can craft what.",
@@ -59,7 +68,6 @@ welcome: [
 "**Got something you don't need?** `/give` and pick the item. Others press Need or Greed. When it closes, the winner is named under the card and presses *Received* once it arrives.",
 "<#1568797262065311856> is for gifts, crafting requests and trades.",
 "",
-"**Set up once:** `/iam` and pick your main (add an alt if you have one). Your name takes your class color.",
 "**Tank, Healer, DPS:** press what you play. More than one is fine.",
 "**Dings pings** are off unless you turn them on below.",
 ].join("\n"),
@@ -87,8 +95,8 @@ reportOpen: (gifts, reqs) => `Open now: ${gifts} gift${gifts === 1 ? "" : "s"}, 
 // ---- index.js
 
 const API = "https://discord.com/api/v10";
-const T = { PING: 1, COMMAND: 2, COMPONENT: 3, AUTOCOMPLETE: 4 };
-const R = { PONG: 1, MESSAGE: 4, DEFER: 5, UPDATE: 7, AUTOCOMPLETE: 8 };
+const T = { PING: 1, COMMAND: 2, COMPONENT: 3, AUTOCOMPLETE: 4, MODAL_SUBMIT: 5 };
+const R = { PONG: 1, MESSAGE: 4, DEFER: 5, UPDATE: 7, AUTOCOMPLETE: 8, MODAL: 9 };
 const FLAGS = { EPHEMERAL: 1 << 6, V2: 1 << 15 };
 const QUALITY_COLOR = { POOR: 0x9d9d9d, COMMON: 0xffffff, UNCOMMON: 0x1eff00, RARE: 0x0070dd, EPIC: 0xa335ee, LEGENDARY: 0xff8000 };
 const SLOT = { HEAD: "Head", NECK: "Neck", SHOULDER: "Shoulder", CHEST: "Chest", ROBE: "Chest", WAIST: "Waist", LEGS: "Legs", FEET: "Feet", WRIST: "Wrist", HAND: "Hands",
@@ -125,10 +133,10 @@ const j = await r.json();
 tokenCache = { value: j.access_token, exp: Date.now() + (j.expires_in - 60) * 1000 };
 return j.access_token;
 }
-async function bnet(env, path, params = {}) {
+async function bnet(env, path, params = {}, namespace = env.BLIZZARD_STATIC_NS) {
 const tok = await bnetToken(env);
 const u = new URL(`https://${env.BLIZZARD_REGION}.api.blizzard.com${path}`);
-u.searchParams.set("namespace", env.BLIZZARD_STATIC_NS);
+u.searchParams.set("namespace", namespace);
 u.searchParams.set("locale", "en_US");
 for (const [k, v] of Object.entries(params)) u.searchParams.set(k, v);
 const r = await fetch(u, { headers: { Authorization: `Bearer ${tok}` } });
@@ -483,6 +491,7 @@ console.log(`[button] ${i.data.custom_id} by ${who(i)?.id}`);
 if (["make", "done", "cancel"].includes(action)) return onRequestButton(i, env, action, id);
 if (action === "role") return onRoleToggle(i, env, idStr);
 if (action === "spec") return onSpecToggle(i, env, idStr);
+if (action === "link") return linkModal();
 const g = await env.DB.prepare("SELECT * FROM gifts WHERE id=?").bind(id).first();
 const u = who(i), uname = display(i);
 const eph = (content) => json({ type: R.MESSAGE, data: { content, flags: FLAGS.EPHEMERAL } });
@@ -609,8 +618,58 @@ return json({ type: R.MESSAGE, data: { content, flags: FLAGS.EPHEMERAL, allowed_
 }
 
 // ---------------------------------------------------------------- Welcome card with the Dings toggle (officers post it, members press it)
+// "Link my character": button -> modal -> Blizzard lookup -> class role + saved link.
+// The tracker reads GET /linked, so a linked character is tracked without editing characters.json.
+function linkModal() {
+return json({ type: R.MODAL, data: { custom_id: "linkmodal", title: S.linkTitle, components: [{ type: 1, components: [
+{ type: 4, custom_id: "name", label: S.linkLabel, style: 1, min_length: 2, max_length: 40, required: true, placeholder: S.linkPlaceholder },
+] }] } });
+}
+export function parseCharName(raw) {
+const words = String(raw || "").trim().replace(/\s+/g, " ").split(" ").filter(Boolean)
+.map((w) => w[0].toUpperCase() + w.slice(1).toLowerCase());
+if (!words.length) return null;
+const slug = words.map((w) => encodeURIComponent(w.toLowerCase())).join("-");
+return { display: words.join(" "), name: words[0], surname: words.slice(1).join(" ") || null, slug };
+}
+async function onLinkSubmit(i, env, ctx) {
+const raw = i.data.components?.[0]?.components?.[0]?.value || "";
+const u = who(i), owner = display(i);
+const reply = (content) => fetch(`${API}/webhooks/${env.DISCORD_APP_ID}/${i.token}/messages/@original`, { method: "PATCH",
+headers: { "content-type": "application/json" }, body: JSON.stringify({ content, allowed_mentions: { parse: [] } }) }).catch((e) => console.log(`[link] edit ${e}`));
+ctx.waitUntil((async () => {
+const c = parseCharName(raw);
+if (!c) return reply(S.linkNotFound(raw));
+const region = (env.BLIZZARD_REGION || "us").toLowerCase();
+const prof = await bnet(env, `/profile/wow/character/${c.slug}`, {}, env.BLIZZARD_PROFILE_NS || `profile-forever-${region}`).catch(() => null);
+if (!prof?.name) return reply(S.linkNotFound(c.display));
+const key = `${region}:${c.slug}`, cls = prof.character_class?.name || "", level = prof.level || null;
+const name = [prof.name, prof.surname].filter(Boolean).join(" ") || c.display;
+const taken = await env.DB.prepare("SELECT user_id FROM chars WHERE surname=? AND user_id<>?").bind(key, u.id).first();
+if (taken) return reply(S.linkTaken(name));
+await env.DB.prepare("INSERT INTO chars (user_id,name,surname,class,owner,updated_at) VALUES (?,?,?,?,?,?) ON CONFLICT(user_id) DO UPDATE SET name=excluded.name, surname=excluded.surname, class=excluded.class, owner=excluded.owner, updated_at=excluded.updated_at")
+.bind(u.id, name, key, cls, owner, now()).run();
+const roleOk = cls ? await syncClassRole(env, u.id, cls).catch((e) => (console.log(`[link] ${e}`), false)) : false;
+return reply(S.linkDone(name, cls, level) + (cls && !roleOk ? "\n" + S.iamRoleLater : ""));
+})());
+return json({ type: R.DEFER, data: { flags: FLAGS.EPHEMERAL } });
+}
+async function linkedList(env) {
+const rows = (await env.DB.prepare("SELECT name, surname, alt, owner FROM chars").all()).results;
+const out = [];
+const add = (key, owner) => {
+if (!key || !key.includes(":")) return;
+const [region, slug] = key.split(":");
+const words = slug.split("-").map((w) => { try { return decodeURIComponent(w); } catch { return w; } });
+out.push({ region, name: words[0], surname: words.slice(1).join(" ") || undefined, owner: owner || undefined });
+};
+for (const r of rows) { add(r.surname, r.owner); add(r.alt, r.owner); }
+return out;
+}
+
 function welcomeCard(env) {
 const container = { type: 17, accent_color: 0xf1c40f, components: [{ type: 10, content: S.welcome }, { type: 14, divider: true, spacing: 1 },
+{ type: 1, components: [{ type: 2, style: 3, label: S.linkBtn, custom_id: "link" }] },
 { type: 1, components: [
 ...SPEC_ROLES.map((r) => ({ type: 2, style: 2, label: r, custom_id: `spec:${r}` })),
 { type: 2, style: 1, label: S.dingsBtn, custom_id: `role:${env.DINGS_ROLE_ID}` }] }] };
@@ -713,6 +772,9 @@ if (!r.ok) console.log(`[tracker] dispatch -> ${r.status} ${await r.text()}`);
 export default {
 async fetch(req, env, ctx) {
 const url = new URL(req.url);
+if (req.method === "GET" && url.pathname === "/linked") {
+return json(await linkedList(env));
+}
 if (req.method === "GET" && url.pathname === "/register") {
 if (env.REGISTER_KEY && url.searchParams.get("key") !== env.REGISTER_KEY) return new Response("forbidden", { status: 403 });
 return registerCommands(env);
@@ -735,6 +797,7 @@ if (i.type === T.COMMAND && i.data.name === "who-crafts") return onWhoCrafts(i, 
 if (i.type === T.COMMAND && i.data.name === "give") return onGive(i, env, ctx);
 if (i.type === T.COMMAND && i.data.name === "help") return json({ type: R.MESSAGE, data: { content: S.helpLine, flags: FLAGS.EPHEMERAL } });
 if (i.type === T.COMPONENT) return onButton(i, env, ctx);
+if (i.type === T.MODAL_SUBMIT && i.data.custom_id === "linkmodal") return onLinkSubmit(i, env, ctx);
 return json({ type: R.MESSAGE, data: { content: S.unknownCommand, flags: FLAGS.EPHEMERAL } });
 },
 async scheduled(_ev, env, ctx) {
