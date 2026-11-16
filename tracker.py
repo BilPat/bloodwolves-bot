@@ -1036,7 +1036,7 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
         elif level >= settings["max_level"]:
             color = HYPE_COLOR
         headline = f"**{name}** hat Level **{level}** erreicht. Herzlichen Glückwunsch!"
-        fields.append({"name": "Gilde", "value": f"{ordinal(place)} in der Gilde", "inline": True})
+        fields.append({"name": "Gilde", "value": f"Platz {place} in der Gilde", "inline": True})
         # time since the previous milestone we saw, else since first tracked
         level_at = state_char.get("level_at") or {}
         prev_levels = sorted(int(k) for k in level_at if int(k) < level)
@@ -1046,7 +1046,7 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
                 since_label, since_ts = f"seit Level {pl}", level_at[str(pl)]
                 break
         if since_ts is None and state_char.get("first_seen"):
-            since_label, since_ts = "seit Beginn der Aufzeichnung", state_char["first_seen"]
+            since_label, since_ts = "seit Aufzeichnungsstart", state_char["first_seen"]
         if since_ts:
             fields.append({"name": "Dauer", "value": f"{human_duration(now_ts - since_ts)} {since_label}", "inline": True})
         fields.extend(ding_fields(snap))
@@ -1067,7 +1067,7 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
         key = f"{cls}:{name}"
         if key not in order:
             order.append(key)
-        fields.append({"name": "Gilde", "value": f"{ordinal(order.index(key) + 1)} in der Gilde", "inline": True})
+        fields.append({"name": "Gilde", "value": f"Platz {order.index(key) + 1} in der Gilde", "inline": True})
         fields.append({"name": "Level", "value": str(snap.get("level") or "?"), "inline": True})
     elif event == "guild_first":
         kind = detail.get("kind", "dungeon")
