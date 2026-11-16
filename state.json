@@ -2677,9 +2677,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/55/3483447-avatar.jpg",
       "best_item": {
-        "id": 251534,
+        "id": 6505,
         "ilvl": 24,
-        "name": "Gnarled Necromancer's Staff",
+        "name": "Crescent Staff",
         "quality": "RARE",
         "slot": "Main Hand"
       },
@@ -2688,6 +2688,11 @@
           "boss": "Bazzalan",
           "count": 1,
           "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -2699,6 +2704,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10413": {
+          "name": "Gloves of the Fang",
+          "quality": "RARE"
+        },
         "251534": {
           "name": "Gnarled Necromancer's Staff",
           "quality": "RARE"
@@ -2706,19 +2715,24 @@
         "271202": {
           "name": "Witherbite Bracers",
           "quality": "RARE"
+        },
+        "6505": {
+          "name": "Crescent Staff",
+          "quality": "RARE"
         }
       },
-      "ilvl": 9,
+      "ilvl": 11,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794853754000,
-      "level": 20,
+      "last_login": 1794867082000,
+      "level": 22,
       "level_at": {
-        "20": 1794866470
+        "20": 1794866470,
+        "22": 1794867229
       },
       "professions": {
-        "Alchemy": 105,
+        "Alchemy": 138,
         "Cooking": 3,
-        "Herbalism": 129
+        "Herbalism": 143
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -2731,6 +2745,18 @@
           {
             "id": 1814,
             "name": "Elixir of Wisdom"
+          },
+          {
+            "id": 1816,
+            "name": "Lesser Mana Potion"
+          },
+          {
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
+          },
+          {
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
           },
           {
             "id": 1832,
@@ -2757,6 +2783,10 @@
             "name": "Blackmouth Oil"
           },
           {
+            "id": 4394,
+            "name": "Fire Oil"
+          },
+          {
             "id": 4395,
             "name": "Swim Speed Potion"
           },
@@ -2775,6 +2805,10 @@
           {
             "id": 54453,
             "name": "Cerulean Dye"
+          },
+          {
+            "id": 54454,
+            "name": "Magenta Dye"
           },
           {
             "id": 54456,
@@ -2827,10 +2861,15 @@
         ]
       },
       "reputations": {
-        "Darkspear Trolls": {
+        "Booty Bay": {
           "name": "Neutral",
-          "raw": 2911,
+          "raw": 600,
           "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 3145,
+          "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -2842,6 +2881,16 @@
           "raw": 700,
           "tier": 3
         },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
+        },
         "Nightclaw Druids": {
           "name": "Friendly",
           "raw": 5100,
@@ -2849,17 +2898,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3211,
+          "raw": 3613,
           "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 700,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4123,
+          "raw": 4777,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3307,
+          "raw": 3653,
           "tier": 4
         },
         "Windshapers": {
@@ -2870,20 +2929,20 @@
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 1,
-        "deaths": 5,
+        "critters": 17,
+        "deaths": 7,
         "drinks": 9,
-        "flights": 5,
+        "flights": 11,
         "food": 6,
-        "health_potions": 3,
-        "hearths": 4,
-        "killing_blows": 711,
-        "mana_potions": 7,
-        "mobs": 1121,
-        "need_rolls": 7,
-        "quests": 145
+        "health_potions": 4,
+        "hearths": 5,
+        "killing_blows": 857,
+        "mana_potions": 10,
+        "mobs": 1464,
+        "need_rolls": 11,
+        "quests": 160
       },
-      "xp": 10062
+      "xp": 13193
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {},
@@ -8518,11 +8577,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 6414,
-        "ilvl": 29,
-        "name": "Seal of Sylvanas",
+        "id": 16886,
+        "ilvl": 32,
+        "name": "Outlaw Sabre",
         "quality": "RARE",
-        "slot": "Ring 1"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "1092": {
@@ -8540,6 +8599,11 @@
           "count": 1,
           "instance": "Wailing Caverns"
         },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 1,
@@ -8554,12 +8618,24 @@
           "name": "Butcher's Cleaver",
           "quality": "RARE"
         },
+        "16886": {
+          "name": "Outlaw Sabre",
+          "quality": "RARE"
+        },
         "252425": {
           "name": "Dark Leather Boots",
           "quality": "RARE"
         },
         "252504": {
           "name": "Brawler's Leather Hood",
+          "quality": "RARE"
+        },
+        "273839": {
+          "name": "Spiked Shell Band",
+          "quality": "RARE"
+        },
+        "273840": {
+          "name": "Cursed Murloc Eye",
           "quality": "RARE"
         },
         "4253": {
@@ -8577,20 +8653,25 @@
         "6633": {
           "name": "Butcher's Slicer",
           "quality": "RARE"
+        },
+        "6904": {
+          "name": "Bite of Serra'kis",
+          "quality": "RARE"
         }
       },
-      "ilvl": 19,
+      "ilvl": 22,
       "last_explored": "Redridge Mountains",
-      "last_login": 1794848381000,
-      "level": 25,
+      "last_login": 1794866659000,
+      "level": 26,
       "level_at": {
-        "25": 1794866470
+        "25": 1794866470,
+        "26": 1794867229
       },
       "professions": {
         "Cooking": 61,
-        "First Aid": 141,
+        "First Aid": 144,
         "Leatherworking": 112,
-        "Skinning": 184
+        "Skinning": 188
       },
       "race": "Undead",
       "raids": {},
@@ -8627,6 +8708,10 @@
           {
             "id": 4355,
             "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 3964,
@@ -8881,12 +8966,17 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3466,
+          "raw": 3947,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
           "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 300,
           "tier": 3
         },
         "Everlook": {
@@ -8901,7 +8991,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4647,
+          "raw": 4828,
           "tier": 4
         },
         "Powderfuse": {
@@ -8916,12 +9006,12 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2528,
+          "raw": 2710,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12256,
+          "raw": 12681,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -8934,18 +9024,18 @@
       "stats": {
         "critters": 43,
         "deaths": 12,
-        "drinks": 11,
-        "flights": 33,
-        "food": 77,
+        "drinks": 14,
+        "flights": 35,
+        "food": 89,
         "health_potions": 13,
-        "hearths": 7,
+        "hearths": 8,
         "honorable_kills": 56,
-        "killing_blows": 1259,
-        "mobs": 2091,
-        "need_rolls": 16,
-        "quests": 163
+        "killing_blows": 1395,
+        "mobs": 2329,
+        "need_rolls": 18,
+        "quests": 172
       },
-      "xp": 23332
+      "xp": 31773
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -10061,6 +10151,11 @@
           "count": 1,
           "instance": "Ragefire Chasm"
         },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 1,
@@ -10092,9 +10187,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 11,
+      "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794844979000,
+      "last_login": 1794866608000,
       "level": 23,
       "level_at": {
         "23": 1794866470
@@ -10103,8 +10198,8 @@
         "Cooking": 18,
         "First Aid": 80,
         "Fishing": 1,
-        "Mining": 104,
-        "Skinning": 141
+        "Mining": 107,
+        "Skinning": 150
       },
       "race": "Troll",
       "raids": {},
@@ -10220,7 +10315,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9441,
+          "raw": 9478,
           "tier": 5
         },
         "Everlook": {
@@ -10235,7 +10330,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10928,
+          "raw": 10966,
           "tier": 5
         },
         "Powderfuse": {
@@ -10250,29 +10345,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4816,
+          "raw": 4966,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3077,
+          "raw": 3115,
           "tier": 4
         }
       },
       "spec": "Assassination",
       "stats": {
-        "critters": 16,
+        "critters": 29,
         "deaths": 10,
-        "flights": 42,
+        "flights": 46,
         "food": 2,
         "health_potions": 7,
-        "hearths": 18,
-        "killing_blows": 1221,
-        "mobs": 1930,
-        "need_rolls": 21,
-        "quests": 144
+        "hearths": 19,
+        "killing_blows": 1304,
+        "mobs": 2215,
+        "need_rolls": 28,
+        "quests": 146
       },
-      "xp": 1260
+      "xp": 20505
     },
     "eu:lagertha-graufuss": {
       "achievements": {
@@ -15084,9 +15179,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 29,
       "last_explored": null,
-      "last_login": 1794838692000,
+      "last_login": 1794866565000,
       "level": 35,
       "level_at": {
         "35": 1794866470
@@ -15096,7 +15191,7 @@
         "Cooking": 150,
         "First Aid": 62,
         "Fishing": 148,
-        "Mining": 165
+        "Mining": 181
       },
       "race": "Undead",
       "raids": {},
@@ -15441,7 +15536,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5902,
+          "raw": 6321,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15466,7 +15561,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6502,
+          "raw": 6921,
           "tier": 4
         },
         "Powderfuse": {
@@ -15481,12 +15576,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5217,
+          "raw": 6217,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19267,
+          "raw": 19761,
           "tier": 5
         }
       },
@@ -15495,17 +15590,17 @@
         "critters": 72,
         "deaths": 33,
         "drinks": 12,
-        "flights": 57,
+        "flights": 59,
         "food": 33,
         "health_potions": 20,
-        "hearths": 33,
-        "killing_blows": 2066,
+        "hearths": 34,
+        "killing_blows": 2179,
         "mana_potions": 1,
-        "mobs": 4839,
+        "mobs": 5010,
         "need_rolls": 29,
-        "quests": 286
+        "quests": 296
       },
-      "xp": 23661
+      "xp": 54673
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -16452,7 +16547,7 @@
       "1572008672270352519"
     ]
   },
-  "saved_at": 1794866474,
+  "saved_at": 1794867230,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
