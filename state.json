@@ -10813,7 +10813,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1794855120000,
+      "last_login": 1794868996000,
       "level": 24,
       "level_at": {
         "24": 1794866470
@@ -11202,7 +11202,7 @@
         "need_rolls": 20,
         "quests": 162
       },
-      "xp": 24736
+      "xp": 24956
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -16103,7 +16103,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 20,
+        "level": 22,
         "name": "Boreas",
         "rank": 4,
         "region": "eu",
@@ -16130,7 +16130,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 39,
+        "level": 40,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -16157,7 +16157,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 39,
+        "level": 40,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -16265,7 +16265,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 19,
+        "level": 22,
         "name": "Rausmit",
         "rank": 4,
         "region": "eu",
@@ -16337,7 +16337,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 20,
+        "level": 21,
         "name": "Archibald",
         "rank": 4,
         "region": "eu",
@@ -16445,7 +16445,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -16481,7 +16481,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 18,
+        "level": 20,
         "name": "Eluna",
         "rank": 4,
         "region": "eu",
@@ -16490,7 +16490,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 20,
+        "level": 21,
         "name": "Lagertha",
         "rank": 1,
         "region": "eu",
@@ -16567,7 +16567,7 @@
       "1572013773110386699"
     ]
   },
-  "saved_at": 1794868740,
+  "saved_at": 1794869642,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
