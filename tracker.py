@@ -231,6 +231,9 @@ def harvest_german(en, de):
                             if gm:
                                 GERMAN[m.group(1).strip()] = gm.group(1).strip()
                                 break
+                    be, bd = BOSS_KILL_STAT.match(v), re.match(r"^Siege über (.+?)\s*\((.+)\)\s*$", dv)
+                    if be and bd:
+                        GERMAN.setdefault(be.group("boss").strip(), bd.group(1).strip())
                     pe, pd = PAREN.search(v), PAREN.search(dv)
                     if pe and pd and pe.group(1) != pd.group(1):
                         GERMAN.setdefault(pe.group(1).strip(), pd.group(1).strip())
@@ -240,10 +243,11 @@ def harvest_german(en, de):
                 harvest_german(v, dv)
     elif isinstance(en, list) and isinstance(de, list):
         keyed = {_ident(b): b for b in de if _ident(b) is not None}
-        if keyed and all(_ident(a) is not None for a in en):
+        if keyed:
             for a in en:
-                if _ident(a) in keyed:
-                    harvest_german(a, keyed[_ident(a)])
+                ka = _ident(a)
+                if ka is not None and ka in keyed:
+                    harvest_german(a, keyed[ka])
         elif len(en) == len(de):
             for a, b in zip(en, de):
                 harvest_german(a, b)
