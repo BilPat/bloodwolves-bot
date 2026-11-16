@@ -1780,21 +1780,46 @@ def main():
         results = list(pool.map(check, characters))
 
     if args.preview_ding:
-        hook = os.environ.get("DISCORD_STAFF_WEBHOOK_URL", "").strip()
+        # Testvorschau: Beispielkarten mit echten Gildendaten, ohne den Spielstand zu ändern.
+        hook = (os.environ.get("DISCORD_STAFF_WEBHOOK_URL", "").strip()
+                or os.environ.get("DISCORD_WEBHOOK_URL", "").strip())
+        prog_hook = (os.environ.get("DISCORD_PROGRESS_WEBHOOK_URL", "").strip()
+                     or os.environ.get("DISCORD_ROSTER_WEBHOOK_URL", "").strip() or hook)
+        now_i = int(time.time())
+        pairs = [(c, snap) for c, (snap, err) in zip(characters, results) if snap]
+        pairs.sort(key=lambda cs: -(cs[1].get("level") or 0))
         cards = []
-        for c, (snap, err) in zip(characters, results):
-            if not snap:
-                continue
+        for c, snap in pairs[:3]:
             if c.get("role"):
                 snap["role"] = c["role"]
             key = f"{(c.get('region') or default_region).lower()}:{char_slug(c)}"
             lvl = ((snap.get("level") or 10) // 10) * 10 or 10
-            card = milestone_embed(c, {**snap, "level": lvl}, "milestone", {"level": lvl, "key": key}, {}, {}, settings, int(time.time()))
-            card["title"] = f"Preview: Level {lvl}"
-            cards.append(card)
+            st = {"first_seen": now_i - 3 * 86400}
+            cards.append(milestone_embed(c, {**snap, "level": lvl}, "milestone", {"level": lvl, "key": key}, {}, st, settings, now_i))
+        if pairs:
+            c, snap = pairs[0]
+            cards.append(milestone_embed(c, snap, "first_mount", {}, {}, {}, settings, now_i))
+            cards.append(milestone_embed(c, snap, "epic_mount", {"mount": "Swift Gray Wolf", "riding": 150}, {}, {}, settings, now_i))
+            names = [display_name(x) for x, _ in pairs[:2]]
+            cards.append(milestone_embed(c, snap, "guild_first", {"kind": "dungeon", "names": names, "what": "Ragefire Chasm"}, {}, {}, settings, now_i))
+        for card in cards:
+            card["title"] = f"TEST · {card['title']}"
+        items = []
+        samples = [
+            ["📜 Neuer Beruf: **Alchemy**", "🛠️ **Herbalism** auf 150", "🗝️ **Wailing Caverns** zum ersten Mal abgeschlossen"],
+            ["🟣 Neu angelegt: **Bloodfang Hood** (Head)", "🤝 **Honored** bei Orgrimmar", "Gegenstandsstufe **40**"],
+            ["🔵 Erstes blaues Item: **Thrash Blade** (Main Hand)", "⚔️ Erster Kill: **Mutanus the Devourer** (Wailing Caverns)", "Neues Reittier: **Brown Wolf**"],
+        ]
+        for (c, snap), lines in zip(pairs[3:6], samples):
+            items.append((c, snap, lines))
+        prog = digest_embeds(items, settings) if items else []
+        for e in prog:
+            e["title"] = f"TEST · {e['title']}"
         if hook and cards:
             post_to_discord(hook, cards)
-        print(json.dumps(cards, indent=1, ensure_ascii=False))
+        if prog_hook and prog:
+            post_to_discord(prog_hook, prog)
+        print(json.dumps(cards + prog, indent=1, ensure_ascii=False)[:4000])
         return
 
     keyed = []
