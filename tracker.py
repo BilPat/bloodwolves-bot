@@ -1067,7 +1067,7 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
         key = detail["key"]
         if key not in order:
             order.append(key)
-        place = order.index(key) + 1
+        place = detail.get("place") or (order.index(key) + 1)
         title = f"Level {level}"
         if detail.get("first"):
             title = f"Als Erstes auf {level}"
@@ -1975,6 +1975,11 @@ def main():
             embeds.append(character_embed(c, snap, lines, settings))
         elif loud:
             for ev, d in loud:
+                if ev in ("milestone", "max_level") and isinstance(d, dict):
+                    # Platz = wie viele Gildencharaktere dieses Level schon haben (inklusive diesem)
+                    lvl = d.get("level") or 0
+                    d["place"] = 1 + sum(1 for k2, s2 in state["characters"].items()
+                                         if k2 != key and (s2.get("level") or 0) >= lvl)
                 hype_embeds.append(milestone_embed(c, snap, ev, d, state["group"], snap, settings, now_ts))
             quiet = [l for l in lines if not l.startswith(("Level **", "Als Erstes", "Episch", "Reiten gelernt"))]
             if quiet:
