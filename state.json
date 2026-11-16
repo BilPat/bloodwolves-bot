@@ -2743,7 +2743,7 @@
       },
       "ilvl": 11,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794867082000,
+      "last_login": 1794868052000,
       "level": 22,
       "level_at": {
         "20": 1794866470,
@@ -2967,13 +2967,7 @@
     "eu:christopher-kuhlumbus": {
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/116/18969204-avatar.jpg",
-      "best_item": {
-        "id": 6472,
-        "ilvl": 24,
-        "name": "Stinging Viper",
-        "quality": "RARE",
-        "slot": "Main Hand"
-      },
+      "best_item": null,
       "boss_kills": {
         "15028": {
           "boss": "Mutanus the Devourer",
@@ -4835,7 +4829,7 @@
           "tier": 3
         }
       },
-      "spec": "Arms",
+      "spec": "Protection",
       "stats": {
         "critters": 4,
         "deaths": 22,
@@ -7784,7 +7778,7 @@
           "tier": 5
         }
       },
-      "spec": "Arms",
+      "spec": "Protection",
       "stats": {
         "critters": 93,
         "deaths": 64,
@@ -10733,7 +10727,7 @@
           "tier": 4
         }
       },
-      "spec": "Fury",
+      "spec": "Protection",
       "stats": {
         "critters": 4,
         "deaths": 2,
@@ -12645,7 +12639,7 @@
           "tier": 3
         }
       },
-      "spec": "Arms",
+      "spec": "Fury",
       "stats": {
         "critters": 4,
         "deaths": 27,
@@ -14175,7 +14169,7 @@
           "tier": 3
         }
       },
-      "spec": "Beast Mastery",
+      "spec": "Marksmanship",
       "stats": {
         "critters": 17,
         "deaths": 15,
@@ -14485,7 +14479,7 @@
           "tier": 3
         }
       },
-      "spec": "Balance",
+      "spec": "Restoration",
       "stats": {
         "critters": 9,
         "deaths": 18,
@@ -14729,7 +14723,7 @@
           "tier": 4
         }
       },
-      "spec": "Assassination",
+      "spec": "Combat",
       "stats": {
         "critters": 4,
         "deaths": 12,
@@ -16567,7 +16561,7 @@
       "1572013773110386699"
     ]
   },
-  "saved_at": 1794868053,
+  "saved_at": 1794868563,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
