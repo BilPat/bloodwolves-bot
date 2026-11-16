@@ -178,10 +178,61 @@ def get_token(client_id, client_secret):
     return body["access_token"]
 
 
-def api_get(region, path, token, namespace):
-    query = urllib.parse.urlencode({"namespace": namespace, "locale": "en_US"})
+GERMAN = {}  # englischer Name -> deutscher Name, aus Blizzards eigenen de_DE-Antworten (in state.json gespeichert)
+GERMAN_LOCALE = True
+
+
+def api_get(region, path, token, namespace, locale="en_US"):
+    query = urllib.parse.urlencode({"namespace": namespace, "locale": locale})
     url = f"https://{region}.api.blizzard.com{path}?{query}"
-    return http("GET", url, {"Authorization": f"Bearer {token}"})
+    status, body = http("GET", url, {"Authorization": f"Bearer {token}"})
+    if (GERMAN_LOCALE and locale == "en_US" and status == 200 and isinstance(body, dict)
+            and not path.endswith("/character-media")):
+        try:
+            s2, b2 = http("GET", f"https://{region}.api.blizzard.com{path}?"
+                          + urllib.parse.urlencode({"namespace": namespace, "locale": "de_DE"}),
+                          {"Authorization": f"Bearer {token}"})
+            if s2 == 200:
+                harvest_german(body, b2)
+        except Exception:  # deutsche Namen sind nur Kosmetik
+            pass
+    return status, body
+
+
+GERMAN_EXPLORE = [re.compile(p, re.I) for p in (r"^(.+?) erkunden$", r"^Erkundung:?\s+(.+)$", r"^Erkundet:?\s+(.+)$")]
+PAREN = re.compile(r"\(([^()]+)\)\s*$")
+
+
+def harvest_german(en, de):
+    """Gleich aufgebaute en_US/de_DE-Antworten parallel ablaufen und Namenspaare merken."""
+    if isinstance(en, dict) and isinstance(de, dict):
+        for k, v in en.items():
+            dv = de.get(k)
+            if k in ("name", "specialization_name") and isinstance(v, str) and isinstance(dv, str):
+                if v != dv:
+                    GERMAN[v] = dv
+                    m = re.match(r"^Explore (.+)$", v, re.I)
+                    if m:
+                        for g in GERMAN_EXPLORE:
+                            gm = g.match(dv)
+                            if gm:
+                                GERMAN[m.group(1).strip()] = gm.group(1).strip()
+                                break
+                    pe, pd = PAREN.search(v), PAREN.search(dv)
+                    if pe and pd and pe.group(1) != pd.group(1):
+                        GERMAN.setdefault(pe.group(1).strip(), pd.group(1).strip())
+            elif isinstance(v, dict) and isinstance(dv, dict) and isinstance(v.get("en_US"), str) and isinstance(dv.get("de_DE"), str):
+                pass
+            else:
+                harvest_german(v, dv)
+    elif isinstance(en, list) and isinstance(de, list) and len(en) == len(de):
+        for a, b in zip(en, de):
+            harvest_german(a, b)
+
+
+def de(name):
+    """Deutscher Name, wenn Blizzard ihn schon einmal geliefert hat, sonst der englische."""
+    return GERMAN.get(name, name) if isinstance(name, str) else name
 
 
 def guild_slug(name):
@@ -813,7 +864,7 @@ def find_changes(key, old, new, settings, group, hype=None):
             before = (old_rep.get(faction) or {}).get("tier", 3)  # unseen faction = Neutral
             if now["tier"] > before and now["name"].lower() in wanted:
                 icon = "👑" if now["name"].lower() == "exalted" else "🤝"
-                lines.append(f"{icon} **{REP_DE.get(now['name'], now['name'])}** bei {wh(faction)}")
+                lines.append(f"{icon} **{GERMAN.get(now['name']) or REP_DE.get(now['name'], now['name'])}** bei {de(faction)}")
 
     # Achievements
     old_a, new_a = old.get("achievements"), new.get("achievements")
@@ -878,7 +929,7 @@ def emoji_image_url(snap, settings):
 
 def describe_char(c, snap):
     """'Level 41 Night Elf Arms Warrior · Officer'."""
-    bits = " ".join(str(x) for x in (snap.get("race"), snap.get("spec"), snap.get("class")) if x)
+    bits = " ".join(str(de(x)) for x in (snap.get("race"), snap.get("spec"), snap.get("class")) if x)
     text = f"Level {snap.get('level') or '?'} {bits}".strip()
     if c.get("owner"):
         text += f" · {c['owner']}"
@@ -960,7 +1011,8 @@ def wh_search(name):
 
 
 def wh(name, url=None):
-    """Markdown-Link auf Wowhead; ohne url eine Wowhead-Suche nach dem Namen."""
+    """Markdown-Link auf Wowhead (deutscher Name); ohne url eine Wowhead-Suche nach dem Namen."""
+    name = de(name)
     return f"[{name}]({url or wh_search(name)})"
 
 
@@ -978,7 +1030,16 @@ PROF_DE = {
 
 
 def prof_de(p):
-    return PROF_DE.get(p, p)
+    return GERMAN.get(p) or PROF_DE.get(p, p)
+
+
+QUALITY_ICON = {"POOR": "⚫", "COMMON": "⚪", "UNCOMMON": "🟢", "RARE": "🔵", "EPIC": "🟣", "LEGENDARY": "🟠", "ARTIFACT": "🟡"}
+ROLE_DE = {"Tank": "Tank", "Healer": "Heiler", "DPS": "DPS"}
+
+
+def cls_de(snap):
+    """'Schutz Krieger' aus Spezialisierung und Klasse, auf Deutsch."""
+    return " ".join(de(x) for x in (snap.get("spec"), snap.get("class")) if x)
 
 
 REP_DE = {"Hated": "Hasserfüllt", "Hostile": "Feindselig", "Unfriendly": "Unfreundlich", "Neutral": "Neutral",
@@ -1038,17 +1099,18 @@ def ding_line(key, snap):
 def ding_fields(snap):
     """Class/spec, best gear (Wowhead link) and last zone explored, when Blizzard has them."""
     out = []
-    cls = " ".join(x for x in (snap.get("spec"), snap.get("class")) if x)
+    cls = cls_de(snap)
     if cls:
         role = snap.get("role")
-        out.append({"name": "Klasse", "value": cls + (f" · spielt {role}" if role else ""), "inline": True})
+        out.append({"name": "Klasse", "value": cls + (f" · spielt {ROLE_DE.get(role, role)}" if role else ""), "inline": True})
     item = snap.get("best_item") or {}
     if item.get("name"):
-        label = item["name"] + (f" ({item['ilvl']})" if item.get("ilvl") else "")
+        label = de(item["name"]) + (f" ({item['ilvl']})" if item.get("ilvl") else "")
         value = f"[{label}]({WOWHEAD_ITEM.format(id=item['id'])})" if item.get("id") else label
-        out.append({"name": "Beste Ausrüstung", "value": value[:1024], "inline": True})
+        icon = QUALITY_ICON.get((item.get("quality") or "").upper(), "")
+        out.append({"name": "Beste Ausrüstung", "value": (f"{icon} " if icon else "") + value[:1000], "inline": True})
     if snap.get("last_explored"):
-        out.append({"name": "Zuletzt erkundet", "value": wh(snap["last_explored"]), "inline": True})
+        out.append({"name": "Zuletzt erkundet", "value": de(snap["last_explored"]), "inline": True})
     return out
 
 
@@ -1198,14 +1260,14 @@ def build_roster_board(entries, settings, max_level):
             lvl = s.get("level") or "?"
             bits = [f"{dot} **{lvl}** [{display_name(c)}]({armory_url(c)})"]
             if s.get("spec"):
-                bits.append(s["spec"])
+                bits.append(de(s["spec"]))
             if s.get("ilvl"):
                 bits.append(f"ilvl {s['ilvl']}")
             if c.get("rank_name"):
                 bits.append(c["rank_name"])
             lines.append(" · ".join(bits))
         emoji = (settings.get("class_emojis") or {}).get(cls.lower()) or CLASS_ICON.get(cls, "")
-        fields += split_fields(f"{emoji} {cls} · {len(rows)}".strip(), lines)
+        fields += split_fields(f"{emoji} {de(cls)} · {len(rows)}".strip(), lines)
     return {
         "title": "Gildenübersicht",
         "description": "\n".join(desc),
@@ -1444,7 +1506,7 @@ def build_recap(characters, state, settings, week_end, launch_week):
     lines = []
     for i, a in enumerate(leveling[:15]):
         mark = medals[i] if i < 3 else f"`{i + 1}.`"
-        spec = " ".join(x for x in (a[2].get("spec"), a[2].get("class")) if x)
+        spec = cls_de(a[2])
         gain = f" **+{a[4]['levels']}**" if a[4]["levels"] else ""
         lines.append(f"{mark} {a[1]}**[{a[0]}]({a[5]})** Lvl {a[3]['level']}{gain}" + (f" · {spec}" if spec else ""))
     if len(leveling) > 15:
@@ -1760,6 +1822,8 @@ def main():
     default_region = config.get("region", "us").lower()
 
     state = load_json(STATE_PATH, {"characters": {}, "group": {}})
+    GERMAN.update(state.get("de_names") or {})
+    state["de_names"] = GERMAN
     state.setdefault("characters", {})
     state.setdefault("group", {})
     owners = state.setdefault("owners", {})
