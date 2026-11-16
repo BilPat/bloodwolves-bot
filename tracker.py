@@ -587,10 +587,18 @@ def parse_spec(body):
         return None
     for group in body.get("specialization_groups") or []:
         if group.get("is_active"):
+            best, best_pts = None, -1
             for spec in group.get("specializations") or []:
                 name = spec.get("specialization_name") or name_of(spec.get("specialization"))
-                if name:
-                    return name
+                if not name:
+                    continue
+                pts = spec.get("spent_points")
+                if not isinstance(pts, int):
+                    pts = sum((t.get("talent_rank") or 1) for t in (spec.get("talents") or []) if isinstance(t, dict))
+                if pts > best_pts:
+                    best, best_pts = name, pts
+            if best:
+                return best
     return None
 
 
@@ -722,7 +730,7 @@ def find_changes(key, old, new, settings, group, hype=None):
                     lines.append(f"Reiten gelernt ({skill})")
                     hype.append(("first_mount", {"riding": skill}))
                 else:
-                    lines.append(f"📜 Neuer Beruf: **{prof}**")
+                    lines.append(f"📜 Neuer Beruf: **{prof_de(prof)}**")
                 continue
             if prof.lower() == "riding" and epic_riding and old_p[prof] < epic_riding <= skill:
                 lines.append(f"Episches Reiten ({skill})")
@@ -735,7 +743,7 @@ def find_changes(key, old, new, settings, group, hype=None):
                 continue
             crossed = [m for m in settings["profession_milestones"] if old_p[prof] < m <= skill]
             if crossed:
-                lines.append(f"🛠️ **{prof}** auf {max(crossed)}")
+                lines.append(f"🛠️ **{prof_de(prof)}** auf {max(crossed)}")
 
     # Item level
     old_i, new_i = old.get("ilvl") or 0, new.get("ilvl") or 0
@@ -754,7 +762,7 @@ def find_changes(key, old, new, settings, group, hype=None):
                 if quiet_dungeons:
                     hype.append(("clear_quiet", inst))
                     continue
-                lines.append(f"🗝️ **{inst}** zum ersten Mal abgeschlossen")
+                lines.append(f"🗝️ **{wh(inst)}** zum ersten Mal abgeschlossen")
                 hype.append(("clear", inst))
 
     # Raids
@@ -763,12 +771,12 @@ def find_changes(key, old, new, settings, group, hype=None):
         for inst, info in sorted(new_r.items()):
             before = old_r.get(inst) or {"cleared": False, "bosses": []}
             if info["cleared"] and not before["cleared"]:
-                lines.append(f"🐉 **{inst}** komplett abgeschlossen")
+                lines.append(f"🐉 **{wh(inst)}** komplett abgeschlossen")
                 hype.append(("raid_clear", inst))
             else:
                 for boss in info["bosses"]:
                     if boss not in before["bosses"]:
-                        lines.append(f"⚔️ Erster Kill: **{boss}** ({inst})")
+                        lines.append(f"⚔️ Erster Kill: **{wh(boss)}** ({inst})")
                         hype.append(("boss", f"{boss} ({inst})"))
 
     # Boss kills, from the boss-kill statistics. A dungeon's final boss posts
@@ -787,12 +795,12 @@ def find_changes(key, old, new, settings, group, hype=None):
                 if quiet_dungeons:
                     hype.append(("clear_quiet", dungeon))
                     continue
-                lines.append(f"🗝️ **{dungeon}** zum ersten Mal abgeschlossen")
+                lines.append(f"🗝️ **{wh(dungeon)}** zum ersten Mal abgeschlossen")
                 hype.append(("clear", dungeon))
             elif kind == "boss" and quiet_dungeons and new_k[sid]["instance"] not in (new.get("raids") or {}):
                 continue
             elif kind == "boss":
-                lines.append(f"⚔️ Erster Kill: **{new_k[sid]['boss']}** ({new_k[sid]['instance']})")
+                lines.append(f"⚔️ Erster Kill: **{wh(new_k[sid]['boss'])}** ({new_k[sid]['instance']})")
                 hype.append(("boss", f"{new_k[sid]['boss']} ({new_k[sid]['instance']})"))
 
     # Reputation: post when a faction reaches a milestone standing (Honored,
@@ -805,14 +813,14 @@ def find_changes(key, old, new, settings, group, hype=None):
             before = (old_rep.get(faction) or {}).get("tier", 3)  # unseen faction = Neutral
             if now["tier"] > before and now["name"].lower() in wanted:
                 icon = "👑" if now["name"].lower() == "exalted" else "🤝"
-                lines.append(f"{icon} **{now['name']}** bei {faction}")
+                lines.append(f"{icon} **{REP_DE.get(now['name'], now['name'])}** bei {wh(faction)}")
 
     # Achievements
     old_a, new_a = old.get("achievements"), new.get("achievements")
     if old_a is not None and new_a is not None:
         for aid, name in sorted(new_a.items(), key=lambda kv: int(kv[0]) if kv[0].isdigit() else 0):
             if aid not in old_a:
-                lines.append(f"🎖️ {name}")
+                lines.append(f"🎖️ {wh(name, f'{WOWHEAD_BASE}/achievement={aid}') if str(aid).isdigit() else wh(name)}")
 
     # Gear: every new epic/legendary, and the character's first blue.
     # "gear" in the snapshot is every blue+ item ever seen equipped, so
@@ -826,9 +834,9 @@ def find_changes(key, old, new, settings, group, hype=None):
             slot = f" ({it['slot']})" if it["slot"] else ""
             if QUALITY_RANK.get(it["quality"], 0) >= QUALITY_RANK["EPIC"]:
                 icon = "🟠" if it["quality"] == "LEGENDARY" else "🟣"
-                lines.append(f"{icon} Neu angelegt: **{it['name']}**{slot}")
+                lines.append(f"{icon} Neu angelegt: **{wh_item(it['name'], item_id)}**{slot}")
             elif not had_blue:
-                lines.append(f"🔵 Erstes blaues Item: **{it['name']}**{slot}")
+                lines.append(f"🔵 Erstes blaues Item: **{wh_item(it['name'], item_id)}**{slot}")
                 had_blue = True
 
     return lines
@@ -943,7 +951,38 @@ def digest_embeds(items, settings, budget=5000, max_lines=12):
     return out
 
 
-WOWHEAD_ITEM = "https://www.wowhead.com/forever/item={id}"
+WOWHEAD_BASE = "https://www.wowhead.com/forever/de"
+WOWHEAD_ITEM = WOWHEAD_BASE + "/item={id}"
+
+
+def wh_search(name):
+    return f"{WOWHEAD_BASE}/search?q={urllib.parse.quote(str(name), safe='')}"
+
+
+def wh(name, url=None):
+    """Markdown-Link auf Wowhead; ohne url eine Wowhead-Suche nach dem Namen."""
+    return f"[{name}]({url or wh_search(name)})"
+
+
+def wh_item(name, item_id):
+    return wh(name, WOWHEAD_ITEM.format(id=item_id)) if str(item_id).isdigit() else wh(name)
+
+
+PROF_DE = {
+    "Alchemy": "Alchemie", "Blacksmithing": "Schmiedekunst", "Enchanting": "Verzauberkunst",
+    "Engineering": "Ingenieurskunst", "Herbalism": "Kräuterkunde", "Leatherworking": "Lederverarbeitung",
+    "Mining": "Bergbau", "Skinning": "Kürschnerei", "Tailoring": "Schneiderei", "Cooking": "Kochkunst",
+    "First Aid": "Erste Hilfe", "Fishing": "Angeln", "Riding": "Reiten", "Jewelcrafting": "Juwelierskunst",
+    "Inscription": "Inschriftenkunde", "Lockpicking": "Schlossknacken", "Poisons": "Gifte",
+}
+
+
+def prof_de(p):
+    return PROF_DE.get(p, p)
+
+
+REP_DE = {"Hated": "Hasserfüllt", "Hostile": "Feindselig", "Unfriendly": "Unfreundlich", "Neutral": "Neutral",
+          "Friendly": "Freundlich", "Honored": "Wohlwollend", "Revered": "Respektvoll", "Exalted": "Ehrfürchtig"}
 
 # One line of flavor on every ding card. {name} etc. are filled from the character;
 # a line whose fields are missing is skipped. Picked by a seed of character + level,
@@ -1009,7 +1048,7 @@ def ding_fields(snap):
         value = f"[{label}]({WOWHEAD_ITEM.format(id=item['id'])})" if item.get("id") else label
         out.append({"name": "Beste Ausrüstung", "value": value[:1024], "inline": True})
     if snap.get("last_explored"):
-        out.append({"name": "Zuletzt erkundet", "value": snap["last_explored"], "inline": True})
+        out.append({"name": "Zuletzt erkundet", "value": wh(snap["last_explored"]), "inline": True})
     return out
 
 
@@ -1056,7 +1095,7 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
     elif event == "epic_mount":
         title = "Episches Reittier"
         color = HYPE_COLOR
-        headline = f"**{name}** hat jetzt ein episches Reittier. Herzlichen Glückwunsch!" + (f" ({detail['mount']})" if detail.get("mount") else "")
+        headline = f"**{name}** hat jetzt ein episches Reittier. Herzlichen Glückwunsch!" + (f" ({wh(detail['mount'])})" if detail.get("mount") else "")
         if detail.get("riding"):
             fields.append({"name": "Reiten", "value": str(detail["riding"]), "inline": True})
         fields.append({"name": "Level", "value": str(snap.get("level") or "?"), "inline": True})
@@ -1076,7 +1115,7 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
         verb = {"dungeon": "abgeschlossen", "boss": "besiegt", "raid": "abgeschlossen"}.get(kind, "geschafft")
         names = detail.get("names") or [name]
         who = ("**" + "**, **".join(names[:-1]) + "** und **" + names[-1] + "**") if len(names) > 1 else f"**{names[0]}**"
-        headline = f"{who} {'haben' if len(names) > 1 else 'hat'} als Erstes in der Gilde **{detail['what']}** {verb}. Herzlichen Glückwunsch!"
+        headline = f"{who} {'haben' if len(names) > 1 else 'hat'} als Erstes in der Gilde **{wh(detail['what'], wh_search(detail['what'].split(' (')[0]))}** {verb}. Herzlichen Glückwunsch!"
     else:
         title, headline = "Meilenstein", f"**{name}**: {detail}"
     embed = {
@@ -1200,7 +1239,7 @@ def build_professions_board(entries, settings):
         out = []
         for prof in sorted(bucket):
             rows = sorted(bucket[prof], key=lambda r: -r[0])
-            out += split_fields(f"{PROF_ICON.get(prof, '')} {prof} · {len(rows)}".strip(), [line(*r) for r in rows])
+            out += split_fields(f"{PROF_ICON.get(prof, '')} {prof_de(prof)} · {len(rows)}".strip(), [line(*r) for r in rows])
         return out[:25]
 
     stamp = datetime.now(timezone.utc).isoformat()
@@ -1219,7 +1258,7 @@ def build_professions_board(entries, settings):
         rows = sorted(secondary[prof], key=lambda r: -r[0])
         shown = " · ".join(f"{r[3]} {r[1]} {r[0]}" for r in rows[:6])
         more = f" · +{len(rows) - 6} weitere" if len(rows) > 6 else ""
-        parts.append(f"{PROF_ICON.get(prof, '')} **{prof}**\n{shown}{more}")
+        parts.append(f"{PROF_ICON.get(prof, '')} **{prof_de(prof)}**\n{shown}{more}")
     embeds.append({"title": "Nebenberufe", "description": ("\n".join(parts) or "Kochen, Erste Hilfe und Angeln erscheinen hier, sobald jemand sie lernt.")[:4000], "color": 0x95A5A6})
     embeds[-1]["footer"] = {"text": "🟢 letzte 2 Tage · 🟡 letzte Woche · ⚫ länger · ⚪ noch nicht gesehen · 300 ist der Höchstwert"}
     embeds[-1]["timestamp"] = stamp
@@ -1428,13 +1467,13 @@ def build_recap(characters, state, settings, week_end, launch_week):
             by_dungeon.setdefault(d, []).append((a, n))
     if by_dungeon:
         order = sorted(by_dungeon, key=lambda d: (-sum(n for _, n in by_dungeon[d]), d))
-        rows = [f"**{d}** · " + ", ".join(a[0] + (f" ×{n}" if n > 1 else "")
+        rows = [f"**{wh(d)}** · " + ", ".join(a[0] + (f" ×{n}" if n > 1 else "")
                                           for a, n in sorted(by_dungeon[d], key=lambda x: -x[1]))
                 for d in order[:6]]
         if len(order) > 6:
             rows.append(f"+{len(order) - 6} weitere Dungeons")
         fields.append({"name": "🗝️ Dungeons diese Woche", "value": "\n".join(rows)[:1024], "inline": False})
-    epics = [(a, a[2]["gear"][e]["name"]) for a in active for e in a[4]["_new_epics"] if e in (a[2].get("gear") or {})]
+    epics = [(a, wh_item(a[2]["gear"][e]["name"], e)) for a in active for e in a[4]["_new_epics"] if e in (a[2].get("gear") or {})]
     if epics:
         fields.append({"name": "🟣 Epische Items diese Woche",
                        "value": "\n".join(f"**{name}** · {a[0]}" for a, name in epics[:8])[:1024], "inline": False})
@@ -1443,7 +1482,7 @@ def build_recap(characters, state, settings, week_end, launch_week):
         gains = sorted(a[4]["_prof_gains"].items(), key=lambda kv: -kv[1])[:3]
         if gains:
             prof_rows.append(f"**{a[0]}**: " + " · ".join(
-                f"{p} {a[3]['professions'][p]} **+{g}**" for p, g in gains))
+                f"{prof_de(p)} {a[3]['professions'][p]} **+{g}**" for p, g in gains))
     if prof_rows:
         fields.append({"name": "🛠️ Berufe diese Woche", "value": "\n".join(prof_rows[:10])[:1024], "inline": False})
     if fields:
@@ -1840,7 +1879,7 @@ def main():
         if old is None:
             lines.append(f"Ab jetzt dabei mit Level **{snap.get('level') or '?'}**")
             profs = sorted((snap.get("professions") or {}).items(), key=lambda kv: -kv[1])
-            profs = [f"{p} {v}" for p, v in profs if v > 1][:4]
+            profs = [f"{prof_de(p)} {v}" for p, v in profs if v > 1][:4]
             if profs:
                 lines.append(" · ".join(profs))
         else:
@@ -1864,9 +1903,9 @@ def main():
                                 epic_hit["mount"] = mname
                             else:
                                 hype.append(("epic_mount", {"mount": mname}))
-                            lines.append(f"Episches Reittier: **{mname}**")
+                            lines.append(f"Episches Reittier: **{wh(mname)}**")
                         else:
-                            lines.append(f"Neues Reittier: **{mname}**")
+                            lines.append(f"Neues Reittier: **{wh(mname)}**")
                         known[mid] = mname
 
         # Level timeline for "time since 30" on milestone cards.
@@ -1918,7 +1957,8 @@ def main():
                     mine.add(what)
             # Lines that will become a guild-first card stay out of this character's digest.
             if firsts_will_post:
-                lines = [l for l in lines if not any(f"**{w}**" in l or f"**{w.split(' (')[0]}**" in l for w in mine)]
+                lines = [l for l in lines if not any(f"**{w}**" in l or f"**{w.split(' (')[0]}**" in l
+                                                     or f"**[{w}](" in l or f"**[{w.split(' (')[0]}](" in l for w in mine)]
 
         loud = [(ev, d) for ev, d in hype if ev in hype_events]
         if old is None:
