@@ -309,7 +309,7 @@ GATHERING = {"mining", "herbalism", "skinning"}
 
 
 def skill_tier(skill):
-    return "Artisan" if skill >= 225 else "Expert" if skill >= 150 else "Journeyman" if skill >= 75 else "Apprentice"
+    return "Fachmann" if skill >= 225 else "Experte" if skill >= 150 else "Geselle" if skill >= 75 else "Lehrling"
 
 
 def skill_bar(skill, cap=300, width=6):
