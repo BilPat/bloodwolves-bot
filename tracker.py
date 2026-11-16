@@ -566,7 +566,7 @@ def raid_role(snap):
 
 
 def ordinal(n):
-    return f"{n}{'th' if 10 <= n % 100 <= 20 else {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th')}"
+    return f"{n}."
 
 
 def human_duration(seconds):
@@ -575,10 +575,10 @@ def human_duration(seconds):
     h, rem = divmod(rem, 3600)
     m = rem // 60
     if d:
-        return f"{d}d {h}h"
+        return f"{d} T {h} Std"
     if h:
-        return f"{h}h {m}m"
-    return f"{m}m"
+        return f"{h} Std {m} Min"
+    return f"{m} Min"
 
 
 def parse_spec(body):
@@ -694,16 +694,16 @@ def find_changes(key, old, new, settings, group, hype=None):
     if settings["track_levels"] and level > old_level:
         if level >= max_level > old_level and not group.get("first_to_max"):
             group["first_to_max"] = key
-            lines.append(f"First in the guild to **{max_level}**")
+            lines.append(f"Als Erstes in der Gilde auf **{max_level}**")
             hype.append(("max_level", {"level": max_level, "key": key, "first": True}))
         elif level >= max_level > old_level:
-            lines.append(f"Reached **{max_level}**")
+            lines.append(f"Level **{max_level}** erreicht")
             hype.append(("max_level", {"level": max_level, "key": key}))
         else:
             crossed = sorted(m for m in milestones if old_level < m <= level and m < max_level)
             if crossed:
                 big = crossed[-1]
-                lines.append(f"Reached **{big}**" + (f" (now {level})" if level != big else ""))
+                lines.append(f"Level **{big}** erreicht" + (f" (jetzt {level})" if level != big else ""))
                 hype.append(("milestone", {"level": big, "key": key}))
             # Ordinary level-ups below the first milestone are not posted; the
             # roster board shows current levels, and the digest stays quiet.
@@ -716,33 +716,33 @@ def find_changes(key, old, new, settings, group, hype=None):
             if prof not in old_p:
                 first_riding = int(settings.get("first_riding_skill") or 0)
                 if prof.lower() == "riding" and skill >= epic_riding > 0:
-                    lines.append(f"Epic riding ({skill})")
+                    lines.append(f"Episches Reiten ({skill})")
                     hype.append(("epic_mount", {"riding": skill}))
                 elif prof.lower() == "riding" and first_riding and skill >= first_riding:
-                    lines.append(f"Learned riding ({skill})")
+                    lines.append(f"Reiten gelernt ({skill})")
                     hype.append(("first_mount", {"riding": skill}))
                 else:
-                    lines.append(f"📜 Learned **{prof}**")
+                    lines.append(f"📜 Neuer Beruf: **{prof}**")
                 continue
             if prof.lower() == "riding" and epic_riding and old_p[prof] < epic_riding <= skill:
-                lines.append(f"Epic riding ({skill})")
+                lines.append(f"Episches Reiten ({skill})")
                 hype.append(("epic_mount", {"riding": skill}))
                 continue
             first_riding = int(settings.get("first_riding_skill") or 0)
             if prof.lower() == "riding" and first_riding and old_p[prof] < first_riding <= skill:
-                lines.append(f"Learned riding ({skill})")
+                lines.append(f"Reiten gelernt ({skill})")
                 hype.append(("first_mount", {"riding": skill}))
                 continue
             crossed = [m for m in settings["profession_milestones"] if old_p[prof] < m <= skill]
             if crossed:
-                lines.append(f"🛠️ **{prof}** reached {max(crossed)} skill")
+                lines.append(f"🛠️ **{prof}** auf {max(crossed)}")
 
     # Item level
     old_i, new_i = old.get("ilvl") or 0, new.get("ilvl") or 0
     if new_i > old_i:
         crossed = [m for m in (settings.get("ilvl_milestones") or []) if old_i < m <= new_i]
         if crossed:
-            lines.append(f"Item level **{max(crossed)}**")
+            lines.append(f"Gegenstandsstufe **{max(crossed)}**")
 
     # Dungeons. Below dungeon_min_level a clear is recorded quietly (no line, no card):
     # low-level clears are routine and would flood #general and #progress.
@@ -754,7 +754,7 @@ def find_changes(key, old, new, settings, group, hype=None):
                 if quiet_dungeons:
                     hype.append(("clear_quiet", inst))
                     continue
-                lines.append(f"🗝️ Cleared **{inst}** for the first time")
+                lines.append(f"🗝️ **{inst}** zum ersten Mal abgeschlossen")
                 hype.append(("clear", inst))
 
     # Raids
@@ -763,12 +763,12 @@ def find_changes(key, old, new, settings, group, hype=None):
         for inst, info in sorted(new_r.items()):
             before = old_r.get(inst) or {"cleared": False, "bosses": []}
             if info["cleared"] and not before["cleared"]:
-                lines.append(f"🐉 Full clear of **{inst}**!")
+                lines.append(f"🐉 **{inst}** komplett abgeschlossen")
                 hype.append(("raid_clear", inst))
             else:
                 for boss in info["bosses"]:
                     if boss not in before["bosses"]:
-                        lines.append(f"⚔️ First kill: **{boss}** ({inst})")
+                        lines.append(f"⚔️ Erster Kill: **{boss}** ({inst})")
                         hype.append(("boss", f"{boss} ({inst})"))
 
     # Boss kills, from the boss-kill statistics. A dungeon's final boss posts
@@ -787,12 +787,12 @@ def find_changes(key, old, new, settings, group, hype=None):
                 if quiet_dungeons:
                     hype.append(("clear_quiet", dungeon))
                     continue
-                lines.append(f"🗝️ Cleared **{dungeon}** for the first time")
+                lines.append(f"🗝️ **{dungeon}** zum ersten Mal abgeschlossen")
                 hype.append(("clear", dungeon))
             elif kind == "boss" and quiet_dungeons and new_k[sid]["instance"] not in (new.get("raids") or {}):
                 continue
             elif kind == "boss":
-                lines.append(f"⚔️ First kill: **{new_k[sid]['boss']}** ({new_k[sid]['instance']})")
+                lines.append(f"⚔️ Erster Kill: **{new_k[sid]['boss']}** ({new_k[sid]['instance']})")
                 hype.append(("boss", f"{new_k[sid]['boss']} ({new_k[sid]['instance']})"))
 
     # Reputation: post when a faction reaches a milestone standing (Honored,
@@ -805,7 +805,7 @@ def find_changes(key, old, new, settings, group, hype=None):
             before = (old_rep.get(faction) or {}).get("tier", 3)  # unseen faction = Neutral
             if now["tier"] > before and now["name"].lower() in wanted:
                 icon = "👑" if now["name"].lower() == "exalted" else "🤝"
-                lines.append(f"{icon} Reached **{now['name']}** with {faction}")
+                lines.append(f"{icon} **{now['name']}** bei {faction}")
 
     # Achievements
     old_a, new_a = old.get("achievements"), new.get("achievements")
@@ -826,9 +826,9 @@ def find_changes(key, old, new, settings, group, hype=None):
             slot = f" ({it['slot']})" if it["slot"] else ""
             if QUALITY_RANK.get(it["quality"], 0) >= QUALITY_RANK["EPIC"]:
                 icon = "🟠" if it["quality"] == "LEGENDARY" else "🟣"
-                lines.append(f"{icon} Equipped **{it['name']}**{slot}")
+                lines.append(f"{icon} Neu angelegt: **{it['name']}**{slot}")
             elif not had_blue:
-                lines.append(f"🔵 First blue: **{it['name']}**{slot}")
+                lines.append(f"🔵 Erstes blaues Item: **{it['name']}**{slot}")
                 had_blue = True
 
     return lines
@@ -882,7 +882,7 @@ def describe_char(c, snap):
 def character_embed(c, snap, lines, settings=None, hype=False):
     """Quiet per-character card (used for catch-up posts and the 'now tracked' card)."""
     if len(lines) > 25:  # keep long catch-up posts readable
-        lines = lines[:24] + [f"…and {len(lines) - 24} more"]
+        lines = lines[:24] + [f"…und {len(lines) - 24} weitere"]
     author = {"name": display_name(c), "url": armory_url(c)}
     icon = snap.get("avatar") or emoji_image_url(snap, settings or {})
     if icon:
@@ -920,7 +920,7 @@ def digest_embeds(items, settings, budget=5000, max_lines=12):
     for c, snap, lines in items:
         icon = CLASS_ICON.get(snap.get("class") or "", "")
         name = f"{icon} {display_name(c)} · {snap.get('level') or '?'}".strip()[:256]
-        shown = lines[:max_lines] + ([f"+{len(lines) - max_lines} more"] if len(lines) > max_lines else [])
+        shown = lines[:max_lines] + ([f"+{len(lines) - max_lines} weitere"] if len(lines) > max_lines else [])
         value = "\n".join(shown)[:1024]
         if fields and (len(fields) >= 25 or size + len(name) + len(value) > budget):
             cards.append(fields)
@@ -934,10 +934,10 @@ def digest_embeds(items, settings, budget=5000, max_lines=12):
     out = []
     for i, f in enumerate(cards):
         out.append({
-            "title": "Progress" if len(cards) == 1 else f"Progress ({i + 1} of {len(cards)})",
+            "title": "Fortschritte" if len(cards) == 1 else f"Fortschritte ({i + 1} von {len(cards)})",
             "color": DEFAULT_COLOR,
             "fields": f,
-            "footer": {"text": f"{n} update{'s' if n != 1 else ''} · {len(items)} character{'s' if len(items) != 1 else ''}"},
+            "footer": {"text": f"{n} Meldung{'en' if n != 1 else ''} · {len(items)} Charakter{'e' if len(items) != 1 else ''}"},
             "timestamp": stamp,
         })
     return out
@@ -948,7 +948,7 @@ WOWHEAD_ITEM = "https://www.wowhead.com/forever/item={id}"
 # One line of flavor on every ding card. {name} etc. are filled from the character;
 # a line whose fields are missing is skipped. Picked by a seed of character + level,
 # so the same ding always gets the same line.
-DING_LINES = [
+DING_LINES_EN = [
     "Coming for your raid spot.",
     "Still has not read a single quest.",
     "Has died to fall damage more than to mobs. Allegedly.",
@@ -974,6 +974,7 @@ DING_LINES = [
     "Trained every rank of everything. Has zero gold left.",
     "Has been asked to stop pulling extra mobs. Has not stopped.",
 ]
+DING_LINES = []  # keine Spruchzeilen, nur normale Glückwünsche
 
 
 def ding_line(key, snap):
@@ -1001,14 +1002,14 @@ def ding_fields(snap):
     cls = " ".join(x for x in (snap.get("spec"), snap.get("class")) if x)
     if cls:
         role = snap.get("role")
-        out.append({"name": "Class", "value": cls + (f" · plays {role}" if role else ""), "inline": True})
+        out.append({"name": "Klasse", "value": cls + (f" · spielt {role}" if role else ""), "inline": True})
     item = snap.get("best_item") or {}
     if item.get("name"):
         label = item["name"] + (f" ({item['ilvl']})" if item.get("ilvl") else "")
         value = f"[{label}]({WOWHEAD_ITEM.format(id=item['id'])})" if item.get("id") else label
-        out.append({"name": "Best gear", "value": value[:1024], "inline": True})
+        out.append({"name": "Beste Ausrüstung", "value": value[:1024], "inline": True})
     if snap.get("last_explored"):
-        out.append({"name": "Last explored", "value": snap["last_explored"], "inline": True})
+        out.append({"name": "Zuletzt erkundet", "value": snap["last_explored"], "inline": True})
     return out
 
 
@@ -1030,54 +1031,54 @@ def milestone_embed(c, snap, event, detail, group, state_char, settings, now_ts)
         place = order.index(key) + 1
         title = f"Level {level}"
         if detail.get("first"):
-            title = f"First to {level}"
+            title = f"Als Erstes auf {level}"
             color = HYPE_COLOR
         elif level >= settings["max_level"]:
             color = HYPE_COLOR
-        headline = f"**{name}** reached level **{level}**."
-        fields.append({"name": "Guild", "value": f"{ordinal(place)} to get there", "inline": True})
+        headline = f"**{name}** hat Level **{level}** erreicht. Herzlichen Glückwunsch!"
+        fields.append({"name": "Gilde", "value": f"{ordinal(place)} in der Gilde", "inline": True})
         # time since the previous milestone we saw, else since first tracked
         level_at = state_char.get("level_at") or {}
         prev_levels = sorted(int(k) for k in level_at if int(k) < level)
         since_label, since_ts = None, None
         for pl in reversed(prev_levels):
             if pl in (settings.get("milestone_levels") or []):
-                since_label, since_ts = f"since {pl}", level_at[str(pl)]
+                since_label, since_ts = f"seit Level {pl}", level_at[str(pl)]
                 break
         if since_ts is None and state_char.get("first_seen"):
-            since_label, since_ts = "since first tracked", state_char["first_seen"]
+            since_label, since_ts = "seit Beginn der Aufzeichnung", state_char["first_seen"]
         if since_ts:
-            fields.append({"name": "Time", "value": f"{human_duration(now_ts - since_ts)} {since_label}", "inline": True})
+            fields.append({"name": "Dauer", "value": f"{human_duration(now_ts - since_ts)} {since_label}", "inline": True})
         fields.extend(ding_fields(snap))
         flavor = ding_line(detail["key"], snap)
         if flavor:
             headline += f"\n*{flavor}*"
     elif event == "epic_mount":
-        title = "Epic Mount"
+        title = "Episches Reittier"
         color = HYPE_COLOR
-        headline = f"**{name}** has an epic mount." + (f" {detail['mount']}." if detail.get("mount") else "")
+        headline = f"**{name}** hat jetzt ein episches Reittier. Herzlichen Glückwunsch!" + (f" ({detail['mount']})" if detail.get("mount") else "")
         if detail.get("riding"):
-            fields.append({"name": "Riding", "value": str(detail["riding"]), "inline": True})
+            fields.append({"name": "Reiten", "value": str(detail["riding"]), "inline": True})
         fields.append({"name": "Level", "value": str(snap.get("level") or "?"), "inline": True})
     elif event == "first_mount":
-        title = "First Mount"
-        headline = f"**{name}** learned to ride."
+        title = "Erstes Reittier"
+        headline = f"**{name}** kann jetzt reiten. Herzlichen Glückwunsch!"
         order = group.setdefault("milestone_order", {}).setdefault("mount", [])
         key = f"{cls}:{name}"
         if key not in order:
             order.append(key)
-        fields.append({"name": "Guild", "value": f"{ordinal(order.index(key) + 1)} to get there", "inline": True})
+        fields.append({"name": "Gilde", "value": f"{ordinal(order.index(key) + 1)} in der Gilde", "inline": True})
         fields.append({"name": "Level", "value": str(snap.get("level") or "?"), "inline": True})
     elif event == "guild_first":
         kind = detail.get("kind", "dungeon")
-        title = {"dungeon": "Guild First: Dungeon", "boss": "Guild First: Boss Kill", "raid": "Guild First: Raid Clear"}.get(kind, "Guild First")
+        title = {"dungeon": "Gilden-Premiere: Dungeon", "boss": "Gilden-Premiere: Boss", "raid": "Gilden-Premiere: Raid"}.get(kind, "Gilden-Premiere")
         color = HYPE_COLOR
-        verb = {"dungeon": "cleared", "boss": "killed", "raid": "cleared"}.get(kind, "did")
+        verb = {"dungeon": "abgeschlossen", "boss": "besiegt", "raid": "abgeschlossen"}.get(kind, "geschafft")
         names = detail.get("names") or [name]
-        who = ("**" + "**, **".join(names[:-1]) + "** and **" + names[-1] + "**") if len(names) > 1 else f"**{names[0]}**"
-        headline = f"{who} {'are' if len(names) > 1 else 'is'} the first in the guild recorded to have {verb} **{detail['what']}**."
+        who = ("**" + "**, **".join(names[:-1]) + "** und **" + names[-1] + "**") if len(names) > 1 else f"**{names[0]}**"
+        headline = f"{who} {'haben' if len(names) > 1 else 'hat'} als Erstes in der Gilde **{detail['what']}** {verb}. Herzlichen Glückwunsch!"
     else:
-        title, headline = "Milestone", f"**{name}**: {detail}"
+        title, headline = "Meilenstein", f"**{name}**: {detail}"
     embed = {
         "title": title,
         "description": headline,
@@ -1140,8 +1141,8 @@ def build_roster_board(entries, settings, max_level):
     active = sum(1 for s in snaps if activity_dot(s.get("last_login"), now_ts) == "🟢")
 
     desc = [
-        f"**{total}** {'character' if total == 1 else 'characters'} · average level **{avg}** · **{capped}** at {max_level} · **{active}** played in the last 2 days",
-        f"Raid comp: **{roles['Tank']}** tank{'s' if roles['Tank'] != 1 else ''} · **{roles['Healer']}** healer{'s' if roles['Healer'] != 1 else ''} · **{roles['DPS']}** DPS",
+        f"**{total}** Charakter{'' if total == 1 else 'e'} · Durchschnittslevel **{avg}** · **{capped}** auf {max_level} · **{active}** in den letzten 2 Tagen aktiv",
+        f"Raid-Aufstellung: **{roles['Tank']}** Tank{'s' if roles['Tank'] != 1 else ''} · **{roles['Healer']}** Heiler · **{roles['DPS']}** DPS",
         f"`{level_bar(levels, max_level)}`",
     ]
 
@@ -1167,11 +1168,11 @@ def build_roster_board(entries, settings, max_level):
         emoji = (settings.get("class_emojis") or {}).get(cls.lower()) or CLASS_ICON.get(cls, "")
         fields += split_fields(f"{emoji} {cls} · {len(rows)}".strip(), lines)
     return {
-        "title": "Roster",
+        "title": "Gildenübersicht",
         "description": "\n".join(desc),
         "color": ROSTER_COLOR,
         "fields": fields[:25],
-        "footer": {"text": "🟢 last 2 days · 🟡 last week · ⚫ longer · ⚪ not seen yet"},
+        "footer": {"text": "🟢 letzte 2 Tage · 🟡 letzte Woche · ⚫ länger · ⚪ noch nicht gesehen"},
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -1192,7 +1193,7 @@ def build_professions_board(entries, settings):
             bucket.setdefault(prof, []).append((skill, display_name(c), c, activity_dot(snap.get("last_login"), now_ts), n_recipes))
 
     def line(skill, name, c, dot, n):
-        tail = f" · {n} recipe{'s' if n != 1 else ''}" if n else ""
+        tail = f" · {n} Rezept{'e' if n != 1 else ''}" if n else ""
         return f"{dot} **{name}** {skill_bar(skill)} {skill} {skill_tier(skill)}{tail}"  # the Roster card carries the links
 
     def fields_for(bucket):
@@ -1206,21 +1207,21 @@ def build_professions_board(entries, settings):
     embeds = []
     missing = [display_name(c) for c, s in entries if not any(
         p.lower() not in SECONDARY_PROFS and v for p, v in (s.get("professions") or {}).items())]
-    desc = "Need something made? Type /need and the crafters who know it get a ping."
+    desc = "Hersteller nach Beruf, sortiert nach Skill."
     if missing:
-        desc += f"\nNo primary profession yet: {', '.join(missing[:15])}" + (" …" if len(missing) > 15 else "")
-    embeds.append({"title": "Crafting", "description": desc, "color": 0x9B59B6,
-                   "fields": fields_for(crafting) or [{"name": "Nothing yet", "value": "Crafting professions appear here as people learn them.", "inline": False}]})
-    embeds.append({"title": "Gathering", "color": 0x2ECC71,
-                   "fields": fields_for(gathering) or [{"name": "Nothing yet", "value": "Mining, Herbalism and Skinning appear here as people learn them.", "inline": False}]})
+        desc += f"\nNoch kein Hauptberuf: {', '.join(missing[:15])}" + (" …" if len(missing) > 15 else "")
+    embeds.append({"title": "Herstellung", "description": desc, "color": 0x9B59B6,
+                   "fields": fields_for(crafting) or [{"name": "Noch nichts", "value": "Herstellungsberufe erscheinen hier, sobald jemand sie lernt.", "inline": False}]})
+    embeds.append({"title": "Sammeln", "color": 0x2ECC71,
+                   "fields": fields_for(gathering) or [{"name": "Noch nichts", "value": "Bergbau, Kräuterkunde und Kürschnerei erscheinen hier, sobald jemand sie lernt.", "inline": False}]})
     parts = []
     for prof in sorted(secondary):
         rows = sorted(secondary[prof], key=lambda r: -r[0])
         shown = " · ".join(f"{r[3]} {r[1]} {r[0]}" for r in rows[:6])
-        more = f" · +{len(rows) - 6} more" if len(rows) > 6 else ""
+        more = f" · +{len(rows) - 6} weitere" if len(rows) > 6 else ""
         parts.append(f"{PROF_ICON.get(prof, '')} **{prof}**\n{shown}{more}")
-    embeds.append({"title": "Secondary", "description": ("\n".join(parts) or "Cooking, First Aid and Fishing appear here as people learn them.")[:4000], "color": 0x95A5A6})
-    embeds[-1]["footer"] = {"text": "🟢 last 2 days · 🟡 last week · ⚫ longer · ⚪ not seen yet · 300 is max skill"}
+    embeds.append({"title": "Nebenberufe", "description": ("\n".join(parts) or "Kochen, Erste Hilfe und Angeln erscheinen hier, sobald jemand sie lernt.")[:4000], "color": 0x95A5A6})
+    embeds[-1]["footer"] = {"text": "🟢 letzte 2 Tage · 🟡 letzte Woche · ⚫ länger · ⚪ noch nicht gesehen · 300 ist der Höchstwert"}
     embeds[-1]["timestamp"] = stamp
     return embeds
 
@@ -1247,7 +1248,7 @@ def upsert_roster_board(webhook, embeds_list, state):
                 continue
             print(f"[info] board message {msg_id} not editable (HTTP {status}); posting a new one")
         status, body = http("POST", f"{base}?wait=true", {"Content-Type": "application/json"},
-                            json.dumps({"username": "Guild Bot", "flags": 4096, **payload}).encode())
+                            json.dumps({"username": "Bloodwolves", "flags": 4096, **payload}).encode())
         if status not in (200, 204) or not isinstance(body, dict):
             roster_state["message_ids"] = new_ids + ids[len(new_ids):]
             raise RuntimeError(f"Roster board post failed (HTTP {status}): {body}")
@@ -1322,18 +1323,18 @@ LAUNCH_BASELINE = {"level": 1, "xp": 0, "stats": {}, "professions": {}, "clears"
 
 # Rotating awards: (key, title, unit, how to compute the week's number from now/base summaries)
 AWARDS = [
-    ("killing_blows", "🗡️ Most Dangerous", ("killing blow", "killing blows"), None),
-    ("crafter", "⚒️ Master Crafter", ("profession skill", "profession skill"), None),
-    ("hearths", "🏠 Homebody", ("hearth", "hearths"), None),
-    ("potions", "🧪 Potion Addict", ("potion", "potions"), None),
-    ("need_rolls", "🎲 Need-Roll Ninja", ("need roll", "need rolls"), None),
-    ("flights", "✈️ Frequent Flyer", ("flight", "flights"), None),
-    ("snacks", "🍖 Snack Break", ("food & drink", "food & drinks"), None),
-    ("critters", "🐿️ Critter Menace", ("critter", "critters"), None),
-    ("honorable_kills", "⚔️ Gladiator", ("honorable kill", "honorable kills"), None),
-    ("rep", "🤝 Diplomat", ("reputation", "reputation"), None),
-    ("achievements", "🎖️ Achiever", ("achievement", "achievements"), None),
-    ("clears", "🏰 Dungeon Crawler", ("dungeon clear", "dungeon clears"), None),
+    ("killing_blows", "🗡️ Gefährlichste Klinge", ("Todesstoß", "Todesstöße"), None),
+    ("crafter", "⚒️ Meisterhandwerk", ("Berufspunkt", "Berufspunkte"), None),
+    ("hearths", "🏠 Stubenhocker", ("Ruhestein", "Ruhesteine"), None),
+    ("potions", "🧪 Trankliebhaber", ("Trank", "Tränke"), None),
+    ("need_rolls", "🎲 Bedarfswürfler", ("Bedarfswurf", "Bedarfswürfe"), None),
+    ("flights", "✈️ Vielflieger", ("Flug", "Flüge"), None),
+    ("snacks", "🍖 Brotzeit", ("Essen & Trinken", "Essen & Trinken"), None),
+    ("critters", "🐿️ Schrecken der Kleintiere", ("Kleintier", "Kleintiere"), None),
+    ("honorable_kills", "⚔️ Gladiator", ("ehrenhafter Sieg", "ehrenhafte Siege"), None),
+    ("rep", "🤝 Diplomat", ("Ruf", "Ruf"), None),
+    ("achievements", "🎖️ Erfolgsjäger", ("Erfolg", "Erfolge"), None),
+    ("clears", "🏰 Dungeonläufer", ("Dungeon", "Dungeons"), None),
 ]
 
 
@@ -1390,13 +1391,13 @@ def build_recap(characters, state, settings, week_end, launch_week):
 
     # 1. Headline + leaderboard
     total = lambda k: sum(a[4][k] for a in active)
-    plural = lambda n, word: f"{n:,} {word}{'' if n == 1 else 's'}"
+    plural = lambda n, word: f"{n:,} {word[0] if n == 1 else word[1]}".replace(",", ".")
     mounts_now = sum(len((o or {}).get("mounts") or {}) for o in (state.get("owners") or {}).values())
     mounts_base = weekly.get("mounts_baseline")
     mounts_gained = max(0, mounts_now - mounts_base) if mounts_base is not None and not launch_week else mounts_now if launch_week else 0
-    headline = (f"The guild gained **{plural(total('levels'), 'level')}**, cleared **{plural(total('clears'), 'dungeon')}**, "
-                f"earned **{plural(mounts_gained, 'mount')}**, killed **{plural(total('mobs'), 'mob')}**, "
-                f"finished **{plural(total('quests'), 'quest')}**, and died **{plural(total('deaths'), 'time')}**.")
+    headline = (f"Die Gilde hat diese Woche **{plural(total('levels'), ('Level', 'Level'))}** gemacht, **{plural(total('clears'), ('Dungeon', 'Dungeons'))}** abgeschlossen, "
+                f"**{plural(mounts_gained, ('Reittier', 'Reittiere'))}** bekommen, **{plural(total('mobs'), ('Gegner', 'Gegner'))}** besiegt, "
+                f"**{plural(total('quests'), ('Quest', 'Quests'))}** erledigt und ist **{plural(total('deaths'), ('Mal', 'Mal'))}** gestorben.")
     leveling = [a for a in active if a[3]["level"] < max_level or a[4]["levels"] > 0]
     capped = [a for a in active if a not in leveling]
     leveling.sort(key=lambda a: (-a[4]["levels"], -a[3]["level"], -a[3]["xp"]))
@@ -1406,16 +1407,16 @@ def build_recap(characters, state, settings, week_end, launch_week):
         mark = medals[i] if i < 3 else f"`{i + 1}.`"
         spec = " ".join(x for x in (a[2].get("spec"), a[2].get("class")) if x)
         gain = f" **+{a[4]['levels']}**" if a[4]["levels"] else ""
-        lines.append(f"{mark} {a[1]}**[{a[0]}]({a[5]})** Lv {a[3]['level']}{gain}" + (f" · {spec}" if spec else ""))
+        lines.append(f"{mark} {a[1]}**[{a[0]}]({a[5]})** Lvl {a[3]['level']}{gain}" + (f" · {spec}" if spec else ""))
     if len(leveling) > 15:
-        lines.append(f"…and {len(leveling) - 15} more")
+        lines.append(f"…und {len(leveling) - 15} weitere")
     if capped:
-        shown = " · ".join(f"{a[1]}{a[0]}" for a in capped[:15]) + (f" · +{len(capped) - 15} more" if len(capped) > 15 else "")
-        lines.append(f"⭐ **At {max_level}:** {shown}")
+        shown = " · ".join(f"{a[1]}{a[0]}" for a in capped[:15]) + (f" · +{len(capped) - 15} weitere" if len(capped) > 15 else "")
+        lines.append(f"⭐ **Auf {max_level}:** {shown}")
     week_start = week_end - timedelta(days=6)
     embeds = [{
-        "title": f"📅 Weekly Recap · {week_start.strftime('%b %-d')} to {week_end.strftime('%b %-d')}",
-        "description": f"{headline}\n\n**🏆 Leaderboard**\n" + "\n".join(lines),
+        "title": f"📅 Wochenrückblick · {week_start.strftime('%d.%m.')} bis {week_end.strftime('%d.%m.')}",
+        "description": f"{headline}\n\n**🏆 Rangliste**\n" + "\n".join(lines),
         "color": RECAP_COLOR,
     }]
 
@@ -1431,11 +1432,11 @@ def build_recap(characters, state, settings, week_end, launch_week):
                                           for a, n in sorted(by_dungeon[d], key=lambda x: -x[1]))
                 for d in order[:6]]
         if len(order) > 6:
-            rows.append(f"+{len(order) - 6} more dungeons")
-        fields.append({"name": "🗝️ Dungeons this week", "value": "\n".join(rows)[:1024], "inline": False})
+            rows.append(f"+{len(order) - 6} weitere Dungeons")
+        fields.append({"name": "🗝️ Dungeons diese Woche", "value": "\n".join(rows)[:1024], "inline": False})
     epics = [(a, a[2]["gear"][e]["name"]) for a in active for e in a[4]["_new_epics"] if e in (a[2].get("gear") or {})]
     if epics:
-        fields.append({"name": "🟣 Epics this week",
+        fields.append({"name": "🟣 Epische Items diese Woche",
                        "value": "\n".join(f"**{name}** · {a[0]}" for a, name in epics[:8])[:1024], "inline": False})
     prof_rows = []
     for a in sorted(active, key=lambda a: -a[4]["crafter"]):
@@ -1444,19 +1445,19 @@ def build_recap(characters, state, settings, week_end, launch_week):
             prof_rows.append(f"**{a[0]}**: " + " · ".join(
                 f"{p} {a[3]['professions'][p]} **+{g}**" for p, g in gains))
     if prof_rows:
-        fields.append({"name": "🛠️ Professions this week", "value": "\n".join(prof_rows[:10])[:1024], "inline": False})
+        fields.append({"name": "🛠️ Berufe diese Woche", "value": "\n".join(prof_rows[:10])[:1024], "inline": False})
     if fields:
-        embeds.append({"title": "✨ Highlights", "color": 0x3498DB, "fields": fields})
+        embeds.append({"title": "✨ Höhepunkte", "color": 0x3498DB, "fields": fields})
 
     # 3. Scoreboard: top 3 for mobs, quests, deaths
     score_fields = []
-    for key, title in (("mobs", "⚔️ Mobs killed"), ("quests", "📜 Quests completed"), ("deaths", "💀 Deaths")):
+    for key, title in (("mobs", "⚔️ Besiegte Gegner"), ("quests", "📜 Erledigte Quests"), ("deaths", "💀 Tode")):
         ranked = sorted((a for a in active if a[4][key] > 0), key=lambda a: -a[4][key])[:3]
         if ranked:
             score_fields.append({"name": title, "inline": False, "value": "\n".join(
                 f"{medals[i]} {who(a)} · **{a[4][key]:,}**" for i, a in enumerate(ranked))})
     if score_fields:
-        embeds.append({"title": "📊 Scoreboard", "color": 0xE67E22, "fields": score_fields})
+        embeds.append({"title": "📊 Bestenliste", "color": 0xE67E22, "fields": score_fields})
 
     # 4. Awards: the six most lopsided, skipping ties, zeros and last week's picks.
     # Only when at least two characters played; one player winning everything isn't fun.
@@ -1473,13 +1474,13 @@ def build_recap(characters, state, settings, week_end, launch_week):
     candidates.sort(key=lambda x: -x[0])
     picks = candidates[:6]
     if picks:
-        embeds.append({"title": "🏅 Awards", "color": 0x9B59B6, "fields": [
+        embeds.append({"title": "🏅 Auszeichnungen", "color": 0x9B59B6, "fields": [
             {"name": title, "value": f"{who(winner)}\n{top:,} {unit[0] if top == 1 else unit[1]}", "inline": True}
             for _, _, title, unit, winner, top in picks]})
     weekly["pending_awards"] = [p[1] for p in picks]
 
     if launch_week:
-        embeds[-1]["footer"] = {"text": "Launch week · counted from level 1"}
+        embeds[-1]["footer"] = {"text": "Startwoche · gezählt ab Level 1"}
     return embeds
 
 
@@ -1511,15 +1512,15 @@ def build_inactive_report(characters, state, settings):
             continue
         if ll / 1000 < cutoff:
             ago = int((time.time() - ll / 1000) // 86400)
-            rows.append((ago, f"**{display_name(c)}** · Lv {snap.get('level') or '?'} {snap.get('class') or ''} · {ago}d"))
+            rows.append((ago, f"**{display_name(c)}** · Lvl {snap.get('level') or '?'} {snap.get('class') or ''} · {ago} T"))
     if not rows:
         return None
     rows.sort(key=lambda r: -r[0])
     return {
-        "title": f"Quiet for {days}+ days",
-        "description": "\n".join(r[1] for r in rows[:30]) + (f"\n…and {len(rows) - 30} more" if len(rows) > 30 else ""),
+        "title": f"Seit {days}+ Tagen nicht online",
+        "description": "\n".join(r[1] for r in rows[:30]) + (f"\n…und {len(rows) - 30} weitere" if len(rows) > 30 else ""),
         "color": 0x95A5A6,
-        "footer": {"text": "Officers only · based on last login · posted with the weekly recap"},
+        "footer": {"text": "Nur für Offiziere · nach letztem Login · kommt mit dem Wochenrückblick"},
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -1538,7 +1539,7 @@ def post_to_discord(webhook, embeds, content=None, ping_role=None):
     """
     for i in range(0, len(embeds), 10):  # Discord allows 10 embeds per message
         payload = {
-            "username": "Guild Bot",
+            "username": "Bloodwolves",
             "embeds": embeds[i:i + 10],
             "flags": 4096,                      # @silent: no push/desktop alerts for anyone
             "allowed_mentions": {"parse": []},  # never ping users, roles or @everyone
@@ -1577,7 +1578,7 @@ def fit_embed(embed, budget=5600):
             fields.pop()
             continue
         dropped = len(lines) - len(kept) + 1
-        f["value"] = "\n".join(kept[:-1] + [f"+{dropped} more"])
+        f["value"] = "\n".join(kept[:-1] + [f"+{dropped} weitere"])
     if size(embed) > budget and embed.get("description"):
         embed["description"] = embed["description"][: max(0, budget - size(embed) + len(embed["description"]))]
     return embed
@@ -1687,8 +1688,8 @@ def main():
         if not webhook:
             sys.exit("DISCORD_WEBHOOK_URL is not set.")
         post_to_discord(webhook, [{
-            "title": "Guild Bot connected",
-            "description": "Milestones and progress will post here.",
+            "title": "Gildenbot verbunden",
+            "description": "Meilensteine und Fortschritte erscheinen ab jetzt hier.",
             "color": DEFAULT_COLOR,
         }])
         print("Test message sent.")
@@ -1752,13 +1753,13 @@ def main():
             lines = []
             for slug, name in sorted(now_members.items(), key=lambda kv: kv[1]):
                 if slug not in seen_before:
-                    lines.append(f"🛡️ **{name}** joined the guild")
+                    lines.append(f"🛡️ **{name}** ist der Gilde beigetreten")
             for slug, name in sorted(seen_before.items(), key=lambda kv: kv[1]):
                 if slug not in now_members:
-                    lines.append(f"👋 **{name}** left the guild")
+                    lines.append(f"👋 **{name}** hat die Gilde verlassen")
             if lines:
                 joined = [l for l in lines if l.startswith("🛡️")]
-                card = {"title": "Guild roster", "description": "\n".join(l.replace("🛡️ ", "").replace("👋 ", "") for l in lines[:40]),
+                card = {"title": "Gildenmitglieder", "description": "\n".join(l.replace("🛡️ ", "").replace("👋 ", "") for l in lines[:40]),
                         "color": ROSTER_COLOR, "timestamp": datetime.now(timezone.utc).isoformat()}
                 (hype_embeds if "guild_join" in hype_events and joined else embeds).append(card)
         roster_state["members"] = now_members
@@ -1812,7 +1813,7 @@ def main():
         old = state["characters"].get(key)
         lines, hype = [], []
         if old is None:
-            lines.append(f"Now tracked at level **{snap.get('level') or '?'}**")
+            lines.append(f"Ab jetzt dabei mit Level **{snap.get('level') or '?'}**")
             profs = sorted((snap.get("professions") or {}).items(), key=lambda kv: -kv[1])
             profs = [f"{p} {v}" for p, v in profs if v > 1][:4]
             if profs:
@@ -1838,9 +1839,9 @@ def main():
                                 epic_hit["mount"] = mname
                             else:
                                 hype.append(("epic_mount", {"mount": mname}))
-                            lines.append(f"Epic mount: **{mname}**")
+                            lines.append(f"Episches Reittier: **{mname}**")
                         else:
-                            lines.append(f"New mount: **{mname}**")
+                            lines.append(f"Neues Reittier: **{mname}**")
                         known[mid] = mname
 
         # Level timeline for "time since 30" on milestone cards.
@@ -1900,7 +1901,7 @@ def main():
         elif loud:
             for ev, d in loud:
                 hype_embeds.append(milestone_embed(c, snap, ev, d, state["group"], snap, settings, now_ts))
-            quiet = [l for l in lines if not l.startswith(("Reached", "First in the guild", "Epic", "Learned riding"))]
+            quiet = [l for l in lines if not l.startswith(("Level **", "Als Erstes", "Episch", "Reiten gelernt"))]
             if quiet:
                 digest_items.append((c, snap, quiet))
         elif lines:
