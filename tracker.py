@@ -199,7 +199,20 @@ def api_get(region, path, token, namespace, locale="en_US"):
     return status, body
 
 
-GERMAN_EXPLORE = [re.compile(p, re.I) for p in (r"^(.+?) erkunden$", r"^Erkundung:?\s+(.+)$", r"^Erkundet:?\s+(.+)$")]
+GERMAN_EXPLORE = [re.compile(p, re.I) for p in (r"^Erkundet:?\s+(?:den|die|das|dem|der)?\s*(.+)$",
+                                                   r"^(.+?) erkunden$", r"^Erkundung:?\s+(?:des|der|von)?\s*(.+)$")]
+
+
+def _ident(x):
+    """Kennung eines Listeneintrags, damit en/de auch bei anderer Sortierung zusammenfinden."""
+    if not isinstance(x, dict):
+        return None
+    if "id" in x and not isinstance(x["id"], (dict, list)):
+        return ("id", x["id"])
+    for k, v in x.items():
+        if isinstance(v, dict) and "id" in v and not isinstance(v["id"], (dict, list)):
+            return (k, v["id"])
+    return None
 PAREN = re.compile(r"\(([^()]+)\)\s*$")
 
 
@@ -225,9 +238,15 @@ def harvest_german(en, de):
                 pass
             else:
                 harvest_german(v, dv)
-    elif isinstance(en, list) and isinstance(de, list) and len(en) == len(de):
-        for a, b in zip(en, de):
-            harvest_german(a, b)
+    elif isinstance(en, list) and isinstance(de, list):
+        keyed = {_ident(b): b for b in de if _ident(b) is not None}
+        if keyed and all(_ident(a) is not None for a in en):
+            for a in en:
+                if _ident(a) in keyed:
+                    harvest_german(a, keyed[_ident(a)])
+        elif len(en) == len(de):
+            for a, b in zip(en, de):
+                harvest_german(a, b)
 
 
 def de(name):
