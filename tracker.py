@@ -1855,9 +1855,9 @@ def main():
             card["title"] = f"TEST · {card['title']}"
         items = []
         samples = [
-            ["📜 Neuer Beruf: **Alchemy**", "🛠️ **Herbalism** auf 150", "🗝️ **Wailing Caverns** zum ersten Mal abgeschlossen"],
-            ["🟣 Neu angelegt: **Bloodfang Hood** (Head)", "🤝 **Honored** bei Orgrimmar", "Gegenstandsstufe **40**"],
-            ["🔵 Erstes blaues Item: **Thrash Blade** (Main Hand)", "⚔️ Erster Kill: **Mutanus the Devourer** (Wailing Caverns)", "Neues Reittier: **Brown Wolf**"],
+            [f"📜 Neuer Beruf: **{prof_de('Alchemy')}**", f"🛠️ **{prof_de('Herbalism')}** auf 150", f"🗝️ **{wh('Wailing Caverns')}** zum ersten Mal abgeschlossen"],
+            [f"🟣 Neu angelegt: **{wh_item('Bloodfang Hood', 16908)}** (Head)", f"🤝 **{REP_DE['Honored']}** bei {wh('Orgrimmar')}", "Gegenstandsstufe **40**"],
+            [f"🔵 Erstes blaues Item: **{wh_item('Thrash Blade', 17705)}** (Main Hand)", f"⚔️ Erster Kill: **{wh('Mutanus the Devourer')}** (Wailing Caverns)", f"Neues Reittier: **{wh('Brown Wolf')}**"],
         ]
         for (c, snap), lines in zip(pairs[3:6], samples):
             items.append((c, snap, lines))
