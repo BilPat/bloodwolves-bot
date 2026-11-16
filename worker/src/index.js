@@ -539,6 +539,13 @@ export function parseCharName(raw) {
   const slug = words.map((w) => encodeURIComponent(w.toLowerCase())).join("-");
   return { display: words.join(" "), name: words[0], surname: words.slice(1).join(" ") || null, slug };
 }
+let ownerColumnReady = false;
+async function ensureOwnerColumn(env) {
+  if (ownerColumnReady) return;
+  try { await env.DB.prepare("ALTER TABLE chars ADD COLUMN owner TEXT").run(); }
+  catch (e) { if (!/duplicate column/i.test(String(e))) console.log(`[link] owner column: ${e}`); }
+  ownerColumnReady = true;
+}
 async function onLinkSubmit(i, env, ctx) {
   const raw = i.data.components?.[0]?.components?.[0]?.value || "";
   const u = who(i), owner = display(i);
@@ -552,6 +559,7 @@ async function onLinkSubmit(i, env, ctx) {
     if (!prof?.name) return reply(S.linkNotFound(c.display));
     const key = `${region}:${c.slug}`, cls = prof.character_class?.name || "", level = prof.level || null;
     const name = [prof.name, prof.surname].filter(Boolean).join(" ") || c.display;
+    await ensureOwnerColumn(env);
     const taken = await env.DB.prepare("SELECT user_id FROM chars WHERE surname=? AND user_id<>?").bind(key, u.id).first();
     if (taken) return reply(S.linkTaken(name));
     await env.DB.prepare("INSERT INTO chars (user_id,name,surname,class,owner,updated_at) VALUES (?,?,?,?,?,?) ON CONFLICT(user_id) DO UPDATE SET name=excluded.name, surname=excluded.surname, class=excluded.class, owner=excluded.owner, updated_at=excluded.updated_at")
@@ -562,6 +570,7 @@ async function onLinkSubmit(i, env, ctx) {
   return json({ type: R.DEFER, data: { flags: FLAGS.EPHEMERAL } });
 }
 async function linkedList(env) {
+  await ensureOwnerColumn(env);
   const rows = (await env.DB.prepare("SELECT name, surname, alt, owner FROM chars").all()).results;
   const out = [];
   const add = (key, owner) => {
