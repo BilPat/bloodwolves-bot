@@ -1576,6 +1576,16 @@ def post_to_discord(webhook, embeds, content=None, ping_role=None):
     the first message mentions that role (and only that role) and is not
     silent, so a big ding reaches phones.
     """
+    # Discord fasst Embeds mit gleicher URL in einer Nachricht zusammen und zeigt dann nur das erste.
+    seen, fixed = set(), []
+    for e in embeds:
+        u = e.get("url")
+        if u and u in seen:
+            e = {k: v for k, v in e.items() if k != "url"}
+        elif u:
+            seen.add(u)
+        fixed.append(e)
+    embeds = fixed
     for i in range(0, len(embeds), 10):  # Discord allows 10 embeds per message
         payload = {
             "username": "Bloodwolves",
