@@ -1,16 +1,15 @@
 {
-  "region": "us",
+  "region": "eu",
   "guild": {
-    "slug": "",
-    "region": "us",
+    "slug": "bloodwolves",
+    "region": "eu",
     "min_level": 1,
     "ranks": null,
     "rank_names": {
-      "0": "Guild Master",
-      "1": "Officer",
-      "2": "Veteran",
-      "3": "Member",
-      "4": "Initiate"
+      "0": "Gildenmeister",
+      "1": "Offizier",
+      "2": "Gildenmitglied",
+      "3": "Gildeninitiand"
     }
   },
   "settings": {
@@ -27,7 +26,7 @@
     "epic_mount_names": [
       "Swift "
     ],
-    "hype_ping_role_id": "1568797227747643493",
+    "hype_ping_role_id": "",
     "hype_events": [
       "milestone",
       "max_level",
@@ -60,7 +59,7 @@
     "weekly_recap": true,
     "recap_day": "sunday",
     "recap_hour": 19,
-    "timezone": "America/Chicago",
+    "timezone": "Europe/Vienna",
     "class_emojis": {},
     "first_riding_skill": 75,
     "ilvl_milestones": [
@@ -70,46 +69,8 @@
       70
     ],
     "inactive_days": 7,
-    "guild_first_repost": [
-      [
-        "dungeon",
-        "Wailing Caverns"
-      ],
-      [
-        "dungeon",
-        "The Deadmines"
-      ]
-    ],
+    "guild_first_repost": [],
     "dungeon_min_level": 30
   },
-  "friends": [
-    {
-      "owner": "Joe",
-      "characters": [
-        {
-          "name": "Steel",
-          "surname": "Appeal"
-        }
-      ]
-    },
-    {
-      "owner": "Tanner",
-      "characters": [
-        {
-          "name": "Whizz",
-          "surname": "Aard"
-        }
-      ]
-    },
-    {
-      "owner": "Quinn",
-      "characters": [
-        {
-          "name": "Pwanage",
-          "surname": "Ownage",
-          "role": "Healer"
-        }
-      ]
-    }
-  ]
+  "friends": []
 }
