@@ -13881,17 +13881,22 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/84/13189716-avatar.jpg",
       "best_item": {
-        "id": 10410,
-        "ilvl": 22,
-        "name": "Leggings of the Fang",
-        "quality": "RARE",
-        "slot": "Legs"
+        "id": 4249,
+        "ilvl": 25,
+        "name": "Dark Leather Belt",
+        "quality": "UNCOMMON",
+        "slot": "Waist"
       },
       "boss_kills": {
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
           "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
         }
       },
       "class": "Hunter",
@@ -13913,20 +13918,29 @@
         "5183": {
           "name": "Pulsating Hydra Heart",
           "quality": "RARE"
+        },
+        "5404": {
+          "name": "Serpent's Shoulders",
+          "quality": "RARE"
+        },
+        "6505": {
+          "name": "Crescent Staff",
+          "quality": "RARE"
         }
       },
-      "ilvl": 10,
+      "ilvl": 15,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794772046000,
-      "level": 19,
+      "last_login": 1794872247000,
+      "level": 22,
       "level_at": {
-        "19": 1794866470
+        "19": 1794866470,
+        "22": 1794872318
       },
       "professions": {
         "Cooking": 38,
-        "First Aid": 89,
+        "First Aid": 97,
         "Fishing": 19,
-        "Leatherworking": 80,
+        "Leatherworking": 101,
         "Skinning": 150
       },
       "race": "Tauren",
@@ -13936,6 +13950,10 @@
           {
             "id": 1535,
             "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
           },
           {
             "id": 1537,
@@ -13956,12 +13974,20 @@
         ],
         "First Aid": [
           {
+            "id": 4417,
+            "name": "Anti-Venom"
+          },
+          {
             "id": 1838,
             "name": "Linen Bandage"
           },
           {
             "id": 1839,
             "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
           },
           {
             "id": 52641,
@@ -13974,6 +14000,10 @@
           {
             "id": 54192,
             "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 55747,
+            "name": "Simple Poultice"
           }
         ],
         "Fishing": [
@@ -13983,6 +14013,10 @@
           }
         ],
         "Leatherworking": [
+          {
+            "id": 4419,
+            "name": "Deviate Scale Belt"
+          },
           {
             "id": 1353,
             "name": "Handstitched Leather Boots"
@@ -14016,8 +14050,16 @@
             "name": "Medium Armor Kit"
           },
           {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
             "id": 1369,
             "name": "Gray Leather Boots"
+          },
+          {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
           },
           {
             "id": 1708,
@@ -14064,8 +14106,20 @@
             "name": "Light Leather Pants"
           },
           {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
           },
           {
             "id": 2195,
@@ -14088,8 +14142,20 @@
             "name": "Handstitched Leather Vest"
           },
           {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
             "id": 52647,
             "name": "Camp Tent"
+          },
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
           },
           {
             "id": 55195,
@@ -14114,82 +14180,85 @@
         ],
         "Skinning": [
           {
-            "id": 4767,
+            "id": 4768,
             "name": "Skinning"
           },
           {
             "id": 52644,
             "name": "Camp Chair"
+          },
+          {
+            "id": 57017,
+            "name": "Field Guide"
           }
         ]
       },
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1180,
+          "raw": 1613,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3995,
+          "raw": 4282,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 0,
+          "raw": 2000,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1180,
+          "raw": 1613,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1180,
+          "raw": 1613,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5551,
+          "raw": 6063,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1180,
+          "raw": 1613,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1860,
+          "raw": 2726,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9830,
+          "raw": 10380,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1638,
+          "raw": 2401,
           "tier": 3
         }
       },
       "spec": "Marksmanship",
       "stats": {
-        "critters": 17,
-        "deaths": 15,
-        "drinks": 7,
-        "flights": 6,
-        "food": 39,
-        "health_potions": 6,
-        "hearths": 11,
-        "killing_blows": 796,
-        "mobs": 1047,
-        "need_rolls": 10,
-        "quests": 110
+        "critters": 33,
+        "deaths": 16,
+        "drinks": 9,
+        "flights": 10,
+        "food": 43,
+        "health_potions": 9,
+        "hearths": 12,
+        "killing_blows": 1024,
+        "mobs": 1448,
+        "quests": 134
       },
-      "xp": 16364
+      "xp": 4360
     },
     "eu:redbully-badbully": {
       "achievements": {
@@ -15788,7 +15857,12 @@
       "raid": {}
     },
     "firsts_pending": {},
-    "firsts_reposted": []
+    "firsts_reposted": [],
+    "milestone_order": {
+      "20": [
+        "eu:rausmit-deviechers"
+      ]
+    }
   },
   "owners": {
     "eu:alto-belli": {
@@ -16567,7 +16641,7 @@
       "1572013773110386699"
     ]
   },
-  "saved_at": 1794871438,
+  "saved_at": 1794872319,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
