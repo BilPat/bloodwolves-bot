@@ -25,6 +25,10 @@ const S = {
   helpLine: "`/give` an item you don't need. `/need` something crafted; it pings the people who can make it. Press Need or Greed on a gift card; when it closes the bot names the winner under the card and the winner presses Received. `/iam` links your main so your name takes its class color. `/professions` and `/who-crafts` look things up.",
   iamLinked: (name, cls) => `You are **${name}** (${cls}).`,
   iamAlt: (name, cls) => ` Alt: **${name}** (${cls}).`,
+  iamTracked: "Now tracked: you'll show on the roster within about 15 minutes and on the AH tracker within the hour.",
+  linkFull: "The roster is full right now. Ask an officer to make room.",
+  iamFailed: "Something went wrong saving that. Try again in a minute.",
+  iamAltSame: "Your alt is the same character as your main. Pick a different alt, or leave it out.",
   specOn: (role) => `${role} added.`,
   specOff: (role) => `${role} removed.`,
   specMissing: (role) => `The ${role} role does not exist on this server yet. Ask an officer.`,
@@ -219,27 +223,68 @@ async function syncClassRole(env, userId, cls) {
   if (!r.ok) console.log(`[iam] role add -> ${r.status} ${await r.text()}`);
   return r.ok;
 }
+// /iam (Joe 16 Nov: "Let /iam add the character"): a name the tracker already has links at once. Any other name is looked
+// up on Blizzard, as the welcome card's Link button does; a real character is linked and saved, and GET /linked hands it to
+// the guild tracker (roster, dings) and to the AH tracker (its character list), so nobody has to add it by hand.
+// Order: exact tracked name, then Blizzard, then a tracked name that starts with what was typed (autocomplete leftovers).
+export const LINK_MAX = 40;
+export async function resolveChar(env, st, q, lookup = blizzChar) {
+  q = String(q || "").trim();
+  if (!q) return null;
+  const keys = Object.keys(st.characters || {}), ql = q.toLowerCase();
+  const exact = keys.find((k) => k.endsWith(":" + ql)) || keys.find((k) => charName(k).toLowerCase() === ql.replace(/\s+/g, " "));
+  if (exact) return { key: exact, name: charName(exact), cls: st.characters[exact].class || "", isNew: false };
+  const b = await lookup(env, q);
+  if (b) return { ...b, isNew: true };
+  const part = keys.find((k) => charName(k).toLowerCase().startsWith(ql));
+  if (part) return { key: part, name: charName(part), cls: st.characters[part].class || "", isNew: false };
+  return { miss: (parseCharName(q) || {}).display || q };
+}
+async function blizzChar(env, raw) {
+  const c = parseCharName(raw);
+  if (!c) return null;
+  const region = (env.BLIZZARD_REGION || "us").toLowerCase();
+  const prof = await bnet(env, `/profile/wow/character/${c.slug}`, {}, env.BLIZZARD_PROFILE_NS || `profile-forever-${region}`).catch(() => null);
+  if (!prof?.name) return null;
+  return { key: `${region}:${c.slug}`, name: [prof.name, prof.surname].filter(Boolean).join(" ") || c.display, cls: prof.character_class?.name || "", level: prof.level || null };
+}
 async function onIam(i, env, ctx) {
   const q = i.data.options?.find((o) => o.name === "character")?.value || "";
   const altQ = i.data.options?.find((o) => o.name === "alt")?.value || "";
-  const st = await trackerState(env);
-  const key = findChar(st, q);
-  if (!key) return json({ type: R.MESSAGE, data: { content: S.noSuchChar, flags: FLAGS.EPHEMERAL } });
-  const altKey = altQ ? findChar(st, altQ) : null;
-  if (altQ && (!altKey || altKey === key)) return json({ type: R.MESSAGE, data: { content: S.noSuchChar, flags: FLAGS.EPHEMERAL } });
-  const c = st.characters[key], u = who(i), name = charName(key), cls = c.class || "";
-  const altCls = altKey ? st.characters[altKey].class || "" : null;
-  await env.DB.prepare("INSERT INTO chars (user_id,name,surname,class,alt,alt_class,updated_at) VALUES (?,?,?,?,?,?,?) ON CONFLICT(user_id) DO UPDATE SET name=excluded.name, surname=excluded.surname, class=excluded.class, alt=COALESCE(excluded.alt, chars.alt), alt_class=COALESCE(excluded.alt_class, chars.alt_class), updated_at=excluded.updated_at")
-    .bind(u.id, name, key, cls, altKey, altCls, now()).run();
-  // The role sync is up to seven Discord calls, so answer first and fill the message in afterwards.
-  ctx.waitUntil((async () => {
+  const u = who(i), owner = display(i);
+  const reply = (content) => fetch(`${API}/webhooks/${env.DISCORD_APP_ID}/${i.token}/messages/@original`, { method: "PATCH",
+    headers: { "content-type": "application/json" }, body: JSON.stringify({ content, allowed_mentions: { parse: [] } }) }).catch((e) => console.log(`[iam] edit ${e}`));
+  // A Blizzard lookup and the role sync are several calls, so answer first and fill the message in afterwards.
+  ctx.waitUntil((async () => { try {
+    const st = await trackerState(env);
+    const main = await resolveChar(env, st, q);
+    if (!main) return reply(S.noSuchChar);
+    if (main.miss) return reply(S.linkNotFound(main.miss));
+    const alt = altQ ? await resolveChar(env, st, altQ) : null;
+    if (alt && alt.miss) return reply(S.linkNotFound(alt.miss));
+    if (alt && alt.key === main.key) return reply(S.iamAltSame);
+    await ensureOwnerColumn(env);
+    // Review (16 Nov): a character belongs to one Discord account, tracked or new, so a second person cannot take it.
+    for (const c of [main, alt].filter(Boolean)) {
+      const taken = await env.DB.prepare("SELECT user_id FROM chars WHERE (surname=? OR alt=?) AND user_id<>?").bind(c.key, c.key, u.id).first();
+      if (taken) return reply(S.linkTaken(c.name));
+    }
+    // Cap on linked accounts, so the list the trackers read stays short and stable (the AH tracker reads up to 40).
+    const mine = await env.DB.prepare("SELECT user_id FROM chars WHERE user_id=?").bind(u.id).first();
+    if (!mine && (main.isNew || (alt && alt.isNew))) {
+      const n = await env.DB.prepare("SELECT COUNT(*) AS n FROM chars").first();
+      if ((n?.n || 0) >= LINK_MAX) return reply(S.linkFull);
+    }
+    // No alt given: keep the old alt, unless the old alt is the new main (then it is cleared).
+    await env.DB.prepare("INSERT INTO chars (user_id,name,surname,class,alt,alt_class,owner,updated_at) VALUES (?,?,?,?,?,?,?,?) ON CONFLICT(user_id) DO UPDATE SET name=excluded.name, surname=excluded.surname, class=excluded.class, alt=CASE WHEN excluded.alt IS NOT NULL THEN excluded.alt WHEN chars.alt=excluded.surname THEN NULL ELSE chars.alt END, alt_class=CASE WHEN excluded.alt IS NOT NULL THEN excluded.alt_class WHEN chars.alt=excluded.surname THEN NULL ELSE chars.alt_class END, owner=excluded.owner, updated_at=excluded.updated_at")
+      .bind(u.id, main.name, main.key, main.cls, alt ? alt.key : null, alt ? alt.cls : null, owner, now()).run();
     let note = "";
-    if (!cls) note = S.iamNoClass;
-    else if (!(await syncClassRole(env, u.id, cls).catch((e) => (console.log(`[iam] ${e}`), false)))) note = S.iamRoleLater;
-    const text = S.iamLinked(name, cls || "class unknown") + (altKey ? S.iamAlt(charName(altKey), altCls || "class unknown") : "") + (note ? "\n" + note : "");
-    await fetch(`${API}/webhooks/${env.DISCORD_APP_ID}/${i.token}/messages/@original`, { method: "PATCH", headers: { "content-type": "application/json" },
-      body: JSON.stringify({ content: text, allowed_mentions: { parse: [] } }) }).catch((e) => console.log(`[iam] edit ${e}`));
-  })());
+    if (!main.cls) note = S.iamNoClass;
+    else if (!(await syncClassRole(env, u.id, main.cls).catch((e) => (console.log(`[iam] ${e}`), false)))) note = S.iamRoleLater;
+    const text = S.iamLinked(main.name, main.cls || "class unknown") + (alt ? S.iamAlt(alt.name, alt.cls || "class unknown") : "")
+      + ((main.isNew || (alt && alt.isNew)) ? "\n" + S.iamTracked : "") + (note ? "\n" + note : "");
+    return reply(text);
+  } catch (e) { console.log(`[iam] ${e}`); return reply(S.iamFailed); } })());
   return json({ type: R.DEFER, data: { flags: FLAGS.EPHEMERAL } });
 }
 
@@ -559,8 +604,8 @@ const COMMANDS = [
       { name: "1 hour", value: 1 }, { name: "3 hours", value: 3 }, { name: "6 hours", value: 6 }, { name: "12 hours", value: 12 }, { name: "1 day", value: 24 } ] } ] },
   { name: "help", description: "How giving works, in one line" },
   { name: "iam", description: "Link your main character so your name gets its class color", options: [
-    { type: 3, name: "character", description: "Your main", required: true, autocomplete: true },
-    { type: 3, name: "alt", description: "An alt (optional)", required: false, autocomplete: true } ] },
+    { type: 3, name: "character", description: "Your main: full name as in game (first and last)", required: true, autocomplete: true },
+    { type: 3, name: "alt", description: "An alt (optional), full name", required: false, autocomplete: true } ] },
   { name: "professions", description: "Someone's professions and known recipes", options: [
     { type: 3, name: "character", description: "Character name", required: true, autocomplete: true } ] },
   { name: "need", description: "Ask the guild to craft something; pings the people who can", options: [
@@ -664,7 +709,7 @@ async function onLinkSubmit(i, env, ctx) {
 }
 async function linkedList(env) {
   await ensureOwnerColumn(env);
-  const rows = (await env.DB.prepare("SELECT name, surname, alt, owner FROM chars").all()).results;
+  const rows = (await env.DB.prepare("SELECT name, surname, alt, owner FROM chars ORDER BY updated_at, user_id").all()).results;
   const out = [];
   const add = (key, owner) => {
     if (!key || !key.includes(":")) return;
