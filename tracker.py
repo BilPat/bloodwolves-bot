@@ -194,8 +194,10 @@ def api_get(region, path, token, namespace, locale="en_US"):
                           {"Authorization": f"Bearer {token}"})
             if s2 == 200:
                 harvest_german(body, b2)
-        except Exception:  # deutsche Namen sind nur Kosmetik
-            pass
+            elif path.endswith("/achievements"):
+                print(f"[info] de_DE {path.rsplit('/', 2)[-2]}/achievements: HTTP {s2}")
+        except Exception as err:  # deutsche Namen sind nur Kosmetik
+            print(f"[info] de_DE {path.rsplit('/', 1)[-1]}: {type(err).__name__}: {err}"[:200])
     return status, body
 
 
