@@ -88,7 +88,7 @@
       },
       "ilvl": 22,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794867995000,
+      "last_login": 1794868618000,
       "level": 26,
       "level_at": {
         "26": 1794866470
@@ -2967,7 +2967,13 @@
     "eu:christopher-kuhlumbus": {
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/116/18969204-avatar.jpg",
-      "best_item": null,
+      "best_item": {
+        "id": 6472,
+        "ilvl": 24,
+        "name": "Stinging Viper",
+        "quality": "RARE",
+        "slot": "Main Hand"
+      },
       "boss_kills": {
         "15028": {
           "boss": "Mutanus the Devourer",
@@ -16561,7 +16567,7 @@
       "1572013773110386699"
     ]
   },
-  "saved_at": 1794868563,
+  "saved_at": 1794868740,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
