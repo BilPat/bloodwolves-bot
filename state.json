@@ -6685,10 +6685,11 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Durotar",
-      "last_login": 1794867671000,
-      "level": 12,
+      "last_login": 1794900164000,
+      "level": 13,
       "level_at": {
-        "12": 1794866470
+        "12": 1794866470,
+        "13": 1794900505
       },
       "professions": {
         "Cooking": 1,
@@ -6828,12 +6829,12 @@
       "reputations": {
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6667,
+          "raw": 7317,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8105,
+          "raw": 8755,
           "tier": 4
         },
         "Ratchet": {
@@ -6855,15 +6856,15 @@
       "spec": "Destruction",
       "stats": {
         "drinks": 10,
+        "flights": 2,
         "food": 5,
         "health_potions": 4,
         "hearths": 2,
-        "killing_blows": 307,
-        "mobs": 328,
-        "need_rolls": 4,
-        "quests": 58
+        "killing_blows": 311,
+        "mobs": 331,
+        "quests": 67
       },
-      "xp": 8019
+      "xp": 4549
     },
     "eu:garm-winterhoof": {
       "achievements": {
@@ -18172,7 +18173,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794899843,
+  "saved_at": 1794900506,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
