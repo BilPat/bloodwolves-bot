@@ -5693,17 +5693,18 @@
       "gear": {},
       "ilvl": 2,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794858943000,
-      "level": 11,
+      "last_login": 1794913571000,
+      "level": 12,
       "level_at": {
-        "11": 1794866470
+        "11": 1794866470,
+        "12": 1794914073
       },
       "professions": {
-        "Alchemy": 35,
-        "Cooking": 1,
-        "First Aid": 20,
-        "Fishing": 16,
-        "Herbalism": 66
+        "Alchemy": 55,
+        "Cooking": 32,
+        "First Aid": 38,
+        "Fishing": 18,
+        "Herbalism": 74
       },
       "race": "Orc",
       "raids": {},
@@ -5722,12 +5723,32 @@
             "name": "Minor Mana Potion"
           },
           {
+            "id": 1380,
+            "name": "Minor Rejuvenation Potion"
+          },
+          {
+            "id": 1382,
+            "name": "Elixir of Minor Fortitude"
+          },
+          {
             "id": 4178,
             "name": "Elixir of Minor Defense"
           },
           {
             "id": 52646,
             "name": "Mana Well"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 54456,
+            "name": "Sulfuric Acid"
+          },
+          {
+            "id": 54661,
+            "name": "Minor Frenzy Potion"
           },
           {
             "id": 54210,
@@ -5746,6 +5767,14 @@
           {
             "id": 1537,
             "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 3927,
+            "name": "Scorpid Surprise"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
           },
           {
             "id": 4786,
@@ -5794,13 +5823,18 @@
       "reputations": {
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6160,
+          "raw": 6535,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7410,
+          "raw": 7785,
           "tier": 4
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
@@ -5815,13 +5849,16 @@
       },
       "spec": null,
       "stats": {
-        "food": 9,
-        "health_potions": 1,
-        "killing_blows": 218,
-        "mobs": 220,
-        "quests": 47
+        "critters": 1,
+        "drinks": 1,
+        "food": 11,
+        "health_potions": 2,
+        "hearths": 1,
+        "killing_blows": 264,
+        "mobs": 265,
+        "quests": 58
       },
-      "xp": 1738
+      "xp": 4279
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -17112,6 +17149,7 @@
     "Priestess Cloak": "Umhang der Priesterin",
     "Primal Boots": "Urzeitliche Stiefel",
     "Primitive Mantle": "Primitiver Mantel",
+    "Primitive Walking Stick": "Primitiver Wanderstecken",
     "Pristine Orcish Dagger": "Makelloser Orcdolch",
     "Privateer Musket": "Freibeutermuskete",
     "Professions": "Berufe",
@@ -18299,7 +18337,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794912911,
+  "saved_at": 1794914075,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
