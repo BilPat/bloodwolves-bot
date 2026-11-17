@@ -16295,14 +16295,14 @@
       },
       "ilvl": 14,
       "last_explored": null,
-      "last_login": 1794906297000,
+      "last_login": 1794910780000,
       "level": 21,
       "level_at": {
         "21": 1794866470
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 78
+        "Herbalism": 80
       },
       "race": "Undead",
       "raids": {},
@@ -16374,46 +16374,46 @@
           "raw": 650,
           "tier": 3
         },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2723,
+          "raw": 2817,
+          "tier": 3
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Neutral",
-          "raw": 2723,
+          "raw": 2817,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1223,
+          "raw": 1317,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11355,
+          "raw": 11730,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "deaths": 11,
-        "drinks": 567,
-        "flights": 12,
-        "food": 124,
+        "drinks": 574,
+        "flights": 13,
+        "food": 125,
         "health_potions": 8,
-        "hearths": 14,
-        "killing_blows": 895,
+        "hearths": 15,
+        "killing_blows": 907,
         "mana_potions": 6,
-        "mobs": 1409,
-        "quests": 105
+        "mobs": 1435,
+        "quests": 111
       },
-      "xp": 12334
+      "xp": 21775
     }
   },
   "craft_board": {
@@ -16644,6 +16644,7 @@
     "Bronzed Shoulderguards": "Talmischulterschutz",
     "Brown Linen Robe": "Braune Leinenrobe",
     "Brown Linen Shirt": "Braunes Leinenhemd",
+    "Buccaneer's Gloves of the Sorcerer": "Bukanier-Handschuhe des Zauberers",
     "Buckled Boots": "Schnallenstiefel",
     "Bullet": "Kugel",
     "Burning Soul": "Brennende Seele",
@@ -16831,6 +16832,7 @@
     "Firebelch": "Feuerrülps",
     "Firebelcher": "Feuerrülpser",
     "Firemane Leggings": "Feuermähnengamaschen",
+    "Firewalker Boots": "Feuerwandler-Stiefel",
     "First Aid Manuals learned": "Erlernte Erste Hilfe-Anleitungen",
     "First Aid skill": "Erste-Hilfe-Fertigkeit",
     "Fish and other things caught": "Fische und andere geangelte Dinge",
@@ -18294,7 +18296,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794910539,
+  "saved_at": 1794911186,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
