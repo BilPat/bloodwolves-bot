@@ -4002,7 +4002,8 @@
     "eu:efrye-frostheal": {
       "achievements": {
         "62028": "Journeyman Tailor",
-        "768": "Explore Tirisfal Glades"
+        "768": "Explore Tirisfal Glades",
+        "772": "Explore Hillsbrad Foothills"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/228/14176740-avatar.jpg",
       "best_item": {
@@ -4067,8 +4068,8 @@
         }
       },
       "ilvl": 18,
-      "last_explored": "Tirisfal Glades",
-      "last_login": 1794873920000,
+      "last_explored": "Hillsbrad Foothills",
+      "last_login": 1794935550000,
       "level": 22,
       "level_at": {
         "22": 1794866470
@@ -4077,7 +4078,7 @@
         "Cooking": 150,
         "First Aid": 150,
         "Fishing": 182,
-        "Herbalism": 205,
+        "Herbalism": 207,
         "Tailoring": 150
       },
       "race": "Undead",
@@ -4706,18 +4707,18 @@
       "spec": "Holy",
       "stats": {
         "critters": 18,
-        "deaths": 38,
-        "drinks": 52,
-        "flights": 48,
-        "food": 65,
+        "deaths": 43,
+        "drinks": 57,
+        "flights": 49,
+        "food": 70,
         "health_potions": 13,
         "hearths": 42,
-        "killing_blows": 763,
+        "killing_blows": 773,
         "mana_potions": 18,
-        "mobs": 2408,
+        "mobs": 2419,
         "quests": 137
       },
-      "xp": 22168
+      "xp": 27090
     },
     "eu:ellena-lederriemen": {
       "achievements": {
@@ -16612,6 +16613,21 @@
           "level": 41
         }
       },
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "🎖️ [Erkundet Vorgebirge des Hügellands](https://www.wowhead.com/forever/de/achievement=772)"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 22
+        }
+      },
       "eu:erna-sturmtanz": {
         "c": {
           "name": "Erna",
@@ -18538,7 +18554,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794934473,
+  "saved_at": 1794935709,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
