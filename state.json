@@ -17007,7 +17007,7 @@
     "Ragged Leather Vest": "Struppige Lederweste",
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Rare": "Rar",
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
@@ -17689,6 +17689,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 26,
+        "name": "Alto",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Belli"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 22,
         "name": "Boreas",
         "rank": 4,
@@ -17757,6 +17766,15 @@
         "rank": 4,
         "region": "eu",
         "surname": "Leiche"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 25,
+        "name": "Blck",
+        "rank": 3,
+        "region": "eu",
+        "surname": "Jck"
       },
       {
         "class": null,
@@ -17842,7 +17860,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -17959,6 +17977,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 13,
+        "name": "Garakosh",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Redwalker"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 21,
         "name": "Bon",
         "rank": 4,
@@ -18031,7 +18058,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -18085,6 +18112,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 7,
+        "name": "Gaul",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Jin"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 16,
         "name": "Lognaar",
         "rank": 4,
@@ -18126,49 +18162,13 @@
         "rank": 4,
         "region": "eu",
         "surname": "Sturmtanz"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 12,
-        "name": "Garakosh",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Redwalker"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 26,
-        "name": "Alto",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Belli"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 25,
-        "name": "Blck",
-        "rank": 3,
-        "region": "eu",
-        "surname": "Jck"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 7,
-        "name": "Gaul",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Jin"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794902135,
+  "saved_at": 1794903620,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
