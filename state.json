@@ -9183,7 +9183,7 @@
         "ilvl": 33,
         "name": "Satchel of Potions",
         "quality": "UNCOMMON",
-        "slot": "Trinket 1"
+        "slot": "Trinket 2"
       },
       "boss_kills": {
         "1092": {
@@ -9265,21 +9265,22 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 25,
+      "ilvl": 26,
       "last_explored": "Redridge Mountains",
-      "last_login": 1794932704000,
-      "level": 29,
+      "last_login": 1794939973000,
+      "level": 30,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
         "28": 1794907721,
-        "29": 1794932961
+        "29": 1794932961,
+        "30": 1794940259
       },
       "professions": {
         "Cooking": 115,
         "First Aid": 150,
         "Leatherworking": 118,
-        "Skinning": 200
+        "Skinning": 203
       },
       "race": "Undead",
       "raids": {},
@@ -9600,14 +9601,9 @@
           "raw": 1116,
           "tier": 3
         },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4341,
+          "raw": 4660,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9617,17 +9613,12 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 300,
+          "raw": 750,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
           "raw": 1116,
-          "tier": 3
-        },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
           "tier": 3
         },
         "Gadgetzan": {
@@ -9637,7 +9628,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5410,
+          "raw": 5728,
           "tier": 4
         },
         "Powderfuse": {
@@ -9652,22 +9643,17 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3228,
+          "raw": 4053,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13618,
+          "raw": 13862,
           "tier": 5
         },
         "Warsong Outriders": {
           "name": "Neutral",
           "raw": 45,
-          "tier": 3
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
           "tier": 3
         }
       },
@@ -9676,16 +9662,16 @@
         "critters": 48,
         "deaths": 22,
         "drinks": 21,
-        "flights": 40,
-        "food": 115,
+        "flights": 41,
+        "food": 120,
         "health_potions": 16,
         "hearths": 10,
         "honorable_kills": 113,
-        "killing_blows": 1713,
-        "mobs": 2693,
-        "quests": 191
+        "killing_blows": 1781,
+        "mobs": 2771,
+        "quests": 202
       },
-      "xp": 21183
+      "xp": 12242
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -11865,23 +11851,35 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/227/65246435-avatar.jpg",
       "best_item": {
-        "id": 15501,
-        "ilvl": 17,
-        "name": "Outrunner's Cloak of the Whale",
-        "quality": "UNCOMMON",
+        "id": 273005,
+        "ilvl": 18,
+        "name": "Satyrskin Cloak",
+        "quality": "RARE",
         "slot": "Back"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 2,
+          "instance": "Ragefire Chasm"
+        }
+      },
       "class": "Druid",
       "dungeons": {},
       "first_seen": 1794866470,
-      "gear": {},
-      "ilvl": 6,
+      "gear": {
+        "273005": {
+          "name": "Satyrskin Cloak",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 8,
       "last_explored": "Moonglade",
-      "last_login": 1794854493000,
-      "level": 16,
+      "last_login": 1794940186000,
+      "level": 18,
       "level_at": {
-        "16": 1794866470
+        "16": 1794866470,
+        "18": 1794940259
       },
       "professions": {
         "Cooking": 1,
@@ -11949,57 +11947,52 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 667,
+          "raw": 1110,
           "tier": 3
         },
         "Cenarion Circle": {
           "name": "Neutral",
-          "raw": 2360,
+          "raw": 2535,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3682,
+          "raw": 3943,
           "tier": 4
-        },
-        "Durotar Supply and Logistics": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 667,
+          "raw": 1110,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 667,
+          "raw": 1110,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4713,
+          "raw": 5162,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 667,
+          "raw": 1110,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 835,
+          "raw": 1720,
           "tier": 3
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8767,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9291,
+          "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1213,
+          "raw": 1808,
           "tier": 3
         }
       },
@@ -12008,16 +12001,15 @@
         "critters": 1,
         "deaths": 1,
         "drinks": 10,
-        "flights": 8,
-        "food": 29,
+        "flights": 13,
+        "food": 30,
         "health_potions": 2,
         "hearths": 5,
-        "killing_blows": 523,
-        "mobs": 664,
-        "need_rolls": 4,
-        "quests": 86
+        "killing_blows": 623,
+        "mobs": 950,
+        "quests": 109
       },
-      "xp": 9085
+      "xp": 16576
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -16718,6 +16710,21 @@
           "level": 25
         }
       },
+      "eu:lognaar-leafnon": {
+        "c": {
+          "name": "Lognaar",
+          "region": "eu",
+          "surname": "Leafnon"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Donnerfels",
+          "🔵 Erstes blaues Item: **[Satyrnhaut-Umhang](https://www.wowhead.com/forever/de/item=273005)** (Back)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 18
+        }
+      },
       "eu:vlad-impalar": {
         "c": {
           "name": "Vlad",
@@ -16757,6 +16764,7 @@
     "Ancient Heirloom": "Uraltes Erbstück",
     "Apothecary Gloves": "Apotheker-Handschuhe",
     "Apprentice's Shirt": "Lehrlingshemd",
+    "Aquarius Belt": "Wassermann-Gürtel",
     "Arcane": "Arkan",
     "Arcane Blast": "Arkanschlag",
     "Arcane Concentration": "Arkane Konzentration",
@@ -16999,6 +17007,7 @@
     "Drape of Shifting Energy": "Tuch der veränderlichen Energie",
     "Dreamer's Chestguard": "Brustschutz des Träumers",
     "Dreamweave Gloves": "Traumzwirnhandschuhe",
+    "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
     "Druid": "Druide",
     "Dual Wield Specialization": "Beidhändigkeits-Spezialisierung",
     "Duels lost": "Duelle verloren",
@@ -17130,6 +17139,7 @@
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
     "Grip of Fear": "Griff der Angst",
     "Grizzled Boots": "Ergraute Stiefel",
+    "Grizzly Gloves": "Grizzly-Handschuhe",
     "Grizzly Pants of Intellect": "Grizzly-Hose der Intelligenz",
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
     "Guild Tabard": "Gildenwappenrock",
@@ -17262,6 +17272,7 @@
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
     "Lupine Leggings of the Monkey": "Werwolf-Gamaschen des Affen",
+    "Lupine Slippers of Shadow Protection": "Werwolf-Schuhe des Schattenschutzes",
     "Lupine Slippers of the Bear": "Werwolf-Schuhe des Bären",
     "Lyn the Ignored": "Lyn der Ignorierte",
     "Lyn the Ignored Kills (City of Dalaran)": "Siege über Lyn der Ignorierte (Dalaran)",
@@ -17693,6 +17704,7 @@
     "Windswept Slippers": "Windgepeitschte Pantoffeln",
     "Witch's Finger": "Hexenfinger",
     "Witherbite Bracers": "Welkbissarmschienen",
+    "Wizlo's Tuning Wrench": "Wizlos Stimmschlüssel",
     "Wolfmaster Cape": "Wolfmeister Cape",
     "Wolfsbane": "Wolfsbann",
     "Wooden Mallet": "Hölzerner Schlaghammer",
@@ -17771,7 +17783,8 @@
         "eu:rausmit-deviechers"
       ],
       "30": [
-        "eu:fred-feuersturm"
+        "eu:fred-feuersturm",
+        "eu:keta-f%C3%A4se"
       ],
       "40": [
         "eu:baumora-axiom"
@@ -18585,7 +18598,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794939527,
+  "saved_at": 1794940260,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
