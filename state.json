@@ -7528,11 +7528,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/4873569-avatar.jpg",
       "best_item": {
-        "id": 10711,
-        "ilvl": 44,
-        "name": "Dragon's Blood Necklace",
+        "id": 275005,
+        "ilvl": 46,
+        "name": "Krol'dok Warplate Chest",
         "quality": "RARE",
-        "slot": "Neck"
+        "slot": "Chest"
       },
       "boss_kills": {
         "1093": {
@@ -7608,6 +7608,18 @@
           "name": "Warsong Gauntlets",
           "quality": "RARE"
         },
+        "274996": {
+          "name": "Resistance Breaker Spaulder",
+          "quality": "RARE"
+        },
+        "275005": {
+          "name": "Krol'dok Warplate Chest",
+          "quality": "RARE"
+        },
+        "275045": {
+          "name": "Ogre Horn Ring",
+          "quality": "RARE"
+        },
         "6686": {
           "name": "Tusken Helm",
           "quality": "RARE"
@@ -7617,18 +7629,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 35,
+      "ilvl": 38,
       "last_explored": "Thousand Needles",
-      "last_login": 1794784618000,
-      "level": 42,
+      "last_login": 1794877473000,
+      "level": 44,
       "level_at": {
-        "42": 1794866470
+        "42": 1794866470,
+        "44": 1794878167
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 208,
-        "Mining": 159,
+        "Mining": 165,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -7732,76 +7745,80 @@
           "tier": 0
         },
         "Bolder'ok Clan": {
-          "name": "Neutral",
-          "raw": 411,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3961,
+          "tier": 4
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3424,
+          "raw": 3911,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9980,
+          "raw": 10780,
           "tier": 5
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1000,
+          "raw": 1300,
           "tier": 3
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3181,
+          "raw": 3619,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3181,
+          "raw": 3619,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12852,
+          "raw": 13427,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3979,
+          "raw": 4504,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4823,
+          "raw": 5260,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19276,
+          "raw": 19551,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9420,
+          "raw": 9695,
           "tier": 5
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 93,
-        "deaths": 64,
+        "critters": 102,
+        "deaths": 69,
         "drinks": 2,
-        "flights": 90,
-        "food": 142,
-        "health_potions": 96,
-        "hearths": 21,
-        "killing_blows": 2966,
-        "mobs": 5216,
-        "need_rolls": 32,
-        "quests": 458
+        "flights": 94,
+        "food": 158,
+        "health_potions": 105,
+        "hearths": 25,
+        "killing_blows": 3149,
+        "mobs": 5757,
+        "quests": 500
       },
-      "xp": 26039
+      "xp": 54071
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -16042,11 +16059,13 @@
     "Cheap Blunderbuss": "Billige Donnerbüchse",
     "Chest": "Brust",
     "Chol'aruk's Trophy Sword": "Chol'aruks Trophäenschwert",
+    "Chromite Gauntlets": "Chromitstulpen",
     "Cinched Belt": "Sattelgurt-Gürtel",
     "City of Dalaran": "Dalaran",
     "Civinad Robes": "Civinad-Roben",
     "Clasped Belt": "Schnallengürtel",
     "Clever Shapeshifter": "Gerissener Gestaltwandler",
+    "Clobrok's Block Rock": "Clobroks Brockenfels",
     "Cloth": "Stoff",
     "Cold Blood": "Kaltblütigkeit",
     "Cold Steel Gauntlets": "Kaltstahlstulpen",
@@ -16329,6 +16348,12 @@
     "Kodo Hunter's Leggings": "Kodojäger-Gamaschen",
     "Kodobone Necklace": "Kodoknochenhalskette",
     "Kolkar Hammer": "Hammer der Kolkar",
+    "Krol'dok Battlegear": "Schlachtrüstung von Krol'Dok",
+    "Krol'dok Warplate Chest": "Kriegsplattenharnisch von Krol'Dok",
+    "Krol'dok Warplate Gauntlets": "Kriegsplattenstulpen von Krol'Dok",
+    "Krol'dok Warplate Helmet": "Kriegsplattenhelm von Krol'Dok",
+    "Krol'dok Warplate Legplates": "Kriegsplattenbeinplatten von Krol'Dok",
+    "Krol'dok Warplate Pauldrons": "Kriegsplattenschulterstücke von Krol'Dok",
     "Larcenist's Belt": "Diebesgürtel",
     "Last Stand": "Letztes Gefecht",
     "Leader of the Pack": "Rudelführer",
@@ -16412,6 +16437,7 @@
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Number of times hearthed": "Anzahl der Nutzungen des Ruhesteins",
     "Off Hand": "Schildhand",
+    "Ogre Horn Ring": "Ogerhornring",
     "One-Hand": "Einhändig",
     "Opaque Wand": "Undurchsichtiger Zauberstab",
     "Orange Mageweave Shirt": "Oranges Magiestoffhemd",
@@ -16487,6 +16513,7 @@
     "Rend and Tear": "Beißen und Reißen",
     "Repentance": "Buße",
     "Reputation": "Ruf",
+    "Resistance Breaker Spaulder": "Schiftung des Widerstandsbrechers",
     "Restoration": "Wiederherstellung",
     "Resurrected by priests": "Wiederbelebungen durch Priester",
     "Resurrected by soulstones": "Wiederbelebungen durch Seelensteine",
@@ -16697,6 +16724,7 @@
     "Triprunner Dungarees": "Stolperläufer-Latzhose",
     "Tusken Helm": "Hauerhelm",
     "Tuskwrap Belt": "Hauerwickelgürtel",
+    "Twilight Barrier": "Twilightbarriere",
     "Twilight Focus": "Zwielichtfokus",
     "Twilight Lord Girdle": "Twilightfürstgurt",
     "Two-Hand": "Zweihändig",
@@ -17024,6 +17052,7 @@
   },
   "pending": [],
   "roster": {
+    "left_log": [],
     "members": {
       "alto-belli": "Alto Belli",
       "archibald-white": "Archibald White",
@@ -17572,7 +17601,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794877052,
+  "saved_at": 1794878169,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
