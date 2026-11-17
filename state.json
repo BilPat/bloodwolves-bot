@@ -5691,8 +5691,8 @@
       "first_seen": 1794866470,
       "gear": {},
       "ilvl": 2,
-      "last_explored": "Silverpine Forest",
-      "last_login": 1794913571000,
+      "last_explored": "Durotar",
+      "last_login": 1794933820000,
       "level": 12,
       "level_at": {
         "11": 1794866470,
@@ -5702,8 +5702,8 @@
         "Alchemy": 55,
         "Cooking": 32,
         "First Aid": 38,
-        "Fishing": 18,
-        "Herbalism": 74
+        "Fishing": 64,
+        "Herbalism": 78
       },
       "race": "Orc",
       "raids": {},
@@ -5744,6 +5744,10 @@
           {
             "id": 54456,
             "name": "Sulfuric Acid"
+          },
+          {
+            "id": 54655,
+            "name": "Minor Spellblasting Potion"
           },
           {
             "id": 54661,
@@ -5806,28 +5810,28 @@
         ],
         "Herbalism": [
           {
-            "id": 54114,
+            "id": 1419,
+            "name": "Herbalism"
+          },
+          {
+            "id": 54115,
             "name": "Herbalism"
           },
           {
             "id": 52642,
             "name": "Incense Candle"
-          },
-          {
-            "id": 56960,
-            "name": "Herbalism"
           }
         ]
       },
       "reputations": {
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6535,
+          "raw": 6572,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7785,
+          "raw": 7860,
           "tier": 4
         },
         "Ratchet": {
@@ -5837,27 +5841,27 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3150,
+          "raw": 3162,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 550,
+          "raw": 562,
           "tier": 3
         }
       },
       "spec": null,
       "stats": {
         "critters": 1,
-        "drinks": 1,
-        "food": 11,
-        "health_potions": 2,
+        "drinks": 4,
+        "food": 16,
+        "health_potions": 3,
         "hearths": 1,
-        "killing_blows": 264,
-        "mobs": 265,
-        "quests": 58
+        "killing_blows": 325,
+        "mobs": 329,
+        "quests": 61
       },
-      "xp": 4279
+      "xp": 9804
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -13591,7 +13595,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794884733000,
+      "last_login": 1794933703000,
       "level": 11,
       "level_at": {
         "11": 1794866470
@@ -16608,6 +16612,20 @@
           "level": 41
         }
       },
+      "eu:erna-sturmtanz": {
+        "c": {
+          "name": "Erna",
+          "region": "eu",
+          "surname": "Sturmtanz"
+        },
+        "lines": [
+          "🛠️ **Kräuterkunde** auf 75"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 12
+        }
+      },
       "eu:fred-feuersturm": {
         "c": {
           "name": "Fred",
@@ -16823,6 +16841,7 @@
     "Bullet": "Kugel",
     "Burning Soul": "Brennende Seele",
     "Burnished Girdle": "Brünierter Gurt",
+    "Burnt Leather Belt": "Brandledergürtel",
     "Butcher's Cleaver": "Schlächterbeil",
     "Butcher's Slicer": "Schlächterschnitzler",
     "Cadet Belt": "Kadettengürtel",
@@ -17305,6 +17324,7 @@
     "Prospector's Cuffs": "Manschetten des Ausgrabungsleiters",
     "Prospector's Sash": "Schärpe des Ausgrabungsleiters",
     "Protection": "Schutz",
+    "Puk's Friendship Bracelet": "Puks Freundschaftsband",
     "Purified Ring": "Geläuterter Ring",
     "Pursuit of Justice": "Streben nach Gerechtigkeit",
     "Pyroblast": "Pyroschlag",
@@ -18518,7 +18538,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794933608,
+  "saved_at": 1794934473,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
