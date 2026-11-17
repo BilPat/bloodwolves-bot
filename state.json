@@ -6759,7 +6759,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Durotar",
-      "last_login": 1794900164000,
+      "last_login": 1794925227000,
       "level": 13,
       "level_at": {
         "12": 1794866470,
@@ -6903,12 +6903,12 @@
       "reputations": {
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7317,
+          "raw": 7355,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8755,
+          "raw": 8905,
           "tier": 4
         },
         "Ratchet": {
@@ -6918,27 +6918,27 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3187,
+          "raw": 3225,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 587,
+          "raw": 625,
           "tier": 3
         }
       },
       "spec": "Destruction",
       "stats": {
-        "drinks": 10,
+        "drinks": 11,
         "flights": 2,
         "food": 5,
         "health_potions": 4,
         "hearths": 2,
-        "killing_blows": 311,
-        "mobs": 331,
-        "quests": 67
+        "killing_blows": 332,
+        "mobs": 352,
+        "quests": 68
       },
-      "xp": 4549
+      "xp": 8072
     },
     "eu:garm-winterhoof": {
       "achievements": {
@@ -18451,7 +18451,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794924995,
+  "saved_at": 1794925629,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
