@@ -5110,12 +5110,13 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 9,
+      "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794855004000,
-      "level": 21,
+      "last_login": 1794958448000,
+      "level": 22,
       "level_at": {
-        "21": 1794866470
+        "21": 1794866470,
+        "22": 1794958807
       },
       "professions": {
         "Blacksmithing": 54,
@@ -5317,9 +5318,9 @@
           "tier": 3
         },
         "Darkspear Trolls": {
-          "name": "Friendly",
-          "raw": 8808,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9002,
+          "tier": 5
         },
         "Everlook": {
           "name": "Neutral",
@@ -5333,7 +5334,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11521,
+          "raw": 11958,
           "tier": 5
         },
         "Powderfuse": {
@@ -5348,31 +5349,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5016,
+          "raw": 5322,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2435,
+          "raw": 2853,
           "tier": 3
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 4,
-        "deaths": 22,
+        "critters": 11,
+        "deaths": 24,
         "drinks": 1,
-        "flights": 26,
+        "flights": 30,
         "food": 8,
-        "health_potions": 16,
-        "hearths": 8,
+        "health_potions": 17,
+        "hearths": 9,
         "honorable_kills": 1,
-        "killing_blows": 771,
-        "mobs": 1094,
-        "need_rolls": 8,
-        "quests": 149
+        "killing_blows": 873,
+        "mobs": 1431,
+        "quests": 156
       },
-      "xp": 5801
+      "xp": 13982
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -16795,6 +16795,20 @@
           "level": 24
         }
       },
+      "eu:elric-wolfsclan": {
+        "c": {
+          "name": "Elric",
+          "region": "eu",
+          "surname": "Wolfsclan"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Darkspear"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 22
+        }
+      },
       "eu:h%C3%A4uptling-blutmacht": {
         "c": {
           "name": "Häuptling",
@@ -18710,7 +18724,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794957902,
+  "saved_at": 1794958809,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
