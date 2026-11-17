@@ -4069,16 +4069,17 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1794935550000,
-      "level": 22,
+      "last_login": 1794944649000,
+      "level": 23,
       "level_at": {
-        "22": 1794866470
+        "22": 1794866470,
+        "23": 1794945303
       },
       "professions": {
         "Cooking": 150,
         "First Aid": 150,
-        "Fishing": 182,
-        "Herbalism": 207,
+        "Fishing": 200,
+        "Herbalism": 211,
         "Tailoring": 150
       },
       "race": "Undead",
@@ -4709,16 +4710,16 @@
         "critters": 18,
         "deaths": 43,
         "drinks": 57,
-        "flights": 49,
-        "food": 70,
+        "flights": 50,
+        "food": 73,
         "health_potions": 13,
-        "hearths": 42,
-        "killing_blows": 773,
+        "hearths": 43,
+        "killing_blows": 775,
         "mana_potions": 18,
-        "mobs": 2419,
+        "mobs": 2421,
         "quests": 137
       },
-      "xp": 27090
+      "xp": 336
     },
     "eu:ellena-lederriemen": {
       "achievements": {
@@ -5906,7 +5907,7 @@
         },
         "63572": {
           "boss": "Shade of the Archmage",
-          "count": 1,
+          "count": 2,
           "instance": "City of Dalaran"
         },
         "63589": {
@@ -5960,14 +5961,15 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794932220000,
-      "level": 30,
+      "last_login": 1794944937000,
+      "level": 31,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
-        "30": 1794923709
+        "30": 1794923709,
+        "31": 1794945303
       },
       "professions": {
         "Cooking": 148,
@@ -6420,19 +6422,19 @@
       "spec": "Fire",
       "stats": {
         "critters": 50,
-        "deaths": 13,
-        "drinks": 424,
-        "flights": 35,
-        "food": 127,
+        "deaths": 14,
+        "drinks": 457,
+        "flights": 37,
+        "food": 131,
         "health_potions": 15,
         "hearths": 13,
         "honorable_kills": 4,
-        "killing_blows": 1298,
+        "killing_blows": 1326,
         "mana_potions": 7,
-        "mobs": 3096,
-        "quests": 199
+        "mobs": 3252,
+        "quests": 201
       },
-      "xp": 21844
+      "xp": 791
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -7412,17 +7414,22 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/6238556-avatar.jpg",
       "best_item": {
-        "id": 270081,
+        "id": 10330,
         "ilvl": 44,
-        "name": "Purified Ring",
+        "name": "Scarlet Leggings",
         "quality": "RARE",
-        "slot": "Ring 2"
+        "slot": "Legs"
       },
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
           "count": 1,
           "instance": "Shadowfang Keep"
+        },
+        "1093": {
+          "boss": "Scarlet Commander Mograine",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -7453,12 +7460,21 @@
           "boss": "Shade of the Archmage",
           "count": 1,
           "instance": "City of Dalaran"
+        },
+        "6786": {
+          "boss": "High Inquisitor Whitemane",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         }
       },
       "class": "Paladin",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10330": {
+          "name": "Scarlet Leggings",
+          "quality": "RARE"
+        },
         "250497": {
           "name": "Crusader's Chain Leggings",
           "quality": "RARE"
@@ -7494,7 +7510,7 @@
       },
       "ilvl": 35,
       "last_explored": "Thousand Needles",
-      "last_login": 1794859007000,
+      "last_login": 1794945213000,
       "level": 40,
       "level_at": {
         "40": 1794866470
@@ -7503,7 +7519,7 @@
         "Blacksmithing": 185,
         "Cooking": 225,
         "First Aid": 211,
-        "Mining": 200
+        "Mining": 205
       },
       "race": "Undead",
       "raids": {},
@@ -8006,12 +8022,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3078,
+          "raw": 3248,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8121,
+          "raw": 8296,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -8026,12 +8042,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2600,
+          "raw": 2685,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2600,
+          "raw": 2685,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -8046,46 +8062,45 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10905,
+          "raw": 11080,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2580,
+          "raw": 2665,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4093,
+          "raw": 4178,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8411,
+          "raw": 8511,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19265,
+          "raw": 19515,
           "tier": 5
         }
       },
       "spec": "Retribution",
       "stats": {
-        "critters": 105,
+        "critters": 106,
         "deaths": 8,
-        "drinks": 69,
-        "flights": 62,
-        "food": 88,
-        "health_potions": 18,
-        "hearths": 24,
-        "killing_blows": 2863,
+        "drinks": 76,
+        "flights": 63,
+        "food": 90,
+        "health_potions": 19,
+        "hearths": 26,
+        "killing_blows": 3007,
         "mana_potions": 1,
-        "mobs": 4650,
-        "need_rolls": 19,
-        "quests": 409
+        "mobs": 4909,
+        "quests": 414
       },
-      "xp": 4295
+      "xp": 68768
     },
     "eu:h%C3%A4uptling-blutmacht": {
       "achievements": {
@@ -16681,6 +16696,20 @@
           "level": 30
         }
       },
+      "eu:garret-aschwind": {
+        "c": {
+          "name": "Garret",
+          "region": "eu",
+          "surname": "Aschwind"
+        },
+        "lines": [
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 40
+        }
+      },
       "eu:keta-f%C3%A4se": {
         "c": {
           "name": "Keta",
@@ -16960,6 +16989,7 @@
     "Creatures": "Kreaturen",
     "Creatures killed": "Kreaturen getötet",
     "Crescent Staff": "Mondsichelstab",
+    "Critical Mass": "Kritische Masse",
     "Critters killed": "Kleintiere getötet",
     "Crossbow": "Armbrust",
     "Cruelty": "Grausamkeit",
@@ -17083,10 +17113,12 @@
     "Fine Leather Tunic": "Feine Ledertunika",
     "Finscale Soles": "Flossenschuppensohlen",
     "Fire": "Feuer",
+    "Fire Damage": "Feuerschaden",
     "Fire Resistance": "Feuerwiderstand",
     "Firebelch": "Feuerrülps",
     "Firebelcher": "Feuerrülpser",
     "Firemane Leggings": "Feuermähnengamaschen",
+    "Firestarter": "Feuerteufel",
     "Firewalker Boots": "Feuerwandler-Stiefel",
     "First Aid Manuals learned": "Erlernte Erste Hilfe-Anleitungen",
     "First Aid skill": "Erste-Hilfe-Fertigkeit",
@@ -18604,7 +18636,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794944404,
+  "saved_at": 1794945304,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
