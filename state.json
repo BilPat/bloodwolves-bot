@@ -8113,9 +8113,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 38,
+      "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1794877473000,
+      "last_login": 1794901023000,
       "level": 44,
       "level_at": {
         "42": 1794866470,
@@ -8282,11 +8282,6 @@
           "name": "Honored",
           "raw": 9695,
           "tier": 5
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Protection",
@@ -18173,7 +18168,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794900506,
+  "saved_at": 1794901203,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
