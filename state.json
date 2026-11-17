@@ -5867,11 +5867,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/15/12989711-avatar.jpg",
       "best_item": {
-        "id": 271719,
+        "id": 286989,
         "ilvl": 33,
-        "name": "Furs of the Earthen Ring",
+        "name": "Violet Sorcerer's Wraps",
         "quality": "RARE",
-        "slot": "Back"
+        "slot": "Hands"
       },
       "boss_kills": {
         "1092": {
@@ -5898,6 +5898,16 @@
           "boss": "Rath'mael",
           "count": 2,
           "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Mage",
@@ -5910,6 +5920,10 @@
         },
         "271719": {
           "name": "Furs of the Earthen Ring",
+          "quality": "RARE"
+        },
+        "273036": {
+          "name": "Graveweave Bindings",
           "quality": "RARE"
         },
         "273840": {
@@ -5928,24 +5942,29 @@
           "name": "Rotmender's Sash",
           "quality": "RARE"
         },
+        "286989": {
+          "name": "Violet Sorcerer's Wraps",
+          "quality": "RARE"
+        },
         "4320": {
           "name": "Spidersilk Boots",
           "quality": "RARE"
         }
       },
-      "ilvl": 27,
+      "ilvl": 28,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794907308000,
-      "level": 29,
+      "last_login": 1794923449000,
+      "level": 30,
       "level_at": {
         "28": 1794866470,
-        "29": 1794907721
+        "29": 1794907721,
+        "30": 1794923709
       },
       "professions": {
         "Cooking": 148,
-        "Enchanting": 99,
+        "Enchanting": 125,
         "Fishing": 197,
-        "Tailoring": 119
+        "Tailoring": 125
       },
       "race": "Undead",
       "raids": {},
@@ -6054,8 +6073,24 @@
             "name": "Enchant Weapon - Minor Striking"
           },
           {
+            "id": 4368,
+            "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 4370,
+            "name": "Runed Silver Rod"
+          },
+          {
             "id": 7316,
             "name": "Disenchant"
+          },
+          {
+            "id": 7356,
+            "name": "Enchant Shield - Minor Stamina"
+          },
+          {
+            "id": 7377,
+            "name": "Enchant Cloak - Lesser Protection"
           },
           {
             "id": 4289,
@@ -6132,6 +6167,10 @@
           {
             "id": 2401,
             "name": "Stylish Red Shirt"
+          },
+          {
+            "id": 2402,
+            "name": "Phoenix Gloves"
           },
           {
             "id": 2408,
@@ -6294,6 +6333,10 @@
             "name": "Novice Ardent's Sash"
           },
           {
+            "id": 55476,
+            "name": "Flame Leggings"
+          },
+          {
             "id": 55366,
             "name": "Linen Reagent Bag"
           },
@@ -6316,7 +6359,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4492,
+          "raw": 4630,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6341,7 +6384,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4530,
+          "raw": 4667,
           "tier": 4
         },
         "Powderfuse": {
@@ -6356,31 +6399,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3892,
+          "raw": 4105,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15173,
+          "raw": 15648,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 46,
-        "deaths": 6,
-        "drinks": 345,
-        "flights": 30,
-        "food": 113,
-        "health_potions": 13,
+        "deaths": 12,
+        "drinks": 399,
+        "flights": 32,
+        "food": 126,
+        "health_potions": 15,
         "hearths": 12,
         "honorable_kills": 4,
-        "killing_blows": 1227,
+        "killing_blows": 1288,
         "mana_potions": 7,
-        "mobs": 2764,
-        "quests": 193
+        "mobs": 3008,
+        "quests": 198
       },
-      "xp": 17392
+      "xp": 7306
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -10768,7 +10811,7 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794922730000,
+      "last_login": 1794923669000,
       "level": 23,
       "level_at": {
         "23": 1794866470
@@ -16512,11 +16555,13 @@
           "surname": "Feuersturm"
         },
         "lines": [
-          "🛠️ **Angeln** auf 150"
+          "🛠️ **Angeln** auf 150",
+          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
         ],
         "snap": {
           "class": "Mage",
-          "level": 29
+          "level": 30
         }
       },
       "eu:keta-f%C3%A4se": {
@@ -16620,6 +16665,7 @@
     "Balanced Quarterstaff": "Ausbalancierter Bauernstecken",
     "Band of Purification": "Band der Läuterung",
     "Band of the Fist": "Band der Faust",
+    "Band of the Undercity": "Band von Undercity",
     "Bandage used most": "Am häufigsten angelegter Verband",
     "Bandages used": "Angelegte Verbände",
     "Banded Helm of the Champion": "Bebänderter Helm des Champions",
@@ -16668,6 +16714,7 @@
     "Blackened Defias Leggings": "Geschwärzte Gamaschen der Defias",
     "Blackfathom Deeps": "Blackfathom-Tiefe",
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
+    "Blast Wave": "Druckwelle",
     "Blazewind Blast": "Lohenwindstoß",
     "Blessing of Kalimdor": "Segen von Kalimdor",
     "Blight Gloves": "Seuchenhandschuhe",
@@ -16866,6 +16913,7 @@
     "Enchant Chest - Inferior Stamina": "Brust - Minderwertige Ausdauer",
     "Enchant Chest - Lesser Stamina": "Brust - Geringe Ausdauer",
     "Enchant Chest - Minor Intellect": "Brust - Schwache Intelligenz",
+    "Enchant Cloak - Lesser Protection": "Umhang - Geringer Schutz",
     "Enchant Cloak - Minor Protection": "Umhang - Schwacher Schutz",
     "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
     "Enchanted Sandals": "Verzauberte Sandalen",
@@ -16875,6 +16923,7 @@
     "Engineering Schematics learned": "Erlernte Ingenieurskunstschemata",
     "Enhancement": "Verstärkung",
     "Enrage": "Wutanfall",
+    "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
     "Featherbead Bracers": "Federleichte Armschienen",
     "Feathered Arrow": "Gefiederter Pfeil",
@@ -16943,6 +16992,7 @@
     "Grassland Sash": "Graslandschärpe",
     "Grave Shroud": "Grabesschleier",
     "Gravestone Scepter": "Grabsteinszepter",
+    "Graveweave Bindings": "Bindungen des Grabwebers",
     "Gray Kodo": "Grauer Kodo",
     "Gray Leather Boots": "Graue Lederstiefel",
     "Greasy Tinker's Pants": "Schmierige Tüftlerhose",
@@ -17467,6 +17517,12 @@
     "Vile Protector": "Grässlicher Beschützer",
     "Vilewalkers": "Übelgänger",
     "Violet Scale Armor": "Violette Schuppenrüstung",
+    "Violet Sorcerer's Leggings": "Gamaschen des Violetten Zauberers",
+    "Violet Sorcerer's Mantle": "Mantelung des Violetten Zauberers",
+    "Violet Sorcerer's Robes": "Roben des Violetten Zauberers",
+    "Violet Sorcerer's Sandals": "Sandalen des Violetten Zauberers",
+    "Violet Sorcerer's Vestments": "Gewänder des purpurnen Zauberers",
+    "Violet Sorcerer's Wraps": "Wickel des Violetten Zauberers",
     "Viscera Spaulders": "Eingeweideschiftung",
     "Volcanic Rock Ring": "Vulkangesteinring",
     "Vuldren Hide Bracers": "Vuldren-Tierhautarmschienen",
@@ -17521,7 +17577,14 @@
   },
   "group": {
     "firsts": {
-      "boss": {},
+      "boss": {
+        "Lyn the Ignored (City of Dalaran)": [
+          "eu:fred-feuersturm"
+        ],
+        "Shade of the Archmage (City of Dalaran)": [
+          "eu:fred-feuersturm"
+        ]
+      },
       "dungeon": {
         "Blackfathom Deeps": "eu:krakmor-ci%C3%B3rdan",
         "Gnomeregan": "eu:krakmor-ci%C3%B3rdan",
@@ -17539,6 +17602,22 @@
       "raid": {}
     },
     "firsts_pending": {
+      "boss|Lyn the Ignored (City of Dalaran)": {
+        "keys": [
+          "eu:fred-feuersturm"
+        ],
+        "kind": "boss",
+        "since": 1794923709,
+        "what": "Lyn the Ignored (City of Dalaran)"
+      },
+      "boss|Shade of the Archmage (City of Dalaran)": {
+        "keys": [
+          "eu:fred-feuersturm"
+        ],
+        "kind": "boss",
+        "since": 1794923709,
+        "what": "Shade of the Archmage (City of Dalaran)"
+      },
       "dungeon|Uldaman": {
         "keys": [
           "eu:krakmor-ci%C3%B3rdan"
@@ -17552,6 +17631,9 @@
     "milestone_order": {
       "20": [
         "eu:rausmit-deviechers"
+      ],
+      "30": [
+        "eu:fred-feuersturm"
       ],
       "40": [
         "eu:baumora-axiom"
@@ -18365,7 +18447,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794922824,
+  "saved_at": 1794923712,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
