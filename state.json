@@ -1203,6 +1203,7 @@
         "61502": "Novice Druid",
         "62009": "Novice Warlock",
         "62024": "Journeyman Leatherworker",
+        "62032": "Experienced Spelunker",
         "728": "Explore Durotar",
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains",
@@ -1210,10 +1211,10 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 279930,
-        "ilvl": 42,
-        "name": "Saltseer's Helm",
-        "quality": "UNCOMMON",
+        "id": 7720,
+        "ilvl": 44,
+        "name": "Whitemane's Chapeau",
+        "quality": "RARE",
         "slot": "Head"
       },
       "boss_kills": {
@@ -1224,7 +1225,7 @@
         },
         "1093": {
           "boss": "Scarlet Commander Mograine",
-          "count": 4,
+          "count": 7,
           "instance": "Scarlet Monastery"
         },
         "15027": {
@@ -1252,6 +1253,11 @@
           "count": 1,
           "instance": "Gnomeregan"
         },
+        "6141": {
+          "boss": "Amnennar the Coldbringer",
+          "count": 1,
+          "instance": "Razorfen Downs"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 2,
@@ -1269,7 +1275,7 @@
         },
         "6786": {
           "boss": "High Inquisitor Whitemane",
-          "count": 4,
+          "count": 7,
           "instance": "Scarlet Monastery"
         }
       },
@@ -1277,6 +1283,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "270081": {
+          "name": "Purified Ring",
+          "quality": "RARE"
+        },
         "273643": {
           "name": "Worgenbane Talisman",
           "quality": "RARE"
@@ -1293,23 +1303,36 @@
           "name": "Priestess Cloak",
           "quality": "RARE"
         },
+        "6803": {
+          "name": "Prophetic Cane",
+          "quality": "RARE"
+        },
+        "7720": {
+          "name": "Whitemane's Chapeau",
+          "quality": "RARE"
+        },
+        "7721": {
+          "name": "Hand of Righteousness",
+          "quality": "RARE"
+        },
         "9623": {
           "name": "Civinad Robes",
           "quality": "RARE"
         }
       },
-      "ilvl": 34,
+      "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1794828318000,
-      "level": 38,
+      "last_login": 1794885576000,
+      "level": 41,
       "level_at": {
-        "38": 1794866470
+        "38": 1794866470,
+        "41": 1794886176
       },
       "professions": {
-        "Cooking": 150,
+        "Cooking": 193,
         "Fishing": 30,
-        "Leatherworking": 150,
-        "Skinning": 247
+        "Leatherworking": 165,
+        "Skinning": 263
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -1384,6 +1407,14 @@
             "name": "Slitherskin Mackerel"
           },
           {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
+          },
+          {
             "id": 4391,
             "name": "Rainbow Fin Albacore"
           },
@@ -1410,6 +1441,14 @@
           {
             "id": 54502,
             "name": "Twice-Spiced Raptor Slice"
+          },
+          {
+            "id": 57021,
+            "name": "Cookie's Feast"
+          },
+          {
+            "id": 58479,
+            "name": "Savory Whimsyfin Delight"
           },
           {
             "id": 56881,
@@ -1716,6 +1755,10 @@
           {
             "id": 52644,
             "name": "Camp Chair"
+          },
+          {
+            "id": 57017,
+            "name": "Field Guide"
           }
         ]
       },
@@ -1730,6 +1773,11 @@
           "raw": -7375,
           "tier": 0
         },
+        "Bolder'ok Clan": {
+          "name": "Neutral",
+          "raw": 301,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
           "raw": 1966,
@@ -1742,12 +1790,12 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5593,
+          "raw": 6025,
           "tier": 4
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1250,
+          "raw": 1850,
           "tier": 3
         },
         "Everlook": {
@@ -1767,7 +1815,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5912,
+          "raw": 6193,
           "tier": 4
         },
         "Powderfuse": {
@@ -1782,12 +1830,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8191,
+          "raw": 8491,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5833,
+          "raw": 6133,
           "tier": 4
         },
         "Windshapers": {
@@ -1798,20 +1846,19 @@
       },
       "spec": "Balance",
       "stats": {
-        "critters": 108,
-        "deaths": 27,
-        "drinks": 284,
-        "flights": 62,
-        "food": 94,
-        "health_potions": 23,
-        "hearths": 21,
-        "killing_blows": 1798,
-        "mana_potions": 7,
-        "mobs": 6402,
-        "need_rolls": 65,
-        "quests": 294
+        "critters": 174,
+        "deaths": 32,
+        "drinks": 419,
+        "flights": 68,
+        "food": 116,
+        "health_potions": 30,
+        "hearths": 24,
+        "killing_blows": 2179,
+        "mana_potions": 12,
+        "mobs": 7803,
+        "quests": 330
       },
-      "xp": 76749
+      "xp": 88405
     },
     "eu:blck-jck": {
       "achievements": {
@@ -16311,6 +16358,22 @@
   },
   "daily_digest": {
     "items": {
+      "eu:baumora-axiom": {
+        "c": {
+          "name": "Baumora",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Axiom"
+        },
+        "lines": [
+          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen",
+          "🎖️ [Experienced Spelunker](https://www.wowhead.com/forever/de/achievement=62032)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 41
+        }
+      },
       "eu:lazy-quinn": {
         "c": {
           "name": "Lazy",
@@ -16686,6 +16749,7 @@
     "Gelkis Clan Centaur": "Gelkisklan",
     "Gemmed Copper Boots": "Edelsteinbesetzte Kupferstiefel",
     "Ghastly Trousers": "Garstige Beinkleider",
+    "Gift of Nature": "Geschenk der Natur",
     "Glimmering Mail Girdle": "Gleißender Panzergurt",
     "Gloves of the Fang": "Handschuhe des Giftzahns",
     "Gloves of the Moon": "Handschuhe des Mondes",
@@ -16709,6 +16773,7 @@
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
     "Guild Tabard": "Gildenwappenrock",
     "Gun": "Schusswaffe",
+    "Hand of Righteousness": "Hand der Rechtschaffenheit",
     "Hands": "Hände",
     "Handstitched Leather Belt": "Handgenähter Ledergürtel",
     "Handstitched Leather Boots": "Handgenähte Lederstiefel",
@@ -16776,6 +16841,7 @@
     "Improved Rend": "Verbessertes Verwunden",
     "Improved Renew": "Verbesserte Erneuerung",
     "Improved Revenge": "Verbesserte Rache",
+    "Improved Revival": "Verbesserte Wiederbelebung",
     "Improved Righteous Fury": "Verbesserter Zorn der Gerechtigkeit",
     "Improved Seals": "Verbesserte Siegel",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
@@ -16865,6 +16931,7 @@
     "Mutanus the Devourer": "Mutanus den Verschlinger",
     "Mutanus the Devourer kills (Wailing Caverns)": "Siege über Mutanus den Verschlinger (Höhlen des Wehklagens)",
     "Mutinous Cuffs": "Meuterermanschetten",
+    "Mystic Heavy Armor Kit": "Mystisches schweres Rüstungsset",
     "Mystic Shawl": "Mystikerschal",
     "Mystic's Belt": "Mystikergürtel",
     "Mystic's Cape": "Mystikercape",
@@ -16911,6 +16978,7 @@
     "Plate": "Platte",
     "Player vs. Player": "Spieler gegen Spieler",
     "Poison": "Gift",
+    "Ponderous Orb": "Schwerfällige Kugel",
     "Poor": "Schlecht",
     "Precision": "Präzision",
     "Predatory Discipline": "Disziplin des Raubtiers",
@@ -17120,6 +17188,7 @@
     "Superior Shoulders of the Monkey": "Überragende Schultern des Affen",
     "Suppression": "Unterdrückung",
     "Swift Judgement": "Schnelles Richturteil",
+    "Swiftmend": "Rasche Heilung",
     "Swinetusk Shank": "Keilerhauer",
     "Sword": "Schwert",
     "Tabard": "Wappenrock",
@@ -17231,6 +17300,7 @@
     "Warsong Sash": "Warsongschärpe",
     "Weapon": "Waffe",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
+    "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Pants of Intellect": "Weidenhose der Intelligenz",
     "Windshaper Skyborne": "Himmelsgeborener der Windformer",
@@ -17289,6 +17359,9 @@
     "milestone_order": {
       "20": [
         "eu:rausmit-deviechers"
+      ],
+      "40": [
+        "eu:baumora-axiom"
       ]
     }
   },
@@ -18099,7 +18172,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794885458,
+  "saved_at": 1794886180,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
