@@ -16338,14 +16338,15 @@
       },
       "ilvl": 14,
       "last_explored": null,
-      "last_login": 1794910780000,
-      "level": 21,
+      "last_login": 1794916779000,
+      "level": 22,
       "level_at": {
-        "21": 1794866470
+        "21": 1794866470,
+        "22": 1794918057
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 80
+        "Herbalism": 83
       },
       "race": "Undead",
       "raids": {},
@@ -16419,7 +16420,7 @@
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2817,
+          "raw": 2842,
           "tier": 3
         },
         "Durotar Supply and Logistics": {
@@ -16429,34 +16430,35 @@
         },
         "Orgrimmar": {
           "name": "Neutral",
-          "raw": 2817,
+          "raw": 2842,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1317,
+          "raw": 1417,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11730,
+          "raw": 11755,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
+        "critters": 3,
         "deaths": 11,
-        "drinks": 574,
+        "drinks": 595,
         "flights": 13,
-        "food": 125,
-        "health_potions": 8,
+        "food": 131,
+        "health_potions": 9,
         "hearths": 15,
-        "killing_blows": 907,
-        "mana_potions": 6,
-        "mobs": 1435,
-        "quests": 111
+        "killing_blows": 974,
+        "mana_potions": 7,
+        "mobs": 1499,
+        "quests": 112
       },
-      "xp": 21775
+      "xp": 2884
     }
   },
   "craft_board": {
@@ -17900,7 +17902,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 41,
+        "level": 42,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -17972,7 +17974,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -17981,7 +17983,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -18143,7 +18145,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 14,
+        "level": 15,
         "name": "Maniac",
         "rank": 4,
         "region": "eu",
@@ -18233,7 +18235,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -18332,7 +18334,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 11,
+        "level": 12,
         "name": "Erna",
         "rank": 4,
         "region": "eu",
@@ -18343,7 +18345,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794916464,
+  "saved_at": 1794918058,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
