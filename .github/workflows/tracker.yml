@@ -48,6 +48,8 @@ jobs:
           DISCORD_STAFF_WEBHOOK_URL: ${{ secrets.DISCORD_STAFF_WEBHOOK_URL }}
           DISCORD_NEWS_WEBHOOK_URL: ${{ secrets.DISCORD_NEWS_WEBHOOK_URL }}
           DISCORD_CRAFT_WEBHOOK_URL: ${{ secrets.DISCORD_CRAFT_WEBHOOK_URL }}
+          DISCORD_WELCOME_WEBHOOK_URL: ${{ secrets.DISCORD_WELCOME_WEBHOOK_URL }}
+          DISCORD_DUNGEON_WEBHOOK_URL: ${{ secrets.DISCORD_DUNGEON_WEBHOOK_URL }}
           PROFILE_NAMESPACE: ${{ vars.PROFILE_NAMESPACE }}
         run: python3 tracker.py ${{ inputs.test_webhook && '--test-webhook' || '' }} ${{ inputs.recap_now && '--recap-now' || '' }} ${{ inputs.preview_ding && '--preview-ding' || '' }}
 
