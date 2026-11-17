@@ -16247,7 +16247,7 @@
       },
       "ilvl": 14,
       "last_explored": null,
-      "last_login": 1794850180000,
+      "last_login": 1794906297000,
       "level": 21,
       "level_at": {
         "21": 1794866470
@@ -16326,6 +16326,11 @@
           "raw": 650,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Neutral",
           "raw": 2723,
@@ -16350,18 +16355,17 @@
       "spec": "Fire",
       "stats": {
         "deaths": 11,
-        "drinks": 538,
+        "drinks": 567,
         "flights": 12,
-        "food": 117,
-        "health_potions": 6,
+        "food": 124,
+        "health_potions": 8,
         "hearths": 14,
-        "killing_blows": 868,
-        "mana_potions": 4,
-        "mobs": 1379,
-        "need_rolls": 6,
+        "killing_blows": 895,
+        "mana_potions": 6,
+        "mobs": 1409,
         "quests": 105
       },
-      "xp": 7323
+      "xp": 12334
     }
   },
   "craft_board": {
@@ -18188,7 +18192,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794905655,
+  "saved_at": 1794907083,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
