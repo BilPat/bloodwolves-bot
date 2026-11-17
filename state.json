@@ -13912,11 +13912,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/220/2795996-avatar.jpg",
       "best_item": {
-        "id": 4246,
-        "ilvl": 16,
-        "name": "Fine Leather Belt",
+        "id": 4243,
+        "ilvl": 17,
+        "name": "Fine Leather Tunic",
         "quality": "UNCOMMON",
-        "slot": "Waist"
+        "slot": "Chest"
       },
       "boss_kills": {},
       "class": "Hunter",
@@ -13925,17 +13925,18 @@
       "gear": {},
       "ilvl": 7,
       "last_explored": "Mulgore",
-      "last_login": 1794852392000,
-      "level": 15,
+      "last_login": 1794936312000,
+      "level": 16,
       "level_at": {
-        "15": 1794866470
+        "15": 1794866470,
+        "16": 1794937239
       },
       "professions": {
         "Cooking": 40,
-        "First Aid": 57,
+        "First Aid": 58,
         "Fishing": 75,
-        "Leatherworking": 62,
-        "Skinning": 121
+        "Leatherworking": 67,
+        "Skinning": 127
       },
       "race": "Tauren",
       "raids": {},
@@ -14032,6 +14033,10 @@
             "name": "Embossed Leather Pants"
           },
           {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
             "id": 4987,
             "name": "Handstitched Leather Cloak"
           },
@@ -14078,7 +14083,7 @@
         ],
         "Skinning": [
           {
-            "id": 4767,
+            "id": 4768,
             "name": "Skinning"
           },
           {
@@ -14088,44 +14093,69 @@
         ]
       },
       "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 792,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3355,
+          "raw": 3430,
           "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 792,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 792,
+          "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3580,
+          "raw": 3880,
           "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 792,
+          "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 500,
+          "raw": 1085,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8620,
+          "raw": 8695,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 830,
+          "raw": 905,
           "tier": 3
         }
       },
       "spec": "Marksmanship",
       "stats": {
         "deaths": 4,
-        "flights": 4,
-        "food": 5,
+        "flights": 5,
+        "food": 6,
         "health_potions": 5,
-        "hearths": 5,
-        "killing_blows": 592,
-        "mobs": 593,
-        "quests": 74
+        "hearths": 6,
+        "killing_blows": 673,
+        "mobs": 672,
+        "quests": 81
       },
-      "xp": 6361
+      "xp": 6149
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -17232,6 +17262,7 @@
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
     "Lupine Leggings of the Monkey": "Werwolf-Gamaschen des Affen",
+    "Lupine Slippers of the Bear": "Werwolf-Schuhe des Bären",
     "Lyn the Ignored": "Lyn der Ignorierte",
     "Lyn the Ignored Kills (City of Dalaran)": "Siege über Lyn der Ignorierte (Dalaran)",
     "Mace": "Streitkolben",
@@ -18554,7 +18585,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794936303,
+  "saved_at": 1794937241,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
