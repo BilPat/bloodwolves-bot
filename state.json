@@ -11532,7 +11532,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1794950268000,
+      "last_login": 1794952025000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -11863,7 +11863,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9803,
+          "raw": 9903,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -11883,7 +11883,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10822,
+          "raw": 10847,
           "tier": 5
         },
         "Powderfuse": {
@@ -11898,30 +11898,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5328,
+          "raw": 5353,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3171,
+          "raw": 3196,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 16,
-        "deaths": 21,
+        "deaths": 22,
         "drinks": 11,
         "flights": 24,
         "food": 3,
         "health_potions": 20,
         "hearths": 14,
-        "killing_blows": 1094,
+        "killing_blows": 1112,
         "mana_potions": 6,
-        "mobs": 1823,
-        "quests": 165
+        "mobs": 1849,
+        "quests": 166
       },
-      "xp": 6591
+      "xp": 11356
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -18695,7 +18695,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794951609,
+  "saved_at": 1794952440,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
