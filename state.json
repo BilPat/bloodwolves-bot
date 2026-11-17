@@ -13589,8 +13589,16 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "12977": {
+          "name": "Magefist Gloves",
+          "quality": "RARE"
+        },
         "14149": {
           "name": "Subterranean Cape",
+          "quality": "RARE"
+        },
+        "1934": {
+          "name": "Stonemason Trousers",
           "quality": "RARE"
         },
         "272999": {
@@ -13598,9 +13606,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 8,
+      "ilvl": 9,
       "last_explored": null,
-      "last_login": 1794765872000,
+      "last_login": 1794909428000,
       "level": 18,
       "level_at": {
         "18": 1794866470
@@ -13609,7 +13617,7 @@
         "Cooking": 1,
         "First Aid": 44,
         "Fishing": 20,
-        "Herbalism": 3,
+        "Herbalism": 6,
         "Skinning": 120
       },
       "race": "Windshaper Skyborne",
@@ -13684,9 +13692,19 @@
           "raw": 575,
           "tier": 3
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2468,
+          "raw": 2593,
+          "tier": 3
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Earthen Ring": {
@@ -13711,7 +13729,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3050,
+          "raw": 3362,
           "tier": 4
         },
         "Powderfuse": {
@@ -13726,12 +13744,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3625,
+          "raw": 3937,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1212,
+          "raw": 1337,
           "tier": 3
         },
         "Windshapers": {
@@ -13743,18 +13761,17 @@
       "spec": "Beast Mastery",
       "stats": {
         "critters": 1,
-        "deaths": 34,
+        "deaths": 35,
         "drinks": 1,
-        "flights": 11,
+        "flights": 13,
         "food": 11,
         "health_potions": 1,
-        "hearths": 16,
-        "killing_blows": 630,
-        "mobs": 695,
-        "need_rolls": 5,
-        "quests": 121
+        "hearths": 17,
+        "killing_blows": 672,
+        "mobs": 734,
+        "quests": 125
       },
-      "xp": 2366
+      "xp": 11645
     },
     "eu:pantherra-wolf": {
       "achievements": {
@@ -14065,7 +14082,7 @@
       },
       "ilvl": 22,
       "last_explored": "Mulgore",
-      "last_login": 1794904844000,
+      "last_login": 1794909614000,
       "level": 31,
       "level_at": {
         "31": 1794866470
@@ -14075,7 +14092,7 @@
         "Cooking": 150,
         "First Aid": 119,
         "Fishing": 38,
-        "Mining": 140
+        "Mining": 148
       },
       "race": "Tauren",
       "raids": {},
@@ -14351,7 +14368,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5950,
+          "raw": 5975,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -14376,7 +14393,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7300,
+          "raw": 7325,
           "tier": 4
         },
         "Powderfuse": {
@@ -14391,12 +14408,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12891,
+          "raw": 12916,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6108,
+          "raw": 6208,
           "tier": 4
         }
       },
@@ -14404,16 +14421,16 @@
       "stats": {
         "critters": 69,
         "deaths": 24,
-        "flights": 32,
-        "food": 100,
-        "health_potions": 26,
-        "hearths": 19,
+        "flights": 33,
+        "food": 102,
+        "health_potions": 27,
+        "hearths": 20,
         "honorable_kills": 3,
-        "killing_blows": 1669,
-        "mobs": 3347,
-        "quests": 218
+        "killing_blows": 1718,
+        "mobs": 3396,
+        "quests": 220
       },
-      "xp": 996
+      "xp": 6391
     },
     "eu:rausmit-deviechers": {
       "achievements": {
@@ -17001,6 +17018,7 @@
     "Mage": "Magier",
     "Mage Portals taken": "Benutzte Magierportale",
     "Mage portal taken most": "Am häufigsten benutztes Magierportal",
+    "Magefist Gloves": "Handschuhe der Magiekraft",
     "Magram Clan Centaur": "Magramklan",
     "Mail": "Schwere Rüstung",
     "Main Hand": "Waffenhand",
@@ -17278,6 +17296,7 @@
     "Stinging Viper": "Stechviper",
     "Stomping Boots": "Stampfer-Stiefel",
     "Stonefist Girdle": "Steinfaustgurt",
+    "Stonemason Trousers": "Steinmetz-Beinkleider",
     "Stonewood Hammer": "Steinholzhammer",
     "Stormstrike": "Sturmschlag",
     "Strength": "Stärke",
@@ -18275,7 +18294,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794909307,
+  "saved_at": 1794910539,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
