@@ -15691,7 +15691,8 @@
     "eu:vlad-impalar": {
       "achievements": {
         "61997": "Novice Paladin",
-        "62031": "Novice Spelunker"
+        "62031": "Novice Spelunker",
+        "846": "Explore Thousand Needles"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/189/9497021-avatar.jpg",
       "best_item": {
@@ -15765,6 +15766,10 @@
           "name": "Veteran's Chain Helm",
           "quality": "RARE"
         },
+        "267369": {
+          "name": "Wolfsbane",
+          "quality": "RARE"
+        },
         "271211": {
           "name": "Vilewalkers",
           "quality": "RARE"
@@ -15810,19 +15815,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 29,
-      "last_explored": null,
-      "last_login": 1794866565000,
-      "level": 35,
+      "ilvl": 28,
+      "last_explored": "Thousand Needles",
+      "last_login": 1794909011000,
+      "level": 36,
       "level_at": {
-        "35": 1794866470
+        "35": 1794866470,
+        "36": 1794909306
       },
       "professions": {
         "Blacksmithing": 131,
         "Cooking": 150,
         "First Aid": 62,
         "Fishing": 148,
-        "Mining": 181
+        "Mining": 185
       },
       "race": "Undead",
       "raids": {},
@@ -16145,8 +16151,16 @@
             "name": "Mining"
           },
           {
+            "id": 2037,
+            "name": "Smelt Steel"
+          },
+          {
             "id": 3324,
             "name": "Smelt Copper"
+          },
+          {
+            "id": 5387,
+            "name": "Smelt Mithril"
           },
           {
             "id": 52643,
@@ -16162,12 +16176,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 800,
+          "raw": 850,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6321,
+          "raw": 6408,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16182,37 +16196,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 800,
+          "raw": 850,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 800,
+          "raw": 850,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6921,
+          "raw": 7008,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 800,
+          "raw": 850,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1100,
+          "raw": 1200,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6217,
+          "raw": 6567,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19761,
+          "raw": 19848,
           "tier": 5
         }
       },
@@ -16220,18 +16234,17 @@
       "stats": {
         "critters": 72,
         "deaths": 33,
-        "drinks": 12,
-        "flights": 59,
-        "food": 33,
+        "drinks": 14,
+        "flights": 61,
+        "food": 35,
         "health_potions": 20,
         "hearths": 34,
-        "killing_blows": 2179,
+        "killing_blows": 2265,
         "mana_potions": 1,
-        "mobs": 5010,
-        "need_rolls": 29,
-        "quests": 296
+        "mobs": 5100,
+        "quests": 306
       },
-      "xp": 54673
+      "xp": 18668
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -16453,6 +16466,20 @@
           "class": "Shaman",
           "level": 25
         }
+      },
+      "eu:vlad-impalar": {
+        "c": {
+          "name": "Vlad",
+          "region": "eu",
+          "surname": "Impalar"
+        },
+        "lines": [
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 36
+        }
       }
     },
     "last": null
@@ -16559,6 +16586,7 @@
     "Blackened Defias Leggings": "Geschwärzte Gamaschen der Defias",
     "Blackfathom Deeps": "Blackfathom-Tiefe",
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
+    "Blazewind Blast": "Lohenwindstoß",
     "Blessing of Kalimdor": "Segen von Kalimdor",
     "Blight Gloves": "Seuchenhandschuhe",
     "Blindwatcher's Sight": "Sicht des Blindsehers",
@@ -17382,6 +17410,7 @@
     "Windswept Slippers": "Windgepeitschte Pantoffeln",
     "Witherbite Bracers": "Welkbissarmschienen",
     "Wolfmaster Cape": "Wolfmeister Cape",
+    "Wolfsbane": "Wolfsbann",
     "Wooden Mallet": "Hölzerner Schlaghammer",
     "Worgenbane": "Worgenbann",
     "Worgenbane Talisman": "Worgenbann-Talisman",
@@ -18246,7 +18275,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794908693,
+  "saved_at": 1794909307,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
