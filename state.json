@@ -5913,6 +5913,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "16887": {
+          "name": "Witch's Finger",
+          "quality": "RARE"
+        },
         "251534": {
           "name": "Gnarled Necromancer's Staff",
           "quality": "RARE"
@@ -5952,7 +5956,7 @@
       },
       "ilvl": 28,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794923449000,
+      "last_login": 1794932220000,
       "level": 30,
       "level_at": {
         "28": 1794866470,
@@ -6409,20 +6413,20 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 46,
-        "deaths": 12,
-        "drinks": 399,
-        "flights": 32,
-        "food": 126,
+        "critters": 50,
+        "deaths": 13,
+        "drinks": 424,
+        "flights": 35,
+        "food": 127,
         "health_potions": 15,
-        "hearths": 12,
+        "hearths": 13,
         "honorable_kills": 4,
-        "killing_blows": 1288,
+        "killing_blows": 1298,
         "mana_potions": 7,
-        "mobs": 3008,
-        "quests": 198
+        "mobs": 3096,
+        "quests": 199
       },
-      "xp": 7306
+      "xp": 21844
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -9165,15 +9169,16 @@
       "achievements": {
         "62003": "Novice Rogue",
         "62009": "Novice Warlock",
+        "62031": "Novice Spelunker",
         "780": "Explore Redridge Mountains"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 16886,
-        "ilvl": 32,
-        "name": "Outlaw Sabre",
-        "quality": "RARE",
-        "slot": "Main Hand"
+        "id": 280766,
+        "ilvl": 33,
+        "name": "Satchel of Potions",
+        "quality": "UNCOMMON",
+        "slot": "Trinket 1"
       },
       "boss_kills": {
         "1092": {
@@ -9255,20 +9260,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1794907455000,
-      "level": 28,
+      "last_login": 1794932704000,
+      "level": 29,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
-        "28": 1794907721
+        "28": 1794907721,
+        "29": 1794932961
       },
       "professions": {
         "Cooking": 115,
         "First Aid": 150,
-        "Leatherworking": 116,
-        "Skinning": 190
+        "Leatherworking": 118,
+        "Skinning": 200
       },
       "race": "Undead",
       "raids": {},
@@ -9345,9 +9351,17 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 54502,
+            "name": "Twice-Spiced Raptor Slice"
           }
         ],
         "First Aid": [
+          {
+            "id": 4414,
+            "name": "Silk Bandage"
+          },
           {
             "id": 1838,
             "name": "Linen Bandage"
@@ -9581,9 +9595,14 @@
           "raw": 1116,
           "tier": 3
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4222,
+          "raw": 4341,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9601,6 +9620,11 @@
           "raw": 1116,
           "tier": 3
         },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Gadgetzan": {
           "name": "Neutral",
           "raw": 1116,
@@ -9608,7 +9632,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5291,
+          "raw": 5410,
           "tier": 4
         },
         "Powderfuse": {
@@ -9623,35 +9647,40 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3110,
+          "raw": 3228,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13143,
+          "raw": 13618,
           "tier": 5
         },
         "Warsong Outriders": {
           "name": "Neutral",
           "raw": 45,
           "tier": 3
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Combat",
       "stats": {
-        "critters": 44,
-        "deaths": 12,
+        "critters": 48,
+        "deaths": 22,
         "drinks": 21,
-        "flights": 38,
-        "food": 105,
-        "health_potions": 15,
-        "hearths": 9,
-        "honorable_kills": 56,
-        "killing_blows": 1589,
-        "mobs": 2522,
-        "quests": 181
+        "flights": 40,
+        "food": 115,
+        "health_potions": 16,
+        "hearths": 10,
+        "honorable_kills": 113,
+        "killing_blows": 1713,
+        "mobs": 2693,
+        "quests": 191
       },
-      "xp": 7109
+      "xp": 21183
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -16603,11 +16632,12 @@
         },
         "lines": [
           "🛠️ **Kochkunst** auf 75",
-          "🛠️ **Erste Hilfe** auf 150"
+          "🛠️ **Erste Hilfe** auf 150",
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
         ],
         "snap": {
           "class": "Rogue",
-          "level": 28
+          "level": 29
         }
       },
       "eu:lazy-quinn": {
@@ -16970,6 +17000,7 @@
     "Feral Instinct": "Instinkt der Wildnis",
     "Feral Swiftness": "Schnelligkeit der Wildnis",
     "Ferocity": "Wildheit",
+    "Fighter Broadsword of the Elder": "Kämpferbreitschwert des Ältesten",
     "Fine Leather Belt": "Feiner Ledergürtel",
     "Fine Leather Tunic": "Feine Ledertunika",
     "Finscale Soles": "Flossenschuppensohlen",
@@ -17002,6 +17033,7 @@
     "Friendly": "Freundlich",
     "Frost Damage": "Frostschaden",
     "Frost Resistance": "Frostwiderstand",
+    "Frostwolf Clan": "Frostwolfklan",
     "Furor": "Ingrimm",
     "Furred Belt": "Fellbesetzter Gürtel",
     "Furs of the Earthen Ring": "Felle des Irdenen Rings",
@@ -17112,6 +17144,7 @@
     "Improved Scorch": "Verbessertes Versengen",
     "Improved Seals": "Verbesserte Siegel",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
+    "Improved Sprint": "Verbessertes Sprinten",
     "Improved Sunder Armor": "Verbessertes Rüstung zerreißen",
     "Improved Thunder Clap": "Verbesserter Donnerknall",
     "Improved Wrath": "Verbesserter Zorn",
@@ -17120,6 +17153,7 @@
     "Inscribed Leather Boots": "Gravierte Lederstiefel",
     "Insect Swarm": "Insektenschwarm",
     "Instant Poison": "Sofort wirkendes Gift",
+    "Instant Poison II": "Sofort wirkendes Gift II",
     "Intellect": "Intelligenz",
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
@@ -17590,6 +17624,7 @@
     "Windshaper Skyborne": "Himmelsgeborener der Windformer",
     "Windshapers": "Windformer",
     "Windswept Slippers": "Windgepeitschte Pantoffeln",
+    "Witch's Finger": "Hexenfinger",
     "Witherbite Bracers": "Welkbissarmschienen",
     "Wolfmaster Cape": "Wolfmeister Cape",
     "Wolfsbane": "Wolfsbann",
@@ -18483,7 +18518,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794932276,
+  "saved_at": 1794932962,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
