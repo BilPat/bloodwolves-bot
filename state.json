@@ -5691,20 +5691,21 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 2,
+      "ilvl": 3,
       "last_explored": "Durotar",
-      "last_login": 1794942297000,
-      "level": 12,
+      "last_login": 1794943749000,
+      "level": 13,
       "level_at": {
         "11": 1794866470,
-        "12": 1794914073
+        "12": 1794914073,
+        "13": 1794944402
       },
       "professions": {
         "Alchemy": 55,
         "Cooking": 32,
         "First Aid": 38,
         "Fishing": 64,
-        "Herbalism": 78
+        "Herbalism": 81
       },
       "race": "Orc",
       "raids": {},
@@ -5827,17 +5828,17 @@
       "reputations": {
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6572,
+          "raw": 6772,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7860,
+          "raw": 8060,
           "tier": 4
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 800,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -5857,12 +5858,12 @@
         "drinks": 4,
         "food": 16,
         "health_potions": 3,
-        "hearths": 1,
-        "killing_blows": 325,
-        "mobs": 329,
-        "quests": 61
+        "hearths": 2,
+        "killing_blows": 353,
+        "mobs": 358,
+        "quests": 63
       },
-      "xp": 9804
+      "xp": 3220
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -13597,7 +13598,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794933703000,
+      "last_login": 1794944322000,
       "level": 11,
       "level_at": {
         "11": 1794866470
@@ -16849,6 +16850,7 @@
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
     "Blast Wave": "Druckwelle",
     "Blazewind Blast": "Lohenwindstoß",
+    "Blemished Wooden Staff": "Verunstalteter Holzstab",
     "Blessing of Kalimdor": "Segen von Kalimdor",
     "Blight Gloves": "Seuchenhandschuhe",
     "Blindwatcher's Sight": "Sicht des Blindsehers",
@@ -18602,7 +18604,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794943489,
+  "saved_at": 1794944404,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
