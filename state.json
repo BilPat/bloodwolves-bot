@@ -3555,6 +3555,10 @@
           "name": "Band of Purification",
           "quality": "RARE"
         },
+        "251534": {
+          "name": "Gnarled Necromancer's Staff",
+          "quality": "RARE"
+        },
         "271207": {
           "name": "Rotmender's Leggings",
           "quality": "RARE"
@@ -3582,7 +3586,7 @@
       },
       "ilvl": 18,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1794787785000,
+      "last_login": 1794873920000,
       "level": 22,
       "level_at": {
         "22": 1794866470
@@ -4229,7 +4233,6 @@
         "killing_blows": 763,
         "mana_potions": 18,
         "mobs": 2408,
-        "need_rolls": 16,
         "quests": 137
       },
       "xp": 22168
@@ -15840,6 +15843,17 @@
       "xp": 7323
     }
   },
+  "craft_board": {
+    "message_ids": [
+      "1572047652407738510",
+      "1572047653674557471",
+      "1572047654446301312"
+    ]
+  },
+  "daily_digest": {
+    "items": {},
+    "last": null
+  },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
     "Aboriginal Cape": "Ureinwohnercape",
@@ -17538,13 +17552,10 @@
       }
     ],
     "message_ids": [
-      "1572013766948683852",
-      "1572013768588918965",
-      "1572013770069512325",
-      "1572013773110386699"
+      "1572047649069207714"
     ]
   },
-  "saved_at": 1794873678,
+  "saved_at": 1794875768,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
