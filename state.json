@@ -9489,6 +9489,11 @@
           "count": 1,
           "instance": "Razorfen Downs"
         },
+        "6142": {
+          "boss": "Archaedas",
+          "count": 1,
+          "instance": "Uldaman"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 2,
@@ -9541,16 +9546,17 @@
       },
       "ilvl": 42,
       "last_explored": "Riverglades",
-      "last_login": 1794864269000,
-      "level": 45,
+      "last_login": 1794881724000,
+      "level": 46,
       "level_at": {
-        "45": 1794866470
+        "45": 1794866470,
+        "46": 1794882018
       },
       "professions": {
         "Cooking": 243,
         "First Aid": 225,
         "Fishing": 155,
-        "Herbalism": 262,
+        "Herbalism": 269,
         "Tailoring": 200
       },
       "race": "Tauren",
@@ -10097,7 +10103,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4269,
+          "raw": 4421,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -10107,7 +10113,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10992,
+          "raw": 11586,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -10122,37 +10128,37 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3799,
+          "raw": 3949,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3826,
+          "raw": 3976,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13782,
+          "raw": 14162,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4694,
+          "raw": 4991,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5405,
+          "raw": 5555,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19147,
+          "raw": 19516,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12257,
+          "raw": 12656,
           "tier": 5
         }
       },
@@ -10160,18 +10166,17 @@
       "stats": {
         "critters": 95,
         "deaths": 36,
-        "drinks": 118,
-        "flights": 154,
-        "food": 197,
+        "drinks": 128,
+        "flights": 165,
+        "food": 203,
         "health_potions": 67,
         "hearths": 38,
-        "killing_blows": 3696,
+        "killing_blows": 3824,
         "mana_potions": 6,
-        "mobs": 6468,
-        "need_rolls": 25,
-        "quests": 528
+        "mobs": 6768,
+        "quests": 553
       },
-      "xp": 87551
+      "xp": 71201
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -10416,11 +10421,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/54/59142454-avatar.jpg",
       "best_item": {
-        "id": 5312,
-        "ilvl": 21,
-        "name": "Riveted Gauntlets",
+        "id": 276886,
+        "ilvl": 24,
+        "name": "Chol'aruk's Trophy Sword",
         "quality": "UNCOMMON",
-        "slot": "Hands"
+        "slot": "Main Hand"
       },
       "boss_kills": {},
       "class": "Warrior",
@@ -10429,17 +10434,18 @@
       "gear": {},
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1794828615000,
-      "level": 20,
+      "last_login": 1794881033000,
+      "level": 22,
       "level_at": {
-        "20": 1794866470
+        "20": 1794866470,
+        "22": 1794882018
       },
       "professions": {
         "Blacksmithing": 85,
         "Cooking": 36,
         "First Aid": 79,
         "Fishing": 20,
-        "Mining": 103
+        "Mining": 106
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -10694,12 +10700,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1837,
+          "raw": 1851,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3280,
+          "raw": 3920,
           "tier": 4
         },
         "Earthen Ring": {
@@ -10709,12 +10715,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1837,
+          "raw": 1851,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1837,
+          "raw": 1851,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -10724,27 +10730,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5537,
+          "raw": 6346,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1837,
+          "raw": 1851,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3174,
+          "raw": 3203,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4276,
+          "raw": 5411,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1586,
+          "raw": 2957,
           "tier": 3
         },
         "Windshapers": {
@@ -10755,18 +10761,17 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 4,
-        "deaths": 2,
-        "flights": 10,
-        "food": 21,
-        "health_potions": 12,
+        "critters": 5,
+        "deaths": 3,
+        "flights": 18,
+        "food": 26,
+        "health_potions": 13,
         "hearths": 9,
-        "killing_blows": 914,
-        "mobs": 1167,
-        "need_rolls": 2,
-        "quests": 166
+        "killing_blows": 1142,
+        "mobs": 1422,
+        "quests": 202
       },
-      "xp": 11696
+      "xp": 7719
     },
     "eu:lazy-quinn": {
       "achievements": {
@@ -15916,6 +15921,8 @@
     "Arcane Resistance": "Arkanwiderstand",
     "Arcane Wrath": "Arkaner Zorn",
     "Arced War Axe": "Gekrümmte Kriegsaxt",
+    "Archaedas": "Archaedas",
+    "Archaedas kills (Uldaman)": "Siege über Archaedas (Uldaman)",
     "Archmage Arugal": "Erzmagier Arugal",
     "Archmage Arugal kills (Shadowfang Keep)": "Siege über Erzmagier Arugal (Burg Schattenfang)",
     "Arctic Buckler": "Arktischer Rundschild",
@@ -16540,6 +16547,7 @@
     "Rough Bronze Leggings": "Raue bronzene Gamaschen",
     "Rough Bronze Shoulders": "Raue bronzene Schultern",
     "Rough-hewn Kodo Leggings": "Grobgehauene Kodogamaschen",
+    "Ruga's Bulwark": "Rugas Bollwerk",
     "Rugged Mail Vest": "Unverwüstliche Panzerweste",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
     "Runed Copper Belt": "Runenverzierter Kupfergürtel",
@@ -16814,11 +16822,23 @@
         "Scarlet Monastery: Cathedral": "eu:krakmor-ci%C3%B3rdan",
         "Shadowfang Keep": "eu:krakmor-ci%C3%B3rdan",
         "The Deadmines": "eu:vlad-impalar",
+        "Uldaman": [
+          "eu:krakmor-ci%C3%B3rdan"
+        ],
         "Wailing Caverns": "eu:krakmor-ci%C3%B3rdan"
       },
       "raid": {}
     },
-    "firsts_pending": {},
+    "firsts_pending": {
+      "dungeon|Uldaman": {
+        "keys": [
+          "eu:krakmor-ci%C3%B3rdan"
+        ],
+        "kind": "dungeon",
+        "since": 1794882018,
+        "what": "Uldaman"
+      }
+    },
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -17610,7 +17630,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794880497,
+  "saved_at": 1794882019,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
