@@ -194,10 +194,8 @@ def api_get(region, path, token, namespace, locale="en_US"):
                           {"Authorization": f"Bearer {token}"})
             if s2 == 200:
                 harvest_german(body, b2)
-            elif path.endswith("/achievements"):
-                print(f"[info] de_DE {path.rsplit('/', 2)[-2]}/achievements: HTTP {s2}")
-        except Exception as err:  # deutsche Namen sind nur Kosmetik
-            print(f"[info] de_DE {path.rsplit('/', 1)[-1]}: {type(err).__name__}: {err}"[:200])
+        except Exception:  # deutsche Namen sind nur Kosmetik
+            pass
     return status, body
 
 
@@ -255,9 +253,35 @@ def harvest_german(en, de):
                 harvest_german(a, b)
 
 
+# Gebiete: Blizzard liefert die Erkundungs-Erfolge in Forever (noch) nicht auf Deutsch.
+ZONE_DE = {
+    "Elwynn Forest": "Wald von Elwynn", "Redridge Mountains": "Rotkammgebirge", "Duskwood": "Dämmerwald",
+    "Stranglethorn Vale": "Schlingendorntal", "Wetlands": "Sumpfland", "Arathi Highlands": "Arathihochland",
+    "Hillsbrad Foothills": "Vorgebirge des Hügellands", "Alterac Mountains": "Alteracgebirge",
+    "Tirisfal Glades": "Tirisfal", "Silverpine Forest": "Silberwald", "Western Plaguelands": "Westliche Pestländer",
+    "Eastern Plaguelands": "Östliche Pestländer", "The Hinterlands": "Hinterland", "Badlands": "Ödland",
+    "Searing Gorge": "Sengende Schlucht", "Burning Steppes": "Brennende Steppe", "Blasted Lands": "Verwüstete Lande",
+    "Swamp of Sorrows": "Sümpfe des Elends", "Deadwind Pass": "Gebirgspass der Totenwinde",
+    "The Barrens": "Brachland", "Darkshore": "Dunkelküste", "Ashenvale": "Eschental",
+    "Stonetalon Mountains": "Steinkrallengebirge", "Thousand Needles": "Tausend Nadeln",
+    "Dustwallow Marsh": "Düstermarschen", "Un'Goro Crater": "Krater von Un'Goro", "Felwood": "Teufelswald",
+    "Winterspring": "Winterquell", "Moonglade": "Mondlichtung", "Thunder Bluff": "Donnerfels",
+    "Undercity": "Unterstadt", "Stormwind City": "Sturmwind", "Ironforge": "Eisenschmiede",
+}
+
+
 def de(name):
     """Deutscher Name, wenn Blizzard ihn schon einmal geliefert hat, sonst der englische."""
-    return GERMAN.get(name, name) if isinstance(name, str) else name
+    if not isinstance(name, str):
+        return name
+    if name in GERMAN:
+        return GERMAN[name]
+    if name in ZONE_DE:
+        return ZONE_DE[name]
+    m = re.match(r"^Explore (.+)$", name)
+    if m:
+        return "Erkundet " + de(m.group(1))
+    return name
 
 
 def guild_slug(name):
