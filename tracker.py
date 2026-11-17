@@ -131,6 +131,15 @@ DEFAULT_SETTINGS = {
     "guild_first_repost": [],          # one-time: [["dungeon", "Wailing Caverns"], ...] re-held with everyone who has it
     "roster_board": True,
     "announce_guild_changes": True,
+    # --- Bloodwolves: Begrüßung, Gruppenvorschläge, Offiziere
+    "welcome_help_channel": "",        # Kanal-ID für "Fragen gerne in #…" in der Begrüßung
+    "group_board_hour": 18,            # ab dieser Uhrzeit (lokal) einmal täglich neue Gruppenvorschläge
+    "group_board_active_days": 7,      # nur wer in diesen Tagen online war
+    "group_board_min": 5,              # Dungeon erst ab so vielen passenden Leuten zeigen
+    "group_board_skip": ["The Stockade"],  # für die Horde nicht erreichbar
+    "promote_rank": 3,                 # Rang-Index der Initianden
+    "promote_min_level": 20,           # ab diesem Level als Beförderung vorschlagen
+    "officer_away_days": 30,           # Offiziers-Übersicht: länger offline als …
 }
 
 GUILD_DEFAULTS = {"slug": "", "region": "us", "min_level": 1, "ranks": None}
@@ -1421,6 +1430,164 @@ def upsert_roster_board(webhook, embeds_list, state, key="roster"):
     return new_ids
 
 
+# ---------------------------------------------------------------- Bloodwolves: Begrüßung, Gruppen, Offiziere
+
+def welcome_embed(m, snap, settings):
+    """Begrüßungskarte für ein neues Gildenmitglied (Klasse aus den Charakterdaten, sobald vorhanden)."""
+    snap = snap or {}
+    cls = snap.get("class") or m.get("class")
+    level = snap.get("level") or m.get("level")
+    who = " ".join(x for x in (f"Level {level}" if level else "", de(cls) if cls else "") if x)
+    text = f"**{display_name(m)}** ist neu in der Gilde" + (f" · {who}" if who else "") + ".\nSchön, dass du da bist!"
+    help_ch = str(settings.get("welcome_help_channel") or "").strip()
+    if help_ch:
+        text += f" Fragen gerne in <#{help_ch}>."
+    return {"title": "Willkommen bei den Bloodwolves!", "description": text,
+            "color": CLASS_COLORS.get(cls, ROSTER_COLOR), "timestamp": datetime.now(timezone.utc).isoformat()}
+
+
+DUNGEON_DE = {
+    "Ragefire Chasm": "Flammenschlund", "Wailing Caverns": "Höhlen des Wehklagens", "The Deadmines": "Todesminen",
+    "Shadowfang Keep": "Burg Schattenfang", "Blackfathom Deeps": "Tiefschwarze Grotte", "The Stockade": "Das Verlies",
+    "Gnomeregan": "Gnomeregan", "Razorfen Kraul": "Kral der Klingenhauer",
+    "Scarlet Monastery: Graveyard": "Scharlachrotes Kloster: Friedhof",
+    "Scarlet Monastery: Library": "Scharlachrotes Kloster: Bibliothek",
+    "Scarlet Monastery: Armory": "Scharlachrotes Kloster: Waffenkammer",
+    "Scarlet Monastery: Cathedral": "Scharlachrotes Kloster: Kathedrale",
+    "Razorfen Downs": "Hügel der Klingenhauer", "Uldaman": "Uldaman", "Zul'Farrak": "Zul'Farrak", "Maraudon": "Maraudon",
+    "Sunken Temple": "Versunkener Tempel", "Blackrock Depths": "Schwarzfelstiefen",
+    "Dire Maul: East": "Düsterbruch: Ost", "Dire Maul: North": "Düsterbruch: Nord", "Dire Maul: West": "Düsterbruch: West",
+    "Lower Blackrock Spire": "Untere Schwarzfelsspitze", "Upper Blackrock Spire": "Obere Schwarzfelsspitze",
+    "Scholomance": "Scholomance", "Stratholme: Main Gate": "Stratholme: Haupttor",
+    "Stratholme: Service Gate": "Stratholme: Dienstboteneingang",
+}
+
+
+def build_group_board(entries, settings, now_ts):
+    """
+    Gruppenvorschläge: für jeden Dungeon, wer zuletzt online war und vom Level passt,
+    nach Rolle. Ein Embed, ein Feld pro Dungeon. None, wenn nirgends genug Leute passen.
+    """
+    days = int(settings.get("group_board_active_days") or 7)
+    minimum = int(settings.get("group_board_min") or 3)
+    active = [(c, s) for c, s in entries
+              if s.get("level") and s.get("last_login") and now_ts - s["last_login"] / 1000 < days * 86400]
+    fields = []
+    skip = set(settings.get("group_board_skip") or [])
+    for d in (load_json(DUNGEONS_PATH, {}).get("dungeons") or []):
+        if d.get("name") in skip:
+            continue
+        try:
+            lo, hi = (int(x) for x in str(d.get("levels") or "").split("-"))
+        except ValueError:
+            continue
+        fits = sorted(((c, s) for c, s in active if lo <= s["level"] <= hi), key=lambda cs: -cs[1]["level"])
+        if len(fits) < minimum:
+            continue
+        roles = {"Tank": [], "Healer": [], "DPS": []}
+        for c, s in fits:
+            roles[raid_role(s)].append(c["name"])
+        ok = roles["Tank"] and roles["Healer"] and len(fits) >= 5
+        missing = [w for w, r in (("Tank", "Tank"), ("Heiler", "Healer")) if not roles[r]]
+        parts = [f"🛡️ {', '.join(roles['Tank'])}" if roles["Tank"] else "🛡️ –",
+                 f"💚 {', '.join(roles['Healer'])}" if roles["Healer"] else "💚 –",
+                 f"⚔️ {len(roles['DPS'])} DPS"]
+        value = " · ".join(parts)
+        if missing:
+            value += f"\nEs fehlt: {' und '.join(missing)}"
+        name = DUNGEON_DE.get(d["name"]) or de(d["name"])
+        fields.append({"name": f"{'✅' if ok else '⏳'} {name} · Level {lo}–{hi} · {len(fits)} Leute",
+                       "value": value[:1024], "inline": False})
+    if not fields:
+        return None
+    return {
+        "title": "Gruppenvorschläge für Dungeons",
+        "description": (f"Wer in den letzten {days} Tagen online war und vom Level passt.\n"
+                        "✅ Tank, Heiler und genug Leute für eine Gruppe sind da · ⏳ noch nicht ganz"),
+        "color": 0xE67E22,
+        "fields": fields[:25],
+        "footer": {"text": "Rolle nach Talentverteilung · neue Vorschläge jeden Tag um "
+                           f"{int(settings.get('group_board_hour', 18))} Uhr"},
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+
+
+def post_group_board(webhook, embed, state, local_now, settings):
+    """Einmal täglich: alte Vorschläge löschen, neue unten im Kanal posten."""
+    gb = state.setdefault("group_board", {})
+    today = local_now.date().isoformat()
+    first = gb.get("last") is None
+    if not first and (gb.get("last") == today or local_now.hour < int(settings.get("group_board_hour", 18))):
+        return False
+    base = webhook.split("?")[0]
+    if gb.get("message_id"):
+        http("DELETE", f"{base}/messages/{gb['message_id']}", {}, None)
+        gb["message_id"] = None
+    gb["last"] = today
+    if not embed:
+        return False
+    status, body = http("POST", f"{base}?wait=true", {"Content-Type": "application/json"},
+                        json.dumps({"username": "Bloodwolves", "flags": 4096, "embeds": [fit_embed(embed)],
+                                    "allowed_mentions": {"parse": []}}).encode())
+    if status not in (200, 204) or not isinstance(body, dict):
+        raise RuntimeError(f"Gruppenvorschläge fehlgeschlagen (HTTP {status}): {body}")
+    gb["message_id"] = body.get("id")
+    return True
+
+
+def build_officer_board(keyed, state, settings, now_ts):
+    """Offiziers-Übersicht: Beförderungen, lange offline, ohne Blizzard-Daten, zuletzt ausgetreten."""
+    promote_rank = int(settings.get("promote_rank", 3))
+    promote_level = int(settings.get("promote_min_level") or 20)
+    away_days = int(settings.get("officer_away_days") or 30)
+    promote, away, missing = [], [], []
+    for c, key in keyed:
+        if not c.get("guild"):
+            continue
+        snap = state["characters"].get(key)
+        level = (snap or {}).get("level") or c.get("level") or 0
+        cls = de((snap or {}).get("class") or c.get("class") or "")
+        if not snap:
+            missing.append(f"{display_name(c)} · Level {level or '?'} {cls}".strip())
+            continue
+        if c.get("rank") == promote_rank and level >= promote_level:
+            since = snap.get("first_seen")
+            extra = f" · erfasst seit {datetime.fromtimestamp(since, local_zone(settings)).strftime('%d.%m.')}" if since else ""
+            promote.append((level, f"**{display_name(c)}** · Level {level} {cls}{extra}"))
+        ll = snap.get("last_login")
+        if ll and now_ts - ll / 1000 > away_days * 86400:
+            ago = int((now_ts - ll / 1000) // 86400)
+            away.append((ago, f"**{display_name(c)}** · Level {level} {cls} · {ago} Tage"))
+    rank_name = (settings.get("_rank_names") or {}).get(str(promote_rank), "Initianden")
+    fields = []
+
+    def add(title, rows, empty):
+        if not rows:
+            fields.append({"name": title, "value": empty, "inline": False})
+            return
+        for i, chunk in enumerate(split_fields(title, rows)):
+            fields.append(chunk)
+
+    add(f"⬆️ {rank_name} ab Level {promote_level} · {len(promote)}",
+        [r for _, r in sorted(promote, key=lambda r: -r[0])], "Niemand")
+    add(f"💤 Länger als {away_days} Tage offline · {len(away)}",
+        [r for _, r in sorted(away, key=lambda r: -r[0])], "Niemand")
+    add(f"❓ Noch keine Daten von Blizzard · {len(missing)}", sorted(missing),
+        "Alle da")
+    left = (state.get("roster") or {}).get("left_log") or []
+    add("👋 Zuletzt ausgetreten",
+        [f"{e['name']} · {datetime.fromtimestamp(e['ts'], local_zone(settings)).strftime('%d.%m.')}" for e in left[:10]],
+        "Seit Beginn der Erfassung niemand")
+    return {
+        "title": "Offiziersübersicht",
+        "description": ("Nur für Offiziere. Wird alle 15 Minuten aktualisiert.\n"
+                        "Charaktere ohne Daten tauchen ab Level 10 bzw. nach dem nächsten Ausloggen auf."),
+        "color": 0x34495E,
+        "fields": fields[:25],
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+
+
 # ---------------------------------------------------------------- Weekly recap
 
 def local_zone(settings):
@@ -1775,6 +1942,13 @@ def post_queue_item(item, kind, webhook, staff_hook, news_hook):
     elif kind == "news":
         if news_hook:
             post_to_discord(news_hook, item["embeds"])
+    elif kind == "welcome":
+        hook = os.environ.get("DISCORD_WELCOME_WEBHOOK_URL", "").strip()
+        if hook:
+            post_to_discord(hook, item["embeds"])
+    elif kind == "staff":
+        if staff_hook:
+            post_to_discord(staff_hook, item["embeds"])
 
 
 def save_state(state):
@@ -1892,6 +2066,7 @@ def main():
 
     token = get_token(client_id, client_secret)
     embeds, hype_embeds, digest_items, unavailable = [], [], [], []
+    welcome_embeds, staff_embeds, joined_members = [], [], []
     held_firsts = state["group"].setdefault("firsts_pending", {})  # "kind|what" -> {kind, what, keys, since}
     hype_events = set(settings.get("hype_events") or [])
     firsts_will_post = "guild_first" in hype_events and len(state.get("characters") or {}) >= int(settings.get("guild_first_min_tracked") or 0)
@@ -1930,6 +2105,25 @@ def main():
             for slug, name in sorted(seen_before.items(), key=lambda kv: kv[1]):
                 if slug not in now_members:
                     lines.append(f"👋 **{name}** hat die Gilde verlassen")
+            welcome_hook_set = bool(os.environ.get("DISCORD_WELCOME_WEBHOOK_URL", "").strip())
+            staff_hook_set = bool(os.environ.get("DISCORD_STAFF_WEBHOOK_URL", "").strip())
+            by_slug = {char_slug(m): m for m in guild_members}
+            left_log = roster_state.setdefault("left_log", [])
+            for slug, name in sorted(seen_before.items(), key=lambda kv: kv[1]):
+                if slug not in now_members:
+                    left_log.insert(0, {"name": name, "ts": int(time.time())})
+            del left_log[20:]
+            if welcome_hook_set:
+                for slug, name in sorted(now_members.items(), key=lambda kv: kv[1]):
+                    if slug not in seen_before:
+                        joined_members.append(by_slug.get(slug) or {"name": name, "region": default_region})
+                lines = [l for l in lines if not l.startswith("🛡️")]
+            if staff_hook_set:
+                gone = [l for l in lines if l.startswith("👋")]
+                if gone:
+                    staff_embeds.append({"title": "Gilde verlassen", "description": "\n".join(l.replace("👋 ", "") for l in gone[:40]),
+                                         "color": 0x95A5A6, "timestamp": datetime.now(timezone.utc).isoformat()})
+                lines = [l for l in lines if not l.startswith("👋")]
             if lines:
                 joined = [l for l in lines if l.startswith("🛡️")]
                 card = {"title": "Gildenmitglieder", "description": "\n".join(l.replace("🛡️ ", "").replace("👋 ", "") for l in lines[:40]),
@@ -2198,7 +2392,25 @@ def main():
             else:
                 roster_embed = [build_roster_board(entries, settings, settings["max_level"])] + build_professions_board(entries, settings)
 
+    for m in joined_members:
+        snap = state["characters"].get(f"{(m.get('region') or default_region).lower()}:{char_slug(m)}")
+        welcome_embeds.append(welcome_embed(m, snap, settings))
+    group_embed, officer_embed = None, None
+    entries_all = [(c, state["characters"][key]) for c, key in keyed if key in state["characters"]]
+    if os.environ.get("DISCORD_DUNGEON_WEBHOOK_URL", "").strip() or args.dry_run:
+        group_embed = build_group_board(entries_all, settings, time.time())
+    if os.environ.get("DISCORD_STAFF_WEBHOOK_URL", "").strip() or args.dry_run:
+        settings["_rank_names"] = {str(k): v for k, v in (guild.get("rank_names") or {}).items()}
+        officer_embed = build_officer_board(keyed, state, settings, time.time())
+
     if args.dry_run:
+        print("== welcome ==")
+        print(json.dumps(welcome_embeds, indent=2, ensure_ascii=False))
+        print("== officers ==")
+        print(json.dumps(staff_embeds, indent=2, ensure_ascii=False))
+        print(json.dumps(officer_embed, indent=2, ensure_ascii=False))
+        print("== groups ==")
+        print(json.dumps(group_embed, indent=2, ensure_ascii=False))
         print("== hype ==")
         print(json.dumps(hype_embeds, indent=2, ensure_ascii=False) if hype_embeds else "[dry run] No hype.")
         print("== updates ==")
@@ -2221,6 +2433,10 @@ def main():
         print(f"[info] {len(queue)} post(s) left over from an earlier run")
     if hype_embeds:
         queue.append({"kind": "hype", "embeds": hype_embeds, "ping": ping_role})
+    for e in welcome_embeds:  # eine Nachricht pro Begrüßung
+        queue.append({"kind": "welcome", "embeds": [e]})
+    if staff_embeds:
+        queue.append({"kind": "staff", "embeds": staff_embeds[:10]})
     if embeds:
         queue.append({"kind": "updates", "embeds": embeds})
     if recap:
@@ -2228,7 +2444,7 @@ def main():
         size = len(json.dumps(recap, ensure_ascii=False))
         for part in ([recap] if size < 5500 else [[e] for e in recap]):
             queue.append({"kind": "recap", "embeds": part})
-    if inactive:
+    if inactive and not os.environ.get("DISCORD_STAFF_WEBHOOK_URL", "").strip():
         queue.append({"kind": "inactive", "embeds": [inactive]})
     news_hook = os.environ.get("DISCORD_NEWS_WEBHOOK_URL", "").strip()
     if settings.get("news_feed") and news_hook:
@@ -2287,6 +2503,21 @@ def main():
             print("Professions board refreshed.")
         except Exception as err:
             print(f"[warn] professions board: {err}")
+        save_state(state)
+    if officer_embed and staff_hook:
+        try:
+            upsert_roster_board(staff_hook, [officer_embed], state, key="officer_board")
+            print("Officer board refreshed.")
+        except Exception as err:
+            print(f"[warn] officer board: {err}")
+        save_state(state)
+    dungeon_hook = os.environ.get("DISCORD_DUNGEON_WEBHOOK_URL", "").strip()
+    if dungeon_hook:
+        try:
+            if post_group_board(dungeon_hook, group_embed, state, datetime.now(timezone.utc).astimezone(local_zone(settings)), settings):
+                print("Posted group suggestions.")
+        except Exception as err:
+            print(f"[warn] group board: {err}")
         save_state(state)
 
 
