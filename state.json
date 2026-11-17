@@ -15870,9 +15870,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1794909011000,
+      "last_login": 1794916179000,
       "level": 36,
       "level_at": {
         "35": 1794866470,
@@ -15882,8 +15882,8 @@
         "Blacksmithing": 131,
         "Cooking": 150,
         "First Aid": 62,
-        "Fishing": 148,
-        "Mining": 185
+        "Fishing": 151,
+        "Mining": 186
       },
       "race": "Undead",
       "raids": {},
@@ -16229,14 +16229,19 @@
           "raw": 1250,
           "tier": 3
         },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -6625,
+          "tier": 0
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 850,
+          "raw": 900,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6408,
+          "raw": 6427,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16251,37 +16256,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 850,
+          "raw": 887,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 850,
+          "raw": 887,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7008,
+          "raw": 7027,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 850,
+          "raw": 887,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1200,
+          "raw": 1262,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6567,
+          "raw": 6642,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19848,
+          "raw": 19867,
           "tier": 5
         }
       },
@@ -16290,16 +16295,16 @@
         "critters": 72,
         "deaths": 33,
         "drinks": 14,
-        "flights": 61,
+        "flights": 63,
         "food": 35,
         "health_potions": 20,
-        "hearths": 34,
-        "killing_blows": 2265,
+        "hearths": 35,
+        "killing_blows": 2266,
         "mana_potions": 1,
-        "mobs": 5100,
-        "quests": 306
+        "mobs": 5101,
+        "quests": 311
       },
-      "xp": 18668
+      "xp": 25859
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -16529,7 +16534,8 @@
           "surname": "Impalar"
         },
         "lines": [
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
+          "🛠️ **Angeln** auf 150"
         ],
         "snap": {
           "class": "Paladin",
@@ -18337,7 +18343,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794915579,
+  "saved_at": 1794916464,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
