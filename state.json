@@ -9214,15 +9214,16 @@
         "62003": "Novice Rogue",
         "62009": "Novice Warlock",
         "62031": "Novice Spelunker",
-        "780": "Explore Redridge Mountains"
+        "780": "Explore Redridge Mountains",
+        "846": "Explore Thousand Needles"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 280766,
-        "ilvl": 33,
-        "name": "Satchel of Potions",
-        "quality": "UNCOMMON",
-        "slot": "Trinket 2"
+        "id": 274084,
+        "ilvl": 36,
+        "name": "Quilboar Blaster",
+        "quality": "RARE",
+        "slot": "Ranged"
       },
       "boss_kills": {
         "1092": {
@@ -9244,6 +9245,11 @@
           "boss": "Aku'mai",
           "count": 1,
           "instance": "Blackfathom Deeps"
+        },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -9283,6 +9289,10 @@
           "name": "Cursed Murloc Eye",
           "quality": "RARE"
         },
+        "274084": {
+          "name": "Quilboar Blaster",
+          "quality": "RARE"
+        },
         "4253": {
           "name": "Toughened Leather Gloves",
           "quality": "RARE"
@@ -9305,21 +9315,22 @@
         }
       },
       "ilvl": 26,
-      "last_explored": "Redridge Mountains",
-      "last_login": 1794939973000,
-      "level": 30,
+      "last_explored": "Thousand Needles",
+      "last_login": 1794949954000,
+      "level": 31,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
         "28": 1794907721,
         "29": 1794932961,
-        "30": 1794940259
+        "30": 1794940259,
+        "31": 1794950040
       },
       "professions": {
         "Cooking": 115,
         "First Aid": 150,
         "Leatherworking": 118,
-        "Skinning": 203
+        "Skinning": 205
       },
       "race": "Undead",
       "raids": {},
@@ -9637,12 +9648,17 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1116,
+          "raw": 1191,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4660,
+          "raw": 4772,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9657,37 +9673,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1116,
+          "raw": 1191,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1116,
+          "raw": 1191,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5728,
+          "raw": 5841,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1116,
+          "raw": 1191,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1732,
+          "raw": 1882,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4053,
+          "raw": 4391,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13862,
+          "raw": 14087,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -9700,17 +9716,17 @@
       "stats": {
         "critters": 48,
         "deaths": 22,
-        "drinks": 21,
-        "flights": 41,
-        "food": 120,
+        "drinks": 22,
+        "flights": 42,
+        "food": 125,
         "health_potions": 16,
-        "hearths": 10,
+        "hearths": 11,
         "honorable_kills": 113,
-        "killing_blows": 1781,
-        "mobs": 2771,
-        "quests": 202
+        "killing_blows": 1859,
+        "mobs": 2977,
+        "quests": 207
       },
-      "xp": 12242
+      "xp": 9635
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -15420,17 +15436,18 @@
       },
       "ilvl": 12,
       "last_explored": "Mulgore",
-      "last_login": 1794863728000,
-      "level": 22,
+      "last_login": 1794949388000,
+      "level": 23,
       "level_at": {
-        "22": 1794866470
+        "22": 1794866470,
+        "23": 1794950040
       },
       "professions": {
         "Cooking": 76,
-        "First Aid": 75,
-        "Fishing": 75,
-        "Mining": 38,
-        "Skinning": 75
+        "First Aid": 80,
+        "Fishing": 78,
+        "Mining": 45,
+        "Skinning": 82
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -15491,6 +15508,10 @@
         ],
         "First Aid": [
           {
+            "id": 4417,
+            "name": "Anti-Venom"
+          },
+          {
             "id": 1838,
             "name": "Linen Bandage"
           },
@@ -15499,17 +15520,25 @@
             "name": "Heavy Linen Bandage"
           },
           {
+            "id": 1840,
+            "name": "Wool Bandage"
+          },
+          {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
             "id": 54191,
             "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Fishing": [
           {
-            "id": 4344,
+            "id": 4345,
             "name": "Fishing"
           },
           {
@@ -15529,7 +15558,7 @@
         ],
         "Skinning": [
           {
-            "id": 4766,
+            "id": 4767,
             "name": "Skinning"
           },
           {
@@ -15546,7 +15575,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3168,
+          "raw": 3508,
           "tier": 4
         },
         "Earthen Ring": {
@@ -15571,7 +15600,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4293,
+          "raw": 4933,
           "tier": 4
         },
         "Powderfuse": {
@@ -15584,14 +15613,19 @@
           "raw": 2363,
           "tier": 3
         },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4257,
+          "raw": 5261,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3561,
+          "raw": 3957,
           "tier": 4
         },
         "Windshapers": {
@@ -15604,16 +15638,15 @@
       "stats": {
         "critters": 4,
         "deaths": 12,
-        "flights": 10,
+        "flights": 13,
         "food": 16,
         "health_potions": 11,
         "hearths": 8,
-        "killing_blows": 1076,
-        "mobs": 1575,
-        "need_rolls": 5,
-        "quests": 180
+        "killing_blows": 1109,
+        "mobs": 1608,
+        "quests": 194
       },
-      "xp": 18124
+      "xp": 11627
     },
     "eu:thalgrim-tirisfal": {
       "achievements": {},
@@ -16727,6 +16760,21 @@
           "level": 24
         }
       },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 31
+        }
+      },
       "eu:ogmar-donnerhammer": {
         "c": {
           "name": "Ogmar",
@@ -17316,6 +17364,7 @@
     "Miscellaneous": "Verschiedenes",
     "Misplaced Shooter": "Verlegte Büchse",
     "Missile Barrage": "Geschosssalve",
+    "Monkey Ring": "Affenring",
     "Moonglow": "Mondschein",
     "Most Horde factions at Exalted": "Meiste Hordefraktionen auf Ehrfürchtig",
     "Most factions at Honored or higher": "Höchste Anzahl Fraktionen auf Wohlwollend oder höher",
@@ -18607,7 +18656,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794948888,
+  "saved_at": 1794950043,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
