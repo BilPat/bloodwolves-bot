@@ -70,7 +70,8 @@
     ],
     "inactive_days": 7,
     "guild_first_repost": [],
-    "dungeon_min_level": 30
+    "dungeon_min_level": 30,
+    "welcome_help_channel": "1571972498923458650"
   },
   "friends": []
 }
