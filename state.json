@@ -14045,15 +14045,15 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 22,
       "last_explored": "Mulgore",
-      "last_login": 1794850086000,
+      "last_login": 1794904844000,
       "level": 31,
       "level_at": {
         "31": 1794866470
       },
       "professions": {
-        "Blacksmithing": 90,
+        "Blacksmithing": 108,
         "Cooking": 150,
         "First Aid": 119,
         "Fishing": 38,
@@ -14066,6 +14066,10 @@
           {
             "id": 1798,
             "name": "Rough Weightstone"
+          },
+          {
+            "id": 1799,
+            "name": "Heavy Weightstone"
           },
           {
             "id": 1800,
@@ -14094,6 +14098,10 @@
           {
             "id": 1862,
             "name": "Rough Bronze Shoulders"
+          },
+          {
+            "id": 1868,
+            "name": "Heavy Grinding Stone"
           },
           {
             "id": 6636,
@@ -14126,6 +14134,14 @@
           {
             "id": 1639,
             "name": "Rough Bronze Leggings"
+          },
+          {
+            "id": 1642,
+            "name": "Patterned Bronze Bracers"
+          },
+          {
+            "id": 1644,
+            "name": "Heavy Sharpening Stone"
           },
           {
             "id": 4390,
@@ -14220,6 +14236,10 @@
           {
             "id": 54504,
             "name": "Tasty Raptor Bites"
+          },
+          {
+            "id": 56881,
+            "name": "Skywall Souffle"
           }
         ],
         "First Aid": [
@@ -14373,7 +14393,6 @@
         "honorable_kills": 3,
         "killing_blows": 1669,
         "mobs": 3347,
-        "need_rolls": 22,
         "quests": 218
       },
       "xp": 996
@@ -16611,6 +16630,7 @@
     "Deadly Aspects": "Tödliche Aspekte",
     "Deadmines": "Todesminen",
     "Death Bindings": "Todesbindungen",
+    "Death Wish": "Todeswunsch",
     "Deaths": "Tode",
     "Deaths from drowning": "Tode durch Ertrinken",
     "Deaths from falling": "Tode durch Stürze",
@@ -17007,7 +17027,7 @@
     "Ragged Leather Vest": "Struppige Lederweste",
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Rare": "Rar",
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
@@ -18168,7 +18188,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794904874,
+  "saved_at": 1794905655,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
