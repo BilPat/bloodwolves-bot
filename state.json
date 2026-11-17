@@ -507,7 +507,7 @@
       },
       "ilvl": 14,
       "last_explored": "Durotar",
-      "last_login": 1794863497000,
+      "last_login": 1794925743000,
       "level": 21,
       "level_at": {
         "21": 1794866470
@@ -759,7 +759,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7918,
+          "raw": 7958,
           "tier": 4
         },
         "Everlook": {
@@ -774,7 +774,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10537,
+          "raw": 10690,
           "tier": 5
         },
         "Powderfuse": {
@@ -789,12 +789,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5095,
+          "raw": 5142,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1655,
+          "raw": 1695,
           "tier": 3
         }
       },
@@ -803,16 +803,15 @@
         "critters": 15,
         "deaths": 24,
         "drinks": 1,
-        "flights": 12,
+        "flights": 13,
         "food": 8,
         "health_potions": 22,
         "hearths": 6,
-        "killing_blows": 839,
-        "mobs": 1213,
-        "need_rolls": 10,
-        "quests": 110
+        "killing_blows": 850,
+        "mobs": 1225,
+        "quests": 114
       },
-      "xp": 1096
+      "xp": 7463
     },
     "eu:aru-tai": {
       "achievements": {
@@ -18451,7 +18450,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794925629,
+  "saved_at": 1794926354,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
