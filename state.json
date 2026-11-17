@@ -16826,6 +16826,15 @@
       ]
     }
   },
+  "group_board": {
+    "last": "2026-11-17",
+    "message_id": "1572060189916397650"
+  },
+  "officer_board": {
+    "message_ids": [
+      "1572060189031399535"
+    ]
+  },
   "owners": {
     "eu:alto-belli": {
       "mounts": {
@@ -17601,7 +17610,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794878169,
+  "saved_at": 1794878756,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
