@@ -15060,6 +15060,10 @@
           "name": "Armor of the Fang",
           "quality": "RARE"
         },
+        "6505": {
+          "name": "Crescent Staff",
+          "quality": "RARE"
+        },
         "6629": {
           "name": "Sporid Cape",
           "quality": "RARE"
@@ -15067,16 +15071,16 @@
       },
       "ilvl": 20,
       "last_explored": "Moonglade",
-      "last_login": 1794855965000,
+      "last_login": 1794946707000,
       "level": 25,
       "level_at": {
         "25": 1794866470
       },
       "professions": {
         "Alchemy": 153,
-        "Cooking": 78,
-        "Fishing": 21,
-        "Herbalism": 155
+        "Cooking": 105,
+        "Fishing": 68,
+        "Herbalism": 156
       },
       "race": "Tauren",
       "raids": {},
@@ -15177,6 +15181,10 @@
         ],
         "Cooking": [
           {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
             "id": 1535,
             "name": "Charred Wolf Meat"
           },
@@ -15193,12 +15201,28 @@
             "name": "Coyote Steak"
           },
           {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
             "id": 3930,
             "name": "Strider Stew"
           },
           {
+            "id": 3932,
+            "name": "Crispy Lizard Tail"
+          },
+          {
             "id": 4355,
             "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
           },
           {
             "id": 4391,
@@ -15255,7 +15279,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4932,
+          "raw": 5095,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15280,7 +15304,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6807,
+          "raw": 7007,
           "tier": 4
         },
         "Powderfuse": {
@@ -15295,12 +15319,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11081,
+          "raw": 11243,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2820,
+          "raw": 2907,
           "tier": 3
         }
       },
@@ -15309,16 +15333,15 @@
         "critters": 9,
         "deaths": 18,
         "drinks": 10,
-        "flights": 28,
+        "flights": 31,
         "food": 15,
         "health_potions": 4,
         "hearths": 20,
-        "killing_blows": 889,
-        "mobs": 1500,
-        "need_rolls": 9,
-        "quests": 173
+        "killing_blows": 905,
+        "mobs": 1515,
+        "quests": 176
       },
-      "xp": 4490
+      "xp": 14383
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -17298,7 +17321,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -18495,7 +18518,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794946575,
+  "saved_at": 1794947338,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
