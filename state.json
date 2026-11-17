@@ -5693,7 +5693,7 @@
       "gear": {},
       "ilvl": 2,
       "last_explored": "Durotar",
-      "last_login": 1794933820000,
+      "last_login": 1794942297000,
       "level": 12,
       "level_at": {
         "11": 1794866470,
@@ -11454,7 +11454,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1794876562000,
+      "last_login": 1794942341000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -11465,7 +11465,7 @@
         "First Aid": 65,
         "Fishing": 100,
         "Leatherworking": 114,
-        "Skinning": 189
+        "Skinning": 191
       },
       "race": "Troll",
       "raids": {},
@@ -11832,18 +11832,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 16,
-        "deaths": 20,
+        "deaths": 21,
         "drinks": 11,
-        "flights": 22,
+        "flights": 23,
         "food": 3,
-        "health_potions": 19,
-        "hearths": 13,
-        "killing_blows": 1075,
+        "health_potions": 20,
+        "hearths": 14,
+        "killing_blows": 1094,
         "mana_potions": 6,
-        "mobs": 1796,
-        "quests": 164
+        "mobs": 1823,
+        "quests": 165
       },
-      "xp": 154
+      "xp": 6591
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -12028,18 +12028,18 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": null,
-      "last_login": 1794911252000,
+      "last_login": 1794942213000,
       "level": 15,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005
       },
       "professions": {
-        "Cooking": 32,
+        "Cooking": 37,
         "Engineering": 37,
         "First Aid": 51,
         "Fishing": 20,
-        "Mining": 49
+        "Mining": 51
       },
       "race": "Tauren",
       "raids": {},
@@ -12127,22 +12127,22 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3283,
+          "raw": 3447,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3283,
+          "raw": 3447,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7623,
+          "raw": 7787,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3245,
+          "raw": 3900,
           "tier": 4
         }
       },
@@ -12153,12 +12153,12 @@
         "flights": 1,
         "food": 4,
         "health_potions": 5,
-        "hearths": 10,
-        "killing_blows": 572,
-        "mobs": 628,
-        "quests": 93
+        "hearths": 11,
+        "killing_blows": 609,
+        "mobs": 665,
+        "quests": 104
       },
-      "xp": 4576
+      "xp": 13893
     },
     "eu:maul-worf": {
       "achievements": {
@@ -12179,6 +12179,11 @@
           "count": 1,
           "instance": "Shadowfang Keep"
         },
+        "63570": {
+          "boss": "Edwin VanCleef",
+          "count": 1,
+          "instance": "Deadmines"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 1,
@@ -12189,6 +12194,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "1937": {
+          "name": "Buzz Saw",
+          "quality": "RARE"
+        },
         "286981": {
           "name": "Death Bindings",
           "quality": "RARE"
@@ -12206,12 +12215,13 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 16,
+      "ilvl": 17,
       "last_explored": "Redridge Mountains",
-      "last_login": 1794857493000,
-      "level": 23,
+      "last_login": 1794942168000,
+      "level": 24,
       "level_at": {
-        "23": 1794866470
+        "23": 1794866470,
+        "24": 1794942848
       },
       "professions": {
         "Blacksmithing": 48,
@@ -12388,7 +12398,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3455,
+          "raw": 3480,
           "tier": 4
         },
         "Earthen Ring": {
@@ -12408,7 +12418,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4242,
+          "raw": 4267,
           "tier": 4
         },
         "Powderfuse": {
@@ -12423,31 +12433,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1836,
+          "raw": 1861,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12736,
+          "raw": 12836,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 11,
-        "deaths": 50,
-        "drinks": 43,
+        "critters": 15,
+        "deaths": 54,
+        "drinks": 54,
         "flights": 13,
         "food": 7,
         "health_potions": 18,
-        "hearths": 11,
-        "killing_blows": 1360,
-        "mana_potions": 3,
-        "mobs": 1725,
-        "need_rolls": 10,
-        "quests": 164
+        "hearths": 12,
+        "killing_blows": 1448,
+        "mana_potions": 4,
+        "mobs": 2036,
+        "quests": 165
       },
-      "xp": 22170
+      "xp": 7775
     },
     "eu:mia-graufuss": {
       "achievements": {
@@ -16886,8 +16895,10 @@
     "Burning Soul": "Brennende Seele",
     "Burnished Girdle": "Brünierter Gurt",
     "Burnt Leather Belt": "Brandledergürtel",
+    "Burnt Leather Breeches": "Brandlederbundhosen",
     "Butcher's Cleaver": "Schlächterbeil",
     "Butcher's Slicer": "Schlächterschnitzler",
+    "Buzz Saw": "Kreissäge",
     "Cadet Belt": "Kadettengürtel",
     "Calico Cloak": "Kattunumhang",
     "Call of Flame": "Ruf der Flamme",
@@ -17386,6 +17397,7 @@
     "Ragged Leather Belt": "Struppiger Ledergürtel",
     "Ragged Leather Vest": "Struppige Lederweste",
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
+    "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
     "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
@@ -17504,6 +17516,7 @@
     "Shield Specialization": "Schild-Spezialisierung",
     "Shifting Power": "Machtverschiebung",
     "Shimmering Boots": "Schimmernde Stiefel",
+    "Shimmering Cloak of the Falcon": "Schimmernder Umhang des Falken",
     "Shining Silver Breastplate": "Leuchtende silberne Brustplatte",
     "Shirt": "Hemd",
     "Shoulder": "Schulter",
@@ -18588,7 +18601,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794941707,
+  "saved_at": 1794942850,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
