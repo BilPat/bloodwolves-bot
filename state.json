@@ -5896,17 +5896,18 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 27,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794843537000,
-      "level": 28,
+      "last_login": 1794907308000,
+      "level": 29,
       "level_at": {
-        "28": 1794866470
+        "28": 1794866470,
+        "29": 1794907721
       },
       "professions": {
         "Cooking": 148,
         "Enchanting": 99,
-        "Fishing": 107,
+        "Fishing": 197,
         "Tailoring": 119
       },
       "race": "Undead",
@@ -5956,6 +5957,10 @@
           {
             "id": 4353,
             "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
           },
           {
             "id": 4391,
@@ -6062,7 +6067,7 @@
         ],
         "Fishing": [
           {
-            "id": 4345,
+            "id": 4346,
             "name": "Fishing"
           },
           {
@@ -6269,7 +6274,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 575,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -6289,12 +6294,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 575,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 575,
           "tier": 3
         },
         "Orgrimmar": {
@@ -6304,17 +6309,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 575,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 550,
-          "tier": 3
-        },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 650,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -6326,30 +6326,24 @@
           "name": "Honored",
           "raw": 15173,
           "tier": 5
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 46,
         "deaths": 6,
-        "drinks": 315,
-        "flights": 24,
-        "food": 96,
-        "health_potions": 8,
+        "drinks": 345,
+        "flights": 30,
+        "food": 113,
+        "health_potions": 13,
         "hearths": 12,
         "honorable_kills": 4,
-        "killing_blows": 1165,
+        "killing_blows": 1227,
         "mana_potions": 7,
-        "mobs": 2696,
-        "need_rolls": 15,
-        "quests": 189
+        "mobs": 2764,
+        "quests": 193
       },
-      "xp": 37676
+      "xp": 17392
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -9149,6 +9143,10 @@
           "name": "Brawler's Leather Hood",
           "quality": "RARE"
         },
+        "270032": {
+          "name": "Cultist's Armguards",
+          "quality": "RARE"
+        },
         "273839": {
           "name": "Spiked Shell Band",
           "quality": "RARE"
@@ -9180,17 +9178,18 @@
       },
       "ilvl": 22,
       "last_explored": "Redridge Mountains",
-      "last_login": 1794866659000,
-      "level": 26,
+      "last_login": 1794907455000,
+      "level": 28,
       "level_at": {
         "25": 1794866470,
-        "26": 1794867229
+        "26": 1794867229,
+        "28": 1794907721
       },
       "professions": {
-        "Cooking": 61,
-        "First Aid": 144,
-        "Leatherworking": 112,
-        "Skinning": 188
+        "Cooking": 115,
+        "First Aid": 150,
+        "Leatherworking": 116,
+        "Skinning": 190
       },
       "race": "Undead",
       "raids": {},
@@ -9199,6 +9198,14 @@
           {
             "id": 8616,
             "name": "Crispy Bat Wing"
+          },
+          {
+            "id": 1901,
+            "name": "Big Bear Steak"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
           },
           {
             "id": 1535,
@@ -9217,6 +9224,14 @@
             "name": "Coyote Steak"
           },
           {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
             "id": 4353,
             "name": "Brilliant Smallfish"
           },
@@ -9227,6 +9242,10 @@
           {
             "id": 4355,
             "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
           },
           {
             "id": 4391,
@@ -9475,17 +9494,17 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 1050,
+          "raw": 1250,
           "tier": 3
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1066,
+          "raw": 1116,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3947,
+          "raw": 4222,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9500,37 +9519,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1066,
+          "raw": 1116,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1066,
+          "raw": 1116,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4828,
+          "raw": 5291,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1066,
+          "raw": 1116,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1632,
+          "raw": 1732,
           "tier": 3
         },
         "Thunder Bluff": {
-          "name": "Neutral",
-          "raw": 2710,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3110,
+          "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12681,
+          "raw": 13143,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -9539,22 +9558,21 @@
           "tier": 3
         }
       },
-      "spec": "Assassination",
+      "spec": "Combat",
       "stats": {
-        "critters": 43,
+        "critters": 44,
         "deaths": 12,
-        "drinks": 14,
-        "flights": 35,
-        "food": 89,
-        "health_potions": 13,
-        "hearths": 8,
+        "drinks": 21,
+        "flights": 38,
+        "food": 105,
+        "health_potions": 15,
+        "hearths": 9,
         "honorable_kills": 56,
-        "killing_blows": 1395,
-        "mobs": 2329,
-        "need_rolls": 18,
-        "quests": 172
+        "killing_blows": 1589,
+        "mobs": 2522,
+        "quests": 181
       },
-      "xp": 31773
+      "xp": 7109
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -16393,6 +16411,35 @@
           "level": 41
         }
       },
+      "eu:fred-feuersturm": {
+        "c": {
+          "name": "Fred",
+          "region": "eu",
+          "surname": "Feuersturm"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 150"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 29
+        }
+      },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 75",
+          "🛠️ **Erste Hilfe** auf 150"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 28
+        }
+      },
       "eu:lazy-quinn": {
         "c": {
           "name": "Lazy",
@@ -16598,6 +16645,7 @@
     "Commander's Crest": "Wappen des Kommandanten",
     "Common": "Verbreitet",
     "Compact Fighting Knife": "Kompaktes Streitmesser",
+    "Composure": "Gelassenheit",
     "Concussion": "Erschütterung",
     "Concussion Blow": "Erschütternder Schlag",
     "Conjurer's Breeches of the Physician": "Herbeizauberer-Bundhosen des Heilers",
@@ -16621,6 +16669,7 @@
     "Crusader's Chain Leggings": "Kettengamaschen des Kreuzfahrers",
     "Cryptwalker Boots": "Gruftwandler-Stiefel",
     "Crystal Thread Cloak": "Kristallfadenumhang",
+    "Cultist's Armguards": "Armschützer des Kultisten",
     "Cursed Murloc Eye": "Verfluchtes Murlocauge",
     "Dagger": "Dolch",
     "Dagmire Gauntlets": "Moorlandstulpen",
@@ -16710,6 +16759,7 @@
     "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
+    "Endurance": "Durchhaltevermögen",
     "Endurance Training": "Belastbarkeit-Ausbildung",
     "Engineering Schematics learned": "Erlernte Ingenieurskunstschemata",
     "Enhancement": "Verstärkung",
@@ -16853,6 +16903,7 @@
     "Improved Channeling": "Verbesserte Kanalisierung",
     "Improved Concussive Shot": "Verbesserter erschütternder Schuss",
     "Improved Corruption": "Verbesserte Verderbnis",
+    "Improved Fire Blast": "Verbesserter Feuerschlag",
     "Improved Flamestrike": "Verbesserter Flammenstoß",
     "Improved Heroic Strike": "Verbesserter heldenhafter Stoß",
     "Improved Judgement": "Verbessertes Richturteil",
@@ -16863,6 +16914,7 @@
     "Improved Revenge": "Verbesserte Rache",
     "Improved Revival": "Verbesserte Wiederbelebung",
     "Improved Righteous Fury": "Verbesserter Zorn der Gerechtigkeit",
+    "Improved Scorch": "Verbessertes Versengen",
     "Improved Seals": "Verbesserte Siegel",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
     "Improved Sunder Armor": "Verbessertes Rüstung zerreißen",
@@ -16872,6 +16924,7 @@
     "Infantry Gauntlets": "Infanteriestulpen",
     "Inscribed Leather Boots": "Gravierte Lederstiefel",
     "Insect Swarm": "Insektenschwarm",
+    "Instant Poison": "Sofort wirkendes Gift",
     "Intellect": "Intelligenz",
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
@@ -16906,6 +16959,7 @@
     "Light Chain Bracers": "Leichte Kettenarmschienen",
     "Light Leather Bracers": "Leichte Lederarmschienen",
     "Light Shot": "Leichtes Geschoss",
+    "Lightning Reflexes": "Blitzartige Reflexe",
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
     "Loose Chain Belt": "Lockerer Kettengürtel",
@@ -18192,7 +18246,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794907083,
+  "saved_at": 1794907722,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
