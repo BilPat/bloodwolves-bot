@@ -13706,11 +13706,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/147/339347-avatar.jpg",
       "best_item": {
-        "id": 1934,
-        "ilvl": 20,
-        "name": "Stonemason Trousers",
-        "quality": "RARE",
-        "slot": "Legs"
+        "id": 276886,
+        "ilvl": 24,
+        "name": "Chol'aruk's Trophy Sword",
+        "quality": "UNCOMMON",
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "15027": {
@@ -13742,17 +13742,18 @@
       },
       "ilvl": 9,
       "last_explored": null,
-      "last_login": 1794940435000,
-      "level": 18,
+      "last_login": 1794943093000,
+      "level": 19,
       "level_at": {
-        "18": 1794866470
+        "18": 1794866470,
+        "19": 1794943488
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 44,
-        "Fishing": 21,
+        "Fishing": 52,
         "Herbalism": 7,
-        "Skinning": 125
+        "Skinning": 126
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -13791,7 +13792,7 @@
         ],
         "Fishing": [
           {
-            "id": 4344,
+            "id": 4345,
             "name": "Fishing"
           },
           {
@@ -13828,7 +13829,7 @@
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2618,
+          "raw": 2668,
           "tier": 3
         },
         "Earthen Ring": {
@@ -13853,7 +13854,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3462,
+          "raw": 3512,
           "tier": 4
         },
         "Powderfuse": {
@@ -13868,12 +13869,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3962,
+          "raw": 4162,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1362,
+          "raw": 1412,
           "tier": 3
         },
         "Windshapers": {
@@ -13887,15 +13888,15 @@
         "critters": 1,
         "deaths": 36,
         "drinks": 1,
-        "flights": 13,
-        "food": 11,
+        "flights": 14,
+        "food": 12,
         "health_potions": 1,
         "hearths": 18,
-        "killing_blows": 703,
-        "mobs": 767,
-        "quests": 126
+        "killing_blows": 712,
+        "mobs": 775,
+        "quests": 128
       },
-      "xp": 17770
+      "xp": 1358
     },
     "eu:pantherra-wolf": {
       "achievements": {
@@ -18601,7 +18602,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794942850,
+  "saved_at": 1794943489,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
