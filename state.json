@@ -13064,19 +13064,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 12,
+      "ilvl": 13,
       "last_explored": null,
-      "last_login": 1794759913000,
-      "level": 20,
+      "last_login": 1794937436000,
+      "level": 21,
       "level_at": {
-        "20": 1794866470
+        "20": 1794866470,
+        "21": 1794938124
       },
       "professions": {
         "Blacksmithing": 54,
         "Cooking": 19,
-        "First Aid": 93,
+        "First Aid": 97,
         "Fishing": 3,
-        "Mining": 80
+        "Mining": 85
       },
       "race": "Tauren",
       "raids": {},
@@ -13252,69 +13253,68 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1000,
-          "tier": 3
-        },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 1150,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3846,
+          "raw": 4071,
           "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1000,
+          "raw": 1150,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1000,
+          "raw": 1150,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4465,
+          "raw": 5140,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1000,
+          "raw": 1150,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1800,
+          "raw": 2100,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8362,
+          "raw": 8812,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1640,
+          "raw": 1865,
           "tier": 3
         }
       },
       "spec": "Fury",
       "stats": {
         "critters": 4,
-        "deaths": 27,
-        "flights": 13,
+        "deaths": 29,
+        "flights": 18,
         "food": 33,
-        "health_potions": 16,
-        "hearths": 12,
-        "killing_blows": 714,
-        "mobs": 1072,
-        "need_rolls": 4,
-        "quests": 118
+        "health_potions": 19,
+        "hearths": 13,
+        "killing_blows": 834,
+        "mobs": 1241,
+        "quests": 135
       },
-      "xp": 2927
+      "xp": 16634
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -18585,7 +18585,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794937241,
+  "saved_at": 1794938126,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
