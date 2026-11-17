@@ -1297,26 +1297,37 @@ def build_roster_board(entries, settings, max_level):
     ]
 
     fields = []
-    order = ROSTER_CLASS_ORDER + sorted(k for k in by_class if k not in ROSTER_CLASS_ORDER)
-    for cls in order:
-        rows = by_class.get(cls)
+    away_days = int(settings.get("roster_away_days") or 14)
+    ordered = sorted(entries, key=lambda cs: (-(cs[1].get("level") or 0), display_name(cs[0])))
+    present, away = [], []
+    for c, s in ordered:
+        ll = s.get("last_login")
+        if ll and now_ts - ll / 1000 > away_days * 86400:
+            away.append(f"{display_name(c)} ({s.get('level') or '?'})")
+        else:
+            present.append((c, s))
+    bands = [(f"⭐ Level {max_level}", lambda l: l >= max_level),
+             (f"⚔️ Level 40–{max_level - 1}", lambda l: 40 <= l < max_level),
+             ("🛡️ Level 20–39", lambda l: 20 <= l < 40),
+             ("🌱 Level 1–19", lambda l: l < 20)]
+    for label, in_band in bands:
+        rows = [(c, s) for c, s in present if in_band(s.get("level") or 0)]
         if not rows:
             continue
-        rows.sort(key=lambda cs: (-(cs[1].get("level") or 0), display_name(cs[0])))
         lines = []
         for c, s in rows:
-            dot = activity_dot(s.get("last_login"), now_ts)
-            lvl = s.get("level") or "?"
-            bits = [f"{dot} **{lvl}** [{display_name(c)}]({armory_url(c)})"]
-            if s.get("spec"):
-                bits.append(de(s["spec"]))
-            if s.get("ilvl"):
-                bits.append(f"ilvl {s['ilvl']}")
+            cls = s.get("class") or ""
+            emoji = (settings.get("class_emojis") or {}).get(cls.lower()) or CLASS_ICON.get(cls, "")
+            bits = [f"{activity_dot(s.get('last_login'), now_ts)} {emoji} **{s.get('level') or '?'}** {display_name(c)}"]
+            if cls_de(s):
+                bits.append(cls_de(s))
             if c.get("rank_name"):
                 bits.append(c["rank_name"])
             lines.append(" · ".join(bits))
-        emoji = (settings.get("class_emojis") or {}).get(cls.lower()) or CLASS_ICON.get(cls, "")
-        fields += split_fields(f"{emoji} {de(cls)} · {len(rows)}".strip(), lines)
+        fields += split_fields(f"{label} · {len(rows)}", lines)
+    if away:
+        chunks = [", ".join(away[i:i + 6]) for i in range(0, len(away), 6)]
+        fields += split_fields(f"💤 Länger als {away_days} Tage nicht online · {len(away)}", chunks)
     return {
         "title": "Gildenübersicht",
         "description": "\n".join(desc),
@@ -1376,7 +1387,7 @@ def build_professions_board(entries, settings):
     return embeds
 
 
-def upsert_roster_board(webhook, embeds_list, state):
+def upsert_roster_board(webhook, embeds_list, state, key="roster"):
     """
     One Discord message per board card (Roster, Crafting, Gathering, Secondary),
     each edited in place, so a growing guild never trips the 6,000-character
@@ -1384,7 +1395,7 @@ def upsert_roster_board(webhook, embeds_list, state):
     original board message, so a pin on it survives.
     """
     base = webhook.split("?")[0]
-    roster_state = state.setdefault("roster", {})
+    roster_state = state.setdefault(key, {})
     ids = list(roster_state.get("message_ids") or ([roster_state["message_id"]] if roster_state.get("message_id") else []))
     new_ids = []
     for i, embed in enumerate(embeds_list):
@@ -2159,14 +2170,33 @@ def main():
     if weekly.get("mounts_baseline") is None:
         weekly["mounts_baseline"] = sum(len((o or {}).get("mounts") or {}) for o in owners.values())
 
-    if digest_items:
-        embeds.extend(digest_embeds(digest_items, settings))
+    daily = state.setdefault("daily_digest", {"items": {}, "last": None})
+    for c, snap, lines in digest_items:
+        dk = f"{(c.get('region') or default_region).lower()}:{char_slug(c)}"
+        entry = daily["items"].setdefault(dk, {"c": {x: c[x] for x in ("name", "surname", "region", "rank_name") if c.get(x)},
+                                               "lines": []})
+        entry["snap"] = {"class": snap.get("class"), "level": snap.get("level")}
+        entry["lines"].extend(lines)
+    local_now = now.astimezone(local_zone(settings))
+    if (daily["items"] and local_now.hour >= int(settings.get("daily_digest_hour", 21))
+            and daily.get("last") != local_now.date().isoformat()):
+        day_items = [(e["c"], e["snap"], e["lines"]) for e in daily["items"].values()]
+        for e in digest_embeds(day_items, settings):
+            e["title"] = e["title"].replace("Fortschritte", f"Tageszusammenfassung {local_now.strftime('%d.%m.')}")
+            embeds.append(e)
+        daily["items"] = {}
+        daily["last"] = local_now.date().isoformat()
 
     roster_embed = None
+    craft_embed = None
     if settings.get("roster_board"):
         entries = [(c, state["characters"][key]) for c, key in keyed if key in state["characters"]]
         if entries:
-            roster_embed = [build_roster_board(entries, settings, settings["max_level"])] + build_professions_board(entries, settings)
+            if os.environ.get("DISCORD_CRAFT_WEBHOOK_URL", "").strip():
+                roster_embed = [build_roster_board(entries, settings, settings["max_level"])]
+                craft_embed = build_professions_board(entries, settings)
+            else:
+                roster_embed = [build_roster_board(entries, settings, settings["max_level"])] + build_professions_board(entries, settings)
 
     if args.dry_run:
         print("== hype ==")
@@ -2250,6 +2280,13 @@ def main():
             print("Roster board refreshed.")
         except Exception as err:  # the board is rebuilt every run; never block the rest
             print(f"[warn] roster board: {err}")
+        save_state(state)
+    if craft_embed:
+        try:
+            upsert_roster_board(os.environ["DISCORD_CRAFT_WEBHOOK_URL"].strip(), craft_embed, state, key="craft_board")
+            print("Professions board refreshed.")
+        except Exception as err:
+            print(f"[warn] professions board: {err}")
         save_state(state)
 
 
