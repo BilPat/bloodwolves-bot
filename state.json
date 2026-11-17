@@ -7013,6 +7013,10 @@
           "name": "Leggings of the Fang",
           "quality": "RARE"
         },
+        "4253": {
+          "name": "Toughened Leather Gloves",
+          "quality": "RARE"
+        },
         "5404": {
           "name": "Serpent's Shoulders",
           "quality": "RARE"
@@ -7026,19 +7030,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 20,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794775525000,
-      "level": 27,
+      "last_login": 1794950033000,
+      "level": 28,
       "level_at": {
-        "27": 1794866470
+        "27": 1794866470,
+        "28": 1794950735
       },
       "professions": {
         "Cooking": 199,
         "First Aid": 20,
         "Fishing": 156,
-        "Leatherworking": 107,
-        "Skinning": 187
+        "Leatherworking": 120,
+        "Skinning": 191
       },
       "race": "Tauren",
       "raids": {},
@@ -7279,8 +7284,16 @@
             "name": "Fletcher's Gloves"
           },
           {
+            "id": 5028,
+            "name": "Earthen Leather Shoulders"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2173,
+            "name": "Hillman's Leather Gloves"
           },
           {
             "id": 2175,
@@ -7289,6 +7302,10 @@
           {
             "id": 2177,
             "name": "Hillman's Shoulders"
+          },
+          {
+            "id": 2179,
+            "name": "Toughened Leather Gloves"
           },
           {
             "id": 2195,
@@ -7367,7 +7384,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5397,
+          "raw": 5616,
           "tier": 4
         },
         "Everlook": {
@@ -7382,7 +7399,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7430,
+          "raw": 7648,
           "tier": 4
         },
         "Powderfuse": {
@@ -7397,12 +7414,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12157,
+          "raw": 12601,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3547,
+          "raw": 4197,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -7413,21 +7430,20 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 45,
-        "deaths": 28,
-        "drinks": 39,
-        "flights": 31,
-        "food": 105,
-        "health_potions": 14,
+        "critters": 46,
+        "deaths": 29,
+        "drinks": 45,
+        "flights": 32,
+        "food": 111,
+        "health_potions": 21,
         "hearths": 23,
         "honorable_kills": 68,
-        "killing_blows": 1417,
+        "killing_blows": 1523,
         "mana_potions": 1,
-        "mobs": 1956,
-        "need_rolls": 7,
-        "quests": 198
+        "mobs": 2065,
+        "quests": 206
       },
-      "xp": 27329
+      "xp": 26684
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -8128,6 +8144,7 @@
     "eu:h%C3%A4uptling-blutmacht": {
       "achievements": {
         "61499": "Novice Warrior",
+        "61500": "Experienced Warrior",
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains"
       },
@@ -8236,17 +8253,18 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1794901023000,
-      "level": 44,
+      "last_login": 1794950133000,
+      "level": 45,
       "level_at": {
         "42": 1794866470,
-        "44": 1794878167
+        "44": 1794878167,
+        "45": 1794950735
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 208,
-        "Mining": 165,
+        "Mining": 172,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -8346,7 +8364,7 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -8900,
+          "raw": -9400,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -8356,12 +8374,17 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3911,
+          "raw": 4099,
           "tier": 4
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10780,
+          "raw": 11280,
           "tier": 5
         },
         "Earthen Ring": {
@@ -8371,54 +8394,54 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3619,
+          "raw": 3731,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3619,
+          "raw": 3731,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13427,
+          "raw": 13646,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4504,
+          "raw": 4654,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5260,
+          "raw": 5373,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19551,
+          "raw": 19695,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9695,
+          "raw": 9838,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 102,
-        "deaths": 69,
+        "deaths": 71,
         "drinks": 2,
-        "flights": 94,
-        "food": 158,
-        "health_potions": 105,
-        "hearths": 25,
-        "killing_blows": 3149,
-        "mobs": 5757,
-        "quests": 500
+        "flights": 97,
+        "food": 168,
+        "health_potions": 116,
+        "hearths": 26,
+        "killing_blows": 3313,
+        "mobs": 5941,
+        "quests": 509
       },
-      "xp": 54071
+      "xp": 11973
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -11509,7 +11532,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1794942341000,
+      "last_login": 1794950268000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -11889,7 +11912,7 @@
         "critters": 16,
         "deaths": 21,
         "drinks": 11,
-        "flights": 23,
+        "flights": 24,
         "food": 3,
         "health_potions": 20,
         "hearths": 14,
@@ -16116,9 +16139,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 30,
       "last_explored": "Thousand Needles",
-      "last_login": 1794924094000,
+      "last_login": 1794950398000,
       "level": 36,
       "level_at": {
         "35": 1794866470,
@@ -16126,10 +16149,10 @@
       },
       "professions": {
         "Blacksmithing": 131,
-        "Cooking": 150,
+        "Cooking": 162,
         "First Aid": 62,
-        "Fishing": 151,
-        "Mining": 186
+        "Fishing": 152,
+        "Mining": 187
       },
       "race": "Undead",
       "raids": {},
@@ -16486,12 +16509,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 900,
+          "raw": 960,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6427,
+          "raw": 6671,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16506,37 +16529,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 887,
+          "raw": 917,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 887,
+          "raw": 917,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7027,
+          "raw": 7252,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 887,
+          "raw": 917,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1262,
+          "raw": 1292,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6642,
+          "raw": 6736,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19867,
+          "raw": 20111,
           "tier": 5
         }
       },
@@ -16544,17 +16567,17 @@
       "stats": {
         "critters": 72,
         "deaths": 33,
-        "drinks": 14,
+        "drinks": 15,
         "flights": 64,
-        "food": 35,
-        "health_potions": 20,
+        "food": 38,
+        "health_potions": 21,
         "hearths": 35,
-        "killing_blows": 2289,
+        "killing_blows": 2378,
         "mana_potions": 1,
-        "mobs": 5124,
-        "quests": 315
+        "mobs": 5221,
+        "quests": 323
       },
-      "xp": 33878
+      "xp": 70665
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -16758,6 +16781,21 @@
         "snap": {
           "class": "Shaman",
           "level": 24
+        }
+      },
+      "eu:h%C3%A4uptling-blutmacht": {
+        "c": {
+          "name": "Häuptling",
+          "rank_name": "Gildenmeister",
+          "region": "eu",
+          "surname": "Blutmacht"
+        },
+        "lines": [
+          "🎖️ [Experienced Warrior](https://www.wowhead.com/forever/de/achievement=61500)"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 45
         }
       },
       "eu:keta-f%C3%A4se": {
@@ -17249,6 +17287,7 @@
     "Holy Specialization": "Heiligspezialisierung",
     "Honorable Kills": "Ehrenhafte Siege",
     "Honored": "Wohlwollend",
+    "Hooded Cowl": "Kapuzenkutte",
     "Horn Ring": "Hornring",
     "Howlhide Vest": "Heulbalgweste",
     "Hunter": "Jäger",
@@ -18656,7 +18695,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794950043,
+  "saved_at": 1794950736,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
