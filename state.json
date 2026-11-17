@@ -11904,17 +11904,18 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": null,
-      "last_login": 1794859290000,
-      "level": 14,
+      "last_login": 1794911252000,
+      "level": 15,
       "level_at": {
-        "14": 1794866470
+        "14": 1794866470,
+        "15": 1794912005
       },
       "professions": {
         "Cooking": 32,
         "Engineering": 37,
         "First Aid": 51,
         "Fishing": 20,
-        "Mining": 48
+        "Mining": 49
       },
       "race": "Tauren",
       "raids": {},
@@ -11997,28 +11998,28 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 950,
+          "raw": 1050,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3225,
+          "raw": 3283,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3225,
+          "raw": 3283,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7565,
+          "raw": 7623,
           "tier": 4
         },
         "Undercity": {
-          "name": "Neutral",
-          "raw": 2435,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3245,
+          "tier": 4
         }
       },
       "spec": "Beast Mastery",
@@ -12027,13 +12028,13 @@
         "drinks": 1,
         "flights": 1,
         "food": 4,
-        "health_potions": 4,
-        "hearths": 9,
-        "killing_blows": 520,
-        "mobs": 572,
-        "quests": 82
+        "health_potions": 5,
+        "hearths": 10,
+        "killing_blows": 572,
+        "mobs": 628,
+        "quests": 93
       },
-      "xp": 7087
+      "xp": 4576
     },
     "eu:maul-worf": {
       "achievements": {
@@ -17044,6 +17045,7 @@
     "Mental Dexterity": "Geistige Gewandtheit",
     "Mercenary Leggings": "Söldnergamaschen",
     "Miscellaneous": "Verschiedenes",
+    "Misplaced Shooter": "Verlegte Büchse",
     "Missile Barrage": "Geschosssalve",
     "Moonglow": "Mondschein",
     "Most Horde factions at Exalted": "Meiste Hordefraktionen auf Ehrfürchtig",
@@ -17072,6 +17074,7 @@
     "Nightfall": "Einbruch der Nacht",
     "Nimble Leather Gloves": "Behände Lederhandschuhe",
     "Nogg's Gold Ring": "Noggs Goldring",
+    "Nomad Gloves": "Reisehandschuhe",
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Number of times hearthed": "Anzahl der Nutzungen des Ruhesteins",
     "Odo's Ley Staff": "Odos Leystab",
@@ -18296,7 +18299,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794911186,
+  "saved_at": 1794912007,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
