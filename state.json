@@ -13613,7 +13613,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794944322000,
+      "last_login": 1794945595000,
       "level": 11,
       "level_at": {
         "11": 1794866470
@@ -16634,144 +16634,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:baumora-axiom": {
-        "c": {
-          "name": "Baumora",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Axiom"
-        },
-        "lines": [
-          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🎖️ [Experienced Spelunker](https://www.wowhead.com/forever/de/achievement=62032)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 41
-        }
-      },
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "🎖️ [Erkundet Vorgebirge des Hügellands](https://www.wowhead.com/forever/de/achievement=772)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 22
-        }
-      },
-      "eu:erna-sturmtanz": {
-        "c": {
-          "name": "Erna",
-          "region": "eu",
-          "surname": "Sturmtanz"
-        },
-        "lines": [
-          "🛠️ **Kräuterkunde** auf 75"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 12
-        }
-      },
-      "eu:fred-feuersturm": {
-        "c": {
-          "name": "Fred",
-          "region": "eu",
-          "surname": "Feuersturm"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 150",
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 30
-        }
-      },
-      "eu:garret-aschwind": {
-        "c": {
-          "name": "Garret",
-          "region": "eu",
-          "surname": "Aschwind"
-        },
-        "lines": [
-          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 40
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 75",
-          "🛠️ **Erste Hilfe** auf 150",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 29
-        }
-      },
-      "eu:lazy-quinn": {
-        "c": {
-          "name": "Lazy",
-          "region": "eu",
-          "surname": "Quinn"
-        },
-        "lines": [
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 25
-        }
-      },
-      "eu:lognaar-leafnon": {
-        "c": {
-          "name": "Lognaar",
-          "region": "eu",
-          "surname": "Leafnon"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Donnerfels",
-          "🔵 Erstes blaues Item: **[Satyrnhaut-Umhang](https://www.wowhead.com/forever/de/item=273005)** (Back)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 18
-        }
-      },
-      "eu:vlad-impalar": {
-        "c": {
-          "name": "Vlad",
-          "region": "eu",
-          "surname": "Impalar"
-        },
-        "lines": [
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
-          "🛠️ **Angeln** auf 150"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 36
-        }
-      }
-    },
-    "last": null
+    "items": {},
+    "last": "2026-11-17"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -18067,7 +17931,12 @@
   },
   "pending": [],
   "roster": {
-    "left_log": [],
+    "left_log": [
+      {
+        "name": "Lognaar Leafnon",
+        "ts": 1794946490
+      }
+    ],
     "members": {
       "alto-belli": "Alto Belli",
       "archibald-white": "Archibald White",
@@ -18103,7 +17972,6 @@
       "lagertha-graufuss": "Lagertha Graufuss",
       "lazy-quinn": "Lazy Quinn",
       "lockendotter-bonechrusher": "Lockendotter Bonechrusher",
-      "lognaar-leafnon": "Lognaar Leafnon",
       "maniac-menacepuppy": "Maniac Menacepuppy",
       "maul-worf": "Maul Worf",
       "mento-zemento": "Mento Zemento",
@@ -18130,7 +17998,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 18,
+        "level": 19,
         "name": "Pandora",
         "rank": 4,
         "region": "eu",
@@ -18148,7 +18016,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 15,
+        "level": 16,
         "name": "Pantherra",
         "rank": 4,
         "region": "eu",
@@ -18292,7 +18160,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Aru",
         "rank": 3,
         "region": "eu",
@@ -18328,7 +18196,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -18382,7 +18250,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 22,
+        "level": 23,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -18391,7 +18259,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 20,
+        "level": 21,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -18418,7 +18286,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Garm",
         "rank": 3,
         "region": "eu",
@@ -18472,7 +18340,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Maul",
         "rank": 4,
         "region": "eu",
@@ -18526,7 +18394,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -18589,15 +18457,6 @@
       {
         "class": null,
         "guild": true,
-        "level": 17,
-        "name": "Lognaar",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Leafnon"
-      },
-      {
-        "class": null,
-        "guild": true,
         "level": 5,
         "name": "Prophet",
         "rank": 4,
@@ -18625,7 +18484,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 12,
+        "level": 13,
         "name": "Erna",
         "rank": 4,
         "region": "eu",
@@ -18636,7 +18495,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794945304,
+  "saved_at": 1794946575,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
