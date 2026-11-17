@@ -14142,6 +14142,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "13097": {
+          "name": "Thunderbrow Ring",
+          "quality": "RARE"
+        },
         "251533": {
           "name": "Forsaken Greataxe",
           "quality": "RARE"
@@ -14156,6 +14160,14 @@
         },
         "273005": {
           "name": "Satyrskin Cloak",
+          "quality": "RARE"
+        },
+        "273025": {
+          "name": "Raptorclaw Greaves",
+          "quality": "RARE"
+        },
+        "273028": {
+          "name": "Reliquary Mantle",
           "quality": "RARE"
         },
         "274084": {
@@ -14177,11 +14189,15 @@
         "6742": {
           "name": "Stonefist Girdle",
           "quality": "RARE"
+        },
+        "720": {
+          "name": "Brawler Gloves",
+          "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 26,
       "last_explored": "Mulgore",
-      "last_login": 1794909614000,
+      "last_login": 1794931457000,
       "level": 31,
       "level_at": {
         "31": 1794866470
@@ -14368,6 +14384,10 @@
             "name": "Basic Campfire"
           },
           {
+            "id": 54502,
+            "name": "Twice-Spiced Raptor Slice"
+          },
+          {
             "id": 54504,
             "name": "Tasty Raptor Bites"
           },
@@ -14518,18 +14538,18 @@
       },
       "spec": "Fury",
       "stats": {
-        "critters": 69,
-        "deaths": 24,
-        "flights": 33,
-        "food": 102,
+        "critters": 73,
+        "deaths": 25,
+        "flights": 34,
+        "food": 103,
         "health_potions": 27,
-        "hearths": 20,
-        "honorable_kills": 3,
-        "killing_blows": 1718,
-        "mobs": 3396,
-        "quests": 220
+        "hearths": 21,
+        "honorable_kills": 5,
+        "killing_blows": 1745,
+        "mobs": 3484,
+        "quests": 222
       },
-      "xp": 6391
+      "xp": 22592
     },
     "eu:rausmit-deviechers": {
       "achievements": {
@@ -16754,6 +16774,7 @@
     "Brackwater Vest": "Brackwasserweste",
     "Branded Leather Bracers": "Gebrandmarkte Lederarmschienen",
     "Brass Scale Pants": "Messingschuppenhose",
+    "Brawler Gloves": "Muskelprotzhandschuhe",
     "Brawler's Harness": "Muskelprotzharnisch",
     "Brawler's Leather Belt": "Ledergürtel des Grubenkämpfers",
     "Brawler's Leather Hood": "Lederkapuze des Grubenkämpfers",
@@ -17266,6 +17287,7 @@
     "Rambling Boots": "Stromer-Stiefel",
     "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
+    "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
     "Rath'mael": "Rath'mael",
@@ -17280,6 +17302,7 @@
     "Regent's Cloak": "Regentenumhang",
     "Reinforced Linen Cape": "Verstärktes Leinencape",
     "Relic": "Relikt",
+    "Reliquary Mantle": "Reliquiarmantelung",
     "Remorseless Attacks": "Gnadenlose Angriffe",
     "Rend and Tear": "Beißen und Reißen",
     "Repentance": "Buße",
@@ -17464,6 +17487,7 @@
     "Thrice-Stitched Flesh": "Dreifach genähtes Fleisch",
     "Thrown": "Wurfwaffe",
     "Thug Shirt": "Rohlingshemd",
+    "Thunderbrow Ring": "Ring der Donnerbraue",
     "Thundering Strikes": "Donnernde Stöße",
     "Tiger Hide Boots": "Tigerbalg-Stiefel",
     "Tiger Hunter Gloves": "Tigerjäger-Handschuhe",
@@ -18016,7 +18040,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 42,
+        "level": 43,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -18124,7 +18148,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Thalgrim",
         "rank": 3,
         "region": "eu",
@@ -18151,7 +18175,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -18349,7 +18373,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -18367,7 +18391,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 13,
+        "level": 14,
         "name": "Barbariana",
         "rank": 4,
         "region": "eu",
@@ -18412,7 +18436,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 16,
+        "level": 17,
         "name": "Lognaar",
         "rank": 4,
         "region": "eu",
@@ -18459,7 +18483,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794930912,
+  "saved_at": 1794932276,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
