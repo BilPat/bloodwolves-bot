@@ -10718,11 +10718,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/19603806-avatar.jpg",
       "best_item": {
-        "id": 279875,
-        "ilvl": 24,
-        "name": "Spare Part Bindings",
-        "quality": "UNCOMMON",
-        "slot": "Wrist"
+        "id": 3108,
+        "ilvl": 27,
+        "name": "Heavy Throwing Dagger",
+        "quality": "COMMON",
+        "slot": "Ranged"
       },
       "boss_kills": {
         "15027": {
@@ -10768,15 +10768,15 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794866608000,
+      "last_login": 1794922730000,
       "level": 23,
       "level_at": {
         "23": 1794866470
       },
       "professions": {
-        "Cooking": 18,
+        "Cooking": 69,
         "First Aid": 80,
-        "Fishing": 1,
+        "Fishing": 2,
         "Mining": 107,
         "Skinning": 150
       },
@@ -10801,6 +10801,10 @@
             "name": "Roasted Boar Meat"
           },
           {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
             "id": 4353,
             "name": "Brilliant Smallfish"
           },
@@ -10809,12 +10813,28 @@
             "name": "Slitherskin Mackerel"
           },
           {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
+          },
+          {
             "id": 4786,
             "name": "Herb Baked Egg"
           },
           {
+            "id": 5149,
+            "name": "Thistle Tea"
+          },
+          {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           }
         ],
         "First Aid": [
@@ -10935,15 +10955,14 @@
       },
       "spec": "Assassination",
       "stats": {
-        "critters": 29,
+        "critters": 30,
         "deaths": 10,
-        "flights": 46,
+        "flights": 47,
         "food": 2,
         "health_potions": 7,
         "hearths": 19,
-        "killing_blows": 1304,
-        "mobs": 2215,
-        "need_rolls": 28,
+        "killing_blows": 1422,
+        "mobs": 2331,
         "quests": 146
       },
       "xp": 20505
@@ -16956,6 +16975,7 @@
     "Heavy Armor Kit": "Schweres Rüstungsset",
     "Heavy Linen Gloves": "Schwere Leinenhandschuhe",
     "Heavy Shot": "Schweres Geschoss",
+    "Heavy Throwing Dagger": "Schwerer Wurfdolch",
     "Heavy Woolen Gloves": "Schwere Wollhandschuhe",
     "Held In Off-hand": "In Schildhand geführt",
     "Herbalism Skill": "Kräuterkundefertigkeit",
@@ -18345,7 +18365,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794922002,
+  "saved_at": 1794922824,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
