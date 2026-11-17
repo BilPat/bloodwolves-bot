@@ -10753,6 +10753,7 @@
     },
     "eu:lazy-quinn": {
       "achievements": {
+        "62006": "Novice Shaman",
         "728": "Explore Durotar",
         "855": "Explore Moonglade"
       },
@@ -10816,17 +10817,18 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1794868996000,
-      "level": 24,
+      "last_login": 1794876562000,
+      "level": 25,
       "level_at": {
-        "24": 1794866470
+        "24": 1794866470,
+        "25": 1794877050
       },
       "professions": {
         "Cooking": 108,
         "First Aid": 65,
         "Fishing": 100,
         "Leatherworking": 114,
-        "Skinning": 187
+        "Skinning": 189
       },
       "race": "Troll",
       "raids": {},
@@ -11146,7 +11148,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9753,
+          "raw": 9803,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -11166,7 +11168,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10772,
+          "raw": 10822,
           "tier": 5
         },
         "Powderfuse": {
@@ -11181,31 +11183,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5278,
+          "raw": 5328,
           "tier": 4
         },
         "Undercity": {
-          "name": "Neutral",
-          "raw": 2971,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3171,
+          "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 16,
-        "deaths": 19,
-        "drinks": 10,
+        "deaths": 20,
+        "drinks": 11,
         "flights": 22,
         "food": 3,
         "health_potions": 19,
         "hearths": 13,
-        "killing_blows": 1058,
+        "killing_blows": 1075,
         "mana_potions": 6,
-        "mobs": 1772,
-        "need_rolls": 20,
-        "quests": 162
+        "mobs": 1796,
+        "quests": 164
       },
-      "xp": 24956
+      "xp": 154
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -15851,7 +15852,22 @@
     ]
   },
   "daily_digest": {
-    "items": {},
+    "items": {
+      "eu:lazy-quinn": {
+        "c": {
+          "name": "Lazy",
+          "region": "eu",
+          "surname": "Quinn"
+        },
+        "lines": [
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 25
+        }
+      }
+    },
     "last": null
   },
   "de_names": {
@@ -16614,6 +16630,7 @@
     "Stomping Boots": "Stampfer-Stiefel",
     "Stonefist Girdle": "Steinfaustgurt",
     "Stonewood Hammer": "Steinholzhammer",
+    "Stormstrike": "Sturmschlag",
     "Strength": "Stärke",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Subterranean Cape": "Unterirdisches Cape",
@@ -17555,7 +17572,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794875768,
+  "saved_at": 1794877052,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
