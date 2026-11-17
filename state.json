@@ -1813,6 +1813,442 @@
       },
       "xp": 76749
     },
+    "eu:blck-jck": {
+      "achievements": {
+        "62000": "Novice Priest",
+        "736": "Explore Mulgore",
+        "769": "Explore Silverpine Forest"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/251/6748923-avatar.jpg",
+      "best_item": {
+        "id": 6414,
+        "ilvl": 29,
+        "name": "Seal of Sylvanas",
+        "quality": "RARE",
+        "slot": "Ring 1"
+      },
+      "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 2,
+          "instance": "Shadowfang Keep"
+        },
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        },
+        "63570": {
+          "boss": "Edwin VanCleef",
+          "count": 1,
+          "instance": "Deadmines"
+        },
+        "63571": {
+          "boss": "Rath'mael",
+          "count": 3,
+          "instance": "Ruins of Lordaeron"
+        }
+      },
+      "class": "Priest",
+      "dungeons": {},
+      "first_seen": 1794884198,
+      "gear": {
+        "273457": {
+          "name": "Sorcerer Collar",
+          "quality": "RARE"
+        },
+        "273643": {
+          "name": "Worgenbane Talisman",
+          "quality": "RARE"
+        },
+        "286978": {
+          "name": "Rotmender's Garb",
+          "quality": "RARE"
+        },
+        "286979": {
+          "name": "Rotmender's Gloves",
+          "quality": "RARE"
+        },
+        "286980": {
+          "name": "Rotmender's Sash",
+          "quality": "RARE"
+        },
+        "3748": {
+          "name": "Feline Mantle",
+          "quality": "RARE"
+        },
+        "6318": {
+          "name": "Odo's Ley Staff",
+          "quality": "RARE"
+        },
+        "6340": {
+          "name": "Fenrus' Hide",
+          "quality": "RARE"
+        },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 21,
+      "last_explored": "Silverpine Forest",
+      "last_login": 1794872543000,
+      "level": 25,
+      "level_at": {
+        "25": 1794884198
+      },
+      "professions": {
+        "Cooking": 35,
+        "Enchanting": 72,
+        "First Aid": 28,
+        "Fishing": 1,
+        "Tailoring": 82
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 8616,
+            "name": "Crispy Bat Wing"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "Enchanting": [
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 13137,
+            "name": "Minor Wizard Oil"
+          },
+          {
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 54401,
+            "name": "Enchant Bracer - Minor Intellect"
+          },
+          {
+            "id": 7316,
+            "name": "Disenchant"
+          },
+          {
+            "id": 4289,
+            "name": "Enchant Bracer - Inferior Stamina"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 4291,
+            "name": "Runed Copper Rod"
+          },
+          {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
+          },
+          {
+            "id": 4297,
+            "name": "Enchant Chest - Minor Intellect"
+          },
+          {
+            "id": 4300,
+            "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4301,
+            "name": "Enchant Bracer - Minor Stamina"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
+          },
+          {
+            "id": 54213,
+            "name": "Dust to Motes"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ],
+        "Tailoring": [
+          {
+            "id": 6577,
+            "name": "Simple Linen Boots"
+          },
+          {
+            "id": 6578,
+            "name": "Simple Kilt"
+          },
+          {
+            "id": 55423,
+            "name": "Novice Arcanist's Sash"
+          },
+          {
+            "id": 6576,
+            "name": "Simple Linen Pants"
+          },
+          {
+            "id": 2408,
+            "name": "Brown Linen Pants"
+          },
+          {
+            "id": 2409,
+            "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 4848,
+            "name": "Linen Belt"
+          },
+          {
+            "id": 2359,
+            "name": "Bolt of Linen Cloth"
+          },
+          {
+            "id": 2360,
+            "name": "Linen Cloak"
+          },
+          {
+            "id": 2361,
+            "name": "Brown Linen Vest"
+          },
+          {
+            "id": 2363,
+            "name": "Linen Boots"
+          },
+          {
+            "id": 2364,
+            "name": "Red Linen Shirt"
+          },
+          {
+            "id": 2365,
+            "name": "White Linen Shirt"
+          },
+          {
+            "id": 2366,
+            "name": "Blue Linen Shirt"
+          },
+          {
+            "id": 2367,
+            "name": "Reinforced Linen Cape"
+          },
+          {
+            "id": 2368,
+            "name": "Barbaric Linen Vest"
+          },
+          {
+            "id": 2369,
+            "name": "Green Linen Shirt"
+          },
+          {
+            "id": 2370,
+            "name": "Bolt of Woolen Cloth"
+          },
+          {
+            "id": 2371,
+            "name": "Woolen Cape"
+          },
+          {
+            "id": 2372,
+            "name": "Green Woolen Vest"
+          },
+          {
+            "id": 2373,
+            "name": "Woolen Boots"
+          },
+          {
+            "id": 2375,
+            "name": "Gray Woolen Shirt"
+          },
+          {
+            "id": 2378,
+            "name": "Heavy Linen Gloves"
+          },
+          {
+            "id": 2379,
+            "name": "Green Linen Bracers"
+          },
+          {
+            "id": 2380,
+            "name": "Handstitched Linen Britches"
+          },
+          {
+            "id": 2381,
+            "name": "Heavy Woolen Gloves"
+          },
+          {
+            "id": 2383,
+            "name": "Soft-soled Linen Boots"
+          },
+          {
+            "id": 3973,
+            "name": "Pearl-clasped Cloak"
+          },
+          {
+            "id": 4001,
+            "name": "Linen Bag"
+          },
+          {
+            "id": 4002,
+            "name": "Woolen Bag"
+          },
+          {
+            "id": 4708,
+            "name": "Simple Dress"
+          },
+          {
+            "id": 4302,
+            "name": "Brown Linen Robe"
+          },
+          {
+            "id": 4303,
+            "name": "White Linen Robe"
+          },
+          {
+            "id": 52648,
+            "name": "Faction Banner"
+          },
+          {
+            "id": 55424,
+            "name": "Novice Ardent's Sash"
+          },
+          {
+            "id": 55366,
+            "name": "Linen Reagent Bag"
+          },
+          {
+            "id": 55367,
+            "name": "Woolen Reagent Bag"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 1050,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 884,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 3545,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 884,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 884,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 3995,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 884,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 1269,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 2652,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Honored",
+          "raw": 13682,
+          "tier": 5
+        }
+      },
+      "spec": "Holy",
+      "stats": {
+        "critters": 52,
+        "deaths": 13,
+        "drinks": 61,
+        "flights": 18,
+        "food": 39,
+        "health_potions": 6,
+        "hearths": 18,
+        "honorable_kills": 5,
+        "killing_blows": 829,
+        "mana_potions": 13,
+        "mobs": 2772,
+        "quests": 165
+      },
+      "xp": 15166
+    },
     "eu:blut-leiche": {
       "achievements": {
         "62009": "Novice Warlock",
@@ -16181,12 +16617,14 @@
     "Enchant Bracer - Inferior Stamina": "Armschiene - Minderwertige Ausdauer",
     "Enchant Bracer - Lesser Stamina": "Armschiene - Geringe Ausdauer",
     "Enchant Bracer - Minor Agility": "Armschiene - Schwache Beweglichkeit",
+    "Enchant Bracer - Minor Intellect": "Armschiene - Schwache Intelligenz",
     "Enchant Bracer - Minor Stamina": "Armschiene - Schwache Ausdauer",
     "Enchant Chest - Greater Stamina": "Brust - Große Ausdauer",
     "Enchant Chest - Inferior Stamina": "Brust - Minderwertige Ausdauer",
     "Enchant Chest - Lesser Stamina": "Brust - Geringe Ausdauer",
     "Enchant Chest - Minor Intellect": "Brust - Schwache Intelligenz",
     "Enchant Cloak - Minor Protection": "Umhang - Schwacher Schutz",
+    "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance Training": "Belastbarkeit-Ausbildung",
@@ -16198,7 +16636,9 @@
     "Feathered Arrow": "Gefiederter Pfeil",
     "Feet": "Füße",
     "Fel Concentration": "Teufelskonzentration",
+    "Feline Mantle": "Felinen-Mantel",
     "Female": "Weiblich",
+    "Fenrus' Hide": "Fenrus' Balg",
     "Feral Charge": "Wilde Attacke",
     "Feral Combat": "Wilder Kampf",
     "Feral Cord of the Tiger": "Wild-Kordel des Tigers",
@@ -16311,6 +16751,7 @@
     "Hit": "Trefferwert",
     "Holy": "Heilig",
     "Holy Damage": "Heiligschaden",
+    "Holy Nova": "Heilige Nova",
     "Holy Specialization": "Heiligspezialisierung",
     "Honorable Kills": "Ehrenhafte Siege",
     "Honored": "Wohlwollend",
@@ -16333,6 +16774,7 @@
     "Improved Lightning Shield": "Verbesserter Blitzschlagschild",
     "Improved Pick Pocket and Distract 01": "Verbesserter Taschendiebstahl und Ablenken 01",
     "Improved Rend": "Verbessertes Verwunden",
+    "Improved Renew": "Verbesserte Erneuerung",
     "Improved Revenge": "Verbesserte Rache",
     "Improved Righteous Fury": "Verbesserter Zorn der Gerechtigkeit",
     "Improved Seals": "Verbesserte Siegel",
@@ -16443,6 +16885,7 @@
     "Nogg's Gold Ring": "Noggs Goldring",
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Number of times hearthed": "Anzahl der Nutzungen des Ruhesteins",
+    "Odo's Ley Staff": "Odos Leystab",
     "Off Hand": "Schildhand",
     "Ogre Horn Ring": "Ogerhornring",
     "One-Hand": "Einhändig",
@@ -16638,6 +17081,7 @@
     "Social": "Geselligkeit",
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
     "Solid Gold Band": "Solides Goldband",
+    "Sorcerer Collar": "Zaubererhalsband",
     "Soul Harvest": "Seelenernte",
     "Soul Siphon": "Seelenentzug",
     "Spare Part Bindings": "Ersatzteilbindungen",
@@ -16787,6 +17231,8 @@
     "Warsong Sash": "Warsongschärpe",
     "Weapon": "Waffe",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
+    "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
+    "Willow Pants of Intellect": "Weidenhose der Intelligenz",
     "Windshaper Skyborne": "Himmelsgeborener der Windformer",
     "Windshapers": "Windformer",
     "Windswept Slippers": "Windgepeitschte Pantoffeln",
@@ -16878,6 +17324,9 @@
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
       }
+    },
+    "eu:blck-jck": {
+      "mounts": {}
     },
     "eu:blut-leiche": {
       "mounts": {
@@ -17088,6 +17537,7 @@
       "aru-tai": "Aru Tai",
       "barbariana-hunter": "Barbariana Hunter",
       "baumora-axiom": "Baumora Axiom",
+      "blck-jck": "Blck Jck",
       "blut-leiche": "Blut Leiche",
       "bon-tschorno": "Bon Tschorno",
       "boreas-donnerrufer": "Boreas Donnerrufer",
@@ -17103,6 +17553,7 @@
       "garakosh-redwalker": "Garakosh Redwalker",
       "garm-winterhoof": "Garm Winterhoof",
       "garret-aschwind": "Garret Aschwind",
+      "gaul-jin": "Gaul Jin",
       "h%C3%A4uptling-blutmacht": "Häuptling Blutmacht",
       "howard-wolowitzard": "Howard Wolowitzard",
       "huli-muli": "Huli Muli",
@@ -17151,7 +17602,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 45,
+        "level": 46,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -17187,7 +17638,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 43,
+        "level": 44,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -17196,9 +17647,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 40,
+        "level": 41,
         "name": "Baumora",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Axiom"
       },
@@ -17333,7 +17784,7 @@
         "guild": true,
         "level": 22,
         "name": "Rausmit",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Deviechers"
       },
@@ -17484,9 +17935,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Lazy",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Quinn"
       },
@@ -17556,7 +18007,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Lagertha",
         "rank": 1,
         "region": "eu",
@@ -17624,13 +18075,31 @@
         "rank": 4,
         "region": "eu",
         "surname": "Belli"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 25,
+        "name": "Blck",
+        "rank": 3,
+        "region": "eu",
+        "surname": "Jck"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 7,
+        "name": "Gaul",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Jin"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794883225,
+  "saved_at": 1794884200,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
@@ -17847,6 +18316,52 @@
           "quests": 294
         },
         "xp": 76749
+      },
+      "eu:blck-jck": {
+        "achievements": 3,
+        "clears": {
+          "Ruins of Lordaeron": 3,
+          "Shadowfang Keep": 2,
+          "The Deadmines": 1,
+          "Wailing Caverns": 1
+        },
+        "epics": [],
+        "level": 25,
+        "professions": {
+          "Cooking": 35,
+          "Enchanting": 72,
+          "First Aid": 28,
+          "Fishing": 1,
+          "Tailoring": 82
+        },
+        "rep": {
+          "Argent Dawn": 1050,
+          "Booty Bay": 884,
+          "Darkspear Trolls": 3545,
+          "Durotar Supply and Logistics": 2000,
+          "Everlook": 884,
+          "Gadgetzan": 884,
+          "Orgrimmar": 3995,
+          "Powderfuse": 884,
+          "Ratchet": 1269,
+          "Thunder Bluff": 2652,
+          "Undercity": 13682
+        },
+        "stats": {
+          "critters": 52,
+          "deaths": 13,
+          "drinks": 61,
+          "flights": 18,
+          "food": 39,
+          "health_potions": 6,
+          "hearths": 18,
+          "honorable_kills": 5,
+          "killing_blows": 829,
+          "mana_potions": 13,
+          "mobs": 2772,
+          "quests": 165
+        },
+        "xp": 15166
       },
       "eu:blut-leiche": {
         "achievements": 4,
