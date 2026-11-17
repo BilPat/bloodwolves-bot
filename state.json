@@ -1031,11 +1031,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/95/51172703-avatar.jpg",
       "best_item": {
-        "id": 15011,
-        "ilvl": 15,
-        "name": "Lupine Cord of the Monkey",
-        "quality": "UNCOMMON",
-        "slot": "Waist"
+        "id": 2507,
+        "ilvl": 16,
+        "name": "Laminated Recurve Bow",
+        "quality": "COMMON",
+        "slot": "Ranged"
       },
       "boss_kills": {},
       "class": "Hunter",
@@ -1044,17 +1044,18 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": "Durotar",
-      "last_login": 1794822821000,
-      "level": 13,
+      "last_login": 1794927384000,
+      "level": 14,
       "level_at": {
-        "13": 1794866470
+        "13": 1794866470,
+        "14": 1794928566
       },
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
         "Fishing": 72,
         "Mining": 68,
-        "Skinning": 96
+        "Skinning": 101
       },
       "race": "Troll",
       "raids": {},
@@ -1142,7 +1143,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7663,
+          "raw": 7688,
           "tier": 4
         },
         "Everlook": {
@@ -1157,7 +1158,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7313,
+          "raw": 7338,
           "tier": 4
         },
         "Powderfuse": {
@@ -1172,30 +1173,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3325,
+          "raw": 3425,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 743,
+          "raw": 768,
           "tier": 3
         }
       },
       "spec": "Beast Mastery",
       "stats": {
         "critters": 6,
-        "deaths": 4,
+        "deaths": 5,
         "drinks": 1,
-        "flights": 5,
-        "food": 10,
+        "flights": 6,
+        "food": 11,
         "health_potions": 3,
-        "hearths": 4,
-        "killing_blows": 424,
-        "mobs": 461,
-        "need_rolls": 5,
-        "quests": 61
+        "hearths": 5,
+        "killing_blows": 451,
+        "mobs": 488,
+        "quests": 62
       },
-      "xp": 9233
+      "xp": 3128
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -15475,11 +15475,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/89/11888473-avatar.jpg",
       "best_item": {
-        "id": 6414,
-        "ilvl": 29,
-        "name": "Seal of Sylvanas",
+        "id": 267369,
+        "ilvl": 31,
+        "name": "Wolfsbane",
         "quality": "RARE",
-        "slot": "Ring 1"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "1092": {
@@ -15504,7 +15504,7 @@
         },
         "63571": {
           "boss": "Rath'mael",
-          "count": 1,
+          "count": 2,
           "instance": "Ruins of Lordaeron"
         }
       },
@@ -15524,6 +15524,14 @@
           "name": "Gemmed Copper Boots",
           "quality": "RARE"
         },
+        "267369": {
+          "name": "Wolfsbane",
+          "quality": "RARE"
+        },
+        "271211": {
+          "name": "Vilewalkers",
+          "quality": "RARE"
+        },
         "286981": {
           "name": "Death Bindings",
           "quality": "RARE"
@@ -15541,19 +15549,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 19,
+      "ilvl": 20,
       "last_explored": null,
-      "last_login": 1794850039000,
-      "level": 23,
+      "last_login": 1794928497000,
+      "level": 24,
       "level_at": {
-        "23": 1794866470
+        "23": 1794866470,
+        "24": 1794928566
       },
       "professions": {
         "Blacksmithing": 111,
         "Cooking": 7,
         "First Aid": 60,
         "Fishing": 27,
-        "Mining": 129
+        "Mining": 130
       },
       "race": "Undead",
       "raids": {},
@@ -15738,7 +15747,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4132,
+          "raw": 4353,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15748,7 +15757,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 200,
+          "raw": 450,
           "tier": 3
         },
         "Everlook": {
@@ -15763,7 +15772,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5895,
+          "raw": 6153,
           "tier": 4
         },
         "Powderfuse": {
@@ -15773,17 +15782,17 @@
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1670,
+          "raw": 1671,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2265,
+          "raw": 2437,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9420,
+          "raw": 9922,
           "tier": 5
         }
       },
@@ -15792,17 +15801,16 @@
         "critters": 29,
         "deaths": 9,
         "drinks": 10,
-        "flights": 27,
+        "flights": 32,
         "food": 1,
         "health_potions": 8,
-        "hearths": 16,
-        "killing_blows": 902,
+        "hearths": 17,
+        "killing_blows": 948,
         "mana_potions": 2,
-        "mobs": 2055,
-        "need_rolls": 17,
-        "quests": 131
+        "mobs": 2218,
+        "quests": 142
       },
-      "xp": 23422
+      "xp": 12263
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -17108,6 +17116,7 @@
     "Krol'dok Warplate Helmet": "Kriegsplattenhelm von Krol'Dok",
     "Krol'dok Warplate Legplates": "Kriegsplattenbeinplatten von Krol'Dok",
     "Krol'dok Warplate Pauldrons": "Kriegsplattenschulterstücke von Krol'Dok",
+    "Laminated Recurve Bow": "Laminierter Doppelbogen",
     "Larcenist's Belt": "Diebesgürtel",
     "Last Stand": "Letztes Gefecht",
     "Leader of the Pack": "Rudelführer",
@@ -18450,7 +18459,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794927315,
+  "saved_at": 1794928571,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
