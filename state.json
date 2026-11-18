@@ -6090,6 +6090,11 @@
           "count": 1,
           "instance": "Blackfathom Deeps"
         },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 2,
@@ -6097,12 +6102,12 @@
         },
         "63572": {
           "boss": "Shade of the Archmage",
-          "count": 2,
+          "count": 3,
           "instance": "City of Dalaran"
         },
         "63589": {
           "boss": "Lyn the Ignored",
-          "count": 1,
+          "count": 2,
           "instance": "City of Dalaran"
         }
       },
@@ -6126,8 +6131,16 @@
           "name": "Graveweave Bindings",
           "quality": "RARE"
         },
+        "273044": {
+          "name": "Violet Sorcerer's Robes",
+          "quality": "RARE"
+        },
         "273840": {
           "name": "Cursed Murloc Eye",
+          "quality": "RARE"
+        },
+        "274158": {
+          "name": "Death Prophet Spine",
           "quality": "RARE"
         },
         "286978": {
@@ -6153,7 +6166,7 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794944937000,
+      "last_login": 1795011838000,
       "level": 31,
       "level_at": {
         "28": 1794866470,
@@ -6555,7 +6568,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 575,
+          "raw": 650,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -6575,12 +6588,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 575,
+          "raw": 650,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 575,
+          "raw": 650,
           "tier": 3
         },
         "Orgrimmar": {
@@ -6590,12 +6603,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 575,
+          "raw": 650,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 650,
+          "raw": 800,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -6613,18 +6626,18 @@
       "stats": {
         "critters": 50,
         "deaths": 14,
-        "drinks": 457,
-        "flights": 37,
-        "food": 131,
+        "drinks": 514,
+        "flights": 38,
+        "food": 137,
         "health_potions": 15,
-        "hearths": 13,
+        "hearths": 14,
         "honorable_kills": 4,
-        "killing_blows": 1326,
+        "killing_blows": 1378,
         "mana_potions": 7,
-        "mobs": 3252,
-        "quests": 201
+        "mobs": 3576,
+        "quests": 202
       },
-      "xp": 791
+      "xp": 26831
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -18270,6 +18283,20 @@
           "level": 15
         }
       },
+      "eu:fred-feuersturm": {
+        "c": {
+          "name": "Fred",
+          "region": "eu",
+          "surname": "Feuersturm"
+        },
+        "lines": [
+          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 31
+        }
+      },
       "eu:h%C3%A4uptling-blutmacht": {
         "c": {
           "name": "Häuptling",
@@ -18641,6 +18668,7 @@
     "Deadly Aspects": "Tödliche Aspekte",
     "Deadmines": "Todesminen",
     "Death Bindings": "Todesbindungen",
+    "Death Prophet Spine": "Wirbelsäule des Todespropheten",
     "Death Wish": "Todeswunsch",
     "Deaths": "Tode",
     "Deaths from drowning": "Tode durch Ertrinken",
@@ -18737,6 +18765,7 @@
     "Ephemeral Choker": "Ephemerer Halsreif",
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
+    "Fade": "Verblassen",
     "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
     "Feathered Arrow": "Gefiederter Pfeil",
@@ -19107,7 +19136,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -20314,7 +20343,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795011350,
+  "saved_at": 1795012005,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
