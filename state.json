@@ -16297,9 +16297,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1794994736000,
+      "last_login": 1794997488000,
       "level": 37,
       "level_at": {
         "35": 1794866470,
@@ -16308,7 +16308,7 @@
       },
       "professions": {
         "Blacksmithing": 131,
-        "Cooking": 162,
+        "Cooking": 170,
         "First Aid": 62,
         "Fishing": 152,
         "Mining": 187
@@ -16673,7 +16673,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7008,
+          "raw": 7108,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16698,7 +16698,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7477,
+          "raw": 7502,
           "tier": 4
         },
         "Powderfuse": {
@@ -16713,12 +16713,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6848,
+          "raw": 6873,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 20223,
+          "raw": 20248,
           "tier": 5
         }
       },
@@ -16731,12 +16731,12 @@
         "food": 38,
         "health_potions": 23,
         "hearths": 35,
-        "killing_blows": 2451,
+        "killing_blows": 2464,
         "mana_potions": 1,
-        "mobs": 5290,
-        "quests": 330
+        "mobs": 5303,
+        "quests": 334
       },
-      "xp": 26503
+      "xp": 35813
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -20641,7 +20641,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794996937,
+  "saved_at": 1794997543,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
