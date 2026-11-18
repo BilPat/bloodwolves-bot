@@ -827,15 +827,16 @@
     },
     "eu:aru-tai": {
       "achievements": {
+        "62006": "Novice Shaman",
         "728": "Explore Durotar"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/101/11425125-avatar.jpg",
       "best_item": {
-        "id": 6414,
-        "ilvl": 29,
-        "name": "Seal of Sylvanas",
+        "id": 270043,
+        "ilvl": 32,
+        "name": "Dreamer's Chestguard",
         "quality": "RARE",
-        "slot": "Ring 1"
+        "slot": "Chest"
       },
       "boss_kills": {
         "1092": {
@@ -852,6 +853,11 @@
           "boss": "Mutanus the Devourer",
           "count": 1,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -875,8 +881,16 @@
           "name": "Forsaken Greataxe",
           "quality": "RARE"
         },
+        "270043": {
+          "name": "Dreamer's Chestguard",
+          "quality": "RARE"
+        },
         "271212": {
           "name": "Bloodied Chestwraps",
+          "quality": "RARE"
+        },
+        "285328": {
+          "name": "Taurenbane's Family Cleaver",
           "quality": "RARE"
         },
         "5404": {
@@ -894,20 +908,25 @@
         "6629": {
           "name": "Sporid Cape",
           "quality": "RARE"
+        },
+        "6902": {
+          "name": "Bands of Serra'kis",
+          "quality": "RARE"
         }
       },
-      "ilvl": 19,
+      "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1794947248000,
-      "level": 24,
+      "last_login": 1795003247000,
+      "level": 26,
       "level_at": {
         "23": 1794866470,
-        "24": 1794940852
+        "24": 1794940852,
+        "26": 1795004429
       },
       "professions": {
         "Alchemy": 76,
         "Fishing": 18,
-        "Herbalism": 86
+        "Herbalism": 87
       },
       "race": "Orc",
       "raids": {},
@@ -980,6 +999,11 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 400,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
           "raw": 1285,
@@ -987,8 +1011,13 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6291,
+          "raw": 7260,
           "tier": 4
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 300,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
@@ -1001,9 +1030,9 @@
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8966,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9447,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
@@ -1017,12 +1046,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4981,
+          "raw": 5606,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4835,
+          "raw": 5147,
           "tier": 4
         }
       },
@@ -1030,16 +1059,17 @@
       "stats": {
         "critters": 32,
         "deaths": 15,
-        "drinks": 12,
-        "flights": 35,
+        "drinks": 17,
+        "flights": 39,
+        "food": 5,
         "health_potions": 5,
-        "hearths": 18,
-        "killing_blows": 960,
-        "mana_potions": 9,
-        "mobs": 1890,
-        "quests": 134
+        "hearths": 19,
+        "killing_blows": 1089,
+        "mana_potions": 18,
+        "mobs": 2215,
+        "quests": 148
       },
-      "xp": 11930
+      "xp": 11050
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -15589,7 +15619,9 @@
       "xp": 11627
     },
     "eu:thalgrim-tirisfal": {
-      "achievements": {},
+      "achievements": {
+        "61997": "Novice Paladin"
+      },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/89/11888473-avatar.jpg",
       "best_item": {
         "id": 267369,
@@ -15613,6 +15645,11 @@
           "boss": "Mutanus the Devourer",
           "count": 1,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63570": {
           "boss": "Edwin VanCleef",
@@ -15666,20 +15703,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 21,
       "last_explored": null,
-      "last_login": 1794928497000,
-      "level": 24,
+      "last_login": 1795003279000,
+      "level": 26,
       "level_at": {
         "23": 1794866470,
-        "24": 1794928566
+        "24": 1794928566,
+        "26": 1795004429
       },
       "professions": {
         "Blacksmithing": 111,
-        "Cooking": 7,
+        "Cooking": 23,
         "First Aid": 60,
-        "Fishing": 27,
-        "Mining": 130
+        "Fishing": 37,
+        "Mining": 134
       },
       "race": "Undead",
       "raids": {},
@@ -15696,6 +15734,10 @@
           {
             "id": 1800,
             "name": "Coarse Weightstone"
+          },
+          {
+            "id": 1852,
+            "name": "Deadly Bronze Poniard"
           },
           {
             "id": 1856,
@@ -15818,6 +15860,10 @@
           {
             "id": 4344,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Mining": [
@@ -15854,7 +15900,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 350,
+          "raw": 550,
           "tier": 3
         },
         "Booty Bay": {
@@ -15864,7 +15910,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4353,
+          "raw": 5422,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15874,7 +15920,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 450,
+          "raw": 900,
           "tier": 3
         },
         "Everlook": {
@@ -15889,7 +15935,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6153,
+          "raw": 6678,
           "tier": 4
         },
         "Powderfuse": {
@@ -15903,13 +15949,13 @@
           "tier": 3
         },
         "Thunder Bluff": {
-          "name": "Neutral",
-          "raw": 2437,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3181,
+          "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9922,
+          "raw": 10278,
           "tier": 5
         }
       },
@@ -15917,17 +15963,17 @@
       "stats": {
         "critters": 29,
         "deaths": 9,
-        "drinks": 10,
-        "flights": 32,
-        "food": 1,
+        "drinks": 11,
+        "flights": 34,
+        "food": 6,
         "health_potions": 8,
-        "hearths": 17,
-        "killing_blows": 948,
+        "hearths": 18,
+        "killing_blows": 1058,
         "mana_potions": 2,
-        "mobs": 2218,
-        "quests": 142
+        "mobs": 2542,
+        "quests": 156
       },
-      "xp": 12263
+      "xp": 19811
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -18351,11 +18397,13 @@
           "surname": "Tai"
         },
         "lines": [
-          "🛠️ **Alchemie** auf 75"
+          "🛠️ **Alchemie** auf 75",
+          "🤝 **Wohlwollend** bei Orgrimmar",
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
         ],
         "snap": {
           "class": "Shaman",
-          "level": 24
+          "level": 26
         }
       },
       "eu:baumora-axiom": {
@@ -18484,6 +18532,21 @@
           "level": 15
         }
       },
+      "eu:thalgrim-tirisfal": {
+        "c": {
+          "name": "Thalgrim",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Tirisfal"
+        },
+        "lines": [
+          "🎖️ [Novice Paladin](https://www.wowhead.com/forever/de/achievement=61997)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 26
+        }
+      },
       "us:steel-appeal": {
         "c": {
           "name": "steel",
@@ -18565,6 +18628,7 @@
     "Bandage used most": "Am häufigsten angelegter Verband",
     "Bandages used": "Angelegte Verbände",
     "Banded Helm of the Champion": "Bebänderter Helm des Champions",
+    "Bands of Serra'kis": "Bänder von Serra'kis",
     "Bandsaw Wristbands": "Bandsägen-Gelenkbänder",
     "Bane": "Dunkle Macht",
     "Barbaric Cloth Boots": "Barbarische Stoffstiefel",
@@ -18775,6 +18839,7 @@
     "Defias Leather": "Defiasleder",
     "Defias Renegade Ring": "Renegatenring der Defias",
     "Deflection": "Abwehr",
+    "Deftkin Belt": "Deftkin-Gürtel",
     "Demolition Hammer": "Demolierhammer",
     "Demon Band": "Dämonenband",
     "Demonology": "Dämonologie",
@@ -19012,6 +19077,7 @@
     "Improved Corruption": "Verbesserte Verderbnis",
     "Improved Fire Blast": "Verbesserter Feuerschlag",
     "Improved Flamestrike": "Verbesserter Flammenstoß",
+    "Improved Ghost Wolf": "Verbesserter Geisterwolf",
     "Improved Healing": "Verbesserte Heilung",
     "Improved Heroic Strike": "Verbesserter heldenhafter Stoß",
     "Improved Judgement": "Verbessertes Richturteil",
@@ -19315,6 +19381,7 @@
     "Sentinel Boots of the Elder": "Schildwachenstiefel des Ältesten",
     "Sentinel Boots of the Tiger": "Schildwachenstiefel des Tigers",
     "Sentinel's Slasher": "Schlitzer der Schildwache",
+    "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Serpent's Shoulders": "Schlangen-Schultern",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
     "Shade of the Archmage Kills (City of Dalaran)": "Siege über den Schemen des Erzmagiers (Dalaran)",
@@ -19423,6 +19490,7 @@
     "Tailoring Patterns learned": "Erlernte Schnittmuster",
     "Talbar Mantle": "Talbar-Mantel",
     "Tanned Shoulderpads": "Gegerbte Schulterpolster",
+    "Taurenbane's Family Cleaver": "Spaltbeil der Familie Taurenbane",
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
     "The Defilers": "Die Entweihten",
@@ -20431,7 +20499,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795002931,
+  "saved_at": 1795004430,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
