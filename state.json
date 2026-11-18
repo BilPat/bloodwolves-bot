@@ -4258,7 +4258,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795042254000,
+      "last_login": 1795044473000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -8753,7 +8753,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1794950133000,
+      "last_login": 1795044686000,
       "level": 45,
       "level_at": {
         "42": 1794866470,
@@ -8764,7 +8764,7 @@
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 208,
-        "Mining": 172,
+        "Mining": 178,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -8874,13 +8874,8 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4099,
+          "raw": 4161,
           "tier": 4
-        },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
@@ -8894,12 +8889,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3731,
+          "raw": 3794,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3731,
+          "raw": 3806,
           "tier": 4
         },
         "Orgrimmar": {
@@ -8909,13 +8904,18 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4654,
+          "raw": 4766,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5373,
+          "raw": 5435,
           "tier": 4
+        },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
@@ -8933,15 +8933,15 @@
         "critters": 102,
         "deaths": 71,
         "drinks": 2,
-        "flights": 97,
+        "flights": 98,
         "food": 168,
         "health_potions": 116,
-        "hearths": 26,
-        "killing_blows": 3313,
-        "mobs": 5941,
-        "quests": 509
+        "hearths": 27,
+        "killing_blows": 3317,
+        "mobs": 5945,
+        "quests": 514
       },
-      "xp": 11973
+      "xp": 24101
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -20812,7 +20812,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795044314,
+  "saved_at": 1795045201,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
