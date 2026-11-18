@@ -5802,21 +5802,22 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 3,
+      "ilvl": 5,
       "last_explored": "Durotar",
-      "last_login": 1794952569000,
-      "level": 13,
+      "last_login": 1794999671000,
+      "level": 15,
       "level_at": {
         "11": 1794866470,
         "12": 1794914073,
-        "13": 1794944402
+        "13": 1794944402,
+        "15": 1795000472
       },
       "professions": {
         "Alchemy": 55,
-        "Cooking": 32,
-        "First Aid": 38,
-        "Fishing": 64,
-        "Herbalism": 81
+        "Cooking": 75,
+        "First Aid": 80,
+        "Fishing": 72,
+        "Herbalism": 96
       },
       "race": "Orc",
       "raids": {},
@@ -5877,12 +5878,28 @@
         ],
         "Cooking": [
           {
+            "id": 8616,
+            "name": "Crispy Bat Wing"
+          },
+          {
             "id": 1535,
             "name": "Charred Wolf Meat"
           },
           {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
             "id": 1537,
             "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
           },
           {
             "id": 3927,
@@ -5891,6 +5908,22 @@
           {
             "id": 4353,
             "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
           },
           {
             "id": 4786,
@@ -5907,18 +5940,30 @@
             "name": "Linen Bandage"
           },
           {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
             "id": 54191,
             "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Fishing": [
           {
-            "id": 4344,
+            "id": 4345,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Herbalism": [
@@ -5937,44 +5982,49 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 650,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6885,
+          "raw": 7632,
           "tier": 4
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8285,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9107,
+          "tier": 5
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 800,
+          "raw": 900,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3200,
+          "raw": 3237,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 1675,
           "tier": 3
         }
       },
-      "spec": null,
+      "spec": "Enhancement",
       "stats": {
         "critters": 1,
         "drinks": 4,
-        "food": 16,
-        "health_potions": 3,
+        "food": 19,
+        "health_potions": 4,
         "hearths": 2,
-        "killing_blows": 353,
-        "mobs": 358,
-        "quests": 66
+        "killing_blows": 621,
+        "mobs": 631,
+        "quests": 91
       },
-      "xp": 5255
+      "xp": 3150
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -16299,7 +16349,7 @@
       },
       "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1794997488000,
+      "last_login": 1795000200000,
       "level": 37,
       "level_at": {
         "35": 1794866470,
@@ -16310,7 +16360,7 @@
         "Blacksmithing": 131,
         "Cooking": 170,
         "First Aid": 62,
-        "Fishing": 152,
+        "Fishing": 155,
         "Mining": 187
       },
       "race": "Undead",
@@ -16729,24 +16779,24 @@
         "drinks": 15,
         "flights": 66,
         "food": 38,
-        "health_potions": 23,
-        "hearths": 35,
-        "killing_blows": 2464,
+        "health_potions": 24,
+        "hearths": 36,
+        "killing_blows": 2519,
         "mana_potions": 1,
-        "mobs": 5303,
+        "mobs": 5359,
         "quests": 334
       },
-      "xp": 35813
+      "xp": 42588
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
       "best_item": {
-        "id": 251534,
-        "ilvl": 24,
-        "name": "Gnarled Necromancer's Staff",
-        "quality": "RARE",
-        "slot": "Main Hand"
+        "id": 281252,
+        "ilvl": 26,
+        "name": "Harpy Claw Ring",
+        "quality": "UNCOMMON",
+        "slot": "Ring 2"
       },
       "boss_kills": {
         "63571": {
@@ -16768,17 +16818,18 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 14,
+      "ilvl": 16,
       "last_explored": null,
-      "last_login": 1794947223000,
-      "level": 22,
+      "last_login": 1794999808000,
+      "level": 23,
       "level_at": {
         "21": 1794866470,
-        "22": 1794918057
+        "22": 1794918057,
+        "23": 1795000472
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 85
+        "Herbalism": 87
       },
       "race": "Undead",
       "raids": {},
@@ -16856,9 +16907,9 @@
           "tier": 3
         },
         "Darkspear Trolls": {
-          "name": "Neutral",
-          "raw": 2967,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3080,
+          "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -16876,9 +16927,9 @@
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Neutral",
-          "raw": 2967,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3155,
+          "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
@@ -16892,30 +16943,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1467,
+          "raw": 1842,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11805,
+          "raw": 11917,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 8,
+        "critters": 13,
         "deaths": 11,
-        "drinks": 602,
-        "flights": 13,
-        "food": 133,
+        "drinks": 616,
+        "flights": 14,
+        "food": 135,
         "health_potions": 9,
-        "hearths": 15,
-        "killing_blows": 1006,
-        "mana_potions": 8,
-        "mobs": 1543,
-        "quests": 119
+        "hearths": 16,
+        "killing_blows": 1053,
+        "mana_potions": 9,
+        "mobs": 1590,
+        "quests": 125
       },
-      "xp": 16714
+      "xp": 5214
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -18635,6 +18686,22 @@
           "level": 22
         }
       },
+      "eu:erna-sturmtanz": {
+        "c": {
+          "name": "Erna",
+          "region": "eu",
+          "surname": "Sturmtanz"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 75",
+          "🛠️ **Erste Hilfe** auf 75",
+          "🤝 **Wohlwollend** bei Orgrimmar"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 15
+        }
+      },
       "eu:h%C3%A4uptling-blutmacht": {
         "c": {
           "name": "Häuptling",
@@ -19067,6 +19134,7 @@
     "Ephemeral Choker": "Ephemerer Halsreif",
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
+    "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
     "Feathered Arrow": "Gefiederter Pfeil",
     "Feet": "Füße",
@@ -19164,6 +19232,7 @@
     "Handstitched Leather Pants": "Handgenähte Lederhose",
     "Handstitched Leather Vest": "Handgenähte Lederweste",
     "Harpy Bangles": "Harpyienreifen",
+    "Harpy Claw Ring": "Harpyienklauenring",
     "Hated": "Hasserfüllt",
     "Hawk Eye": "Falkenauge",
     "Head": "Kopf",
@@ -19775,7 +19844,8 @@
     "Wrist": "Handgelenke",
     "Zhovur Axe": "Zhovur-Axt",
     "Zircon Band of Spirit": "Zirkonband der Willenskraft",
-    "Zircon Band of the Whale": "Zirkonband des Wals"
+    "Zircon Band of the Whale": "Zirkonband des Wals",
+    "Zombie Skin Boots": "Zombiehaut-Stiefel"
   },
   "group": {
     "firsts": {
@@ -20641,7 +20711,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794999288,
+  "saved_at": 1795000473,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
