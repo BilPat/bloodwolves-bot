@@ -8332,6 +8332,158 @@
       },
       "xp": 68768
     },
+    "eu:gaul-jin": {
+      "achievements": {},
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/197/59743173-avatar.jpg",
+      "best_item": {
+        "id": 2300,
+        "ilvl": 12,
+        "name": "Embossed Leather Vest",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
+      },
+      "boss_kills": {},
+      "class": "Rogue",
+      "dungeons": {},
+      "first_seen": 1795018583,
+      "gear": {},
+      "ilvl": 5,
+      "last_explored": null,
+      "last_login": 1795018184000,
+      "level": 10,
+      "level_at": {
+        "10": 1795018583
+      },
+      "professions": {
+        "Cooking": 2,
+        "Leatherworking": 36,
+        "Skinning": 73
+      },
+      "race": "Troll",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4766,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 6860,
+          "tier": 4
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 5985,
+          "tier": 4
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3150,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 550,
+          "tier": 3
+        }
+      },
+      "spec": "Subtlety",
+      "stats": {
+        "deaths": 5,
+        "food": 13,
+        "health_potions": 4,
+        "hearths": 5,
+        "killing_blows": 246,
+        "mobs": 251,
+        "quests": 37
+      },
+      "xp": 7596
+    },
     "eu:h%C3%A4uptling-blutmacht": {
       "achievements": {
         "61499": "Novice Warrior",
@@ -19019,6 +19171,7 @@
     "Hands": "Hände",
     "Handstitched Leather Belt": "Handgenähter Ledergürtel",
     "Handstitched Leather Boots": "Handgenähte Lederstiefel",
+    "Handstitched Leather Cloak": "Handgenähter Lederumhang",
     "Handstitched Leather Pants": "Handgenähte Lederhose",
     "Handstitched Leather Vest": "Handgenähte Lederweste",
     "Harpy Bangles": "Harpyienreifen",
@@ -19265,6 +19418,7 @@
     "Priest": "Priester",
     "Priestess Cloak": "Umhang der Priesterin",
     "Primal Boots": "Urzeitliche Stiefel",
+    "Primitive Hand Blade": "Primitive Handklinge",
     "Primitive Mantle": "Primitiver Mantel",
     "Primitive Walking Stick": "Primitiver Wanderstecken",
     "Pristine Orcish Dagger": "Makelloser Orcdolch",
@@ -19294,7 +19448,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -19354,6 +19508,7 @@
     "Runed Copper Gauntlets": "Runenverzierte Kupferstulpen",
     "Runed Copper Pants": "Runenverzierte Kupferhose",
     "Rustmetal Bracers": "Rostmetallarmschienen",
+    "Rusty Hatchet": "Rostiges Kriegsbeil",
     "Ruthlessness": "Skrupellosigkeit",
     "Sacred Arbiter": "Heiliger Richter",
     "Sacred Duty": "Heilige Pflicht",
@@ -19391,6 +19546,7 @@
     "Sentinel's Slasher": "Schlitzer der Schildwache",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Serpent's Shoulders": "Schlangen-Schultern",
+    "Setup": "Reinlegen",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
     "Shade of the Archmage Kills (City of Dalaran)": "Siege über den Schemen des Erzmagiers (Dalaran)",
     "Shadow": "Schatten",
@@ -19482,6 +19638,7 @@
     "Strength": "Stärke",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Subterranean Cape": "Unterirdisches Cape",
+    "Subtlety": "Feingefühl",
     "Summon Felsteed": "Teufelsross beschwören",
     "Summon Warhorse": "Schlachtross beschwören",
     "Summons accepted": "Beschwörungen angenommen",
@@ -19614,6 +19771,7 @@
     "Warsong Sash": "Warsongschärpe",
     "Weapon": "Waffe",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
+    "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Pants of Intellect": "Weidenhose der Intelligenz",
@@ -19796,6 +19954,9 @@
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
       }
+    },
+    "eu:gaul-jin": {
+      "mounts": {}
     },
     "eu:h%c3%a4uptling-blutmacht": {
       "mounts": {
@@ -20503,7 +20664,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795017249,
+  "saved_at": 1795018586,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
@@ -21340,6 +21501,16 @@
           "quests": 409
         },
         "xp": 4295
+      },
+      "eu:gaul-jin": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
       },
       "eu:h%C3%A4uptling-blutmacht": {
         "achievements": 3,
