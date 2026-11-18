@@ -15234,11 +15234,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/20/8976148-avatar.jpg",
       "best_item": {
-        "id": 6414,
-        "ilvl": 29,
-        "name": "Seal of Sylvanas",
+        "id": 270043,
+        "ilvl": 32,
+        "name": "Dreamer's Chestguard",
         "quality": "RARE",
-        "slot": "Ring 2"
+        "slot": "Chest"
       },
       "boss_kills": {
         "1092": {
@@ -15250,12 +15250,21 @@
           "boss": "Mutanus the Devourer",
           "count": 1,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         }
       },
       "class": "Druid",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "270043": {
+          "name": "Dreamer's Chestguard",
+          "quality": "RARE"
+        },
         "273645": {
           "name": "Blindwatcher's Sight",
           "quality": "RARE"
@@ -15285,16 +15294,17 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 21,
       "last_explored": "Moonglade",
-      "last_login": 1794946707000,
-      "level": 25,
+      "last_login": 1794994504000,
+      "level": 26,
       "level_at": {
-        "25": 1794866470
+        "25": 1794866470,
+        "26": 1794994743
       },
       "professions": {
         "Alchemy": 153,
-        "Cooking": 105,
+        "Cooking": 113,
         "Fishing": 68,
         "Herbalism": 156
       },
@@ -15495,7 +15505,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5095,
+          "raw": 5670,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15505,7 +15515,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 100,
+          "raw": 400,
           "tier": 3
         },
         "Everlook": {
@@ -15520,7 +15530,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7007,
+          "raw": 7151,
           "tier": 4
         },
         "Powderfuse": {
@@ -15535,29 +15545,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11243,
+          "raw": 11387,
           "tier": 5
         },
         "Undercity": {
-          "name": "Neutral",
-          "raw": 2907,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3051,
+          "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
         "critters": 9,
-        "deaths": 18,
+        "deaths": 19,
         "drinks": 10,
-        "flights": 31,
-        "food": 15,
+        "flights": 32,
+        "food": 19,
         "health_potions": 4,
-        "hearths": 20,
-        "killing_blows": 905,
-        "mobs": 1515,
-        "quests": 176
+        "hearths": 21,
+        "killing_blows": 944,
+        "mobs": 1709,
+        "quests": 181
       },
-      "xp": 14383
+      "xp": 11664
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -20631,7 +20641,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794994095,
+  "saved_at": 1794994744,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
