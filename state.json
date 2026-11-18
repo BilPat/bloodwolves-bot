@@ -6127,11 +6127,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/15/12989711-avatar.jpg",
       "best_item": {
-        "id": 286989,
-        "ilvl": 33,
-        "name": "Violet Sorcerer's Wraps",
+        "id": 4197,
+        "ilvl": 36,
+        "name": "Berylline Pads",
         "quality": "RARE",
-        "slot": "Hands"
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -6223,6 +6223,10 @@
           "name": "Violet Sorcerer's Wraps",
           "quality": "RARE"
         },
+        "4197": {
+          "name": "Berylline Pads",
+          "quality": "RARE"
+        },
         "4320": {
           "name": "Spidersilk Boots",
           "quality": "RARE"
@@ -6230,17 +6234,18 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795011838000,
-      "level": 31,
+      "last_login": 1795041205000,
+      "level": 32,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
         "30": 1794923709,
-        "31": 1794945303
+        "31": 1794945303,
+        "32": 1795041613
       },
       "professions": {
         "Cooking": 148,
-        "Enchanting": 125,
+        "Enchanting": 143,
         "Fishing": 197,
         "Tailoring": 125
       },
@@ -6323,6 +6328,26 @@
         ],
         "Enchanting": [
           {
+            "id": 4402,
+            "name": "Enchant Boots - Minor Stamina"
+          },
+          {
+            "id": 7422,
+            "name": "Enchant Shield - Lesser Spirit"
+          },
+          {
+            "id": 7425,
+            "name": "Enchant Bracer - Lesser Stamina"
+          },
+          {
+            "id": 7457,
+            "name": "Enchant Chest - Lesser Absorption"
+          },
+          {
+            "id": 7426,
+            "name": "Enchant Weapon - Lesser Striking"
+          },
+          {
             "id": 7999,
             "name": "Lesser Magic Wand"
           },
@@ -6357,6 +6382,14 @@
           {
             "id": 4370,
             "name": "Runed Silver Rod"
+          },
+          {
+            "id": 4399,
+            "name": "Enchant Chest - Stamina"
+          },
+          {
+            "id": 4401,
+            "name": "Enchant Cloak - Lesser Fire Resistance"
           },
           {
             "id": 7316,
@@ -6637,7 +6670,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4630,
+          "raw": 4817,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6662,7 +6695,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4667,
+          "raw": 4780,
           "tier": 4
         },
         "Powderfuse": {
@@ -6677,31 +6710,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4105,
+          "raw": 4367,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15648,
+          "raw": 15873,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 50,
-        "deaths": 14,
-        "drinks": 514,
+        "deaths": 17,
+        "drinks": 545,
         "flights": 38,
-        "food": 137,
-        "health_potions": 15,
-        "hearths": 14,
+        "food": 163,
+        "health_potions": 16,
+        "hearths": 15,
         "honorable_kills": 4,
-        "killing_blows": 1378,
+        "killing_blows": 1462,
         "mana_potions": 7,
-        "mobs": 3576,
-        "quests": 202
+        "mobs": 3660,
+        "quests": 212
       },
-      "xp": 26831
+      "xp": 27119
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -11719,9 +11752,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 19,
       "last_explored": "Durotar",
-      "last_login": 1795040313000,
+      "last_login": 1795040943000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -12052,7 +12085,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9953,
+          "raw": 9978,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -12072,7 +12105,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10972,
+          "raw": 11072,
           "tier": 5
         },
         "Powderfuse": {
@@ -12087,12 +12120,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5478,
+          "raw": 5503,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3246,
+          "raw": 3271,
           "tier": 4
         }
       },
@@ -12108,9 +12141,9 @@
         "killing_blows": 1146,
         "mana_potions": 6,
         "mobs": 1883,
-        "quests": 168
+        "quests": 169
       },
-      "xp": 22085
+      "xp": 25872
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -19126,6 +19159,7 @@
     "Enchant Chest - Intellect": "Brust - Intelligenz",
     "Enchant Chest - Lesser Stamina": "Brust - Geringe Ausdauer",
     "Enchant Chest - Minor Intellect": "Brust - Schwache Intelligenz",
+    "Enchant Chest - Stamina": "Brust - Ausdauer",
     "Enchant Cloak - Lesser Protection": "Umhang - Geringer Schutz",
     "Enchant Cloak - Minor Protection": "Umhang - Schwacher Schutz",
     "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
@@ -20760,7 +20794,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795040705,
+  "saved_at": 1795041615,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
