@@ -916,7 +916,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795028703000,
+      "last_login": 1795030690000,
       "level": 26,
       "level_at": {
         "23": 1794866470,
@@ -924,7 +924,7 @@
         "26": 1795004429
       },
       "professions": {
-        "Alchemy": 76,
+        "Alchemy": 125,
         "Fishing": 18,
         "Herbalism": 107
       },
@@ -932,6 +932,10 @@
       "raids": {},
       "recipes": {
         "Alchemy": [
+          {
+            "id": 1814,
+            "name": "Elixir of Wisdom"
+          },
           {
             "id": 1832,
             "name": "Minor Troll's Blood Elixir"
@@ -951,6 +955,14 @@
           {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
+          },
+          {
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
           },
           {
             "id": 4178,
@@ -1060,16 +1072,16 @@
         "critters": 32,
         "deaths": 15,
         "drinks": 17,
-        "flights": 41,
+        "flights": 42,
         "food": 5,
         "health_potions": 5,
-        "hearths": 19,
-        "killing_blows": 1097,
+        "hearths": 20,
+        "killing_blows": 1098,
         "mana_potions": 18,
-        "mobs": 2223,
+        "mobs": 2224,
         "quests": 149
       },
-      "xp": 13605
+      "xp": 13803
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -4227,7 +4239,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795029135000,
+      "last_login": 1795030436000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -20811,7 +20823,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795029892,
+  "saved_at": 1795030819,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
