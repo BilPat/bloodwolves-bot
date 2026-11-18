@@ -1060,7 +1060,7 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": "Durotar",
-      "last_login": 1794959333000,
+      "last_login": 1794991847000,
       "level": 14,
       "level_at": {
         "13": 1794866470,
@@ -1071,7 +1071,7 @@
         "First Aid": 33,
         "Fishing": 72,
         "Mining": 68,
-        "Skinning": 101
+        "Skinning": 115
       },
       "race": "Troll",
       "raids": {},
@@ -1159,8 +1159,13 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7688,
+          "raw": 7732,
           "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
@@ -1174,7 +1179,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7338,
+          "raw": 7457,
           "tier": 4
         },
         "Powderfuse": {
@@ -1189,29 +1194,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3425,
+          "raw": 3468,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 768,
+          "raw": 868,
           "tier": 3
         }
       },
-      "spec": "Beast Mastery",
+      "spec": "Marksmanship",
       "stats": {
         "critters": 6,
         "deaths": 5,
         "drinks": 1,
-        "flights": 6,
+        "flights": 7,
         "food": 11,
         "health_potions": 3,
-        "hearths": 6,
-        "killing_blows": 490,
-        "mobs": 527,
-        "quests": 62
+        "hearths": 7,
+        "killing_blows": 526,
+        "mobs": 563,
+        "quests": 65
       },
-      "xp": 4214
+      "xp": 11010
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -9415,7 +9420,7 @@
       },
       "ilvl": 26,
       "last_explored": "Thousand Needles",
-      "last_login": 1794949954000,
+      "last_login": 1794991344000,
       "level": 31,
       "level_at": {
         "25": 1794866470,
@@ -9428,8 +9433,8 @@
       "professions": {
         "Cooking": 115,
         "First Aid": 150,
-        "Leatherworking": 118,
-        "Skinning": 205
+        "Leatherworking": 132,
+        "Skinning": 208
       },
       "race": "Undead",
       "raids": {},
@@ -9616,6 +9621,10 @@
             "name": "Embossed Leather Pants"
           },
           {
+            "id": 2168,
+            "name": "Hillman's Cloak"
+          },
+          {
             "id": 2170,
             "name": "Fine Leather Tunic"
           },
@@ -9656,8 +9665,20 @@
             "name": "Earthen Leather Shoulders"
           },
           {
+            "id": 5047,
+            "name": "Heavy Quiver"
+          },
+          {
+            "id": 5048,
+            "name": "Heavy Leather Ammo Pouch"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2173,
+            "name": "Hillman's Leather Gloves"
           },
           {
             "id": 2175,
@@ -9680,8 +9701,20 @@
             "name": "Cured Medium Hide"
           },
           {
+            "id": 2197,
+            "name": "Cured Heavy Hide"
+          },
+          {
+            "id": 2199,
+            "name": "Heavy Armor Kit"
+          },
+          {
             "id": 11756,
             "name": "Medium Leather"
+          },
+          {
+            "id": 11757,
+            "name": "Heavy Leather"
           },
           {
             "id": 4026,
@@ -9750,11 +9783,6 @@
           "raw": 1191,
           "tier": 3
         },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Friendly",
           "raw": 4772,
@@ -9802,7 +9830,7 @@
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14087,
+          "raw": 14237,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -9816,16 +9844,16 @@
         "critters": 48,
         "deaths": 22,
         "drinks": 22,
-        "flights": 42,
-        "food": 125,
+        "flights": 43,
+        "food": 127,
         "health_potions": 16,
         "hearths": 11,
         "honorable_kills": 113,
-        "killing_blows": 1859,
-        "mobs": 2977,
-        "quests": 207
+        "killing_blows": 1873,
+        "mobs": 2991,
+        "quests": 208
       },
-      "xp": 9635
+      "xp": 14697
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -20574,7 +20602,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794991274,
+  "saved_at": 1794992065,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
