@@ -4228,7 +4228,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795021582000,
+      "last_login": 1795024606000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -7205,9 +7205,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/222/17890014-avatar.jpg",
       "best_item": {
-        "id": 3750,
-        "ilvl": 30,
-        "name": "Ribbed Breastplate",
+        "id": 4255,
+        "ilvl": 31,
+        "name": "Green Leather Armor",
         "quality": "UNCOMMON",
         "slot": "Chest"
       },
@@ -7255,18 +7255,19 @@
       },
       "ilvl": 20,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794950033000,
-      "level": 28,
+      "last_login": 1795025404000,
+      "level": 29,
       "level_at": {
         "27": 1794866470,
-        "28": 1794950735
+        "28": 1794950735,
+        "29": 1795025807
       },
       "professions": {
         "Cooking": 199,
         "First Aid": 20,
-        "Fishing": 156,
-        "Leatherworking": 120,
-        "Skinning": 191
+        "Fishing": 160,
+        "Leatherworking": 140,
+        "Skinning": 192
       },
       "race": "Tauren",
       "raids": {},
@@ -7471,6 +7472,10 @@
             "name": "Embossed Leather Pants"
           },
           {
+            "id": 2168,
+            "name": "Hillman's Cloak"
+          },
+          {
             "id": 2170,
             "name": "Fine Leather Tunic"
           },
@@ -7511,6 +7516,14 @@
             "name": "Earthen Leather Shoulders"
           },
           {
+            "id": 5047,
+            "name": "Heavy Quiver"
+          },
+          {
+            "id": 5048,
+            "name": "Heavy Leather Ammo Pouch"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
           },
@@ -7531,6 +7544,10 @@
             "name": "Toughened Leather Gloves"
           },
           {
+            "id": 2181,
+            "name": "Green Leather Armor"
+          },
+          {
             "id": 2195,
             "name": "Cured Light Hide"
           },
@@ -7539,12 +7556,24 @@
             "name": "Cured Medium Hide"
           },
           {
+            "id": 2197,
+            "name": "Cured Heavy Hide"
+          },
+          {
+            "id": 2199,
+            "name": "Heavy Armor Kit"
+          },
+          {
             "id": 3343,
             "name": "Kodo Hide Bag"
           },
           {
             "id": 11756,
             "name": "Medium Leather"
+          },
+          {
+            "id": 11757,
+            "name": "Heavy Leather"
           },
           {
             "id": 4156,
@@ -7597,7 +7626,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1602,
+          "raw": 1652,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -7605,44 +7634,59 @@
           "raw": 2960,
           "tier": 3
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5616,
+          "raw": 5828,
           "tier": 4
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 100,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1602,
+          "raw": 1652,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1602,
+          "raw": 1652,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7648,
+          "raw": 7917,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1602,
+          "raw": 1652,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2705,
+          "raw": 2805,
+          "tier": 3
+        },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12601,
+          "raw": 12832,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4197,
+          "raw": 4316,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -7654,19 +7698,19 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 46,
-        "deaths": 29,
-        "drinks": 45,
-        "flights": 32,
-        "food": 111,
+        "deaths": 30,
+        "drinks": 46,
+        "flights": 34,
+        "food": 118,
         "health_potions": 21,
-        "hearths": 23,
+        "hearths": 25,
         "honorable_kills": 68,
-        "killing_blows": 1523,
+        "killing_blows": 1642,
         "mana_potions": 1,
-        "mobs": 2065,
-        "quests": 206
+        "mobs": 2193,
+        "quests": 212
       },
-      "xp": 26684
+      "xp": 17332
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -19261,6 +19305,7 @@
     "Greasy Tinker's Pants": "Schmierige Tüftlerhose",
     "Greater Magic Wand": "Großer Magiezauberstab",
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
+    "Green Leather Armor": "Grüne Lederrüstung",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
     "Grip of Fear": "Griff der Angst",
@@ -20767,7 +20812,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795024467,
+  "saved_at": 1795025811,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
