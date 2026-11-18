@@ -916,7 +916,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795003247000,
+      "last_login": 1795028703000,
       "level": 26,
       "level_at": {
         "23": 1794866470,
@@ -926,7 +926,7 @@
       "professions": {
         "Alchemy": 76,
         "Fishing": 18,
-        "Herbalism": 87
+        "Herbalism": 107
       },
       "race": "Orc",
       "raids": {},
@@ -1006,12 +1006,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1285,
+          "raw": 1286,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7260,
+          "raw": 7266,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1021,37 +1021,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1285,
+          "raw": 1286,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1285,
+          "raw": 1286,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9447,
+          "raw": 9453,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1285,
+          "raw": 1286,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2071,
+          "raw": 2072,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5606,
+          "raw": 5631,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5147,
+          "raw": 5153,
           "tier": 4
         }
       },
@@ -1060,16 +1060,16 @@
         "critters": 32,
         "deaths": 15,
         "drinks": 17,
-        "flights": 39,
+        "flights": 41,
         "food": 5,
         "health_potions": 5,
         "hearths": 19,
-        "killing_blows": 1089,
+        "killing_blows": 1097,
         "mana_potions": 18,
-        "mobs": 2215,
-        "quests": 148
+        "mobs": 2223,
+        "quests": 149
       },
-      "xp": 11050
+      "xp": 13605
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -20811,7 +20811,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795028122,
+  "saved_at": 1795029127,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
