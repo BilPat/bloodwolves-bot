@@ -9453,6 +9453,11 @@
           "boss": "Rath'mael",
           "count": 1,
           "instance": "Ruins of Lordaeron"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Rogue",
@@ -9477,6 +9482,14 @@
         },
         "270032": {
           "name": "Cultist's Armguards",
+          "quality": "RARE"
+        },
+        "273041": {
+          "name": "Slitherwrap Girdle",
+          "quality": "RARE"
+        },
+        "273054": {
+          "name": "Cartilage Shapers",
           "quality": "RARE"
         },
         "273839": {
@@ -9512,10 +9525,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1795002082000,
-      "level": 32,
+      "last_login": 1795022157000,
+      "level": 33,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -9523,13 +9536,14 @@
         "29": 1794932961,
         "30": 1794940259,
         "31": 1794950040,
-        "32": 1795002929
+        "32": 1795002929,
+        "33": 1795022669
       },
       "professions": {
         "Cooking": 115,
         "First Aid": 150,
-        "Leatherworking": 132,
-        "Skinning": 220
+        "Leatherworking": 147,
+        "Skinning": 222
       },
       "race": "Undead",
       "raids": {},
@@ -9880,7 +9894,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4935,
+          "raw": 5041,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9905,7 +9919,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6078,
+          "raw": 6185,
           "tier": 4
         },
         "Powderfuse": {
@@ -9920,12 +9934,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4553,
+          "raw": 4660,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14812,
+          "raw": 15237,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -9938,17 +9952,17 @@
       "stats": {
         "critters": 48,
         "deaths": 23,
-        "drinks": 23,
-        "flights": 43,
-        "food": 145,
-        "health_potions": 21,
-        "hearths": 12,
+        "drinks": 26,
+        "flights": 46,
+        "food": 152,
+        "health_potions": 22,
+        "hearths": 13,
         "honorable_kills": 113,
-        "killing_blows": 1992,
-        "mobs": 3128,
-        "quests": 215
+        "killing_blows": 2097,
+        "mobs": 3348,
+        "quests": 224
       },
-      "xp": 3441
+      "xp": 4129
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -18689,11 +18703,12 @@
         },
         "lines": [
           "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
+          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)"
         ],
         "snap": {
           "class": "Rogue",
-          "level": 31
+          "level": 33
         }
       },
       "eu:krakmor-ci%C3%B3rdan": {
@@ -18962,6 +18977,7 @@
     "Carapace of Tuten'kash": "Knochenpanzer von Tuten'kash",
     "Careful Aim": "Sorgfältiges Zielen",
     "Carrot on a Stick": "Karotte am Stiel",
+    "Cartilage Shapers": "Knorpelformer",
     "Catacomb Cloak": "Katakombenumhang",
     "Cavedweller Bracers": "Höhlenbewohner-Armschienen",
     "Cenarion Circle": "Zirkel des Cenarius",
@@ -19213,6 +19229,7 @@
     "Grassland Sash": "Graslandschärpe",
     "Grave Shroud": "Grabesschleier",
     "Gravestone Scepter": "Grabsteinszepter",
+    "Gravewalker Boots": "Stiefel des Grabwandlers",
     "Graveweave Bindings": "Bindungen des Grabwebers",
     "Gray Kodo": "Grauer Kodo",
     "Gray Leather Boots": "Graue Lederstiefel",
@@ -19388,6 +19405,7 @@
     "Male": "Männlich",
     "Malevolence": "Böswilligkeit",
     "Malice": "Tücke",
+    "Mana Drain": "Manasauger",
     "Mana Regeneration per 5 sec": "Manaregeneration pro 5 Sek.",
     "Mana potions consumed": "Manatränke verbraucht",
     "Mana-Warped Chain Shirt": "Manaverformtes Kettenhemd",
@@ -19652,12 +19670,14 @@
     "Simple Robe": "Einfache Robe",
     "Siphon Life": "Lebensentzug",
     "Skills": "Fertigkeiten",
+    "Skinning Skill": "Kürschnerfertigkeit",
     "Skullthumper": "Schädelbrecher",
     "Skywatcher's Vestments": "Himmelsschauergewänder",
     "Slain Baron's Signet": "Siegelring des getöteten Barons",
     "Slayer's Shoulder Pads": "Töterschulterpolster",
     "Slick Deviate Leggings": "Clevere Deviatgamaschen",
     "Slime-encrusted Pads": "Schleimüberzogene Polster",
+    "Slitherwrap Girdle": "Schlitterwickelgurt",
     "Small Throwing Knife": "Kleines Wurfmesser",
     "Smelting Recipes learned": "Erlernte Verhüttungsmethoden",
     "Snake Eye Kaleidoscope": "Schlangenaugenkaleidoskop",
@@ -19833,6 +19853,7 @@
     "Warsong Outriders": "Warsongvorhut",
     "Warsong Sash": "Warsongschärpe",
     "Weapon": "Waffe",
+    "Weapon Expertise": "Waffenexperte",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
@@ -20727,7 +20748,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795022066,
+  "saved_at": 1795022670,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
