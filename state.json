@@ -4249,7 +4249,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795040418000,
+      "last_login": 1795042254000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4260,7 +4260,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 214,
-        "Tailoring": 170
+        "Tailoring": 174
       },
       "race": "Undead",
       "raids": {},
@@ -8937,6 +8937,7 @@
     "eu:howard-wolowitzard": {
       "achievements": {
         "736": "Explore Mulgore",
+        "842": "Explore Teldrassil",
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/212/13794772-avatar.jpg",
@@ -8953,8 +8954,8 @@
       "first_seen": 1794866470,
       "gear": {},
       "ilvl": 4,
-      "last_explored": "Mulgore",
-      "last_login": 1794499445000,
+      "last_explored": "Teldrassil",
+      "last_login": 1795042082000,
       "level": 14,
       "level_at": {
         "14": 1794866470
@@ -8970,19 +8971,27 @@
       "recipes": {
         "Alchemy": [
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
-          },
-          {
             "id": 4178,
             "name": "Elixir of Minor Defense"
           },
           {
             "id": 54210,
             "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
           }
         ],
         "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
           {
             "id": 4786,
             "name": "Herb Baked Egg"
@@ -8990,14 +8999,6 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
           }
         ],
         "First Aid": [
@@ -9033,11 +9034,6 @@
           "raw": 3480,
           "tier": 4
         },
-        "Ratchet": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Friendly",
           "raw": 8170,
@@ -9049,7 +9045,7 @@
           "tier": 3
         }
       },
-      "spec": "Balance",
+      "spec": "Feral Combat",
       "stats": {
         "deaths": 46,
         "drinks": 54,
@@ -9057,12 +9053,11 @@
         "food": 55,
         "health_potions": 5,
         "hearths": 3,
-        "killing_blows": 425,
-        "mobs": 598,
-        "need_rolls": 4,
+        "killing_blows": 426,
+        "mobs": 599,
         "quests": 65
       },
-      "xp": 137
+      "xp": 329
     },
     "eu:huli-muli": {
       "achievements": {
@@ -18757,6 +18752,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:howard-wolowitzard": {
+        "c": {
+          "name": "Howard",
+          "region": "eu",
+          "surname": "Wolowitzard"
+        },
+        "lines": [
+          "🎖️ [Erkundet Teldrassil](https://www.wowhead.com/forever/de/achievement=842)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 14
+        }
+      },
       "eu:maniac-menacepuppy": {
         "c": {
           "name": "Maniac",
@@ -20794,7 +20803,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795041615,
+  "saved_at": 1795042493,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
