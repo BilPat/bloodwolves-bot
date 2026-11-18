@@ -16693,7 +16693,9 @@
       "xp": 42588
     },
     "eu:zulka-seelenfluch": {
-      "achievements": {},
+      "achievements": {
+        "769": "Explore Silverpine Forest"
+      },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
       "best_item": {
         "id": 281252,
@@ -16723,8 +16725,8 @@
         }
       },
       "ilvl": 17,
-      "last_explored": null,
-      "last_login": 1795010213000,
+      "last_explored": "Silverpine Forest",
+      "last_login": 1795020438000,
       "level": 24,
       "level_at": {
         "21": 1794866470,
@@ -16734,7 +16736,7 @@
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 89
+        "Herbalism": 90
       },
       "race": "Undead",
       "raids": {},
@@ -16861,17 +16863,17 @@
       "stats": {
         "critters": 14,
         "deaths": 11,
-        "drinks": 643,
-        "flights": 14,
+        "drinks": 644,
+        "flights": 21,
         "food": 144,
         "health_potions": 10,
-        "hearths": 17,
+        "hearths": 19,
         "killing_blows": 1134,
         "mana_potions": 12,
         "mobs": 1670,
-        "quests": 134
+        "quests": 140
       },
-      "xp": 760
+      "xp": 14975
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -18740,6 +18742,20 @@
         "snap": {
           "class": "Paladin",
           "level": 26
+        }
+      },
+      "eu:zulka-seelenfluch": {
+        "c": {
+          "name": "Zulka",
+          "region": "eu",
+          "surname": "Seelenfluch"
+        },
+        "lines": [
+          "🎖️ [Erkundet Silberwald](https://www.wowhead.com/forever/de/achievement=769)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 24
         }
       },
       "us:steel-appeal": {
@@ -20705,7 +20721,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795020017,
+  "saved_at": 1795020873,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
