@@ -1374,6 +1374,10 @@
           "name": "Hydra Leather Legs",
           "quality": "RARE"
         },
+        "275043": {
+          "name": "Bloodmaster's Ring",
+          "quality": "RARE"
+        },
         "6803": {
           "name": "Prophetic Cane",
           "quality": "RARE"
@@ -1405,7 +1409,7 @@
       },
       "ilvl": 42,
       "last_explored": "Thousand Needles",
-      "last_login": 1795016639000,
+      "last_login": 1795018626000,
       "level": 46,
       "level_at": {
         "38": 1794866470,
@@ -1888,13 +1892,13 @@
           "tier": 0
         },
         "Bolder'ok Clan": {
-          "name": "Neutral",
-          "raw": 1841,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3701,
+          "tier": 4
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3138,
+          "raw": 3188,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -1914,12 +1918,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2938,
+          "raw": 2988,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3138,
+          "raw": 3188,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -1934,12 +1938,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3786,
+          "raw": 3886,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3829,
+          "raw": 3879,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -1970,9 +1974,9 @@
         "killing_blows": 2739,
         "mana_potions": 15,
         "mobs": 9867,
-        "quests": 402
+        "quests": 410
       },
-      "xp": 37051
+      "xp": 57741
     },
     "eu:blck-jck": {
       "achievements": {
@@ -4220,18 +4224,18 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1794944649000,
+      "last_login": 1795018776000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303
       },
       "professions": {
-        "Cooking": 150,
-        "First Aid": 150,
-        "Fishing": 200,
-        "Herbalism": 211,
-        "Tailoring": 150
+        "Cooking": 225,
+        "First Aid": 225,
+        "Fishing": 225,
+        "Herbalism": 214,
+        "Tailoring": 153
       },
       "race": "Undead",
       "raids": {},
@@ -4244,6 +4248,10 @@
           {
             "id": 1875,
             "name": "Curiously Tasty Omelet"
+          },
+          {
+            "id": 1901,
+            "name": "Big Bear Steak"
           },
           {
             "id": 1902,
@@ -4276,6 +4284,14 @@
           {
             "id": 1545,
             "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 11997,
+            "name": "Spider Sausage"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
           },
           {
             "id": 3930,
@@ -4328,6 +4344,10 @@
             "name": "Silk Bandage"
           },
           {
+            "id": 4415,
+            "name": "Heavy Silk Bandage"
+          },
+          {
             "id": 4417,
             "name": "Anti-Venom"
           },
@@ -4346,6 +4366,10 @@
           {
             "id": 1841,
             "name": "Heavy Wool Bandage"
+          },
+          {
+            "id": 5767,
+            "name": "Mageweave Bandage"
           },
           {
             "id": 52641,
@@ -4686,6 +4710,10 @@
             "name": "Lesser Wizard's Robe"
           },
           {
+            "id": 4023,
+            "name": "Green Silk Pack"
+          },
+          {
             "id": 4714,
             "name": "Red Swashbuckler's Shirt"
           },
@@ -4812,7 +4840,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3347,
+          "raw": 3491,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4832,7 +4860,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3910,
+          "raw": 4166,
           "tier": 4
         },
         "Powderfuse": {
@@ -4847,30 +4875,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1535,
+          "raw": 1678,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 10850,
+          "raw": 11312,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
-        "critters": 18,
+        "critters": 25,
         "deaths": 43,
         "drinks": 57,
-        "flights": 50,
-        "food": 73,
+        "flights": 52,
+        "food": 78,
         "health_potions": 13,
-        "hearths": 43,
-        "killing_blows": 775,
-        "mana_potions": 18,
-        "mobs": 2421,
-        "quests": 137
+        "hearths": 46,
+        "killing_blows": 813,
+        "mana_potions": 20,
+        "mobs": 2723,
+        "quests": 143
       },
-      "xp": 336
+      "xp": 27987
     },
     "eu:ellena-lederriemen": {
       "achievements": {
@@ -18559,6 +18587,23 @@
           "level": 26
         }
       },
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 225",
+          "🛠️ **Erste Hilfe** auf 225",
+          "🛠️ **Angeln** auf 225"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 23
+        }
+      },
       "eu:elric-wolfsclan": {
         "c": {
           "name": "Elric",
@@ -18845,6 +18890,7 @@
     "Blood Frenzy": "Blutraserei",
     "Blood Splatter": "Blutspritzer",
     "Bloodied Chestwraps": "Blutige Brustwickel",
+    "Bloodmaster's Ring": "Blutmeisterring",
     "Bloodsail Buccaneers": "Blutsegelbukaniere",
     "Bloodspattered Gloves of Magic": "Blutbespritzte Handschuhe der Magie",
     "Bloodspine Staff": "Blutstachelstab",
@@ -20664,7 +20710,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795018586,
+  "saved_at": 1795019143,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
