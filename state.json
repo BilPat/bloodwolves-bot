@@ -16299,7 +16299,7 @@
       },
       "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1794992148000,
+      "last_login": 1794994736000,
       "level": 37,
       "level_at": {
         "35": 1794866470,
@@ -16725,18 +16725,18 @@
       "spec": "Protection",
       "stats": {
         "critters": 72,
-        "deaths": 33,
+        "deaths": 34,
         "drinks": 15,
         "flights": 66,
         "food": 38,
-        "health_potions": 21,
+        "health_potions": 23,
         "hearths": 35,
-        "killing_blows": 2419,
+        "killing_blows": 2451,
         "mana_potions": 1,
-        "mobs": 5259,
+        "mobs": 5290,
         "quests": 330
       },
-      "xp": 21306
+      "xp": 26503
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -20641,7 +20641,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794994744,
+  "saved_at": 1794995645,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
