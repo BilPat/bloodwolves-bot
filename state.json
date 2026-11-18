@@ -12244,20 +12244,21 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 4,
+      "ilvl": 5,
       "last_explored": null,
-      "last_login": 1794942213000,
-      "level": 15,
+      "last_login": 1794992994000,
+      "level": 16,
       "level_at": {
         "14": 1794866470,
-        "15": 1794912005
+        "15": 1794912005,
+        "16": 1794993427
       },
       "professions": {
         "Cooking": 37,
         "Engineering": 37,
         "First Aid": 51,
         "Fishing": 20,
-        "Mining": 51
+        "Mining": 53
       },
       "race": "Tauren",
       "raids": {},
@@ -12345,22 +12346,22 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3447,
+          "raw": 3516,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3447,
+          "raw": 3516,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7787,
+          "raw": 7856,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3900,
+          "raw": 4175,
           "tier": 4
         }
       },
@@ -12368,15 +12369,16 @@
       "stats": {
         "deaths": 4,
         "drinks": 1,
-        "flights": 1,
+        "flights": 2,
         "food": 4,
         "health_potions": 5,
-        "hearths": 11,
-        "killing_blows": 609,
-        "mobs": 665,
-        "quests": 104
+        "hearths": 12,
+        "killing_blows": 656,
+        "mana_potions": 1,
+        "mobs": 712,
+        "quests": 107
       },
-      "xp": 13893
+      "xp": 6018
     },
     "eu:maul-worf": {
       "achievements": {
@@ -16279,13 +16281,14 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 30,
+      "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1794950398000,
-      "level": 36,
+      "last_login": 1794992148000,
+      "level": 37,
       "level_at": {
         "35": 1794866470,
-        "36": 1794909306
+        "36": 1794909306,
+        "37": 1794993427
       },
       "professions": {
         "Blacksmithing": 131,
@@ -16644,17 +16647,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -6625,
+          "raw": -7875,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 960,
+          "raw": 1210,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6671,
+          "raw": 7008,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16669,37 +16672,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 917,
+          "raw": 1042,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 917,
+          "raw": 1042,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7252,
+          "raw": 7477,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 917,
+          "raw": 1042,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1292,
+          "raw": 1417,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6736,
+          "raw": 6848,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 20111,
+          "raw": 20223,
           "tier": 5
         }
       },
@@ -16708,16 +16711,16 @@
         "critters": 72,
         "deaths": 33,
         "drinks": 15,
-        "flights": 64,
+        "flights": 66,
         "food": 38,
         "health_potions": 21,
         "hearths": 35,
-        "killing_blows": 2378,
+        "killing_blows": 2419,
         "mana_potions": 1,
-        "mobs": 5221,
-        "quests": 323
+        "mobs": 5259,
+        "quests": 330
       },
-      "xp": 70665
+      "xp": 21306
     },
     "eu:zulka-seelenfluch": {
       "achievements": {},
@@ -20602,7 +20605,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794992065,
+  "saved_at": 1794993428,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
