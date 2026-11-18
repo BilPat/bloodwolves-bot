@@ -11268,7 +11268,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1794952025000,
+      "last_login": 1795007888000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -11279,7 +11279,7 @@
         "First Aid": 65,
         "Fishing": 100,
         "Leatherworking": 114,
-        "Skinning": 191
+        "Skinning": 192
       },
       "race": "Troll",
       "raids": {},
@@ -11652,12 +11652,12 @@
         "food": 3,
         "health_potions": 20,
         "hearths": 14,
-        "killing_blows": 1112,
+        "killing_blows": 1127,
         "mana_potions": 6,
-        "mobs": 1849,
+        "mobs": 1864,
         "quests": 166
       },
-      "xp": 11356
+      "xp": 13764
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -19755,6 +19755,10 @@
   "roster": {
     "left_log": [
       {
+        "name": "Erna Sturmtanz",
+        "ts": 1795008274
+      },
+      {
         "name": "Lognaar Leafnon",
         "ts": 1794946490
       }
@@ -19775,7 +19779,6 @@
       "ellena-lederriemen": "Ellena Lederriemen",
       "elric-wolfsclan": "Elric Wolfsclan",
       "eluna-sia": "Eluna Sia",
-      "erna-sturmtanz": "Erna Sturmtanz",
       "fred-feuersturm": "Fred Feuersturm",
       "freya-graufuss": "Freya Graufuss",
       "garakosh-redwalker": "Garakosh Redwalker",
@@ -19829,7 +19832,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 46,
+        "level": 47,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -19964,7 +19967,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 22,
+        "level": 23,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -19982,7 +19985,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 26,
         "name": "Aru",
         "rank": 3,
         "region": "eu",
@@ -19991,7 +19994,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 26,
         "name": "Thalgrim",
         "rank": 3,
         "region": "eu",
@@ -20171,7 +20174,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Kreuzaua",
         "rank": 4,
         "region": "eu",
@@ -20198,7 +20201,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Kamah",
         "rank": 3,
         "region": "eu",
@@ -20216,7 +20219,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -20302,22 +20305,13 @@
         "rank": 4,
         "region": "eu",
         "surname": "Moon"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 14,
-        "name": "Erna",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Sturmtanz"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795007758,
+  "saved_at": 1795008361,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
