@@ -4244,7 +4244,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795031058000,
+      "last_login": 1795033083000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -12277,32 +12277,38 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/198/18282182-avatar.jpg",
       "best_item": {
-        "id": 1502,
-        "ilvl": 14,
-        "name": "Warped Leather Belt",
-        "quality": "POOR",
-        "slot": "Waist"
+        "id": 13136,
+        "ilvl": 21,
+        "name": "Lil Timmy's Peashooter",
+        "quality": "RARE",
+        "slot": "Ranged"
       },
       "boss_kills": {},
       "class": "Hunter",
       "dungeons": {},
       "first_seen": 1794866470,
-      "gear": {},
-      "ilvl": 4,
+      "gear": {
+        "13136": {
+          "name": "Lil Timmy's Peashooter",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 8,
       "last_explored": null,
-      "last_login": 1795008901000,
-      "level": 16,
+      "last_login": 1795033024000,
+      "level": 18,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005,
-        "16": 1794993427
+        "16": 1794993427,
+        "18": 1795033546
       },
       "professions": {
         "Cooking": 37,
-        "Engineering": 37,
-        "First Aid": 54,
+        "Engineering": 49,
+        "First Aid": 55,
         "Fishing": 20,
-        "Mining": 53
+        "Mining": 59
       },
       "race": "Tauren",
       "raids": {},
@@ -12390,22 +12396,22 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3516,
+          "raw": 3891,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3516,
+          "raw": 3891,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7856,
+          "raw": 8231,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4175,
+          "raw": 5675,
           "tier": 4
         }
       },
@@ -12413,16 +12419,16 @@
       "stats": {
         "deaths": 5,
         "drinks": 1,
-        "flights": 2,
-        "food": 4,
-        "health_potions": 5,
-        "hearths": 12,
-        "killing_blows": 676,
-        "mana_potions": 2,
-        "mobs": 732,
-        "quests": 107
+        "flights": 5,
+        "food": 10,
+        "health_potions": 7,
+        "hearths": 14,
+        "killing_blows": 798,
+        "mana_potions": 4,
+        "mobs": 987,
+        "quests": 123
       },
-      "xp": 7741
+      "xp": 4981
     },
     "eu:maul-worf": {
       "achievements": {
@@ -18667,13 +18673,29 @@
     ]
   },
   "daily_digest": {
-    "items": {},
+    "items": {
+      "eu:maniac-menacepuppy": {
+        "c": {
+          "name": "Maniac",
+          "region": "eu",
+          "surname": "Menacepuppy"
+        },
+        "lines": [
+          "🔵 Erstes blaues Item: **[Lil Timmys Blasrohr](https://www.wowhead.com/forever/de/item=13136)** (Ranged)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 18
+        }
+      }
+    },
     "last": "2026-11-18"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
     "Aboriginal Cape": "Ureinwohnercape",
     "Accelerant": "Beschleuniger",
+    "Acidproof Cloak": "Säurefester Umhang",
     "Adept's Cloak": "Adepten-Umhang",
     "Affliction": "Gebrechen",
     "Agility": "Beweglichkeit",
@@ -18734,6 +18756,7 @@
     "Bandage used most": "Am häufigsten angelegter Verband",
     "Bandages used": "Angelegte Verbände",
     "Banded Helm of the Champion": "Bebänderter Helm des Champions",
+    "Bandit Cinch of the Boar": "Banditen-Sattelgurt des Ebers",
     "Bands of Serra'kis": "Bänder von Serra'kis",
     "Bandsaw Wristbands": "Bandsägen-Gelenkbänder",
     "Bane": "Dunkle Macht",
@@ -19191,6 +19214,7 @@
     "Human": "Mensch",
     "Hunter": "Jäger",
     "Hunting Bow": "Jagdbogen",
+    "Hunting Tunic": "Jagdtunika",
     "Hydra Leather Legs": "Hydralederbeinlinge",
     "Idol": "Götze",
     "Idol of Shifting Tides": "Götze der wandelnden Gezeiten",
@@ -19270,6 +19294,7 @@
     "Light Leather Bracers": "Leichte Lederarmschienen",
     "Light Shot": "Leichtes Geschoss",
     "Lightning Reflexes": "Blitzartige Reflexe",
+    "Lil Timmy's Peashooter": "Lil Timmys Blasrohr",
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
     "Loose Chain Belt": "Lockerer Kettengürtel",
@@ -19369,6 +19394,8 @@
     "Outrunner's Legguards of the Eagle": "Kundschafter-Beinschützer des Adlers",
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
     "Pandemic": "Pandemie",
+    "Patched Leather Gloves": "Geflickte Lederhandschuhe",
+    "Patched Leather Shoulderpads": "Geflickte Lederschulterstücke",
     "Patchwork Belt": "Flickwerkgürtel",
     "Patchwork Gloves": "Flickwerkhandschuhe",
     "Patchwork Shoes": "Flickwerkschuhe",
@@ -19518,6 +19545,7 @@
     "Sentinel's Slasher": "Schlitzer der Schildwache",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Serpent's Shoulders": "Schlangen-Schultern",
+    "Serrated Knife": "Sägemesser",
     "Setup": "Reinlegen",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
     "Shade of the Archmage Kills (City of Dalaran)": "Siege über den Schemen des Erzmagiers (Dalaran)",
@@ -19611,6 +19639,7 @@
     "Stormstrike": "Sturmschlag",
     "Stormwind Stockade": "Verlies von Stormwind",
     "Strength": "Stärke",
+    "Stretched Leather Trousers": "Gedehnte Lederbeinkleider",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Subterranean Cape": "Unterirdisches Cape",
     "Subtlety": "Feingefühl",
@@ -20634,7 +20663,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795032937,
+  "saved_at": 1795033547,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
