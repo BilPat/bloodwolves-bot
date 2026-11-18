@@ -4249,7 +4249,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795038123000,
+      "last_login": 1795040418000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -11721,7 +11721,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1795039991000,
+      "last_login": 1795040313000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -16260,22 +16260,28 @@
     "eu:vlad-impalar": {
       "achievements": {
         "61997": "Novice Paladin",
+        "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "846": "Explore Thousand Needles"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/189/9497021-avatar.jpg",
       "best_item": {
-        "id": 9588,
-        "ilvl": 37,
-        "name": "Nogg's Gold Ring",
+        "id": 10711,
+        "ilvl": 44,
+        "name": "Dragon's Blood Necklace",
         "quality": "RARE",
-        "slot": "Ring 2"
+        "slot": "Neck"
       },
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
           "count": 1,
           "instance": "Shadowfang Keep"
+        },
+        "1093": {
+          "boss": "Scarlet Commander Mograine",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -16302,6 +16308,11 @@
           "count": 1,
           "instance": "Gnomeregan"
         },
+        "6141": {
+          "boss": "Amnennar the Coldbringer",
+          "count": 1,
+          "instance": "Razorfen Downs"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -16321,22 +16332,43 @@
           "boss": "Lyn the Ignored",
           "count": 1,
           "instance": "City of Dalaran"
+        },
+        "6786": {
+          "boss": "High Inquisitor Whitemane",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         }
       },
       "class": "Paladin",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10711": {
+          "name": "Dragon's Blood Necklace",
+          "quality": "RARE"
+        },
         "16886": {
           "name": "Outlaw Sabre",
+          "quality": "RARE"
+        },
+        "19509": {
+          "name": "Dusty Mail Boots",
           "quality": "RARE"
         },
         "250498": {
           "name": "Veteran's Chain Helm",
           "quality": "RARE"
         },
+        "250560": {
+          "name": "Justicar's Belt",
+          "quality": "RARE"
+        },
         "267369": {
           "name": "Wolfsbane",
+          "quality": "RARE"
+        },
+        "270081": {
+          "name": "Purified Ring",
           "quality": "RARE"
         },
         "271211": {
@@ -16359,8 +16391,16 @@
           "name": "Quillord Mail Leggings",
           "quality": "RARE"
         },
+        "274609": {
+          "name": "Serpentbane Crown",
+          "quality": "RARE"
+        },
         "279842": {
           "name": "Battle Spaulders",
+          "quality": "RARE"
+        },
+        "279886": {
+          "name": "Sacrificial Sword",
           "quality": "RARE"
         },
         "6414": {
@@ -16384,17 +16424,18 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 29,
+      "ilvl": 34,
       "last_explored": "Thousand Needles",
-      "last_login": 1795002730000,
-      "level": 37,
+      "last_login": 1795040442000,
+      "level": 39,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
-        "37": 1794993427
+        "37": 1794993427,
+        "39": 1795040704
       },
       "professions": {
-        "Blacksmithing": 148,
+        "Blacksmithing": 151,
         "Cooking": 170,
         "First Aid": 62,
         "Fishing": 155,
@@ -16411,6 +16452,10 @@
           {
             "id": 1993,
             "name": "Green Iron Bracers"
+          },
+          {
+            "id": 1999,
+            "name": "Golden Scale Leggings"
           },
           {
             "id": 1798,
@@ -16555,6 +16600,10 @@
           {
             "id": 54714,
             "name": "Crusader's Chain Helm"
+          },
+          {
+            "id": 54772,
+            "name": "Justicar's Belt"
           },
           {
             "id": 54212,
@@ -16758,17 +16807,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -7875,
+          "raw": -8875,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1210,
+          "raw": 1760,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7108,
+          "raw": 7783,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16778,60 +16827,60 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1000,
+          "raw": 1300,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1042,
+          "raw": 1442,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1042,
+          "raw": 1442,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7502,
+          "raw": 8065,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1042,
+          "raw": 1392,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1417,
+          "raw": 1817,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6873,
+          "raw": 7173,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 20248,
+          "raw": 20811,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 72,
-        "deaths": 34,
-        "drinks": 15,
-        "flights": 66,
-        "food": 38,
-        "health_potions": 24,
-        "hearths": 36,
-        "killing_blows": 2519,
+        "critters": 114,
+        "deaths": 46,
+        "drinks": 21,
+        "flights": 78,
+        "food": 51,
+        "health_potions": 28,
+        "hearths": 39,
+        "killing_blows": 2710,
         "mana_potions": 1,
-        "mobs": 5359,
-        "quests": 334
+        "mobs": 6448,
+        "quests": 350
       },
-      "xp": 42588
+      "xp": 69066
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -18702,6 +18751,23 @@
           "class": "Shaman",
           "level": 16
         }
+      },
+      "eu:vlad-impalar": {
+        "c": {
+          "name": "Vlad",
+          "region": "eu",
+          "surname": "Impalar"
+        },
+        "lines": [
+          "🛠️ **Schmiedekunst** auf 150",
+          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen",
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
+          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 39
+        }
       }
     },
     "last": "2026-11-18"
@@ -19024,6 +19090,7 @@
     "Durgen Dirgehammer Kills (Hall of Thanes)": "Siege über Durgen Dirgehammer (Halle der Thanen)",
     "Durotar Supply and Logistics": "Versorgung und Logistik Durotar",
     "Dust-covered Leggings": "Staubbedeckte Gamaschen",
+    "Dusty Mail Boots": "Verstaubte Panzerstiefel",
     "Earth's Grasp": "Griff der Erde",
     "Earthen Ring": "Der Irdene Ring",
     "Edward's Knife": "Edwards Messer",
@@ -19562,6 +19629,8 @@
     "Sentinel's Slasher": "Schlitzer der Schildwache",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Serpent's Shoulders": "Schlangen-Schultern",
+    "Serpentbane": "Schlangenfluch",
+    "Serpentbane Crown": "Schlangenbannkrone",
     "Serrated Knife": "Sägemesser",
     "Setup": "Reinlegen",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
@@ -20691,7 +20760,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795040065,
+  "saved_at": 1795040705,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
