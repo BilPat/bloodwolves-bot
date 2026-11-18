@@ -4227,7 +4227,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795024606000,
+      "last_login": 1795029135000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4238,7 +4238,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 214,
-        "Tailoring": 159
+        "Tailoring": 164
       },
       "race": "Undead",
       "raids": {},
@@ -20811,7 +20811,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795029127,
+  "saved_at": 1795029892,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
