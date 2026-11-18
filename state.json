@@ -1254,6 +1254,7 @@
         "61503": "Experienced Druid",
         "62009": "Novice Warlock",
         "62024": "Journeyman Leatherworker",
+        "62031": "Novice Spelunker",
         "62032": "Experienced Spelunker",
         "728": "Explore Durotar",
         "846": "Explore Thousand Needles",
@@ -1281,7 +1282,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 3,
+          "count": 4,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -1318,6 +1319,11 @@
           "boss": "Archaedas",
           "count": 1,
           "instance": "Uldaman"
+        },
+        "63570": {
+          "boss": "Edwin VanCleef",
+          "count": 1,
+          "instance": "Deadmines"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -1397,21 +1403,22 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 41,
+      "ilvl": 42,
       "last_explored": "Thousand Needles",
-      "last_login": 1794993527000,
-      "level": 45,
+      "last_login": 1795016639000,
+      "level": 46,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
         "44": 1794964576,
-        "45": 1794994094
+        "45": 1794994094,
+        "46": 1795017247
       },
       "professions": {
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 275
+        "Skinning": 281
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -1528,6 +1535,10 @@
           {
             "id": 57021,
             "name": "Cookie's Feast"
+          },
+          {
+            "id": 58469,
+            "name": "Plain Ol' Paletusk"
           },
           {
             "id": 58479,
@@ -1878,12 +1889,12 @@
         },
         "Bolder'ok Clan": {
           "name": "Neutral",
-          "raw": 301,
+          "raw": 1841,
           "tier": 3
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3123,
+          "raw": 3138,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -1893,22 +1904,22 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6323,
+          "raw": 6473,
           "tier": 4
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1850,
+          "raw": 2150,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2923,
+          "raw": 2938,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3123,
+          "raw": 3138,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -1918,27 +1929,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7156,
+          "raw": 7193,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3756,
+          "raw": 3786,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3814,
+          "raw": 3829,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8910,
+          "raw": 8947,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6545,
+          "raw": 6582,
           "tier": 4
         },
         "Windshapers": {
@@ -1949,19 +1960,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 175,
+        "critters": 176,
         "deaths": 33,
-        "drinks": 522,
-        "flights": 76,
-        "food": 125,
-        "health_potions": 38,
-        "hearths": 26,
-        "killing_blows": 2628,
+        "drinks": 532,
+        "flights": 82,
+        "food": 127,
+        "health_potions": 39,
+        "hearths": 27,
+        "killing_blows": 2739,
         "mana_potions": 15,
-        "mobs": 9513,
-        "quests": 378
+        "mobs": 9867,
+        "quests": 402
       },
-      "xp": 45758
+      "xp": 37051
     },
     "eu:blck-jck": {
       "achievements": {
@@ -18372,11 +18383,13 @@
         },
         "lines": [
           "Gegenstandsstufe **40**",
-          "🎖️ [Experienced Druid](https://www.wowhead.com/forever/de/achievement=61503)"
+          "🎖️ [Experienced Druid](https://www.wowhead.com/forever/de/achievement=61503)",
+          "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
         ],
         "snap": {
           "class": "Druid",
-          "level": 45
+          "level": 46
         }
       },
       "eu:blck-jck": {
@@ -19203,6 +19216,7 @@
     "Nature's Majesty": "Erhabenheit der Natur",
     "Nature's Reach": "Reichweite der Natur",
     "Nature's Splendor": "Pracht der Natur",
+    "Nature's Swiftness": "Schnelligkeit der Natur",
     "Neck": "Hals",
     "Necromancer Leggings": "Totenbeschwörer-Gamaschen",
     "Need rolls made on loot": "Würfe für Bedarf bei Plünderungen",
@@ -19331,6 +19345,7 @@
     "Rough Bronze Leggings": "Raue bronzene Gamaschen",
     "Rough Bronze Shoulders": "Raue bronzene Schultern",
     "Rough-hewn Kodo Leggings": "Grobgehauene Kodogamaschen",
+    "Royal Gloves of the Elder": "Königliche Handschuhe des Ältesten",
     "Ruga's Bulwark": "Rugas Bollwerk",
     "Rugged Mail Vest": "Unverwüstliche Panzerweste",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
@@ -20488,7 +20503,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795016358,
+  "saved_at": 1795017249,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
