@@ -19742,41 +19742,7 @@
       },
       "raid": {}
     },
-    "firsts_pending": {
-      "boss|Lyn the Ignored (City of Dalaran)": {
-        "keys": [
-          "eu:fred-feuersturm"
-        ],
-        "kind": "boss",
-        "since": 1794923709,
-        "what": "Lyn the Ignored (City of Dalaran)"
-      },
-      "boss|Shade of the Archmage (City of Dalaran)": {
-        "keys": [
-          "eu:fred-feuersturm"
-        ],
-        "kind": "boss",
-        "since": 1794923709,
-        "what": "Shade of the Archmage (City of Dalaran)"
-      },
-      "dungeon|Uldaman": {
-        "keys": [
-          "eu:krakmor-ci%C3%B3rdan",
-          "eu:baumora-axiom"
-        ],
-        "kind": "dungeon",
-        "since": 1794882018,
-        "what": "Uldaman"
-      },
-      "dungeon|Zul'Farrak": {
-        "keys": [
-          "eu:baumora-axiom"
-        ],
-        "kind": "dungeon",
-        "since": 1794964576,
-        "what": "Zul'Farrak"
-      }
-    },
+    "firsts_pending": {},
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -20608,7 +20574,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794988497,
+  "saved_at": 1794990017,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
