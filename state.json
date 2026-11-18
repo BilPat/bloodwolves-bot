@@ -11840,9 +11840,9 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 5,
+      "ilvl": 4,
       "last_explored": null,
-      "last_login": 1794992994000,
+      "last_login": 1795008901000,
       "level": 16,
       "level_at": {
         "14": 1794866470,
@@ -11852,7 +11852,7 @@
       "professions": {
         "Cooking": 37,
         "Engineering": 37,
-        "First Aid": 51,
+        "First Aid": 54,
         "Fishing": 20,
         "Mining": 53
       },
@@ -11963,18 +11963,18 @@
       },
       "spec": "Beast Mastery",
       "stats": {
-        "deaths": 4,
+        "deaths": 5,
         "drinks": 1,
         "flights": 2,
         "food": 4,
         "health_potions": 5,
         "hearths": 12,
-        "killing_blows": 656,
-        "mana_potions": 1,
-        "mobs": 712,
+        "killing_blows": 676,
+        "mana_potions": 2,
+        "mobs": 732,
         "quests": 107
       },
-      "xp": 6018
+      "xp": 7741
     },
     "eu:maul-worf": {
       "achievements": {
@@ -20311,7 +20311,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795008361,
+  "saved_at": 1795009195,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
