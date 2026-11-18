@@ -10747,11 +10747,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/19603806-avatar.jpg",
       "best_item": {
-        "id": 3108,
+        "id": 15336,
         "ilvl": 27,
-        "name": "Heavy Throwing Dagger",
-        "quality": "COMMON",
-        "slot": "Ranged"
+        "name": "Wrangler's Leggings of the Tiger",
+        "quality": "UNCOMMON",
+        "slot": "Legs"
       },
       "boss_kills": {
         "15027": {
@@ -10797,7 +10797,7 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1795006021000,
+      "last_login": 1795013994000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -10807,7 +10807,7 @@
         "Cooking": 69,
         "First Aid": 80,
         "Fishing": 2,
-        "Mining": 109,
+        "Mining": 110,
         "Skinning": 150
       },
       "race": "Troll",
@@ -10939,63 +10939,63 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1643,
+          "raw": 1693,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9572,
+          "raw": 9710,
           "tier": 5
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1643,
+          "raw": 1693,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1643,
+          "raw": 1693,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11341,
+          "raw": 11403,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1643,
+          "raw": 1693,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3186,
+          "raw": 3286,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5060,
+          "raw": 5122,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3208,
+          "raw": 3383,
           "tier": 4
         }
       },
       "spec": "Assassination",
       "stats": {
-        "critters": 30,
+        "critters": 32,
         "deaths": 10,
-        "flights": 50,
+        "flights": 54,
         "food": 2,
         "health_potions": 7,
-        "hearths": 19,
-        "killing_blows": 1452,
-        "mobs": 2394,
-        "quests": 150
+        "hearths": 21,
+        "killing_blows": 1509,
+        "mobs": 2488,
+        "quests": 156
       },
-      "xp": 7476
+      "xp": 19341
     },
     "eu:lagertha-graufuss": {
       "achievements": {
@@ -19623,6 +19623,7 @@
     "Worn Leather Vest": "Abgenutzte Lederweste",
     "Wound": "Wunde",
     "Wrack": "Zermürben",
+    "Wrangler's Leggings of the Tiger": "Zänkergamaschen des Tigers",
     "Wrist": "Handgelenke",
     "Zhovur Axe": "Zhovur-Axt",
     "Zircon Band of Spirit": "Zirkonband der Willenskraft",
@@ -20487,7 +20488,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795013738,
+  "saved_at": 1795014896,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
