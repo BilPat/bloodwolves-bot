@@ -16954,17 +16954,17 @@
       },
       "ilvl": 19,
       "last_explored": "Darkshore",
-      "last_login": 1794964147000,
+      "last_login": 1794975913000,
       "level": 26,
       "level_at": {
         "26": 1794965196
       },
       "professions": {
-        "Alchemy": 157,
+        "Alchemy": 179,
         "Cooking": 146,
         "First Aid": 80,
         "Fishing": 109,
-        "Herbalism": 184
+        "Herbalism": 187
       },
       "race": "Night Elf",
       "raids": {},
@@ -16993,6 +16993,18 @@
           {
             "id": 1833,
             "name": "Elixir of Minor Agility"
+          },
+          {
+            "id": 1931,
+            "name": "Lesser Invisibility Potion"
+          },
+          {
+            "id": 1933,
+            "name": "Elixir of Lesser Fortitude"
+          },
+          {
+            "id": 1935,
+            "name": "Mana Potion"
           },
           {
             "id": 1378,
@@ -17266,7 +17278,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 13770,
+          "raw": 13832,
           "tier": 5
         },
         "Gadgetzan": {
@@ -17276,17 +17288,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6220,
+          "raw": 6232,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6370,
+          "raw": 6420,
           "tier": 4
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7370,
+          "raw": 7382,
           "tier": 4
         }
       },
@@ -17295,16 +17307,16 @@
         "critters": 49,
         "deaths": 28,
         "drinks": 100,
-        "flights": 38,
+        "flights": 40,
         "food": 52,
         "health_potions": 26,
-        "hearths": 17,
-        "killing_blows": 694,
+        "hearths": 18,
+        "killing_blows": 698,
         "mana_potions": 42,
-        "mobs": 2202,
-        "quests": 206
+        "mobs": 2206,
+        "quests": 208
       },
-      "xp": 23546
+      "xp": 31890
     },
     "us:steel-appeal": {
       "achievements": {
@@ -17423,7 +17435,7 @@
       },
       "ilvl": 24,
       "last_explored": "Darkshore",
-      "last_login": 1794973920000,
+      "last_login": 1794975786000,
       "level": 31,
       "level_at": {
         "31": 1794965196
@@ -17968,7 +17980,7 @@
         "critters": 151,
         "deaths": 19,
         "drinks": 2,
-        "flights": 84,
+        "flights": 86,
         "food": 107,
         "health_potions": 27,
         "hearths": 46,
@@ -18052,18 +18064,18 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 17,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794892813000,
+      "last_login": 1794975866000,
       "level": 28,
       "level_at": {
         "28": 1794965196
       },
       "professions": {
         "Cooking": 58,
-        "Enchanting": 167,
+        "Enchanting": 168,
         "First Aid": 78,
-        "Tailoring": 111
+        "Tailoring": 113
       },
       "race": "Human",
       "raids": {},
@@ -18194,6 +18206,10 @@
           {
             "id": 7377,
             "name": "Enchant Cloak - Lesser Protection"
+          },
+          {
+            "id": 7416,
+            "name": "Enchant Shield - Lesser Protection"
           },
           {
             "id": 4289,
@@ -18384,6 +18400,10 @@
             "name": "Red Linen Bag"
           },
           {
+            "id": 4020,
+            "name": "Red Woolen Bag"
+          },
+          {
             "id": 4021,
             "name": "Lesser Wizard's Robe"
           },
@@ -18443,7 +18463,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7615,
+          "raw": 7765,
           "tier": 4
         },
         "Everlook": {
@@ -18458,12 +18478,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5713,
+          "raw": 5751,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7433,
+          "raw": 7471,
           "tier": 4
         },
         "Powderfuse": {
@@ -18478,25 +18498,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 13741,
+          "raw": 13778,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 63,
-        "deaths": 61,
+        "deaths": 62,
         "drinks": 619,
         "flights": 42,
         "food": 123,
         "health_potions": 46,
-        "hearths": 20,
+        "hearths": 21,
         "killing_blows": 1564,
         "mana_potions": 13,
         "mobs": 2906,
-        "quests": 250
+        "quests": 252
       },
-      "xp": 11652
+      "xp": 14252
     }
   },
   "craft_board": {
@@ -18951,6 +18971,7 @@
     "Enchant Bracer - Minor Stamina": "Armschiene - Schwache Ausdauer",
     "Enchant Chest - Greater Stamina": "Brust - Große Ausdauer",
     "Enchant Chest - Inferior Stamina": "Brust - Minderwertige Ausdauer",
+    "Enchant Chest - Intellect": "Brust - Intelligenz",
     "Enchant Chest - Lesser Stamina": "Brust - Geringe Ausdauer",
     "Enchant Chest - Minor Intellect": "Brust - Schwache Intelligenz",
     "Enchant Cloak - Lesser Protection": "Umhang - Geringer Schutz",
@@ -20572,7 +20593,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794975467,
+  "saved_at": 1794976167,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
