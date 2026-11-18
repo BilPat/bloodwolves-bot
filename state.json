@@ -13672,29 +13672,30 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/52935260-avatar.jpg",
       "best_item": {
-        "id": 4570,
-        "ilvl": 15,
-        "name": "Birchwood Maul of Magic",
+        "id": 5327,
+        "ilvl": 18,
+        "name": "Greasy Tinker's Pants",
         "quality": "UNCOMMON",
-        "slot": "Main Hand"
+        "slot": "Legs"
       },
       "boss_kills": {},
       "class": "Shaman",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 5,
+      "ilvl": 6,
       "last_explored": "Durotar",
-      "last_login": 1794948778000,
-      "level": 15,
+      "last_login": 1795033682000,
+      "level": 16,
       "level_at": {
-        "15": 1794866470
+        "15": 1794866470,
+        "16": 1795034370
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 38,
         "Leatherworking": 39,
-        "Skinning": 76
+        "Skinning": 83
       },
       "race": "Orc",
       "raids": {},
@@ -13791,47 +13792,47 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 810,
+          "raw": 1115,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6710,
+          "raw": 7322,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 810,
+          "raw": 1115,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 810,
+          "raw": 1115,
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8728,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9528,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 810,
+          "raw": 1115,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1220,
+          "raw": 2130,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3531,
+          "raw": 3643,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 950,
+          "raw": 1062,
           "tier": 3
         }
       },
@@ -13839,16 +13840,16 @@
       "stats": {
         "critters": 28,
         "deaths": 5,
-        "drinks": 4,
+        "drinks": 6,
         "flights": 7,
-        "food": 3,
-        "health_potions": 4,
+        "food": 4,
+        "health_potions": 5,
         "hearths": 5,
-        "killing_blows": 549,
-        "mobs": 568,
-        "quests": 72
+        "killing_blows": 585,
+        "mobs": 608,
+        "quests": 84
       },
-      "xp": 3732
+      "xp": 8060
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -18687,6 +18688,20 @@
           "class": "Hunter",
           "level": 18
         }
+      },
+      "eu:ogmar-donnerhammer": {
+        "c": {
+          "name": "Ogmar",
+          "region": "eu",
+          "surname": "Donnerhammer"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Orgrimmar"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 16
+        }
       }
     },
     "last": "2026-11-18"
@@ -19762,6 +19777,7 @@
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
     "Warlock": "Hexenmeister",
     "Warped Leather Belt": "Verformter Ledergürtel",
+    "Warped Leather Boots": "Verformte Lederstiefel",
     "Warrior": "Krieger",
     "Warrior's Tunic": "Kriegertunika",
     "Warsong Gauntlets": "Warsongstulpen",
@@ -20663,7 +20679,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795033547,
+  "saved_at": 1795034371,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
