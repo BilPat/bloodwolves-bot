@@ -9476,21 +9476,22 @@
       },
       "ilvl": 26,
       "last_explored": "Thousand Needles",
-      "last_login": 1794991344000,
-      "level": 31,
+      "last_login": 1795002082000,
+      "level": 32,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
         "28": 1794907721,
         "29": 1794932961,
         "30": 1794940259,
-        "31": 1794950040
+        "31": 1794950040,
+        "32": 1795002929
       },
       "professions": {
         "Cooking": 115,
         "First Aid": 150,
         "Leatherworking": 132,
-        "Skinning": 208
+        "Skinning": 220
       },
       "race": "Undead",
       "raids": {},
@@ -9841,7 +9842,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4772,
+          "raw": 4935,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9866,7 +9867,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5841,
+          "raw": 6078,
           "tier": 4
         },
         "Powderfuse": {
@@ -9881,12 +9882,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4391,
+          "raw": 4553,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14237,
+          "raw": 14812,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -9898,18 +9899,18 @@
       "spec": "Combat",
       "stats": {
         "critters": 48,
-        "deaths": 22,
-        "drinks": 22,
+        "deaths": 23,
+        "drinks": 23,
         "flights": 43,
-        "food": 127,
-        "health_potions": 16,
-        "hearths": 11,
+        "food": 145,
+        "health_potions": 21,
+        "hearths": 12,
         "honorable_kills": 113,
-        "killing_blows": 1873,
-        "mobs": 2991,
-        "quests": 208
+        "killing_blows": 1992,
+        "mobs": 3128,
+        "quests": 215
       },
-      "xp": 14697
+      "xp": 3441
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -10264,6 +10265,7 @@
       "achievements": {
         "61502": "Novice Druid",
         "61503": "Experienced Druid",
+        "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
         "62029": "Expert Tailor",
         "62031": "Novice Spelunker",
@@ -10391,22 +10393,36 @@
       },
       "ilvl": 42,
       "last_explored": "Westfall",
-      "last_login": 1794965056000,
+      "last_login": 1795001905000,
       "level": 46,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018
       },
       "professions": {
+        "Alchemy": 1,
         "Cooking": 243,
         "First Aid": 225,
         "Fishing": 155,
-        "Herbalism": 269,
-        "Tailoring": 225
+        "Herbalism": 269
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
+        "Alchemy": [
+          {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
+          }
+        ],
         "Cooking": [
           {
             "id": 2499,
@@ -10645,308 +10661,6 @@
           {
             "id": 52642,
             "name": "Incense Candle"
-          }
-        ],
-        "Tailoring": [
-          {
-            "id": 6577,
-            "name": "Simple Linen Boots"
-          },
-          {
-            "id": 6578,
-            "name": "Simple Kilt"
-          },
-          {
-            "id": 4871,
-            "name": "Crimson Silk Cloak"
-          },
-          {
-            "id": 4872,
-            "name": "Crimson Silk Vest"
-          },
-          {
-            "id": 4876,
-            "name": "Crimson Silk Pantaloons"
-          },
-          {
-            "id": 4877,
-            "name": "Crimson Silk Robe"
-          },
-          {
-            "id": 55423,
-            "name": "Novice Arcanist's Sash"
-          },
-          {
-            "id": 6576,
-            "name": "Simple Linen Pants"
-          },
-          {
-            "id": 6623,
-            "name": "Dreamweave Circlet"
-          },
-          {
-            "id": 2401,
-            "name": "Stylish Red Shirt"
-          },
-          {
-            "id": 2404,
-            "name": "Dark Silk Shirt"
-          },
-          {
-            "id": 2408,
-            "name": "Brown Linen Pants"
-          },
-          {
-            "id": 2409,
-            "name": "Brown Linen Shirt"
-          },
-          {
-            "id": 6580,
-            "name": "Black Mageweave Vest"
-          },
-          {
-            "id": 6582,
-            "name": "Black Mageweave Robe"
-          },
-          {
-            "id": 6584,
-            "name": "Black Mageweave Gloves"
-          },
-          {
-            "id": 6589,
-            "name": "Orange Mageweave Shirt"
-          },
-          {
-            "id": 6600,
-            "name": "Cindercloth Robe"
-          },
-          {
-            "id": 6601,
-            "name": "Dreamweave Vest"
-          },
-          {
-            "id": 4848,
-            "name": "Linen Belt"
-          },
-          {
-            "id": 4849,
-            "name": "Azure Silk Pants"
-          },
-          {
-            "id": 4850,
-            "name": "Azure Silk Hood"
-          },
-          {
-            "id": 4854,
-            "name": "Robe of Power"
-          },
-          {
-            "id": 2359,
-            "name": "Bolt of Linen Cloth"
-          },
-          {
-            "id": 2360,
-            "name": "Linen Cloak"
-          },
-          {
-            "id": 2361,
-            "name": "Brown Linen Vest"
-          },
-          {
-            "id": 2363,
-            "name": "Linen Boots"
-          },
-          {
-            "id": 2364,
-            "name": "Red Linen Shirt"
-          },
-          {
-            "id": 2365,
-            "name": "White Linen Shirt"
-          },
-          {
-            "id": 2366,
-            "name": "Blue Linen Shirt"
-          },
-          {
-            "id": 2367,
-            "name": "Reinforced Linen Cape"
-          },
-          {
-            "id": 2368,
-            "name": "Barbaric Linen Vest"
-          },
-          {
-            "id": 2369,
-            "name": "Green Linen Shirt"
-          },
-          {
-            "id": 2370,
-            "name": "Bolt of Woolen Cloth"
-          },
-          {
-            "id": 2371,
-            "name": "Woolen Cape"
-          },
-          {
-            "id": 2372,
-            "name": "Green Woolen Vest"
-          },
-          {
-            "id": 2373,
-            "name": "Woolen Boots"
-          },
-          {
-            "id": 2375,
-            "name": "Gray Woolen Shirt"
-          },
-          {
-            "id": 2376,
-            "name": "Bolt of Silk Cloth"
-          },
-          {
-            "id": 2377,
-            "name": "Bolt of Mageweave"
-          },
-          {
-            "id": 2378,
-            "name": "Heavy Linen Gloves"
-          },
-          {
-            "id": 2379,
-            "name": "Green Linen Bracers"
-          },
-          {
-            "id": 2380,
-            "name": "Handstitched Linen Britches"
-          },
-          {
-            "id": 2381,
-            "name": "Heavy Woolen Gloves"
-          },
-          {
-            "id": 2383,
-            "name": "Soft-soled Linen Boots"
-          },
-          {
-            "id": 2385,
-            "name": "Double-stitched Woolen Shoulders"
-          },
-          {
-            "id": 2386,
-            "name": "Reinforced Woolen Shoulders"
-          },
-          {
-            "id": 2387,
-            "name": "Heavy Woolen Pants"
-          },
-          {
-            "id": 2389,
-            "name": "Gloves of Meditation"
-          },
-          {
-            "id": 2391,
-            "name": "Spidersilk Boots"
-          },
-          {
-            "id": 2393,
-            "name": "Enchanter's Cowl"
-          },
-          {
-            "id": 2395,
-            "name": "Azure Silk Vest"
-          },
-          {
-            "id": 10396,
-            "name": "Bolt of Runecloth"
-          },
-          {
-            "id": 10397,
-            "name": "Runecloth Belt"
-          },
-          {
-            "id": 10401,
-            "name": "Runecloth Bag"
-          },
-          {
-            "id": 3973,
-            "name": "Pearl-clasped Cloak"
-          },
-          {
-            "id": 4000,
-            "name": "Green Woolen Bag"
-          },
-          {
-            "id": 4001,
-            "name": "Linen Bag"
-          },
-          {
-            "id": 4002,
-            "name": "Woolen Bag"
-          },
-          {
-            "id": 4003,
-            "name": "Small Silk Pack"
-          },
-          {
-            "id": 4019,
-            "name": "Red Linen Bag"
-          },
-          {
-            "id": 4020,
-            "name": "Red Woolen Bag"
-          },
-          {
-            "id": 4021,
-            "name": "Lesser Wizard's Robe"
-          },
-          {
-            "id": 6616,
-            "name": "Tuxedo Shirt"
-          },
-          {
-            "id": 4708,
-            "name": "Simple Dress"
-          },
-          {
-            "id": 4709,
-            "name": "White Woolen Dress"
-          },
-          {
-            "id": 6596,
-            "name": "Mageweave Bag"
-          },
-          {
-            "id": 6598,
-            "name": "Dreamweave Gloves"
-          },
-          {
-            "id": 4302,
-            "name": "Brown Linen Robe"
-          },
-          {
-            "id": 4303,
-            "name": "White Linen Robe"
-          },
-          {
-            "id": 4308,
-            "name": "Blue Overalls"
-          },
-          {
-            "id": 52648,
-            "name": "Faction Banner"
-          },
-          {
-            "id": 55424,
-            "name": "Novice Ardent's Sash"
-          },
-          {
-            "id": 55366,
-            "name": "Linen Reagent Bag"
-          },
-          {
-            "id": 55367,
-            "name": "Woolen Reagent Bag"
           }
         ]
       },
@@ -16344,7 +16058,7 @@
       },
       "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1795000200000,
+      "last_login": 1795002730000,
       "level": 37,
       "level_at": {
         "35": 1794866470,
@@ -16352,7 +16066,7 @@
         "37": 1794993427
       },
       "professions": {
-        "Blacksmithing": 131,
+        "Blacksmithing": 148,
         "Cooking": 170,
         "First Aid": 62,
         "Fishing": 155,
@@ -16362,6 +16076,14 @@
       "raids": {},
       "recipes": {
         "Blacksmithing": [
+          {
+            "id": 1985,
+            "name": "Hardened Iron Shortsword"
+          },
+          {
+            "id": 1993,
+            "name": "Green Iron Bracers"
+          },
           {
             "id": 1798,
             "name": "Rough Weightstone"
@@ -16815,7 +16537,7 @@
       },
       "ilvl": 16,
       "last_explored": null,
-      "last_login": 1794999808000,
+      "last_login": 1795002828000,
       "level": 23,
       "level_at": {
         "21": 1794866470,
@@ -16824,7 +16546,7 @@
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 87
+        "Herbalism": 88
       },
       "race": "Undead",
       "raids": {},
@@ -16951,17 +16673,17 @@
       "stats": {
         "critters": 13,
         "deaths": 11,
-        "drinks": 616,
+        "drinks": 623,
         "flights": 14,
         "food": 135,
         "health_potions": 9,
         "hearths": 16,
-        "killing_blows": 1053,
+        "killing_blows": 1083,
         "mana_potions": 9,
-        "mobs": 1590,
+        "mobs": 1620,
         "quests": 125
       },
-      "xp": 5214
+      "xp": 7544
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -17528,7 +17250,7 @@
       },
       "ilvl": 24,
       "last_explored": "Darkshore",
-      "last_login": 1794977347000,
+      "last_login": 1795002130000,
       "level": 31,
       "level_at": {
         "31": 1794965196
@@ -18739,7 +18461,9 @@
           "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
           "🎖️ [Erkundet Westfall](https://www.wowhead.com/forever/de/achievement=802)",
           "🎖️ [Expert Tailor](https://www.wowhead.com/forever/de/achievement=62029)",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)",
+          "📜 Neuer Beruf: **Alchemie**",
+          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
         ],
         "snap": {
           "class": "Druid",
@@ -19647,6 +19371,7 @@
     "Social": "Geselligkeit",
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
     "Solid Gold Band": "Solides Goldband",
+    "Solid Shot": "Robustes Geschoss",
     "Sorcerer Collar": "Zaubererhalsband",
     "Soul Harvest": "Seelenernte",
     "Soul Siphon": "Seelenentzug",
@@ -20706,7 +20431,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795001958,
+  "saved_at": 1795002931,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
