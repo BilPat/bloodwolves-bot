@@ -7,10 +7,10 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/164/3483300-avatar.jpg",
       "best_item": {
-        "id": 268484,
-        "ilvl": 31,
-        "name": "Moonsilver Blade",
-        "quality": "UNCOMMON",
+        "id": 16886,
+        "ilvl": 32,
+        "name": "Outlaw Sabre",
+        "quality": "RARE",
         "slot": "Main Hand"
       },
       "boss_kills": {
@@ -92,7 +92,7 @@
       },
       "ilvl": 23,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794956083000,
+      "last_login": 1795009821000,
       "level": 27,
       "level_at": {
         "26": 1794866470,
@@ -402,7 +402,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4557,
+          "raw": 4613,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -412,7 +412,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 750,
+          "raw": 900,
           "tier": 3
         },
         "Everlook": {
@@ -427,7 +427,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4632,
+          "raw": 4745,
           "tier": 4
         },
         "Powderfuse": {
@@ -442,12 +442,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3321,
+          "raw": 3377,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15095,
+          "raw": 15263,
           "tier": 5
         }
       },
@@ -461,12 +461,12 @@
         "health_potions": 8,
         "hearths": 14,
         "honorable_kills": 5,
-        "killing_blows": 1401,
+        "killing_blows": 1403,
         "mana_potions": 1,
-        "mobs": 3112,
-        "quests": 193
+        "mobs": 3114,
+        "quests": 194
       },
-      "xp": 14307
+      "xp": 17235
     },
     "eu:archibald-white": {
       "achievements": {
@@ -20311,7 +20311,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795009195,
+  "saved_at": 1795010074,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
