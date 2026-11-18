@@ -2551,16 +2551,17 @@
       },
       "ilvl": 31,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794947219000,
-      "level": 42,
+      "last_login": 1795032504000,
+      "level": 43,
       "level_at": {
-        "42": 1794866470
+        "42": 1794866470,
+        "43": 1795032935
       },
       "professions": {
         "Cooking": 225,
         "Enchanting": 190,
         "First Aid": 78,
-        "Tailoring": 156
+        "Tailoring": 172
       },
       "race": "Undead",
       "raids": {},
@@ -2609,6 +2610,10 @@
           {
             "id": 1545,
             "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 11997,
+            "name": "Spider Sausage"
           },
           {
             "id": 13375,
@@ -2962,17 +2967,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9375,
+          "raw": -12975,
           "tier": 0
         },
         "Booty Bay": {
-          "name": "Neutral",
-          "raw": 2890,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3780,
+          "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7542,
+          "raw": 7867,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2987,12 +2992,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2530,
+          "raw": 2975,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2530,
+          "raw": 2975,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -3007,45 +3012,45 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9481,
+          "raw": 9656,
           "tier": 5
         },
         "Powderfuse": {
-          "name": "Neutral",
-          "raw": 2685,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3130,
+          "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3895,
+          "raw": 4340,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7370,
+          "raw": 7470,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19788,
+          "raw": 19888,
           "tier": 5
         }
       },
-      "spec": "Affliction",
+      "spec": "Demonology",
       "stats": {
         "critters": 99,
-        "deaths": 9,
-        "drinks": 60,
-        "flights": 83,
+        "deaths": 11,
+        "drinks": 64,
+        "flights": 86,
         "food": 83,
-        "health_potions": 23,
-        "hearths": 37,
-        "killing_blows": 4220,
+        "health_potions": 26,
+        "hearths": 38,
+        "killing_blows": 4364,
         "mana_potions": 2,
-        "mobs": 6523,
-        "quests": 373
+        "mobs": 6780,
+        "quests": 391
       },
-      "xp": 38749
+      "xp": 33628
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -13858,7 +13863,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794948421000,
+      "last_login": 1795032513000,
       "level": 11,
       "level_at": {
         "11": 1794866470
@@ -15915,6 +15920,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "16978": {
+          "name": "Warsong Gauntlets",
+          "quality": "RARE"
+        },
         "250518": {
           "name": "Veteran's Silvered Chain Shirt",
           "quality": "RARE"
@@ -15954,19 +15963,20 @@
       },
       "ilvl": 21,
       "last_explored": null,
-      "last_login": 1795003279000,
-      "level": 26,
+      "last_login": 1795032612000,
+      "level": 27,
       "level_at": {
         "23": 1794866470,
         "24": 1794928566,
-        "26": 1795004429
+        "26": 1795004429,
+        "27": 1795032935
       },
       "professions": {
         "Blacksmithing": 111,
         "Cooking": 23,
-        "First Aid": 60,
+        "First Aid": 63,
         "Fishing": 37,
-        "Mining": 134
+        "Mining": 143
       },
       "race": "Undead",
       "raids": {},
@@ -16103,6 +16113,22 @@
           {
             "id": 1838,
             "name": "Linen Bandage"
+          },
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Fishing": [
@@ -16159,7 +16185,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5422,
+          "raw": 5535,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16184,7 +16210,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6678,
+          "raw": 6903,
           "tier": 4
         },
         "Powderfuse": {
@@ -16199,12 +16225,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3181,
+          "raw": 3518,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 10278,
+          "raw": 10391,
           "tier": 5
         }
       },
@@ -16212,17 +16238,17 @@
       "stats": {
         "critters": 29,
         "deaths": 9,
-        "drinks": 11,
-        "flights": 34,
-        "food": 6,
+        "drinks": 12,
+        "flights": 37,
+        "food": 7,
         "health_potions": 8,
-        "hearths": 18,
-        "killing_blows": 1058,
+        "hearths": 19,
+        "killing_blows": 1115,
         "mana_potions": 2,
-        "mobs": 2542,
-        "quests": 156
+        "mobs": 2603,
+        "quests": 161
       },
-      "xp": 19811
+      "xp": 7105
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -18641,263 +18667,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:aru-tai": {
-        "c": {
-          "name": "Aru",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Tai"
-        },
-        "lines": [
-          "🛠️ **Alchemie** auf 75",
-          "🤝 **Wohlwollend** bei Orgrimmar",
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 26
-        }
-      },
-      "eu:baumora-axiom": {
-        "c": {
-          "name": "Baumora",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Axiom"
-        },
-        "lines": [
-          "Gegenstandsstufe **40**",
-          "🎖️ [Experienced Druid](https://www.wowhead.com/forever/de/achievement=61503)",
-          "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 46
-        }
-      },
-      "eu:blck-jck": {
-        "c": {
-          "name": "Blck",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Jck"
-        },
-        "lines": [
-          "🛠️ **Verzauberkunst** auf 75"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 26
-        }
-      },
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 225",
-          "🛠️ **Erste Hilfe** auf 225",
-          "🛠️ **Angeln** auf 225"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 23
-        }
-      },
-      "eu:elric-wolfsclan": {
-        "c": {
-          "name": "Elric",
-          "region": "eu",
-          "surname": "Wolfsclan"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Darkspear"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 22
-        }
-      },
-      "eu:erna-sturmtanz": {
-        "c": {
-          "name": "Erna",
-          "region": "eu",
-          "surname": "Sturmtanz"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 75",
-          "🛠️ **Erste Hilfe** auf 75",
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 15
-        }
-      },
-      "eu:fred-feuersturm": {
-        "c": {
-          "name": "Fred",
-          "region": "eu",
-          "surname": "Feuersturm"
-        },
-        "lines": [
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 31
-        }
-      },
-      "eu:h%C3%A4uptling-blutmacht": {
-        "c": {
-          "name": "Häuptling",
-          "rank_name": "Gildenmeister",
-          "region": "eu",
-          "surname": "Blutmacht"
-        },
-        "lines": [
-          "🎖️ [Experienced Warrior](https://www.wowhead.com/forever/de/achievement=61500)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 45
-        }
-      },
-      "eu:kamah-suhtrah": {
-        "c": {
-          "name": "Kamah",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Suhtrah"
-        },
-        "lines": [
-          "📜 Neuer Beruf: **Schmiedekunst**",
-          "📜 Neuer Beruf: **Bergbau**"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 29
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 33
-        }
-      },
-      "eu:krakmor-ci%C3%B3rdan": {
-        "c": {
-          "name": "Krakmor",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ciórdan"
-        },
-        "lines": [
-          "🛠️ **Schneiderei** auf 225",
-          "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Westfall](https://www.wowhead.com/forever/de/achievement=802)",
-          "🎖️ [Expert Tailor](https://www.wowhead.com/forever/de/achievement=62029)",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)",
-          "📜 Neuer Beruf: **Alchemie**",
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)",
-          "🛠️ **Alchemie** auf 225",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
-          "🎖️ [Expert Alchemist](https://www.wowhead.com/forever/de/achievement=62013)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 47
-        }
-      },
-      "eu:ogmar-donnerhammer": {
-        "c": {
-          "name": "Ogmar",
-          "region": "eu",
-          "surname": "Donnerhammer"
-        },
-        "lines": [
-          "🎖️ [Erkundet Durotar](https://www.wowhead.com/forever/de/achievement=728)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 15
-        }
-      },
-      "eu:redbully-badbully": {
-        "c": {
-          "name": "Redbully",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Badbully"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 75"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 26
-        }
-      },
-      "eu:thalgrim-tirisfal": {
-        "c": {
-          "name": "Thalgrim",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Tirisfal"
-        },
-        "lines": [
-          "🎖️ [Novice Paladin](https://www.wowhead.com/forever/de/achievement=61997)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 26
-        }
-      },
-      "eu:zulka-seelenfluch": {
-        "c": {
-          "name": "Zulka",
-          "region": "eu",
-          "surname": "Seelenfluch"
-        },
-        "lines": [
-          "🎖️ [Erkundet Silberwald](https://www.wowhead.com/forever/de/achievement=769)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 24
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🎖️ [Journeyman Engineer](https://www.wowhead.com/forever/de/achievement=62021)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 31
-        }
-      }
-    },
-    "last": "2026-11-17"
+    "items": {},
+    "last": "2026-11-18"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -19166,6 +18937,7 @@
     "Deaths from falling": "Tode durch Stürze",
     "Deaths from fire and lava": "Tode durch Feuer und Lava",
     "Deaths in Warsong Gulch": "Tode in der Kriegshymnenschlucht",
+    "Decimation": "Dezimierung",
     "Deckhand's Shirt": "Deckmatrosenhemd",
     "Deep Fathom Ring": "Deepfathom-Ring",
     "Defender Cloak of Shadow Wrath": "Verteidigerumhang des Schattenzorns",
@@ -19180,6 +18952,12 @@
     "Deftkin Belt": "Deftkin-Gürtel",
     "Demolition Hammer": "Demolierhammer",
     "Demon Band": "Dämonenband",
+    "Demonic Brand": "Dämonisches Brandmal",
+    "Demonic Embrace": "Dämonische Umarmung",
+    "Demonic Energies": "Dämonische Energien",
+    "Demonic Knowledge": "Dämonisches Wissen",
+    "Demonic Pact": "Dämonischer Pakt",
+    "Demonic Sacrifice": "Dämonische Opferung",
     "Demonology": "Dämonologie",
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
     "Desert Shoulders": "Wüsten-Schultern",
@@ -19264,6 +19042,7 @@
     "Feathered Arrow": "Gefiederter Pfeil",
     "Feet": "Füße",
     "Fel Concentration": "Teufelskonzentration",
+    "Fel Vitality": "Teuflische Vitalität",
     "Feline Mantle": "Felinen-Mantel",
     "Female": "Weiblich",
     "Fenrus' Hide": "Fenrus' Balg",
@@ -19435,6 +19214,7 @@
     "Improved Revenge": "Verbesserte Rache",
     "Improved Revival": "Verbesserte Wiederbelebung",
     "Improved Righteous Fury": "Verbesserter Zorn der Gerechtigkeit",
+    "Improved Sayaad": "Verbesserte Sayaad",
     "Improved Scorch": "Verbessertes Versengen",
     "Improved Seals": "Verbesserte Siegel",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
@@ -19521,6 +19301,8 @@
     "Marauder's Bracers of the Beast": "Marodeursarmschienen der Bestie",
     "Mark of the Pack Leader": "Mal des Rudelführers",
     "Marksmanship": "Treffsicherheit",
+    "Master Demonologist": "Meister der Dämonologie",
+    "Master Hunter's Wand": "Zauberstab des Meisterjägers",
     "Master of Defense": "Meister der Verteidigung",
     "Materials produced from disenchanting": "Durch Entzaubern produzierte Materialien",
     "Meathook Slicer": "Fleischhakenschlitzer",
@@ -19797,6 +19579,7 @@
     "Solid Shot": "Robustes Geschoss",
     "Sorcerer Collar": "Zaubererhalsband",
     "Soul Harvest": "Seelenernte",
+    "Soul Link": "Seelenverbindung",
     "Soul Siphon": "Seelenentzug",
     "Spare Part Bindings": "Ersatzteilbindungen",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
@@ -20851,7 +20634,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795031690,
+  "saved_at": 1795032937,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
