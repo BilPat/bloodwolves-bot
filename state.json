@@ -4239,7 +4239,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795030436000,
+      "last_login": 1795031058000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -7825,18 +7825,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 35,
+      "ilvl": 38,
       "last_explored": "Thousand Needles",
-      "last_login": 1794945213000,
-      "level": 40,
+      "last_login": 1795031419000,
+      "level": 41,
       "level_at": {
-        "40": 1794866470
+        "40": 1794866470,
+        "41": 1795031689
       },
       "professions": {
         "Blacksmithing": 185,
         "Cooking": 225,
         "First Aid": 211,
-        "Mining": 205
+        "Mining": 212
       },
       "race": "Undead",
       "raids": {},
@@ -7877,6 +7878,10 @@
           {
             "id": 5306,
             "name": "Barbaric Iron Shoulders"
+          },
+          {
+            "id": 5316,
+            "name": "Heavy Mithril Gauntlet"
           },
           {
             "id": 1798,
@@ -8075,6 +8080,14 @@
             "name": "Solid Grinding Stone"
           },
           {
+            "id": 5315,
+            "name": "Heavy Mithril Shoulder"
+          },
+          {
+            "id": 5317,
+            "name": "Mithril Plate Pants"
+          },
+          {
             "id": 5338,
             "name": "Copper Claymore"
           },
@@ -8089,6 +8102,10 @@
           {
             "id": 5341,
             "name": "Bronze Battle Axe"
+          },
+          {
+            "id": 5342,
+            "name": "Heavy Mithril Axe"
           },
           {
             "id": 4206,
@@ -8334,17 +8351,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9875,
+          "raw": -10875,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3248,
+          "raw": 3618,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8296,
+          "raw": 8746,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -8359,12 +8376,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2685,
+          "raw": 2870,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2685,
+          "raw": 2870,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -8379,45 +8396,46 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11080,
+          "raw": 11380,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2665,
+          "raw": 2850,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4178,
+          "raw": 4363,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8511,
+          "raw": 8661,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19515,
+          "raw": 19665,
           "tier": 5
         }
       },
       "spec": "Retribution",
       "stats": {
         "critters": 106,
-        "deaths": 8,
-        "drinks": 76,
-        "flights": 63,
-        "food": 90,
-        "health_potions": 19,
+        "deaths": 9,
+        "drinks": 78,
+        "flights": 65,
+        "food": 91,
+        "health_potions": 23,
         "hearths": 26,
-        "killing_blows": 3007,
+        "honorable_kills": 1,
+        "killing_blows": 3095,
         "mana_potions": 1,
-        "mobs": 4909,
-        "quests": 414
+        "mobs": 5130,
+        "quests": 427
       },
-      "xp": 68768
+      "xp": 52233
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -13271,11 +13289,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/151/14477463-avatar.jpg",
       "best_item": {
-        "id": 281660,
+        "id": 6667,
         "ilvl": 27,
-        "name": "Iron Star",
+        "name": "Engineer's Cloak",
         "quality": "UNCOMMON",
-        "slot": "Ranged"
+        "slot": "Back"
       },
       "boss_kills": {
         "15027": {
@@ -13306,20 +13324,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 13,
+      "ilvl": 14,
       "last_explored": null,
-      "last_login": 1794937436000,
-      "level": 21,
+      "last_login": 1795031310000,
+      "level": 22,
       "level_at": {
         "20": 1794866470,
-        "21": 1794938124
+        "21": 1794938124,
+        "22": 1795031689
       },
       "professions": {
         "Blacksmithing": 54,
         "Cooking": 19,
-        "First Aid": 97,
+        "First Aid": 101,
         "Fishing": 3,
-        "Mining": 85
+        "Mining": 87
       },
       "race": "Tauren",
       "raids": {},
@@ -13495,68 +13514,63 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1150,
+          "raw": 1225,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4071,
+          "raw": 4096,
           "tier": 4
-        },
-        "Durotar Supply and Logistics": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1150,
+          "raw": 1225,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1150,
+          "raw": 1225,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5140,
+          "raw": 5165,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1150,
+          "raw": 1225,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2100,
+          "raw": 2250,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8812,
+          "raw": 8912,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1865,
+          "raw": 1890,
           "tier": 3
         }
       },
       "spec": "Fury",
       "stats": {
-        "critters": 4,
-        "deaths": 29,
-        "flights": 18,
+        "critters": 6,
+        "deaths": 30,
+        "flights": 19,
         "food": 33,
-        "health_potions": 19,
-        "hearths": 13,
-        "killing_blows": 834,
-        "mobs": 1241,
-        "quests": 135
+        "health_potions": 22,
+        "hearths": 14,
+        "killing_blows": 883,
+        "mobs": 1291,
+        "quests": 140
       },
-      "xp": 16634
+      "xp": 4700
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -14456,6 +14470,10 @@
           "name": "Vilewalkers",
           "quality": "RARE"
         },
+        "271766": {
+          "name": "Heavehammer",
+          "quality": "RARE"
+        },
         "273005": {
           "name": "Satyrskin Cloak",
           "quality": "RARE"
@@ -14493,12 +14511,13 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 28,
       "last_explored": "Mulgore",
-      "last_login": 1794931457000,
-      "level": 31,
+      "last_login": 1795031013000,
+      "level": 32,
       "level_at": {
-        "31": 1794866470
+        "31": 1794866470,
+        "32": 1795031689
       },
       "professions": {
         "Blacksmithing": 108,
@@ -14785,7 +14804,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5975,
+          "raw": 6250,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -14795,12 +14814,17 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 850,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
           "raw": 1898,
+          "tier": 3
+        },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Gadgetzan": {
@@ -14810,7 +14834,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7325,
+          "raw": 7675,
           "tier": 4
         },
         "Powderfuse": {
@@ -14825,12 +14849,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12916,
+          "raw": 13491,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6208,
+          "raw": 6408,
           "tier": 4
         }
       },
@@ -14838,16 +14862,16 @@
       "stats": {
         "critters": 73,
         "deaths": 25,
-        "flights": 34,
-        "food": 103,
+        "flights": 37,
+        "food": 106,
         "health_potions": 27,
-        "hearths": 21,
+        "hearths": 23,
         "honorable_kills": 5,
-        "killing_blows": 1745,
-        "mobs": 3484,
-        "quests": 222
+        "killing_blows": 1828,
+        "mobs": 3581,
+        "quests": 232
       },
-      "xp": 22592
+      "xp": 16358
     },
     "eu:rausmit-deviechers": {
       "achievements": {
@@ -19201,6 +19225,7 @@
     "Embossed Leather Boots": "Geprägte Lederstiefel",
     "Embossed Leather Gloves": "Geprägte Lederhandschuhe",
     "Embossed Leather Vest": "Geprägte Lederweste",
+    "Embossed Plate Boots of the Knight": "Geprägte Plattenstiefel des Ritters",
     "Embrace of the Viper": "Umarmung der Viper",
     "Embroidered Leggings": "Bestickte Gamaschen",
     "Empyrean Greatsword": "Großschwert des Lichthimmels",
@@ -19224,6 +19249,7 @@
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance": "Durchhaltevermögen",
     "Endurance Training": "Belastbarkeit-Ausbildung",
+    "Engineer's Cloak": "Ingenieurs-Umhang",
     "Engineer's Guild Headpiece": "Ingenieursgildenkopfstück",
     "Engineering Schematics learned": "Erlernte Ingenieurskunstschemata",
     "Enhancement": "Verstärkung",
@@ -19347,6 +19373,7 @@
     "Heart of the Wild": "Herz der Wildnis",
     "Heat Resistant Mitts": "Hitzebeständige Fäustlinge",
     "Heating Up": "Aufwärmen",
+    "Heavehammer": "Wuchthammer",
     "Heavy Armor Kit": "Schweres Rüstungsset",
     "Heavy Linen Gloves": "Schwere Leinenhandschuhe",
     "Heavy Shot": "Schweres Geschoss",
@@ -19591,6 +19618,7 @@
     "Projectile": "Projektil",
     "Prophetic Cane": "Prophetenkrückstock",
     "Prospector's Cuffs": "Manschetten des Ausgrabungsleiters",
+    "Prospector's Pads": "Polster des Ausgrabungsleiters",
     "Prospector's Sash": "Schärpe des Ausgrabungsleiters",
     "Protection": "Schutz",
     "Protector's Silvered Chain Leggings": "Versilberte Kettengamaschen des Beschützers",
@@ -20823,7 +20851,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795030819,
+  "saved_at": 1795031690,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
