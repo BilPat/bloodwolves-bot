@@ -11682,7 +11682,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1795007888000,
+      "last_login": 1795027139000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -11693,7 +11693,7 @@
         "First Aid": 65,
         "Fishing": 100,
         "Leatherworking": 114,
-        "Skinning": 192
+        "Skinning": 194
       },
       "race": "Troll",
       "raids": {},
@@ -12013,7 +12013,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9903,
+          "raw": 9953,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -12033,7 +12033,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10847,
+          "raw": 10972,
           "tier": 5
         },
         "Powderfuse": {
@@ -12048,30 +12048,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5353,
+          "raw": 5478,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3196,
+          "raw": 3246,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 16,
-        "deaths": 22,
-        "drinks": 11,
+        "deaths": 23,
+        "drinks": 12,
         "flights": 24,
-        "food": 3,
+        "food": 4,
         "health_potions": 20,
         "hearths": 14,
-        "killing_blows": 1127,
+        "killing_blows": 1141,
         "mana_potions": 6,
-        "mobs": 1864,
-        "quests": 166
+        "mobs": 1878,
+        "quests": 168
       },
-      "xp": 13764
+      "xp": 20868
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -20812,7 +20812,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795026461,
+  "saved_at": 1795027200,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
