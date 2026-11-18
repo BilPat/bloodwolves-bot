@@ -31,7 +31,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 1,
+          "count": 2,
           "instance": "Blackfathom Deeps"
         },
         "63570": {
@@ -85,6 +85,10 @@
           "name": "Seal of Sylvanas",
           "quality": "RARE"
         },
+        "6906": {
+          "name": "Algae Fists",
+          "quality": "RARE"
+        },
         "7002": {
           "name": "Arctic Buckler",
           "quality": "RARE"
@@ -92,16 +96,17 @@
       },
       "ilvl": 23,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795009821000,
-      "level": 27,
+      "last_login": 1795043858000,
+      "level": 28,
       "level_at": {
         "26": 1794866470,
-        "27": 1794957233
+        "27": 1794957233,
+        "28": 1795044313
       },
       "professions": {
-        "Blacksmithing": 126,
+        "Blacksmithing": 134,
         "Cooking": 12,
-        "Mining": 131
+        "Mining": 141
       },
       "race": "Undead",
       "raids": {},
@@ -276,6 +281,10 @@
             "name": "Golden Skeleton Key"
           },
           {
+            "id": 3971,
+            "name": "Iridescent Hammer"
+          },
+          {
             "id": 3972,
             "name": "Pearl-handled Dagger"
           },
@@ -402,7 +411,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4613,
+          "raw": 4732,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -427,7 +436,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4745,
+          "raw": 4863,
           "tier": 4
         },
         "Powderfuse": {
@@ -442,31 +451,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3377,
+          "raw": 3496,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15263,
+          "raw": 15738,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 46,
-        "deaths": 9,
-        "drinks": 26,
-        "flights": 32,
+        "critters": 50,
+        "deaths": 10,
+        "drinks": 35,
+        "flights": 35,
         "food": 4,
         "health_potions": 8,
-        "hearths": 14,
+        "hearths": 15,
         "honorable_kills": 5,
-        "killing_blows": 1403,
+        "killing_blows": 1543,
         "mana_potions": 1,
-        "mobs": 3114,
-        "quests": 194
+        "mobs": 3401,
+        "quests": 201
       },
-      "xp": 17235
+      "xp": 9770
     },
     "eu:archibald-white": {
       "achievements": {
@@ -20803,7 +20812,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795043632,
+  "saved_at": 1795044314,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
