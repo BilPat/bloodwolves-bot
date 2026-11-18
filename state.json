@@ -1294,7 +1294,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 4,
+          "count": 5,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -1419,16 +1419,17 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 42,
+      "ilvl": 43,
       "last_explored": "Thousand Needles",
-      "last_login": 1795018626000,
-      "level": 46,
+      "last_login": 1795034976000,
+      "level": 47,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
         "44": 1794964576,
         "45": 1794994094,
-        "46": 1795017247
+        "46": 1795017247,
+        "47": 1795035267
       },
       "professions": {
         "Cooking": 193,
@@ -1495,6 +1496,10 @@
           {
             "id": 3928,
             "name": "Roasted Kodo Meat"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
           },
           {
             "id": 3930,
@@ -1905,12 +1910,12 @@
         },
         "Bolder'ok Clan": {
           "name": "Friendly",
-          "raw": 3701,
+          "raw": 3961,
           "tier": 4
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3188,
+          "raw": 3521,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -1929,13 +1934,13 @@
           "tier": 3
         },
         "Everlook": {
-          "name": "Neutral",
-          "raw": 2988,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3321,
+          "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3188,
+          "raw": 3803,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -1950,12 +1955,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3886,
+          "raw": 4268,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3879,
+          "raw": 4212,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -1977,18 +1982,18 @@
       "spec": "Restoration",
       "stats": {
         "critters": 176,
-        "deaths": 33,
-        "drinks": 532,
+        "deaths": 36,
+        "drinks": 575,
         "flights": 82,
-        "food": 127,
-        "health_potions": 39,
+        "food": 138,
+        "health_potions": 43,
         "hearths": 27,
-        "killing_blows": 2739,
-        "mana_potions": 15,
-        "mobs": 9867,
-        "quests": 410
+        "killing_blows": 2860,
+        "mana_potions": 18,
+        "mobs": 10546,
+        "quests": 424
       },
-      "xp": 57741
+      "xp": 63856
     },
     "eu:blck-jck": {
       "achievements": {
@@ -4244,7 +4249,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795033083000,
+      "last_login": 1795034389000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -18937,6 +18942,7 @@
     "Continent with the most Honorable Kills": "Kontinent mit den meisten ehrenhaften Siegen",
     "Continent with the most Killing Blows": "Kontinent mit den meisten Todesstößen",
     "Convection": "Konvektion",
+    "Convert's Bindings": "Bindungen des Bekehrten",
     "Conviction": "Überzeugung",
     "Cooking Recipes known": "Bekannte Kochrezepte",
     "Cooking skill": "Kochfertigkeit",
@@ -19310,6 +19316,7 @@
     "Light Shot": "Leichtes Geschoss",
     "Lightning Reflexes": "Blitzartige Reflexe",
     "Lil Timmy's Peashooter": "Lil Timmys Blasrohr",
+    "Living Spirit": "Geist des Lebens",
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
     "Loose Chain Belt": "Lockerer Kettengürtel",
@@ -20679,7 +20686,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795034371,
+  "saved_at": 1795035269,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
