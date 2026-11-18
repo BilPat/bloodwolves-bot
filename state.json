@@ -10448,7 +10448,7 @@
       },
       "ilvl": 42,
       "last_explored": "Westfall",
-      "last_login": 1795012535000,
+      "last_login": 1795022739000,
       "level": 47,
       "level_at": {
         "45": 1794866470,
@@ -10460,7 +10460,7 @@
         "Cooking": 243,
         "First Aid": 225,
         "Fishing": 156,
-        "Herbalism": 273
+        "Herbalism": 280
       },
       "race": "Tauren",
       "raids": {},
@@ -10573,6 +10573,14 @@
           {
             "id": 4178,
             "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 4210,
+            "name": "Frost Protection Potion"
+          },
+          {
+            "id": 4212,
+            "name": "Nature Protection Potion"
           },
           {
             "id": 52646,
@@ -10699,6 +10707,14 @@
           {
             "id": 3931,
             "name": "Dig Rat Stew"
+          },
+          {
+            "id": 10244,
+            "name": "Spotted Yellowtail"
+          },
+          {
+            "id": 10246,
+            "name": "Grilled Squid"
           },
           {
             "id": 11740,
@@ -10866,7 +10882,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4701,
+          "raw": 4889,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -10876,7 +10892,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11901,
+          "raw": 12170,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -10891,65 +10907,55 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4116,
+          "raw": 4304,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4149,
+          "raw": 4474,
           "tier": 4
-        },
-        "Magram Clan Centaur": {
-          "name": "Neutral",
-          "raw": 2000,
-          "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14533,
+          "raw": 14727,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5209,
+          "raw": 5446,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5723,
+          "raw": 5910,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19820,
+          "raw": 19938,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12821,
+          "raw": 13071,
           "tier": 5
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 100,
         "deaths": 38,
-        "drinks": 137,
-        "flights": 180,
-        "food": 207,
+        "drinks": 140,
+        "flights": 187,
+        "food": 209,
         "health_potions": 70,
-        "hearths": 40,
-        "killing_blows": 4063,
+        "hearths": 41,
+        "killing_blows": 4104,
         "mana_potions": 6,
-        "mobs": 7229,
-        "quests": 566
+        "mobs": 7270,
+        "quests": 575
       },
-      "xp": 18042
+      "xp": 63251
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -15245,17 +15251,17 @@
       },
       "ilvl": 21,
       "last_explored": "Moonglade",
-      "last_login": 1794994504000,
+      "last_login": 1795022768000,
       "level": 26,
       "level_at": {
         "25": 1794866470,
         "26": 1794994743
       },
       "professions": {
-        "Alchemy": 153,
-        "Cooking": 113,
-        "Fishing": 68,
-        "Herbalism": 156
+        "Alchemy": 167,
+        "Cooking": 115,
+        "Fishing": 75,
+        "Herbalism": 158
       },
       "race": "Tauren",
       "raids": {},
@@ -15418,8 +15424,12 @@
         ],
         "Fishing": [
           {
-            "id": 4344,
+            "id": 4345,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Herbalism": [
@@ -15454,7 +15464,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5670,
+          "raw": 5957,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15479,7 +15489,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7151,
+          "raw": 7645,
           "tier": 4
         },
         "Powderfuse": {
@@ -15494,12 +15504,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11387,
+          "raw": 11881,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3051,
+          "raw": 3263,
           "tier": 4
         }
       },
@@ -15508,15 +15518,15 @@
         "critters": 9,
         "deaths": 19,
         "drinks": 10,
-        "flights": 32,
+        "flights": 36,
         "food": 19,
         "health_potions": 4,
         "hearths": 21,
-        "killing_blows": 944,
-        "mobs": 1709,
-        "quests": 181
+        "killing_blows": 1006,
+        "mobs": 1765,
+        "quests": 189
       },
-      "xp": 11664
+      "xp": 34184
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -18749,6 +18759,21 @@
           "level": 15
         }
       },
+      "eu:redbully-badbully": {
+        "c": {
+          "name": "Redbully",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Badbully"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 75"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 26
+        }
+      },
       "eu:thalgrim-tirisfal": {
         "c": {
           "name": "Thalgrim",
@@ -20192,6 +20217,10 @@
   "roster": {
     "left_log": [
       {
+        "name": "Maul Worf",
+        "ts": 1795023497
+      },
+      {
         "name": "Erna Sturmtanz",
         "ts": 1795008274
       },
@@ -20235,7 +20264,6 @@
       "lazy-quinn": "Lazy Quinn",
       "lockendotter-bonechrusher": "Lockendotter Bonechrusher",
       "maniac-menacepuppy": "Maniac Menacepuppy",
-      "maul-worf": "Maul Worf",
       "mento-zemento": "Mento Zemento",
       "mia-graufuss": "Mia Graufuss",
       "milly-silverwood": "Milly Silverwood",
@@ -20323,7 +20351,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 45,
+        "level": 46,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -20332,7 +20360,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Khaladin",
         "rank": 3,
         "region": "eu",
@@ -20395,7 +20423,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 37,
+        "level": 38,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -20404,7 +20432,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -20603,15 +20631,6 @@
         "class": null,
         "guild": true,
         "level": 24,
-        "name": "Maul",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Worf"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 24,
         "name": "Kreuzaua",
         "rank": 4,
         "region": "eu",
@@ -20656,7 +20675,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 32,
+        "level": 33,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -20710,7 +20729,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 9,
+        "level": 10,
         "name": "Gaul",
         "rank": 4,
         "region": "eu",
@@ -20748,7 +20767,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795022670,
+  "saved_at": 1795023561,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
