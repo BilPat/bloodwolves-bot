@@ -3623,9 +3623,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 16,
+      "ilvl": 15,
       "last_explored": null,
-      "last_login": 1794947448000,
+      "last_login": 1795021424000,
       "level": 22,
       "level_at": {
         "21": 1794866470,
@@ -3901,6 +3901,10 @@
             "name": "Mystic Medium Armor Kit"
           },
           {
+            "id": 55191,
+            "name": "Brawler's Leather Gloves"
+          },
+          {
             "id": 55203,
             "name": "Brawler's Leather Belt"
           },
@@ -3935,12 +3939,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2052,
+          "raw": 2102,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4441,
+          "raw": 4503,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3950,37 +3954,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2052,
+          "raw": 2102,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2052,
+          "raw": 2102,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6698,
+          "raw": 6761,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2052,
+          "raw": 2102,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3604,
+          "raw": 3704,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10596,
+          "raw": 10733,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1972,
+          "raw": 2147,
           "tier": 3
         }
       },
@@ -3989,16 +3993,16 @@
         "critters": 11,
         "deaths": 5,
         "drinks": 62,
-        "flights": 19,
+        "flights": 22,
         "food": 78,
         "health_potions": 26,
-        "hearths": 20,
+        "hearths": 21,
         "killing_blows": 978,
         "mana_potions": 5,
         "mobs": 1261,
-        "quests": 151
+        "quests": 155
       },
-      "xp": 5583
+      "xp": 18683
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -4224,7 +4228,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795018776000,
+      "last_login": 1795021582000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4235,7 +4239,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 214,
-        "Tailoring": 153
+        "Tailoring": 159
       },
       "race": "Undead",
       "raids": {},
@@ -10005,18 +10009,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1794984956000,
-      "level": 27,
+      "last_login": 1795021562000,
+      "level": 28,
       "level_at": {
-        "27": 1794866470
+        "27": 1794866470,
+        "28": 1795022064
       },
       "professions": {
         "Cooking": 27,
-        "Enchanting": 27,
+        "Enchanting": 52,
         "Fishing": 11,
-        "Tailoring": 103
+        "Tailoring": 117
       },
       "race": "Orc",
       "raids": {},
@@ -10235,7 +10240,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9591,
+          "raw": 9653,
           "tier": 5
         },
         "Earthen Ring": {
@@ -10255,7 +10260,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12660,
+          "raw": 12722,
           "tier": 5
         },
         "Powderfuse": {
@@ -10270,12 +10275,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7180,
+          "raw": 7480,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2865,
+          "raw": 2927,
           "tier": 3
         }
       },
@@ -10283,17 +10288,17 @@
       "stats": {
         "critters": 24,
         "deaths": 12,
-        "drinks": 591,
-        "flights": 57,
-        "food": 201,
+        "drinks": 596,
+        "flights": 58,
+        "food": 202,
         "health_potions": 3,
         "hearths": 21,
-        "killing_blows": 1239,
+        "killing_blows": 1276,
         "mana_potions": 4,
-        "mobs": 2333,
-        "quests": 169
+        "mobs": 2367,
+        "quests": 174
       },
-      "xp": 27715
+      "xp": 2834
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -19215,6 +19220,7 @@
     "Greater Magic Wand": "Großer Magiezauberstab",
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
+    "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
     "Grip of Fear": "Griff der Angst",
     "Grizzled Boots": "Ergraute Stiefel",
     "Grizzly Gloves": "Grizzly-Handschuhe",
@@ -19908,8 +19914,8 @@
     }
   },
   "group_board": {
-    "last": "2026-11-17",
-    "message_id": "1572060189916397650"
+    "last": "2026-11-18",
+    "message_id": "1572661272900673721"
   },
   "officer_board": {
     "message_ids": [
@@ -20721,7 +20727,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795020873,
+  "saved_at": 1795022066,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
