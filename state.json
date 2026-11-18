@@ -10843,16 +10843,17 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794923669000,
-      "level": 23,
+      "last_login": 1795006021000,
+      "level": 24,
       "level_at": {
-        "23": 1794866470
+        "23": 1794866470,
+        "24": 1795006536
       },
       "professions": {
         "Cooking": 69,
         "First Aid": 80,
         "Fishing": 2,
-        "Mining": 107,
+        "Mining": 109,
         "Skinning": 150
       },
       "race": "Troll",
@@ -10989,7 +10990,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9478,
+          "raw": 9572,
           "tier": 5
         },
         "Everlook": {
@@ -11004,7 +11005,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10966,
+          "raw": 11341,
           "tier": 5
         },
         "Powderfuse": {
@@ -11019,12 +11020,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4966,
+          "raw": 5060,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3115,
+          "raw": 3208,
           "tier": 4
         }
       },
@@ -11032,15 +11033,15 @@
       "stats": {
         "critters": 30,
         "deaths": 10,
-        "flights": 47,
+        "flights": 50,
         "food": 2,
         "health_potions": 7,
         "hearths": 19,
-        "killing_blows": 1422,
-        "mobs": 2331,
-        "quests": 146
+        "killing_blows": 1452,
+        "mobs": 2394,
+        "quests": 150
       },
-      "xp": 20505
+      "xp": 7476
     },
     "eu:lagertha-graufuss": {
       "achievements": {
@@ -20500,7 +20501,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795005721,
+  "saved_at": 1795006537,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
