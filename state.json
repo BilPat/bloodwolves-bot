@@ -12033,7 +12033,7 @@
       },
       "ilvl": 17,
       "last_explored": "Redridge Mountains",
-      "last_login": 1794942168000,
+      "last_login": 1795011252000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -12261,7 +12261,7 @@
       "spec": "Protection",
       "stats": {
         "critters": 15,
-        "deaths": 54,
+        "deaths": 55,
         "drinks": 54,
         "flights": 13,
         "food": 7,
@@ -12269,10 +12269,10 @@
         "hearths": 12,
         "killing_blows": 1448,
         "mana_potions": 4,
-        "mobs": 2036,
+        "mobs": 2037,
         "quests": 165
       },
-      "xp": 7775
+      "xp": 8283
     },
     "eu:mia-graufuss": {
       "achievements": {
@@ -16382,18 +16382,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 16,
+      "ilvl": 17,
       "last_explored": null,
-      "last_login": 1795002828000,
-      "level": 23,
+      "last_login": 1795010213000,
+      "level": 24,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
-        "23": 1795000472
+        "23": 1795000472,
+        "24": 1795011349
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 88
+        "Herbalism": 89
       },
       "race": "Undead",
       "raids": {},
@@ -16467,12 +16468,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 662,
+          "raw": 687,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3080,
+          "raw": 3273,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16482,55 +16483,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 662,
+          "raw": 687,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 662,
+          "raw": 687,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3155,
+          "raw": 3761,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 662,
+          "raw": 687,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 825,
+          "raw": 875,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1842,
+          "raw": 2205,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11917,
+          "raw": 12111,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 13,
+        "critters": 14,
         "deaths": 11,
-        "drinks": 623,
+        "drinks": 643,
         "flights": 14,
-        "food": 135,
-        "health_potions": 9,
-        "hearths": 16,
-        "killing_blows": 1083,
-        "mana_potions": 9,
-        "mobs": 1620,
-        "quests": 125
+        "food": 144,
+        "health_potions": 10,
+        "hearths": 17,
+        "killing_blows": 1134,
+        "mana_potions": 12,
+        "mobs": 1670,
+        "quests": 134
       },
-      "xp": 7544
+      "xp": 760
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -18770,6 +18771,7 @@
     "Fishing Pole": "Angel",
     "Fishing skill": "Angelfertigkeit",
     "Flame Charged": "Flammengeladen",
+    "Flame Throwing": "Flammenwerfen",
     "Flanged Mace": "Gebördelter Streitkolben",
     "Flash Pellet": "Blitzkügelchen",
     "Flight paths taken": "Bereiste Flugrouten",
@@ -19105,7 +19107,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -19308,6 +19310,7 @@
     "Tailoring Patterns learned": "Erlernte Schnittmuster",
     "Talbar Mantle": "Talbar-Mantel",
     "Tanned Shoulderpads": "Gegerbte Schulterpolster",
+    "Taurajo Headband": "Stirnband aus Taurajo",
     "Taurenbane's Family Cleaver": "Spaltbeil der Familie Taurenbane",
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
@@ -20311,7 +20314,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795010074,
+  "saved_at": 1795011350,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
