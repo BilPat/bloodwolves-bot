@@ -11016,11 +11016,6 @@
           "raw": 5668,
           "tier": 4
         },
-        "Thorium Brotherhood": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Honored",
           "raw": 19572,
@@ -20711,7 +20706,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795001138,
+  "saved_at": 1795001958,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
