@@ -10108,6 +10108,8 @@
       "achievements": {
         "61502": "Novice Druid",
         "61503": "Experienced Druid",
+        "62012": "Journeyman Alchemist",
+        "62013": "Expert Alchemist",
         "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
         "62029": "Expert Tailor",
@@ -10236,26 +10238,155 @@
       },
       "ilvl": 42,
       "last_explored": "Westfall",
-      "last_login": 1795001905000,
-      "level": 46,
+      "last_login": 1795012535000,
+      "level": 47,
       "level_at": {
         "45": 1794866470,
-        "46": 1794882018
+        "46": 1794882018,
+        "47": 1795012854
       },
       "professions": {
-        "Alchemy": 1,
+        "Alchemy": 225,
         "Cooking": 243,
         "First Aid": 225,
-        "Fishing": 155,
-        "Herbalism": 269
+        "Fishing": 156,
+        "Herbalism": 273
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
         "Alchemy": [
           {
+            "id": 12322,
+            "name": "Draught of Greater Water Breathing"
+          },
+          {
+            "id": 1814,
+            "name": "Elixir of Wisdom"
+          },
+          {
+            "id": 1816,
+            "name": "Lesser Mana Potion"
+          },
+          {
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
+          },
+          {
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 1931,
+            "name": "Lesser Invisibility Potion"
+          },
+          {
+            "id": 1933,
+            "name": "Elixir of Lesser Fortitude"
+          },
+          {
+            "id": 1935,
+            "name": "Mana Potion"
+          },
+          {
+            "id": 1378,
+            "name": "Elixir of Minor Strength"
+          },
+          {
+            "id": 1379,
+            "name": "Minor Mana Potion"
+          },
+          {
+            "id": 1380,
+            "name": "Minor Rejuvenation Potion"
+          },
+          {
+            "id": 1382,
+            "name": "Elixir of Minor Fortitude"
+          },
+          {
+            "id": 5997,
+            "name": "Elixir of Agility"
+          },
+          {
+            "id": 5998,
+            "name": "Elixir of Defense"
+          },
+          {
+            "id": 5999,
+            "name": "Oil of Immolation"
+          },
+          {
+            "id": 6000,
+            "name": "Greater Mana Potion"
+          },
+          {
+            "id": 6006,
+            "name": "Wildvine Potion"
+          },
+          {
+            "id": 6848,
+            "name": "Catseye Draught"
+          },
+          {
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
+            "id": 4394,
+            "name": "Fire Oil"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 4396,
+            "name": "Elixir of Fire Power"
+          },
+          {
+            "id": 4006,
+            "name": "Great Rage Potion"
+          },
+          {
+            "id": 4007,
+            "name": "Rage Potion"
+          },
+          {
+            "id": 4176,
+            "name": "Draught of Water Breathing"
+          },
+          {
             "id": 4178,
             "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 54454,
+            "name": "Magenta Dye"
+          },
+          {
+            "id": 54455,
+            "name": "Viridian Dye"
+          },
+          {
+            "id": 54456,
+            "name": "Sulfuric Acid"
+          },
+          {
+            "id": 54661,
+            "name": "Minor Frenzy Potion"
           },
           {
             "id": 54210,
@@ -10525,7 +10656,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4646,
+          "raw": 4701,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -10535,7 +10666,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11717,
+          "raw": 11901,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -10550,38 +10681,48 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4061,
+          "raw": 4116,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4089,
+          "raw": 4149,
           "tier": 4
+        },
+        "Magram Clan Centaur": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14312,
+          "raw": 14533,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5104,
+          "raw": 5209,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5668,
+          "raw": 5723,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19572,
+          "raw": 19820,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12712,
+          "raw": 12821,
           "tier": 5
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Feral Combat",
@@ -10589,16 +10730,16 @@
         "critters": 100,
         "deaths": 38,
         "drinks": 137,
-        "flights": 174,
+        "flights": 180,
         "food": 207,
         "health_potions": 70,
-        "hearths": 39,
-        "killing_blows": 4052,
+        "hearths": 40,
+        "killing_blows": 4063,
         "mana_potions": 6,
-        "mobs": 7218,
-        "quests": 560
+        "mobs": 7229,
+        "quests": 566
       },
-      "xp": 118716
+      "xp": 18042
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -18357,11 +18498,14 @@
           "🎖️ [Expert Tailor](https://www.wowhead.com/forever/de/achievement=62029)",
           "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)",
           "📜 Neuer Beruf: **Alchemie**",
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
+          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)",
+          "🛠️ **Alchemie** auf 225",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
+          "🎖️ [Expert Alchemist](https://www.wowhead.com/forever/de/achievement=62013)"
         ],
         "snap": {
           "class": "Druid",
-          "level": 46
+          "level": 47
         }
       },
       "eu:ogmar-donnerhammer": {
@@ -20343,7 +20487,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795012005,
+  "saved_at": 1795012855,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
