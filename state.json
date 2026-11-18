@@ -1226,9 +1226,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 7720,
-        "ilvl": 44,
-        "name": "Whitemane's Chapeau",
+        "id": 9534,
+        "ilvl": 49,
+        "name": "Engineer's Guild Headpiece",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -1242,6 +1242,11 @@
           "boss": "Scarlet Commander Mograine",
           "count": 7,
           "instance": "Scarlet Monastery"
+        },
+        "1094": {
+          "boss": "Chief Ukorz Sandscalp",
+          "count": 2,
+          "instance": "Zul'Farrak"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -1272,6 +1277,11 @@
           "boss": "Amnennar the Coldbringer",
           "count": 1,
           "instance": "Razorfen Downs"
+        },
+        "6142": {
+          "boss": "Archaedas",
+          "count": 1,
+          "instance": "Uldaman"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -1318,6 +1328,10 @@
           "name": "Priestess Cloak",
           "quality": "RARE"
         },
+        "274657": {
+          "name": "Hydra Leather Legs",
+          "quality": "RARE"
+        },
         "6803": {
           "name": "Prophetic Cane",
           "quality": "RARE"
@@ -1330,29 +1344,42 @@
           "name": "Hand of Righteousness",
           "quality": "RARE"
         },
+        "9389": {
+          "name": "Revelosh's Spaulders of the Eagle",
+          "quality": "RARE"
+        },
+        "9534": {
+          "name": "Engineer's Guild Headpiece",
+          "quality": "RARE"
+        },
         "9623": {
           "name": "Civinad Robes",
           "quality": "RARE"
         }
       },
-      "ilvl": 36,
+      "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1794885576000,
-      "level": 41,
+      "last_login": 1794963583000,
+      "level": 44,
       "level_at": {
         "38": 1794866470,
-        "41": 1794886176
+        "41": 1794886176,
+        "44": 1794964576
       },
       "professions": {
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 263
+        "Skinning": 275
       },
       "race": "Windshaper Skyborne",
       "raids": {},
       "recipes": {
         "Cooking": [
+          {
+            "id": 2499,
+            "name": "Barbecued Buzzard Wing"
+          },
           {
             "id": 8616,
             "name": "Crispy Bat Wing"
@@ -1598,6 +1625,14 @@
             "name": "Heavy Leather Ammo Pouch"
           },
           {
+            "id": 5052,
+            "name": "Frost Leather Cloak"
+          },
+          {
+            "id": 5053,
+            "name": "Dusky Bracers"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
           },
@@ -1626,6 +1661,10 @@
             "name": "Green Leather Belt"
           },
           {
+            "id": 2185,
+            "name": "Green Leather Bracers"
+          },
+          {
             "id": 2195,
             "name": "Cured Light Hide"
           },
@@ -1652,6 +1691,10 @@
           {
             "id": 11757,
             "name": "Heavy Leather"
+          },
+          {
+            "id": 4010,
+            "name": "Barbaric Harness"
           },
           {
             "id": 4026,
@@ -1684,6 +1727,10 @@
           {
             "id": 4163,
             "name": "Barbaric Shoulders"
+          },
+          {
+            "id": 4165,
+            "name": "Guardian Gloves"
           },
           {
             "id": 52647,
@@ -1785,7 +1832,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -7375,
+          "raw": -7750,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -1794,9 +1841,9 @@
           "tier": 3
         },
         "Booty Bay": {
-          "name": "Neutral",
-          "raw": 1966,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3123,
+          "tier": 4
         },
         "Cenarion Circle": {
           "name": "Neutral",
@@ -1805,7 +1852,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6025,
+          "raw": 6323,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1815,13 +1862,13 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1803,
+          "raw": 2923,
           "tier": 3
         },
         "Gadgetzan": {
-          "name": "Neutral",
-          "raw": 1803,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3123,
+          "tier": 4
         },
         "Nightclaw Druids": {
           "name": "Friendly",
@@ -1830,27 +1877,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6193,
+          "raw": 7156,
           "tier": 4
         },
         "Powderfuse": {
-          "name": "Neutral",
-          "raw": 1753,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3756,
+          "tier": 4
         },
         "Ratchet": {
-          "name": "Neutral",
-          "raw": 2694,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3814,
+          "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8491,
+          "raw": 8910,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6133,
+          "raw": 6545,
           "tier": 4
         },
         "Windshapers": {
@@ -1859,21 +1906,21 @@
           "tier": 4
         }
       },
-      "spec": "Balance",
+      "spec": "Restoration",
       "stats": {
-        "critters": 174,
-        "deaths": 32,
-        "drinks": 419,
-        "flights": 68,
-        "food": 116,
-        "health_potions": 30,
-        "hearths": 24,
-        "killing_blows": 2179,
-        "mana_potions": 12,
-        "mobs": 7803,
-        "quests": 330
+        "critters": 175,
+        "deaths": 33,
+        "drinks": 501,
+        "flights": 76,
+        "food": 121,
+        "health_potions": 36,
+        "hearths": 26,
+        "killing_blows": 2593,
+        "mana_potions": 14,
+        "mobs": 9116,
+        "quests": 377
       },
-      "xp": 88405
+      "xp": 103675
     },
     "eu:blck-jck": {
       "achievements": {
@@ -17071,6 +17118,8 @@
     "Charred Wand": "Verkohlter Zauberstab",
     "Cheap Blunderbuss": "Billige Donnerbüchse",
     "Chest": "Brust",
+    "Chief Ukorz Sandscalp": "Häuptling Ukorz Sandskalp",
+    "Chief Ukorz Sandscalp kills (Zul'Farrak)": "Siege über Häuptling Ukorz Sandskalp (Zul'Farrak)",
     "Chol'aruk's Trophy Sword": "Chol'aruks Trophäenschwert",
     "Chromite Gauntlets": "Chromitstulpen",
     "Cinched Belt": "Sattelgurt-Gürtel",
@@ -17205,6 +17254,7 @@
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance": "Durchhaltevermögen",
     "Endurance Training": "Belastbarkeit-Ausbildung",
+    "Engineer's Guild Headpiece": "Ingenieursgildenkopfstück",
     "Engineering Schematics learned": "Erlernte Ingenieurskunstschemata",
     "Enhancement": "Verstärkung",
     "Enrage": "Wutanfall",
@@ -17350,6 +17400,7 @@
     "Howlhide Vest": "Heulbalgweste",
     "Hunter": "Jäger",
     "Hunting Bow": "Jagdbogen",
+    "Hydra Leather Legs": "Hydralederbeinlinge",
     "Idol": "Götze",
     "Idol of Shifting Tides": "Götze der wandelnden Gezeiten",
     "Ignite": "Entzünden",
@@ -17587,6 +17638,7 @@
     "Resurrection": "Wiederbelebung",
     "Reticulated Bone Gauntlets": "Genetzte Knochenstulpen",
     "Retribution": "Vergeltung",
+    "Revelosh's Spaulders of the Eagle": "Reveloshs Schiftung des Adlers",
     "Reverence": "Andacht",
     "Revived by druids": "Von Druiden wiederbelebt",
     "Ribbed Breastplate": "Rippenbrustplatte",
@@ -17810,6 +17862,7 @@
     "Unholy Power": "Unheilige Macht",
     "Unsealed Wrath": "Entfesselter Zorn",
     "Vanguard": "Frontkämpfer",
+    "Vanity pets owned": "Anzahl der besessenen Haustiere",
     "Vanquisher's Sword": "Bezwingerschwert",
     "Veiled Grips": "Verhüllter Handschutz",
     "Vengeance": "Rache",
@@ -17909,9 +17962,13 @@
         "Shadowfang Keep": "eu:krakmor-ci%C3%B3rdan",
         "The Deadmines": "eu:vlad-impalar",
         "Uldaman": [
-          "eu:krakmor-ci%C3%B3rdan"
+          "eu:krakmor-ci%C3%B3rdan",
+          "eu:baumora-axiom"
         ],
-        "Wailing Caverns": "eu:krakmor-ci%C3%B3rdan"
+        "Wailing Caverns": "eu:krakmor-ci%C3%B3rdan",
+        "Zul'Farrak": [
+          "eu:baumora-axiom"
+        ]
       },
       "raid": {}
     },
@@ -17934,11 +17991,20 @@
       },
       "dungeon|Uldaman": {
         "keys": [
-          "eu:krakmor-ci%C3%B3rdan"
+          "eu:krakmor-ci%C3%B3rdan",
+          "eu:baumora-axiom"
         ],
         "kind": "dungeon",
         "since": 1794882018,
         "what": "Uldaman"
+      },
+      "dungeon|Zul'Farrak": {
+        "keys": [
+          "eu:baumora-axiom"
+        ],
+        "kind": "dungeon",
+        "since": 1794964576,
+        "what": "Zul'Farrak"
       }
     },
     "firsts_reposted": [],
@@ -18757,7 +18823,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794963460,
+  "saved_at": 1794964578,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
