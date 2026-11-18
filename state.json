@@ -17423,7 +17423,7 @@
       },
       "ilvl": 24,
       "last_explored": "Darkshore",
-      "last_login": 1794971603000,
+      "last_login": 1794972448000,
       "level": 31,
       "level_at": {
         "31": 1794965196
@@ -17968,7 +17968,7 @@
         "critters": 151,
         "deaths": 19,
         "drinks": 2,
-        "flights": 83,
+        "flights": 84,
         "food": 107,
         "health_potions": 27,
         "hearths": 46,
@@ -20572,7 +20572,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794971895,
+  "saved_at": 1794972619,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
