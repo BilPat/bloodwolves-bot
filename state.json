@@ -1221,6 +1221,7 @@
     "eu:baumora-axiom": {
       "achievements": {
         "61502": "Novice Druid",
+        "61503": "Experienced Druid",
         "62009": "Novice Warlock",
         "62024": "Journeyman Leatherworker",
         "62032": "Experienced Spelunker",
@@ -1231,11 +1232,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 9534,
-        "ilvl": 49,
-        "name": "Engineer's Guild Headpiece",
-        "quality": "RARE",
-        "slot": "Head"
+        "id": 11122,
+        "ilvl": 50,
+        "name": "Carrot on a Stick",
+        "quality": "UNCOMMON",
+        "slot": "Trinket 2"
       },
       "boss_kills": {
         "1092": {
@@ -1250,7 +1251,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 2,
+          "count": 3,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -1353,6 +1354,10 @@
           "name": "Revelosh's Spaulders of the Eagle",
           "quality": "RARE"
         },
+        "9474": {
+          "name": "Jinxed Hoodoo Kilt",
+          "quality": "RARE"
+        },
         "9534": {
           "name": "Engineer's Guild Headpiece",
           "quality": "RARE"
@@ -1362,14 +1367,15 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 37,
+      "ilvl": 41,
       "last_explored": "Thousand Needles",
-      "last_login": 1794963583000,
-      "level": 44,
+      "last_login": 1794993527000,
+      "level": 45,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
-        "44": 1794964576
+        "44": 1794964576,
+        "45": 1794994094
       },
       "professions": {
         "Cooking": 193,
@@ -1915,17 +1921,17 @@
       "stats": {
         "critters": 175,
         "deaths": 33,
-        "drinks": 501,
+        "drinks": 522,
         "flights": 76,
-        "food": 121,
-        "health_potions": 36,
+        "food": 125,
+        "health_potions": 38,
         "hearths": 26,
-        "killing_blows": 2593,
-        "mana_potions": 14,
-        "mobs": 9116,
-        "quests": 377
+        "killing_blows": 2628,
+        "mana_potions": 15,
+        "mobs": 9513,
+        "quests": 378
       },
-      "xp": 103675
+      "xp": 45758
     },
     "eu:blck-jck": {
       "achievements": {
@@ -18574,6 +18580,22 @@
           "level": 24
         }
       },
+      "eu:baumora-axiom": {
+        "c": {
+          "name": "Baumora",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Axiom"
+        },
+        "lines": [
+          "Gegenstandsstufe **40**",
+          "🎖️ [Experienced Druid](https://www.wowhead.com/forever/de/achievement=61503)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 45
+        }
+      },
       "eu:blck-jck": {
         "c": {
           "name": "Blck",
@@ -18862,6 +18884,7 @@
     "Cape of the Brotherhood": "Cape der Bruderschaft",
     "Carapace of Tuten'kash": "Knochenpanzer von Tuten'kash",
     "Careful Aim": "Sorgfältiges Zielen",
+    "Carrot on a Stick": "Karotte am Stiel",
     "Catacomb Cloak": "Katakombenumhang",
     "Cavedweller Bracers": "Höhlenbewohner-Armschienen",
     "Cenarion Circle": "Zirkel des Cenarius",
@@ -19218,6 +19241,7 @@
     "Iron Shield Spike": "Eisenschildstachel",
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
+    "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Jungle Boots": "Dschungel-Stiefel",
     "Justicar's Belt": "Gürtel des Rechtsprechers",
     "Jutebraid Gloves": "Jutezopf-Handschuhe",
@@ -19305,6 +19329,7 @@
     "Most Alliance factions at Exalted": "Meiste Allianzfraktionen auf Ehrfürchtig",
     "Most Horde factions at Exalted": "Meiste Hordefraktionen auf Ehrfürchtig",
     "Most factions at Honored or higher": "Höchste Anzahl Fraktionen auf Wohlwollend oder höher",
+    "Mount Speed": "Reittiertempo",
     "Mounts owned": "Reittiere besessen",
     "Mutant Scale Breastplate": "Mutantenschuppenbrustplatte",
     "Mutanus the Devourer": "Mutanus den Verschlinger",
@@ -19599,6 +19624,7 @@
     "Tailoring Patterns learned": "Erlernte Schnittmuster",
     "Talbar Mantle": "Talbar-Mantel",
     "Tanned Shoulderpads": "Gegerbte Schulterpolster",
+    "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
     "The Defilers": "Die Entweihten",
     "Thendal Novice's Shirt": "Hemd des Novizen von Thendal",
@@ -20171,7 +20197,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 44,
+        "level": 45,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -20234,7 +20260,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Redbully",
         "rank": 1,
         "region": "eu",
@@ -20243,7 +20269,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 36,
+        "level": 37,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -20414,7 +20440,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 15,
+        "level": 16,
         "name": "Maniac",
         "rank": 4,
         "region": "eu",
@@ -20558,7 +20584,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 7,
+        "level": 9,
         "name": "Gaul",
         "rank": 4,
         "region": "eu",
@@ -20594,7 +20620,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 13,
+        "level": 14,
         "name": "Erna",
         "rank": 4,
         "region": "eu",
@@ -20605,7 +20631,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794993428,
+  "saved_at": 1794994095,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
