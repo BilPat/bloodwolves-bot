@@ -8947,21 +8947,44 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1794846396000,
-      "level": 28,
+      "last_login": 1795007330000,
+      "level": 29,
       "level_at": {
-        "28": 1794866470
+        "28": 1794866470,
+        "29": 1795007756
       },
       "professions": {
+        "Blacksmithing": 1,
         "Cooking": 121,
-        "Enchanting": 89,
         "First Aid": 90,
         "Fishing": 128,
-        "Tailoring": 85
+        "Mining": 3
       },
       "race": "Undead",
       "raids": {},
       "recipes": {
+        "Blacksmithing": [
+          {
+            "id": 1798,
+            "name": "Rough Weightstone"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 54212,
+            "name": "Copper Rod"
+          }
+        ],
         "Cooking": [
           {
             "id": 8616,
@@ -9052,84 +9075,6 @@
             "name": "Skywall Souffle"
           }
         ],
-        "Enchanting": [
-          {
-            "id": 7999,
-            "name": "Lesser Magic Wand"
-          },
-          {
-            "id": 8000,
-            "name": "Greater Magic Wand"
-          },
-          {
-            "id": 13137,
-            "name": "Minor Wizard Oil"
-          },
-          {
-            "id": 4352,
-            "name": "Enchant Chest - Lesser Stamina"
-          },
-          {
-            "id": 4362,
-            "name": "Enchant Cloak - Minor Protection"
-          },
-          {
-            "id": 4364,
-            "name": "Enchant Bracer - Minor Agility"
-          },
-          {
-            "id": 4365,
-            "name": "Enchant Bracer - Minor Strength"
-          },
-          {
-            "id": 7316,
-            "name": "Disenchant"
-          },
-          {
-            "id": 4289,
-            "name": "Enchant Bracer - Inferior Stamina"
-          },
-          {
-            "id": 4290,
-            "name": "Enchant Chest - Inferior Stamina"
-          },
-          {
-            "id": 4291,
-            "name": "Runed Copper Rod"
-          },
-          {
-            "id": 4292,
-            "name": "Enchant Chest - Minor Absorption"
-          },
-          {
-            "id": 4293,
-            "name": "Enchant Bracer - Minor Deflect"
-          },
-          {
-            "id": 4297,
-            "name": "Enchant Chest - Minor Intellect"
-          },
-          {
-            "id": 4300,
-            "name": "Enchant Cloak - Minor Resistance"
-          },
-          {
-            "id": 4301,
-            "name": "Enchant Bracer - Minor Stamina"
-          },
-          {
-            "id": 52649,
-            "name": "Enchanted Lute"
-          },
-          {
-            "id": 54213,
-            "name": "Dust to Motes"
-          },
-          {
-            "id": 54214,
-            "name": "Novice's Practice Wand"
-          }
-        ],
         "First Aid": [
           {
             "id": 4417,
@@ -9174,158 +9119,14 @@
             "name": "Fish Bowl"
           }
         ],
-        "Tailoring": [
+        "Mining": [
           {
-            "id": 6577,
-            "name": "Simple Linen Boots"
+            "id": 1569,
+            "name": "Mining"
           },
           {
-            "id": 6578,
-            "name": "Simple Kilt"
-          },
-          {
-            "id": 55423,
-            "name": "Novice Arcanist's Sash"
-          },
-          {
-            "id": 6576,
-            "name": "Simple Linen Pants"
-          },
-          {
-            "id": 2408,
-            "name": "Brown Linen Pants"
-          },
-          {
-            "id": 2409,
-            "name": "Brown Linen Shirt"
-          },
-          {
-            "id": 4848,
-            "name": "Linen Belt"
-          },
-          {
-            "id": 2359,
-            "name": "Bolt of Linen Cloth"
-          },
-          {
-            "id": 2360,
-            "name": "Linen Cloak"
-          },
-          {
-            "id": 2361,
-            "name": "Brown Linen Vest"
-          },
-          {
-            "id": 2363,
-            "name": "Linen Boots"
-          },
-          {
-            "id": 2364,
-            "name": "Red Linen Shirt"
-          },
-          {
-            "id": 2365,
-            "name": "White Linen Shirt"
-          },
-          {
-            "id": 2366,
-            "name": "Blue Linen Shirt"
-          },
-          {
-            "id": 2367,
-            "name": "Reinforced Linen Cape"
-          },
-          {
-            "id": 2368,
-            "name": "Barbaric Linen Vest"
-          },
-          {
-            "id": 2369,
-            "name": "Green Linen Shirt"
-          },
-          {
-            "id": 2370,
-            "name": "Bolt of Woolen Cloth"
-          },
-          {
-            "id": 2371,
-            "name": "Woolen Cape"
-          },
-          {
-            "id": 2372,
-            "name": "Green Woolen Vest"
-          },
-          {
-            "id": 2373,
-            "name": "Woolen Boots"
-          },
-          {
-            "id": 2375,
-            "name": "Gray Woolen Shirt"
-          },
-          {
-            "id": 2378,
-            "name": "Heavy Linen Gloves"
-          },
-          {
-            "id": 2379,
-            "name": "Green Linen Bracers"
-          },
-          {
-            "id": 2380,
-            "name": "Handstitched Linen Britches"
-          },
-          {
-            "id": 2381,
-            "name": "Heavy Woolen Gloves"
-          },
-          {
-            "id": 2383,
-            "name": "Soft-soled Linen Boots"
-          },
-          {
-            "id": 3973,
-            "name": "Pearl-clasped Cloak"
-          },
-          {
-            "id": 4001,
-            "name": "Linen Bag"
-          },
-          {
-            "id": 4002,
-            "name": "Woolen Bag"
-          },
-          {
-            "id": 4708,
-            "name": "Simple Dress"
-          },
-          {
-            "id": 4302,
-            "name": "Brown Linen Robe"
-          },
-          {
-            "id": 4303,
-            "name": "White Linen Robe"
-          },
-          {
-            "id": 4308,
-            "name": "Blue Overalls"
-          },
-          {
-            "id": 52648,
-            "name": "Faction Banner"
-          },
-          {
-            "id": 55424,
-            "name": "Novice Ardent's Sash"
-          },
-          {
-            "id": 55366,
-            "name": "Linen Reagent Bag"
-          },
-          {
-            "id": 55367,
-            "name": "Woolen Reagent Bag"
+            "id": 3324,
+            "name": "Smelt Copper"
           }
         ]
       },
@@ -9337,7 +9138,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8325,
+          "raw": 8375,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9357,7 +9158,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11287,
+          "raw": 11337,
           "tier": 5
         },
         "Powderfuse": {
@@ -9372,12 +9173,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6816,
+          "raw": 6866,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9386,
+          "raw": 9586,
           "tier": 5
         }
       },
@@ -9387,17 +9188,16 @@
         "deaths": 8,
         "drinks": 7,
         "flights": 45,
-        "food": 73,
+        "food": 75,
         "health_potions": 26,
-        "hearths": 25,
+        "hearths": 26,
         "honorable_kills": 1,
-        "killing_blows": 2352,
+        "killing_blows": 2429,
         "mana_potions": 1,
-        "mobs": 4071,
-        "need_rolls": 23,
-        "quests": 235
+        "mobs": 4166,
+        "quests": 237
       },
-      "xp": 24156
+      "xp": 7670
     },
     "eu:keta-f%C3%A4se": {
       "achievements": {
@@ -18484,6 +18284,22 @@
           "level": 45
         }
       },
+      "eu:kamah-suhtrah": {
+        "c": {
+          "name": "Kamah",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Suhtrah"
+        },
+        "lines": [
+          "📜 Neuer Beruf: **Schmiedekunst**",
+          "📜 Neuer Beruf: **Bergbau**"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 29
+        }
+      },
       "eu:keta-f%C3%A4se": {
         "c": {
           "name": "Keta",
@@ -20501,7 +20317,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795006537,
+  "saved_at": 1795007758,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
