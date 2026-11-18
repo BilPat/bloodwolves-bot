@@ -4249,7 +4249,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795034389000,
+      "last_login": 1795038123000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4260,7 +4260,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 214,
-        "Tailoring": 164
+        "Tailoring": 170
       },
       "race": "Undead",
       "raids": {},
@@ -19464,7 +19464,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -20691,7 +20691,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795037346,
+  "saved_at": 1795038875,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
