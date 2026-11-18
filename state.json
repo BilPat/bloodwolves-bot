@@ -18067,13 +18067,13 @@
       },
       "ilvl": 17,
       "last_explored": "Elwynn Forest",
-      "last_login": 1794975866000,
+      "last_login": 1794978042000,
       "level": 28,
       "level_at": {
         "28": 1794965196
       },
       "professions": {
-        "Cooking": 58,
+        "Cooking": 65,
         "Enchanting": 168,
         "First Aid": 78,
         "Tailoring": 113
@@ -18449,7 +18449,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 350,
+          "raw": 700,
           "tier": 3
         },
         "Booty Bay": {
@@ -18464,7 +18464,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7765,
+          "raw": 8240,
           "tier": 4
         },
         "Everlook": {
@@ -18479,12 +18479,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5751,
+          "raw": 5801,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7471,
+          "raw": 7521,
           "tier": 4
         },
         "Powderfuse": {
@@ -18499,7 +18499,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 13778,
+          "raw": 13903,
           "tier": 5
         }
       },
@@ -18507,17 +18507,17 @@
       "stats": {
         "critters": 63,
         "deaths": 62,
-        "drinks": 619,
-        "flights": 42,
+        "drinks": 621,
+        "flights": 43,
         "food": 123,
         "health_potions": 46,
         "hearths": 21,
-        "killing_blows": 1564,
+        "killing_blows": 1571,
         "mana_potions": 13,
-        "mobs": 2906,
-        "quests": 252
+        "mobs": 2914,
+        "quests": 256
       },
-      "xp": 14252
+      "xp": 31832
     }
   },
   "craft_board": {
@@ -20608,7 +20608,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1794977698,
+  "saved_at": 1794978971,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
