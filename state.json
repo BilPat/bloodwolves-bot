@@ -2556,7 +2556,7 @@
       },
       "ilvl": 31,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795032504000,
+      "last_login": 1795038879000,
       "level": 43,
       "level_at": {
         "42": 1794866470,
@@ -2972,12 +2972,12 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -12975,
+          "raw": -14550,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3780,
+          "raw": 4136,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -2996,14 +2996,14 @@
           "tier": 3
         },
         "Everlook": {
-          "name": "Neutral",
-          "raw": 2975,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3153,
+          "tier": 4
         },
         "Gadgetzan": {
-          "name": "Neutral",
-          "raw": 2975,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3153,
+          "tier": 4
         },
         "Gelkis Clan Centaur": {
           "name": "Honored",
@@ -3022,12 +3022,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3130,
+          "raw": 3308,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4340,
+          "raw": 4518,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -3045,17 +3045,17 @@
       "stats": {
         "critters": 99,
         "deaths": 11,
-        "drinks": 64,
+        "drinks": 65,
         "flights": 86,
-        "food": 83,
+        "food": 84,
         "health_potions": 26,
         "hearths": 38,
-        "killing_blows": 4364,
+        "killing_blows": 4443,
         "mana_potions": 2,
-        "mobs": 6780,
-        "quests": 391
+        "mobs": 6861,
+        "quests": 393
       },
-      "xp": 33628
+      "xp": 58270
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -11721,7 +11721,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1795027413000,
+      "last_login": 1795039991000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -12100,17 +12100,17 @@
       "stats": {
         "critters": 16,
         "deaths": 23,
-        "drinks": 12,
+        "drinks": 13,
         "flights": 24,
         "food": 4,
         "health_potions": 20,
         "hearths": 14,
-        "killing_blows": 1141,
+        "killing_blows": 1146,
         "mana_potions": 6,
-        "mobs": 1878,
+        "mobs": 1883,
         "quests": 168
       },
-      "xp": 20868
+      "xp": 22085
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -20691,7 +20691,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795038875,
+  "saved_at": 1795040065,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
