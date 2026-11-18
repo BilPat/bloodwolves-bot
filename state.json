@@ -15672,7 +15672,7 @@
       },
       "ilvl": 12,
       "last_explored": "Mulgore",
-      "last_login": 1794949388000,
+      "last_login": 1795036982000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -15682,8 +15682,8 @@
         "Cooking": 76,
         "First Aid": 80,
         "Fishing": 78,
-        "Mining": 45,
-        "Skinning": 82
+        "Mining": 49,
+        "Skinning": 92
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -15849,11 +15849,6 @@
           "raw": 2363,
           "tier": 3
         },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Friendly",
           "raw": 5261,
@@ -15878,11 +15873,11 @@
         "food": 16,
         "health_potions": 11,
         "hearths": 8,
-        "killing_blows": 1109,
-        "mobs": 1608,
+        "killing_blows": 1116,
+        "mobs": 1615,
         "quests": 194
       },
-      "xp": 11627
+      "xp": 12099
     },
     "eu:thalgrim-tirisfal": {
       "achievements": {
@@ -19469,7 +19464,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -20149,6 +20144,7 @@
       }
     ],
     "members": {
+      "aldric-crowood": "Aldric Crowood",
       "alto-belli": "Alto Belli",
       "archibald-white": "Archibald White",
       "aru-tai": "Aru Tai",
@@ -20216,7 +20212,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 47,
+        "level": 48,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -20270,7 +20266,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 46,
+        "level": 47,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -20297,7 +20293,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 40,
+        "level": 41,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -20306,7 +20302,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 42,
+        "level": 43,
         "name": "Blut",
         "rank": 4,
         "region": "eu",
@@ -20342,7 +20338,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 38,
+        "level": 39,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -20378,7 +20374,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Thalgrim",
         "rank": 3,
         "region": "eu",
@@ -20405,7 +20401,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -20423,7 +20419,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Ragnar",
         "rank": 4,
         "region": "eu",
@@ -20468,7 +20464,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -20495,7 +20491,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Garm",
         "rank": 3,
         "region": "eu",
@@ -20513,7 +20509,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 16,
+        "level": 18,
         "name": "Maniac",
         "rank": 4,
         "region": "eu",
@@ -20621,7 +20617,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 15,
+        "level": 16,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -20648,7 +20644,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 10,
+        "level": 11,
         "name": "Gaul",
         "rank": 4,
         "region": "eu",
@@ -20680,13 +20676,22 @@
         "rank": 4,
         "region": "eu",
         "surname": "Moon"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 8,
+        "name": "Aldric",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Crowood"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795036402,
+  "saved_at": 1795037346,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
