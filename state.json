@@ -4258,7 +4258,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795048203000,
+      "last_login": 1795050907000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4506,6 +4506,10 @@
           {
             "id": 2397,
             "name": "Long Silken Cloak"
+          },
+          {
+            "id": 2398,
+            "name": "Icy Cloak"
           },
           {
             "id": 2399,
@@ -20962,7 +20966,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795049769,
+  "saved_at": 1795050975,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
