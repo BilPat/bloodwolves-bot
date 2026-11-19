@@ -9935,9 +9935,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1795092920000,
+      "last_login": 1795104200000,
       "level": 34,
       "level_at": {
         "25": 1794866470,
@@ -9952,10 +9952,10 @@
       },
       "professions": {
         "Cooking": 149,
-        "First Aid": 150,
+        "First Aid": 188,
         "Fishing": 8,
         "Leatherworking": 150,
-        "Skinning": 225
+        "Skinning": 236
       },
       "race": "Undead",
       "raids": {},
@@ -10272,6 +10272,10 @@
             "name": "Dark Leather Pants"
           },
           {
+            "id": 4161,
+            "name": "Barbaric Leggings"
+          },
+          {
             "id": 4163,
             "name": "Barbaric Shoulders"
           },
@@ -10335,12 +10339,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1191,
+          "raw": 1241,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5428,
+          "raw": 5528,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -10355,42 +10359,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1191,
+          "raw": 1241,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1191,
+          "raw": 1241,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6810,
+          "raw": 7210,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1191,
+          "raw": 1241,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1882,
-          "tier": 3
-        },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 1982,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5047,
+          "raw": 5147,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15550,
+          "raw": 15650,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -10401,19 +10400,19 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 48,
+        "critters": 49,
         "deaths": 23,
-        "drinks": 27,
-        "flights": 50,
-        "food": 172,
+        "drinks": 28,
+        "flights": 52,
+        "food": 186,
         "health_potions": 23,
-        "hearths": 14,
+        "hearths": 15,
         "honorable_kills": 113,
-        "killing_blows": 2240,
-        "mobs": 3496,
-        "quests": 237
+        "killing_blows": 2312,
+        "mobs": 3569,
+        "quests": 250
       },
-      "xp": 9110
+      "xp": 51501
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -15923,7 +15922,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 1,
+          "count": 2,
           "instance": "Blackfathom Deeps"
         }
       },
@@ -15966,7 +15965,7 @@
       },
       "ilvl": 21,
       "last_explored": "Moonglade",
-      "last_login": 1795080436000,
+      "last_login": 1795104418000,
       "level": 27,
       "level_at": {
         "25": 1794866470,
@@ -15975,9 +15974,9 @@
       },
       "professions": {
         "Alchemy": 167,
-        "Cooking": 115,
+        "Cooking": 116,
         "Fishing": 75,
-        "Herbalism": 161
+        "Herbalism": 162
       },
       "race": "Tauren",
       "raids": {},
@@ -16188,7 +16187,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6082,
+          "raw": 6232,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16198,7 +16197,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 550,
           "tier": 3
         },
         "Everlook": {
@@ -16213,7 +16212,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7845,
+          "raw": 7882,
           "tier": 4
         },
         "Powderfuse": {
@@ -16228,29 +16227,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12306,
+          "raw": 12343,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3388,
+          "raw": 3426,
           "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
         "critters": 19,
-        "deaths": 20,
+        "deaths": 21,
         "drinks": 10,
-        "flights": 39,
-        "food": 21,
+        "flights": 40,
+        "food": 26,
         "health_potions": 4,
         "hearths": 22,
-        "killing_blows": 1072,
-        "mobs": 1824,
-        "quests": 195
+        "killing_blows": 1089,
+        "mobs": 1977,
+        "quests": 196
       },
-      "xp": 17259
+      "xp": 32349
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -17518,7 +17517,8 @@
     "eu:zulka-seelenfluch": {
       "achievements": {
         "61994": "Novice Mage",
-        "769": "Explore Silverpine Forest"
+        "769": "Explore Silverpine Forest",
+        "847": "Explore Stonetalon Mountains"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
       "best_item": {
@@ -17574,8 +17574,8 @@
         }
       },
       "ilvl": 21,
-      "last_explored": "Silverpine Forest",
-      "last_login": 1795098943000,
+      "last_explored": "Stonetalon Mountains",
+      "last_login": 1795104038000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -17711,19 +17711,19 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 43,
+        "critters": 45,
         "deaths": 11,
-        "drinks": 738,
+        "drinks": 765,
         "flights": 22,
-        "food": 159,
+        "food": 169,
         "health_potions": 10,
         "hearths": 20,
-        "killing_blows": 1231,
-        "mana_potions": 17,
-        "mobs": 2039,
+        "killing_blows": 1283,
+        "mana_potions": 19,
+        "mobs": 2089,
         "quests": 146
       },
-      "xp": 24750
+      "xp": 31523
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -19598,7 +19598,8 @@
           "surname": "Seelenfluch"
         },
         "lines": [
-          "🎖️ [Novice Mage](https://www.wowhead.com/forever/de/achievement=61994)"
+          "🎖️ [Novice Mage](https://www.wowhead.com/forever/de/achievement=61994)",
+          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
         ],
         "snap": {
           "class": "Mage",
@@ -20130,6 +20131,7 @@
     "Hated": "Hasserfüllt",
     "Hawk Eye": "Falkenauge",
     "Head": "Kopf",
+    "Headhunter's Armor of the Tiger": "Kopfjägerrüstung des Tigers",
     "Healer's Staff": "Heilerstab",
     "Healing Light": "Heilendes Licht",
     "Health Per 5 Sec.": "Gesundheit pro 5 Sek.",
@@ -21692,7 +21694,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795102790,
+  "saved_at": 1795105032,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
