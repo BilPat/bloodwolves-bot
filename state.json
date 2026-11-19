@@ -15857,17 +15857,18 @@
       },
       "ilvl": 21,
       "last_explored": "Moonglade",
-      "last_login": 1795022768000,
-      "level": 26,
+      "last_login": 1795080436000,
+      "level": 27,
       "level_at": {
         "25": 1794866470,
-        "26": 1794994743
+        "26": 1794994743,
+        "27": 1795081184
       },
       "professions": {
         "Alchemy": 167,
         "Cooking": 115,
         "Fishing": 75,
-        "Herbalism": 158
+        "Herbalism": 161
       },
       "race": "Tauren",
       "raids": {},
@@ -15892,6 +15893,10 @@
           {
             "id": 1832,
             "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 1932,
+            "name": "Shadow Oil"
           },
           {
             "id": 1378,
@@ -16000,6 +16005,10 @@
             "name": "Strider Stew"
           },
           {
+            "id": 3931,
+            "name": "Dig Rat Stew"
+          },
+          {
             "id": 3932,
             "name": "Crispy Lizard Tail"
           },
@@ -16070,7 +16079,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5957,
+          "raw": 6082,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16095,7 +16104,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7645,
+          "raw": 7845,
           "tier": 4
         },
         "Powderfuse": {
@@ -16110,29 +16119,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11881,
+          "raw": 12306,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3263,
+          "raw": 3388,
           "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 9,
-        "deaths": 19,
+        "critters": 19,
+        "deaths": 20,
         "drinks": 10,
-        "flights": 36,
-        "food": 19,
+        "flights": 39,
+        "food": 21,
         "health_potions": 4,
-        "hearths": 21,
-        "killing_blows": 1006,
-        "mobs": 1765,
-        "quests": 189
+        "hearths": 22,
+        "killing_blows": 1072,
+        "mobs": 1824,
+        "quests": 195
       },
-      "xp": 34184
+      "xp": 17259
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -21486,7 +21495,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795080464,
+  "saved_at": 1795081185,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
