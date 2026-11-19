@@ -10892,14 +10892,18 @@
           "name": "Bigger Rock on Bigger Stick",
           "quality": "RARE"
         },
+        "9416": {
+          "name": "Grimlok's Charge",
+          "quality": "RARE"
+        },
         "9624": {
           "name": "Triprunner Dungarees",
           "quality": "RARE"
         }
       },
-      "ilvl": 45,
+      "ilvl": 47,
       "last_explored": "Badlands",
-      "last_login": 1795088668000,
+      "last_login": 1795097973000,
       "level": 49,
       "level_at": {
         "45": 1794866470,
@@ -10911,8 +10915,8 @@
         "Alchemy": 243,
         "Cooking": 263,
         "First Aid": 236,
-        "Fishing": 158,
-        "Herbalism": 293
+        "Fishing": 159,
+        "Herbalism": 300
       },
       "race": "Tauren",
       "raids": {},
@@ -10995,6 +10999,10 @@
             "name": "Wildvine Potion"
           },
           {
+            "id": 6007,
+            "name": "Philosopher's Stone"
+          },
+          {
             "id": 6008,
             "name": "Draught of Detect Undead"
           },
@@ -11009,6 +11017,14 @@
           {
             "id": 6013,
             "name": "Elixir of Greater Agility"
+          },
+          {
+            "id": 6020,
+            "name": "Transmute: Iron to Gold"
+          },
+          {
+            "id": 6021,
+            "name": "Transmute: Mithril to Truesilver"
           },
           {
             "id": 8596,
@@ -11352,7 +11368,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -11475,
+          "raw": -12725,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -11362,7 +11378,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5926,
+          "raw": 6421,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -11372,7 +11388,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12757,
+          "raw": 12785,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -11387,42 +11403,37 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5291,
+          "raw": 5661,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6399,
+          "raw": 7014,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 15146,
+          "raw": 15173,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6434,
+          "raw": 6804,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 6898,
+          "raw": 7268,
           "tier": 4
-        },
-        "Ravasaur Trainers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 20170,
+          "raw": 20280,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13452,
+          "raw": 13480,
           "tier": 5
         }
       },
@@ -11430,17 +11441,17 @@
       "stats": {
         "critters": 100,
         "deaths": 39,
-        "drinks": 154,
-        "flights": 198,
-        "food": 223,
+        "drinks": 155,
+        "flights": 202,
+        "food": 224,
         "health_potions": 74,
-        "hearths": 43,
-        "killing_blows": 4388,
+        "hearths": 44,
+        "killing_blows": 4407,
         "mana_potions": 6,
-        "mobs": 7835,
-        "quests": 601
+        "mobs": 7864,
+        "quests": 617
       },
-      "xp": 47695
+      "xp": 120574
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -11498,7 +11509,7 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1795013994000,
+      "last_login": 1795098329000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -15029,7 +15040,8 @@
     "eu:ragnar-lodhoof": {
       "achievements": {
         "61499": "Novice Warrior",
-        "736": "Explore Mulgore"
+        "736": "Explore Mulgore",
+        "846": "Explore Thousand Needles"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/32/13193248-avatar.jpg",
       "best_item": {
@@ -15133,19 +15145,20 @@
         }
       },
       "ilvl": 28,
-      "last_explored": "Mulgore",
-      "last_login": 1795084573000,
-      "level": 32,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795098255000,
+      "level": 33,
       "level_at": {
         "31": 1794866470,
-        "32": 1795031689
+        "32": 1795031689,
+        "33": 1795098385
       },
       "professions": {
         "Blacksmithing": 108,
         "Cooking": 150,
         "First Aid": 119,
         "Fishing": 38,
-        "Mining": 148
+        "Mining": 150
       },
       "race": "Tauren",
       "raids": {},
@@ -15420,12 +15433,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1898,
+          "raw": 1948,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6250,
+          "raw": 6318,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -15440,37 +15453,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1898,
+          "raw": 1948,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1898,
+          "raw": 1948,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7675,
+          "raw": 7875,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1898,
+          "raw": 1948,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3296,
+          "raw": 3396,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13491,
+          "raw": 13635,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6408,
+          "raw": 6477,
           "tier": 4
         }
       },
@@ -15479,15 +15492,15 @@
         "critters": 73,
         "deaths": 25,
         "flights": 38,
-        "food": 106,
+        "food": 110,
         "health_potions": 27,
-        "hearths": 23,
+        "hearths": 24,
         "honorable_kills": 5,
-        "killing_blows": 1828,
-        "mobs": 3581,
-        "quests": 232
+        "killing_blows": 1933,
+        "mobs": 3780,
+        "quests": 240
       },
-      "xp": 16358
+      "xp": 5238
     },
     "eu:rausmit-deviechers": {
       "achievements": {
@@ -19490,7 +19503,8 @@
         },
         "lines": [
           "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Ödland](https://www.wowhead.com/forever/de/achievement=765)"
+          "🎖️ [Erkundet Ödland](https://www.wowhead.com/forever/de/achievement=765)",
+          "🛠️ **Kräuterkunde** auf 300"
         ],
         "snap": {
           "class": "Druid",
@@ -19523,6 +19537,21 @@
         "snap": {
           "class": "Shaman",
           "level": 16
+        }
+      },
+      "eu:ragnar-lodhoof": {
+        "c": {
+          "name": "Ragnar",
+          "region": "eu",
+          "surname": "Lodhoof"
+        },
+        "lines": [
+          "🛠️ **Bergbau** auf 150",
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 33
         }
       },
       "eu:vlad-impalar": {
@@ -20060,6 +20089,7 @@
     "Green Leather Armor": "Grüne Lederrüstung",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
+    "Grimlok's Charge": "Grimloks Attacke",
     "Grip of Fear": "Griff der Angst",
     "Grizzled Boots": "Ergraute Stiefel",
     "Grizzly Gloves": "Grizzly-Handschuhe",
@@ -20332,6 +20362,7 @@
     "Plate": "Platte",
     "Player vs. Player": "Spieler gegen Spieler",
     "Poison": "Gift",
+    "Polearm": "Stangenwaffe",
     "Ponderous Orb": "Schwerfällige Kugel",
     "Poor": "Schlecht",
     "Precision": "Präzision",
@@ -20349,6 +20380,7 @@
     "Professions at maximum skill": "Berufe auf maximaler Stufe",
     "Professions learned": "Erlernte Berufe",
     "Projectile": "Projektil",
+    "Projectile Redirectors": "Projektilumleiter",
     "Prophetic Cane": "Prophetenkrückstock",
     "Prospector's Cuffs": "Manschetten des Ausgrabungsleiters",
     "Prospector's Pads": "Polster des Ausgrabungsleiters",
@@ -20583,6 +20615,7 @@
     "Superior Shoulders of the Beast": "Überragende Schultern der Bestie",
     "Superior Shoulders of the Monkey": "Überragende Schultern des Affen",
     "Suppression": "Unterdrückung",
+    "Swashbuckler Sash": "Schwadroneursschärpe",
     "Swift Judgement": "Schnelles Richturteil",
     "Swiftmend": "Rasche Heilung",
     "Swinetusk Shank": "Keilerhauer",
@@ -21638,7 +21671,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795097763,
+  "saved_at": 1795098386,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
