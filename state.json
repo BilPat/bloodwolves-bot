@@ -10353,11 +10353,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/7/6087943-avatar.jpg",
       "best_item": {
-        "id": 10654,
-        "ilvl": 30,
-        "name": "Jutebraid Gloves",
+        "id": 15467,
+        "ilvl": 31,
+        "name": "Inventor's League Ring",
         "quality": "UNCOMMON",
-        "slot": "Hands"
+        "slot": "Ring 2"
       },
       "boss_kills": {
         "15027": {
@@ -10405,9 +10405,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 23,
       "last_explored": "Durotar",
-      "last_login": 1795021562000,
+      "last_login": 1795070054000,
       "level": 28,
       "level_at": {
         "27": 1794866470,
@@ -10417,7 +10417,7 @@
         "Cooking": 27,
         "Enchanting": 52,
         "Fishing": 11,
-        "Tailoring": 117
+        "Tailoring": 118
       },
       "race": "Orc",
       "raids": {},
@@ -10636,7 +10636,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9653,
+          "raw": 9866,
           "tier": 5
         },
         "Earthen Ring": {
@@ -10656,7 +10656,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12722,
+          "raw": 12935,
           "tier": 5
         },
         "Powderfuse": {
@@ -10671,30 +10671,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7480,
+          "raw": 8330,
           "tier": 4
         },
         "Undercity": {
-          "name": "Neutral",
-          "raw": 2927,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3140,
+          "tier": 4
         }
       },
       "spec": "Arcane",
       "stats": {
         "critters": 24,
         "deaths": 12,
-        "drinks": 596,
+        "drinks": 599,
         "flights": 58,
-        "food": 202,
+        "food": 205,
         "health_potions": 3,
-        "hearths": 21,
-        "killing_blows": 1276,
+        "hearths": 22,
+        "killing_blows": 1329,
         "mana_potions": 4,
-        "mobs": 2367,
-        "quests": 174
+        "mobs": 2448,
+        "quests": 184
       },
-      "xp": 2834
+      "xp": 33603
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -20033,6 +20033,7 @@
     "Light Chain Bracers": "Leichte Kettenarmschienen",
     "Light Leather Bracers": "Leichte Lederarmschienen",
     "Light Shot": "Leichtes Geschoss",
+    "Lightheel Boots": "Leichtfußstiefel",
     "Lightning Reflexes": "Blitzartige Reflexe",
     "Lil Timmy's Peashooter": "Lil Timmys Blasrohr",
     "Living Spirit": "Geist des Lebens",
@@ -20536,6 +20537,7 @@
     "Willow Pants of Intellect": "Weidenhose der Intelligenz",
     "Windshaper Skyborne": "Himmelsgeborener der Windformer",
     "Windshapers": "Windformer",
+    "Windsong Drape": "Windsongtuch",
     "Windswept Slippers": "Windgepeitschte Pantoffeln",
     "Witch's Finger": "Hexenfinger",
     "Witherbite Bracers": "Welkbissarmschienen",
@@ -21453,7 +21455,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795069485,
+  "saved_at": 1795070743,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
