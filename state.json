@@ -925,7 +925,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795030690000,
+      "last_login": 1795115952000,
       "level": 26,
       "level_at": {
         "23": 1794866470,
@@ -935,7 +935,7 @@
       "professions": {
         "Alchemy": 125,
         "Fishing": 18,
-        "Herbalism": 107
+        "Herbalism": 108
       },
       "race": "Orc",
       "raids": {},
@@ -1081,16 +1081,16 @@
         "critters": 32,
         "deaths": 15,
         "drinks": 17,
-        "flights": 42,
+        "flights": 43,
         "food": 5,
         "health_potions": 5,
         "hearths": 20,
-        "killing_blows": 1098,
+        "killing_blows": 1105,
         "mana_potions": 18,
-        "mobs": 2224,
+        "mobs": 2231,
         "quests": 149
       },
-      "xp": 13803
+      "xp": 15623
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -21779,7 +21779,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795115539,
+  "saved_at": 1795116380,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
