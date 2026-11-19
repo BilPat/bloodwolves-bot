@@ -5173,13 +5173,13 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795126813000,
+      "last_login": 1795128628000,
       "level": 10,
       "level_at": {
         "10": 1795051505
       },
       "professions": {
-        "Alchemy": 79,
+        "Alchemy": 117,
         "Cooking": 7,
         "Enchanting": 71,
         "First Aid": 47,
@@ -5190,8 +5190,16 @@
       "recipes": {
         "Alchemy": [
           {
+            "id": 1814,
+            "name": "Elixir of Wisdom"
+          },
+          {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
           },
           {
             "id": 4178,
@@ -21841,7 +21849,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795127997,
+  "saved_at": 1795128864,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
