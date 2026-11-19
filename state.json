@@ -12810,7 +12810,7 @@
       },
       "ilvl": 8,
       "last_explored": null,
-      "last_login": 1795033024000,
+      "last_login": 1795079306000,
       "level": 18,
       "level_at": {
         "14": 1794866470,
@@ -12823,7 +12823,7 @@
         "Engineering": 49,
         "First Aid": 55,
         "Fishing": 20,
-        "Mining": 59
+        "Mining": 63
       },
       "race": "Tauren",
       "raids": {},
@@ -12890,7 +12890,7 @@
         ],
         "Mining": [
           {
-            "id": 1569,
+            "id": 1570,
             "name": "Mining"
           },
           {
@@ -12911,39 +12911,39 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3891,
+          "raw": 3941,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3891,
+          "raw": 3941,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8231,
+          "raw": 8281,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5675,
+          "raw": 5875,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
         "deaths": 5,
-        "drinks": 1,
-        "flights": 5,
+        "drinks": 2,
+        "flights": 7,
         "food": 10,
         "health_potions": 7,
-        "hearths": 14,
-        "killing_blows": 798,
+        "hearths": 15,
+        "killing_blows": 828,
         "mana_potions": 4,
-        "mobs": 987,
-        "quests": 123
+        "mobs": 1017,
+        "quests": 126
       },
-      "xp": 4981
+      "xp": 11084
     },
     "eu:maul-worf": {
       "achievements": {
@@ -17394,17 +17394,23 @@
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
+        "61994": "Novice Mage",
         "769": "Explore Silverpine Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
       "best_item": {
-        "id": 281252,
-        "ilvl": 26,
-        "name": "Harpy Claw Ring",
-        "quality": "UNCOMMON",
+        "id": 6414,
+        "ilvl": 29,
+        "name": "Seal of Sylvanas",
+        "quality": "RARE",
         "slot": "Ring 2"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 4,
@@ -17422,17 +17428,26 @@
         "271210": {
           "name": "Tuskwrap Belt",
           "quality": "RARE"
+        },
+        "273645": {
+          "name": "Blindwatcher's Sight",
+          "quality": "RARE"
+        },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
         }
       },
-      "ilvl": 17,
+      "ilvl": 20,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795035498000,
-      "level": 24,
+      "last_login": 1795078303000,
+      "level": 25,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
         "23": 1795000472,
-        "24": 1795011349
+        "24": 1795011349,
+        "25": 1795079821
       },
       "professions": {
         "Alchemy": 70,
@@ -17515,7 +17530,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3273,
+          "raw": 3348,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17535,7 +17550,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3761,
+          "raw": 3836,
           "tier": 4
         },
         "Powderfuse": {
@@ -17550,30 +17565,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2205,
+          "raw": 2280,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12111,
+          "raw": 12411,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 14,
+        "critters": 24,
         "deaths": 11,
-        "drinks": 644,
+        "drinks": 670,
         "flights": 21,
-        "food": 144,
+        "food": 154,
         "health_potions": 10,
         "hearths": 19,
-        "killing_blows": 1134,
-        "mana_potions": 12,
-        "mobs": 1670,
-        "quests": 140
+        "killing_blows": 1173,
+        "mana_potions": 15,
+        "mobs": 1807,
+        "quests": 145
       },
-      "xp": 14975
+      "xp": 8658
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -19388,6 +19403,20 @@
           "level": 39
         }
       },
+      "eu:zulka-seelenfluch": {
+        "c": {
+          "name": "Zulka",
+          "region": "eu",
+          "surname": "Seelenfluch"
+        },
+        "lines": [
+          "🎖️ [Novice Mage](https://www.wowhead.com/forever/de/achievement=61994)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 25
+        }
+      },
       "us:pwanage-ownage": {
         "c": {
           "name": "pwanage",
@@ -19860,6 +19889,7 @@
     "Gelkis Clan Centaur": "Gelkisklan",
     "Gemmed Copper Boots": "Edelsteinbesetzte Kupferstiefel",
     "Ghastly Trousers": "Garstige Beinkleider",
+    "Ghostly Mantle": "Geisterhafter Mantel",
     "Gift of Nature": "Geschenk der Natur",
     "Glimmering Mail Girdle": "Gleißender Panzergurt",
     "Glinteye Slippers": "Glanzaugenpantoffeln",
@@ -20324,6 +20354,7 @@
     "Shield Specialization": "Schild-Spezialisierung",
     "Shifting Power": "Machtverschiebung",
     "Shimmering Boots": "Schimmernde Stiefel",
+    "Shimmering Cloak of Fiery Wrath": "Schimmernder Umhang des feurigen Zorns",
     "Shimmering Cloak of the Falcon": "Schimmernder Umhang des Falken",
     "Shining Silver Breastplate": "Leuchtende silberne Brustplatte",
     "Shirt": "Hemd",
@@ -21455,7 +21486,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795077729,
+  "saved_at": 1795079822,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
