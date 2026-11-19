@@ -6451,7 +6451,7 @@
       },
       "ilvl": 30,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795045821000,
+      "last_login": 1795087131000,
       "level": 32,
       "level_at": {
         "28": 1794866470,
@@ -6461,7 +6461,7 @@
         "32": 1795041613
       },
       "professions": {
-        "Cooking": 148,
+        "Cooking": 223,
         "Enchanting": 143,
         "Fishing": 207,
         "Tailoring": 125
@@ -6509,6 +6509,10 @@
           {
             "id": 1545,
             "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
           },
           {
             "id": 4353,
@@ -6940,18 +6944,18 @@
       "stats": {
         "critters": 50,
         "deaths": 17,
-        "drinks": 545,
-        "flights": 38,
-        "food": 163,
+        "drinks": 547,
+        "flights": 39,
+        "food": 164,
         "health_potions": 16,
         "hearths": 15,
         "honorable_kills": 4,
-        "killing_blows": 1465,
+        "killing_blows": 1474,
         "mana_potions": 7,
-        "mobs": 3663,
+        "mobs": 3673,
         "quests": 212
       },
-      "xp": 27673
+      "xp": 33466
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -12822,20 +12826,21 @@
       },
       "ilvl": 8,
       "last_explored": null,
-      "last_login": 1795079306000,
-      "level": 18,
+      "last_login": 1795086086000,
+      "level": 19,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005,
         "16": 1794993427,
-        "18": 1795033546
+        "18": 1795033546,
+        "19": 1795088356
       },
       "professions": {
         "Cooking": 37,
         "Engineering": 49,
         "First Aid": 55,
         "Fishing": 20,
-        "Mining": 63
+        "Mining": 67
       },
       "race": "Tauren",
       "raids": {},
@@ -12921,24 +12926,49 @@
           "raw": 1050,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 715,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3941,
+          "raw": 4068,
           "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 715,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 715,
+          "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3941,
+          "raw": 4368,
           "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 715,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 930,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8281,
+          "raw": 8416,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5875,
+          "raw": 6077,
           "tier": 4
         }
       },
@@ -12946,16 +12976,16 @@
       "stats": {
         "deaths": 5,
         "drinks": 2,
-        "flights": 7,
+        "flights": 8,
         "food": 10,
         "health_potions": 7,
-        "hearths": 15,
-        "killing_blows": 828,
+        "hearths": 16,
+        "killing_blows": 881,
         "mana_potions": 4,
-        "mobs": 1017,
-        "quests": 126
+        "mobs": 1067,
+        "quests": 137
       },
-      "xp": 11084
+      "xp": 2484
     },
     "eu:maul-worf": {
       "achievements": {
@@ -16806,7 +16836,7 @@
         },
         "1093": {
           "boss": "Scarlet Commander Mograine",
-          "count": 1,
+          "count": 2,
           "instance": "Scarlet Monastery"
         },
         "15027": {
@@ -16861,7 +16891,7 @@
         },
         "6786": {
           "boss": "High Inquisitor Whitemane",
-          "count": 1,
+          "count": 2,
           "instance": "Scarlet Monastery"
         }
       },
@@ -16871,6 +16901,10 @@
       "gear": {
         "10711": {
           "name": "Dragon's Blood Necklace",
+          "quality": "RARE"
+        },
+        "10775": {
+          "name": "Carapace of Tuten'kash",
           "quality": "RARE"
         },
         "16886": {
@@ -16950,15 +16984,16 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 34,
+      "ilvl": 33,
       "last_explored": "Thousand Needles",
-      "last_login": 1795040442000,
-      "level": 39,
+      "last_login": 1795086073000,
+      "level": 40,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
         "37": 1794993427,
-        "39": 1795040704
+        "39": 1795040704,
+        "40": 1795088356
       },
       "professions": {
         "Blacksmithing": 151,
@@ -17343,7 +17378,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7783,
+          "raw": 7808,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17368,7 +17403,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8065,
+          "raw": 8090,
           "tier": 4
         },
         "Powderfuse": {
@@ -17383,30 +17418,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7173,
+          "raw": 7198,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 20811,
+          "raw": 20911,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 114,
-        "deaths": 46,
+        "deaths": 47,
         "drinks": 21,
-        "flights": 78,
-        "food": 51,
-        "health_potions": 28,
-        "hearths": 39,
-        "killing_blows": 2710,
+        "flights": 79,
+        "food": 54,
+        "health_potions": 29,
+        "hearths": 40,
+        "killing_blows": 2737,
         "mana_potions": 1,
-        "mobs": 6448,
-        "quests": 350
+        "mobs": 6622,
+        "quests": 355
       },
-      "xp": 69066
+      "xp": 9674
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -19329,6 +19364,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:fred-feuersturm": {
+        "c": {
+          "name": "Fred",
+          "region": "eu",
+          "surname": "Feuersturm"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 150"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 32
+        }
+      },
       "eu:gaul-jin": {
         "c": {
           "name": "Gaul",
@@ -19412,11 +19461,12 @@
           "🛠️ **Schmiedekunst** auf 150",
           "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen",
           "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
+          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)",
+          "Neues Reittier: **[Schlachtross beschwören](https://www.wowhead.com/forever/de/search?q=Schlachtross%20beschw%C3%B6ren)**"
         ],
         "snap": {
           "class": "Paladin",
-          "level": 39
+          "level": 40
         }
       },
       "eu:zulka-seelenfluch": {
@@ -19646,6 +19696,7 @@
     "Cenarion Circle": "Zirkel des Cenarius",
     "Ceranium Rod": "Ceraniumrute",
     "Ceremonial Leather Ankleguards": "Zeremonieller Lederknöchelschutz",
+    "Ceremonial Leather Bracers": "Zeremonielle Lederarmschienen",
     "Ceremonial Leather Harness": "Zeremonieller Lederharnisch",
     "Ceremonial Mallet": "Zeremonieller Schlaghammer",
     "Cerulean Prideclaw": "Himmelblaue Rudelkralle",
@@ -20004,6 +20055,7 @@
     "Idol of Shifting Tides": "Götze der wandelnden Gezeiten",
     "Ignite": "Entzünden",
     "Impact": "Einschlag",
+    "Improved Aspect of the Monkey": "Verbesserter Aspekt des Affen",
     "Improved Bane of Agony": "Verbessertes Omen der Pein",
     "Improved Bloodrage": "Verbesserter Blutrausch",
     "Improved Channeling": "Verbesserte Kanalisierung",
@@ -20145,6 +20197,7 @@
     "Mutinous Cuffs": "Meuterermanschetten",
     "Mystic Heavy Armor Kit": "Mystisches schweres Rüstungsset",
     "Mystic Shawl": "Mystikerschal",
+    "Mystic Thick Armor Kit": "Mystisches dickes Rüstungsset",
     "Mystic's Belt": "Mystikergürtel",
     "Mystic's Cape": "Mystikercape",
     "Natural Instinct": "Instinkt der Natur",
@@ -20654,7 +20707,8 @@
         "eu:keta-f%C3%A4se"
       ],
       "40": [
-        "eu:baumora-axiom"
+        "eu:baumora-axiom",
+        "eu:vlad-impalar"
       ]
     }
   },
@@ -20895,6 +20949,7 @@
     },
     "eu:vlad-impalar": {
       "mounts": {
+        "2923": "Summon Warhorse",
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
       }
@@ -21122,7 +21177,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Redbully",
         "rank": 1,
         "region": "eu",
@@ -21131,7 +21186,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 39,
+        "level": 40,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -21140,7 +21195,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -21275,6 +21330,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 29,
+        "name": "Liquider",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Nasenbär"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 21,
         "name": "Archibald",
         "rank": 4,
@@ -21302,7 +21366,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 18,
+        "level": 19,
         "name": "Maniac",
         "rank": 4,
         "region": "eu",
@@ -21383,7 +21447,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -21487,22 +21551,13 @@
         "rank": 1,
         "region": "eu",
         "surname": "Frostmage"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 29,
-        "name": "Liquider",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Nasenbär"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795085693,
+  "saved_at": 1795088357,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
