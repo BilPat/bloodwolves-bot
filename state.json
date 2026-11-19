@@ -4938,6 +4938,198 @@
       },
       "xp": 27987
     },
+    "eu:efrye-frostmage": {
+      "achievements": {
+        "62028": "Journeyman Tailor",
+        "768": "Explore Tirisfal Glades",
+        "772": "Explore Hillsbrad Foothills"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/42/91759402-avatar.jpg",
+      "best_item": {
+        "id": 281283,
+        "ilvl": 11,
+        "name": "Patchwing Pants",
+        "quality": "UNCOMMON",
+        "slot": "Legs"
+      },
+      "boss_kills": {},
+      "class": "Mage",
+      "dungeons": {},
+      "first_seen": 1795051505,
+      "gear": {},
+      "ilvl": 3,
+      "last_explored": "Hillsbrad Foothills",
+      "last_login": 1795048242000,
+      "level": 10,
+      "level_at": {
+        "10": 1795051505
+      },
+      "professions": {
+        "Alchemy": 75,
+        "Cooking": 7,
+        "Enchanting": 63,
+        "First Aid": 37,
+        "Fishing": 1
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Alchemy": [
+          {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
+          },
+          {
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
+          }
+        ],
+        "Cooking": [
+          {
+            "id": 8616,
+            "name": "Crispy Bat Wing"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "Enchanting": [
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 7316,
+            "name": "Disenchant"
+          },
+          {
+            "id": 4289,
+            "name": "Enchant Bracer - Inferior Stamina"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 4291,
+            "name": "Runed Copper Rod"
+          },
+          {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
+          },
+          {
+            "id": 4300,
+            "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4301,
+            "name": "Enchant Bracer - Minor Stamina"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
+          },
+          {
+            "id": 54213,
+            "name": "Dust to Motes"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ]
+      },
+      "reputations": {
+        "Darkspear Trolls": {
+          "name": "Neutral",
+          "raw": 2025,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Neutral",
+          "raw": 2025,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 6900,
+          "tier": 4
+        }
+      },
+      "spec": "Frost",
+      "stats": {
+        "drinks": 24,
+        "food": 10,
+        "hearths": 2,
+        "killing_blows": 184,
+        "mobs": 237,
+        "quests": 40
+      },
+      "xp": 323
+    },
     "eu:ellena-lederriemen": {
       "achievements": {
         "728": "Explore Durotar",
@@ -11863,7 +12055,7 @@
       },
       "ilvl": 19,
       "last_explored": "Durotar",
-      "last_login": 1795040943000,
+      "last_login": 1795051248000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -12202,6 +12394,11 @@
           "raw": 2000,
           "tier": 3
         },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Everlook": {
           "name": "Neutral",
           "raw": 1517,
@@ -12247,12 +12444,183 @@
         "food": 4,
         "health_potions": 20,
         "hearths": 14,
-        "killing_blows": 1146,
+        "killing_blows": 1167,
         "mana_potions": 6,
-        "mobs": 1883,
+        "mobs": 1904,
         "quests": 169
       },
-      "xp": 25872
+      "xp": 26835
+    },
+    "eu:liquider-nasenb%C3%A4r": {
+      "achievements": {
+        "61502": "Novice Druid",
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/232/14940648-avatar.jpg",
+      "best_item": {
+        "id": 6695,
+        "ilvl": 34,
+        "name": "Stygian Bone Amulet",
+        "quality": "RARE",
+        "slot": "Neck"
+      },
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 2,
+          "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 2,
+          "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 2,
+          "instance": "Blackfathom Deeps"
+        },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
+        }
+      },
+      "class": "Druid",
+      "dungeons": {},
+      "first_seen": 1795051505,
+      "gear": {
+        "10412": {
+          "name": "Belt of the Fang",
+          "quality": "RARE"
+        },
+        "270031": {
+          "name": "Dark Ritual Leggings",
+          "quality": "RARE"
+        },
+        "273840": {
+          "name": "Cursed Murloc Eye",
+          "quality": "RARE"
+        },
+        "5404": {
+          "name": "Serpent's Shoulders",
+          "quality": "RARE"
+        },
+        "6473": {
+          "name": "Armor of the Fang",
+          "quality": "RARE"
+        },
+        "6505": {
+          "name": "Crescent Staff",
+          "quality": "RARE"
+        },
+        "6695": {
+          "name": "Stygian Bone Amulet",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 22,
+      "last_explored": "Moonglade",
+      "last_login": 1795041483000,
+      "level": 29,
+      "level_at": {
+        "29": 1795051505
+      },
+      "professions": {
+        "Herbalism": 9
+      },
+      "race": "Tauren",
+      "raids": {},
+      "recipes": {
+        "Herbalism": [
+          {
+            "id": 54114,
+            "name": "Herbalism"
+          },
+          {
+            "id": 56960,
+            "name": "Herbalism"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 400,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 2108,
+          "tier": 3
+        },
+        "Cenarion Circle": {
+          "name": "Neutral",
+          "raw": 2785,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 6383,
+          "tier": 4
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 550,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 2108,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 2108,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 7797,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 2108,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Friendly",
+          "raw": 3716,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Honored",
+          "raw": 13477,
+          "tier": 5
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 3015,
+          "tier": 4
+        }
+      },
+      "spec": "Balance",
+      "stats": {
+        "critters": 50,
+        "deaths": 20,
+        "drinks": 26,
+        "flights": 30,
+        "food": 2,
+        "health_potions": 1,
+        "hearths": 12,
+        "honorable_kills": 1,
+        "killing_blows": 1274,
+        "mana_potions": 7,
+        "mobs": 3591,
+        "quests": 201
+      },
+      "xp": 27865
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -19028,6 +19396,7 @@
     "Axe": "Axt",
     "Axe of Orgrimmar": "Axt von Orgrimmar",
     "Azeroth Commerce Authority": "Handelskommission von Azeroth",
+    "Azora's Will": "Azoras Testament",
     "Azure Silk Hood": "Azurblaue Seidenkapuze",
     "Azure Silk Pants": "Azurblaue Seidenhose",
     "Back": "Rücken",
@@ -19040,6 +19409,7 @@
     "Bandages used": "Angelegte Verbände",
     "Banded Helm of the Champion": "Bebänderter Helm des Champions",
     "Bandit Cinch of the Boar": "Banditen-Sattelgurt des Ebers",
+    "Bandit Gloves of Intellect": "Banditen-Handschuhe der Intelligenz",
     "Bands of Serra'kis": "Bänder von Serra'kis",
     "Bandsaw Wristbands": "Bandsägen-Gelenkbänder",
     "Bane": "Dunkle Macht",
@@ -19232,6 +19602,7 @@
     "Dark Leather Cloak": "Dunkler Lederumhang",
     "Dark Leather Pants": "Dunkle Lederhose",
     "Dark Leather Tunic": "Dunkle Ledertunika",
+    "Dark Ritual Leggings": "Dunkle Ritualgamaschen",
     "Darkmoon Faire": "Dunkelmond-Jahrmarkt",
     "Darkspear Raiders": "Darkspear-Räuber",
     "Darkspear Trolls": "Darkspear",
@@ -19274,6 +19645,7 @@
     "Divine Fury": "Göttlicher Furor",
     "Divine Intellect": "Göttliche Weisheit",
     "Divine Strength": "Göttliche Stärke",
+    "Dokebi Bracers": "Dokebi-Armschienen",
     "Double-Stitched Woolen Shoulders": "Doppelt genähte Wollschultern",
     "Double-layered Gloves": "Doppellagige Handschuhe",
     "Dragon's Blood Necklace": "Drachenblut-Halskette",
@@ -19322,6 +19694,7 @@
     "Enchant Bracer - Inferior Stamina": "Armschiene - Minderwertige Ausdauer",
     "Enchant Bracer - Lesser Stamina": "Armschiene - Geringe Ausdauer",
     "Enchant Bracer - Minor Agility": "Armschiene - Schwache Beweglichkeit",
+    "Enchant Bracer - Minor Deflect": "Armschiene - Schwache Abwehr",
     "Enchant Bracer - Minor Intellect": "Armschiene - Schwache Intelligenz",
     "Enchant Bracer - Minor Stamina": "Armschiene - Schwache Ausdauer",
     "Enchant Chest - Greater Stamina": "Brust - Große Ausdauer",
@@ -19346,6 +19719,7 @@
     "Ephemeral Choker": "Ephemerer Halsreif",
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
+    "Executor Staff": "Stab des Exekutors",
     "Fade": "Verblassen",
     "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
@@ -19385,6 +19759,11 @@
     "Flame Throwing": "Flammenwerfen",
     "Flanged Mace": "Gebördelter Streitkolben",
     "Flash Pellet": "Blitzkügelchen",
+    "Flax Belt": "Flachs-Gürtel",
+    "Flax Boots": "Flachsstiefel",
+    "Flax Bracers": "Flachs-Armschienen",
+    "Flax Gloves": "Flachshandschuhe",
+    "Flax Vest": "Flachsweste",
     "Flight paths taken": "Bereiste Flugrouten",
     "Flimsy Chain Bracers": "Sehr leichte Kettenarmschienen",
     "Flimsy Chain Gloves": "Sehr leichte Kettenhandschuhe",
@@ -19541,6 +19920,7 @@
     "Instant Poison": "Sofort wirkendes Gift",
     "Instant Poison II": "Sofort wirkendes Gift II",
     "Intellect": "Intelligenz",
+    "Inventor's League Ring": "Erfinderliga-Ring",
     "Iron Shield Spike": "Eisenschildstachel",
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
@@ -19686,6 +20066,7 @@
     "Pandemic": "Pandemie",
     "Patched Leather Gloves": "Geflickte Lederhandschuhe",
     "Patched Leather Shoulderpads": "Geflickte Lederschulterstücke",
+    "Patchwing Pants": "Flickenflügelhose",
     "Patchwork Belt": "Flickwerkgürtel",
     "Patchwork Gloves": "Flickwerkhandschuhe",
     "Patchwork Shoes": "Flickwerkschuhe",
@@ -19894,6 +20275,7 @@
     "Snake Eye Kaleidoscope": "Schlangenaugenkaleidoskop",
     "Snake Hoop": "Natternreifen",
     "Social": "Geselligkeit",
+    "Soft Willow Cape": "Weiches Weidencape",
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
     "Solid Gold Band": "Solides Goldband",
     "Solid Shot": "Robustes Geschoss",
@@ -19904,6 +20286,7 @@
     "Spare Part Bindings": "Ersatzteilbindungen",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
     "Spell Damage": "Zauberschaden",
+    "Spell Damage Vs Undead": "Zauberschaden gegen Untote",
     "Spell Healing": "Zauberheilung",
     "Spell Piercing": "Zauberdurchdringung",
     "Spell Power": "Zaubermacht",
@@ -19933,6 +20316,7 @@
     "Strength": "Stärke",
     "Stretched Leather Trousers": "Gedehnte Lederbeinkleider",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
+    "Stygian Bone Amulet": "Stygisches Knochenamulett",
     "Subterranean Cape": "Unterirdisches Cape",
     "Subtlety": "Feingefühl",
     "Summon Felsteed": "Teufelsross beschwören",
@@ -20003,6 +20387,7 @@
     "Trinket 1": "Schmuckstück 1",
     "Trinket 2": "Schmuckstück 2",
     "Triprunner Dungarees": "Stolperläufer-Latzhose",
+    "Tundra Boots": "Tundra-Stiefel",
     "Tusken Helm": "Hauerhelm",
     "Tuskwrap Belt": "Hauerwickelgürtel",
     "Twilight Barrier": "Twilightbarriere",
@@ -20212,6 +20597,9 @@
     "eu:efrye-frostheal": {
       "mounts": {}
     },
+    "eu:efrye-frostmage": {
+      "mounts": {}
+    },
     "eu:ellena-lederriemen": {
       "mounts": {}
     },
@@ -20307,6 +20695,9 @@
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
       }
+    },
+    "eu:liquider-nasenb%c3%a4r": {
+      "mounts": {}
     },
     "eu:lognaar-leafnon": {
       "mounts": {}
@@ -20432,6 +20823,7 @@
       "christopher-kuhlumbus": "Christopher Kuhlumbus",
       "damien-thoorn": "Damien Thoorn",
       "efrye-frostheal": "Efrye Frostheal",
+      "efrye-frostmage": "Efrye Frostmage",
       "ellena-lederriemen": "Ellena Lederriemen",
       "elric-wolfsclan": "Elric Wolfsclan",
       "eluna-sia": "Eluna Sia",
@@ -20452,6 +20844,7 @@
       "kreuzaua-scoops": "Kreuzaua Scoops",
       "lagertha-graufuss": "Lagertha Graufuss",
       "lazy-quinn": "Lazy Quinn",
+      "liquider-nasenb%C3%A4r": "Liquider Nasenbär",
       "lockendotter-bonechrusher": "Lockendotter Bonechrusher",
       "maniac-menacepuppy": "Maniac Menacepuppy",
       "mento-zemento": "Mento Zemento",
@@ -20487,7 +20880,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 48,
+        "level": 49,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -20505,7 +20898,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Alto",
         "rank": 4,
         "region": "eu",
@@ -20919,9 +21312,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 11,
+        "level": 13,
         "name": "Gaul",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Jin"
       },
@@ -20960,13 +21353,31 @@
         "rank": 4,
         "region": "eu",
         "surname": "Crowood"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 10,
+        "name": "Efrye",
+        "rank": 1,
+        "region": "eu",
+        "surname": "Frostmage"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 29,
+        "name": "Liquider",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Nasenbär"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795050975,
+  "saved_at": 1795051508,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
@@ -21479,6 +21890,16 @@
           "quests": 137
         },
         "xp": 22168
+      },
+      "eu:efrye-frostmage": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
       },
       "eu:ellena-lederriemen": {
         "achievements": 2,
@@ -22214,6 +22635,48 @@
           "quests": 162
         },
         "xp": 24736
+      },
+      "eu:liquider-nasenb%C3%A4r": {
+        "achievements": 2,
+        "clears": {
+          "Blackfathom Deeps": 2,
+          "Razorfen Kraul": 1,
+          "Wailing Caverns": 2
+        },
+        "epics": [],
+        "level": 29,
+        "professions": {
+          "Herbalism": 9
+        },
+        "rep": {
+          "Argent Dawn": 400,
+          "Booty Bay": 2108,
+          "Cenarion Circle": 2785,
+          "Darkspear Trolls": 6383,
+          "Earthen Ring": 550,
+          "Everlook": 2108,
+          "Gadgetzan": 2108,
+          "Orgrimmar": 7797,
+          "Powderfuse": 2108,
+          "Ratchet": 3716,
+          "Thunder Bluff": 13477,
+          "Undercity": 3015
+        },
+        "stats": {
+          "critters": 50,
+          "deaths": 20,
+          "drinks": 26,
+          "flights": 30,
+          "food": 2,
+          "health_potions": 1,
+          "hearths": 12,
+          "honorable_kills": 1,
+          "killing_blows": 1274,
+          "mana_potions": 7,
+          "mobs": 3591,
+          "quests": 201
+        },
+        "xp": 27865
       },
       "eu:lognaar-leafnon": {
         "achievements": 1,
