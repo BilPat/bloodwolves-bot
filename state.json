@@ -187,7 +187,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 2,
+          "count": 3,
           "instance": "Blackfathom Deeps"
         },
         "63570": {
@@ -229,6 +229,10 @@
           "name": "Snake Eye Kaleidoscope",
           "quality": "RARE"
         },
+        "273846": {
+          "name": "Twilight Lord Girdle",
+          "quality": "RARE"
+        },
         "2870": {
           "name": "Shining Silver Breastplate",
           "quality": "RARE"
@@ -252,7 +256,7 @@
       },
       "ilvl": 23,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795043858000,
+      "last_login": 1795129698000,
       "level": 28,
       "level_at": {
         "26": 1794866470,
@@ -262,7 +266,7 @@
       "professions": {
         "Blacksmithing": 134,
         "Cooking": 12,
-        "Mining": 141
+        "Mining": 142
       },
       "race": "Undead",
       "raids": {},
@@ -489,6 +493,10 @@
             "name": "Glowing Copper Boots"
           },
           {
+            "id": 54710,
+            "name": "Veteran's Chain Helm"
+          },
+          {
             "id": 54737,
             "name": "Protector's Silvered Chain Leggings"
           },
@@ -567,7 +575,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4732,
+          "raw": 4895,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -592,7 +600,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4863,
+          "raw": 5138,
           "tier": 4
         },
         "Powderfuse": {
@@ -607,31 +615,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3496,
+          "raw": 3771,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15738,
+          "raw": 16163,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 50,
+        "critters": 51,
         "deaths": 10,
-        "drinks": 35,
-        "flights": 35,
+        "drinks": 41,
+        "flights": 38,
         "food": 4,
-        "health_potions": 8,
-        "hearths": 15,
+        "health_potions": 9,
+        "hearths": 16,
         "honorable_kills": 5,
-        "killing_blows": 1543,
-        "mana_potions": 1,
-        "mobs": 3401,
-        "quests": 201
+        "killing_blows": 1623,
+        "mana_potions": 2,
+        "mobs": 3637,
+        "quests": 206
       },
-      "xp": 9770
+      "xp": 32931
     },
     "eu:archibald-white": {
       "achievements": {
@@ -1460,7 +1468,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 5,
+          "count": 6,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -1497,6 +1505,11 @@
           "boss": "Archaedas",
           "count": 1,
           "instance": "Uldaman"
+        },
+        "6143": {
+          "boss": "Princess Theradras",
+          "count": 1,
+          "instance": "Maraudon"
         },
         "63570": {
           "boss": "Edwin VanCleef",
@@ -1587,15 +1600,16 @@
       },
       "ilvl": 43,
       "last_explored": "Thousand Needles",
-      "last_login": 1795116782000,
-      "level": 47,
+      "last_login": 1795129196000,
+      "level": 48,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
         "44": 1794964576,
         "45": 1794994094,
         "46": 1795017247,
-        "47": 1795035267
+        "47": 1795035267,
+        "48": 1795129993
       },
       "professions": {
         "Cooking": 193,
@@ -2081,7 +2095,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3548,
+          "raw": 3586,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -2091,7 +2105,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6473,
+          "raw": 6492,
           "tier": 4
         },
         "Earthen Ring": {
@@ -2101,12 +2115,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3348,
+          "raw": 3386,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3858,
+          "raw": 3933,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -2116,27 +2130,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7193,
+          "raw": 7212,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4296,
+          "raw": 4333,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4239,
+          "raw": 4277,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8947,
+          "raw": 8966,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6582,
+          "raw": 6657,
           "tier": 4
         },
         "Windshapers": {
@@ -2147,19 +2161,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 176,
-        "deaths": 36,
-        "drinks": 575,
+        "critters": 177,
+        "deaths": 37,
+        "drinks": 602,
         "flights": 82,
-        "food": 138,
-        "health_potions": 43,
-        "hearths": 27,
-        "killing_blows": 2873,
-        "mana_potions": 18,
-        "mobs": 10559,
-        "quests": 424
+        "food": 144,
+        "health_potions": 44,
+        "hearths": 28,
+        "killing_blows": 2921,
+        "mana_potions": 19,
+        "mobs": 11096,
+        "quests": 426
       },
-      "xp": 67616
+      "xp": 1972
     },
     "eu:blck-jck": {
       "achievements": {
@@ -20538,6 +20552,8 @@
     "Primitive Hand Blade": "Primitive Handklinge",
     "Primitive Mantle": "Primitiver Mantel",
     "Primitive Walking Stick": "Primitiver Wanderstecken",
+    "Princess Theradras": "Prinzessin Theradras",
+    "Princess Theradras kills (Maraudon)": "Siege über Prinzessin Theradras (Maraudon)",
     "Pristine Orcish Dagger": "Makelloser Orcdolch",
     "Privateer Musket": "Freibeutermuskete",
     "Professions": "Berufe",
@@ -20964,6 +20980,9 @@
         "Blackfathom Deeps": "eu:krakmor-ci%C3%B3rdan",
         "Gnomeregan": "eu:krakmor-ci%C3%B3rdan",
         "Hall of Thanes": "us:steel-appeal",
+        "Maraudon": [
+          "eu:baumora-axiom"
+        ],
         "Razorfen Downs": "eu:krakmor-ci%C3%B3rdan",
         "Razorfen Kraul": "eu:krakmor-ci%C3%B3rdan",
         "Ruins of Lordaeron": "eu:krakmor-ci%C3%B3rdan",
@@ -20982,7 +21001,16 @@
       },
       "raid": {}
     },
-    "firsts_pending": {},
+    "firsts_pending": {
+      "dungeon|Maraudon": {
+        "keys": [
+          "eu:baumora-axiom"
+        ],
+        "kind": "dungeon",
+        "since": 1795129993,
+        "what": "Maraudon"
+      }
+    },
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -21849,7 +21877,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795128864,
+  "saved_at": 1795129994,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
