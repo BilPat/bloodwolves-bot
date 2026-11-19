@@ -16991,7 +16991,7 @@
       },
       "ilvl": 33,
       "last_explored": "Thousand Needles",
-      "last_login": 1795086073000,
+      "last_login": 1795090761000,
       "level": 40,
       "level_at": {
         "35": 1794866470,
@@ -17378,12 +17378,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1760,
+          "raw": 1765,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7808,
+          "raw": 7830,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17398,37 +17398,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1442,
+          "raw": 1447,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1442,
+          "raw": 1447,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8090,
+          "raw": 8175,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1392,
+          "raw": 1402,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1817,
+          "raw": 1822,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7198,
+          "raw": 7220,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 20911,
+          "raw": 20932,
           "tier": 5
         }
       },
@@ -17441,12 +17441,12 @@
         "food": 54,
         "health_potions": 29,
         "hearths": 40,
-        "killing_blows": 2737,
+        "killing_blows": 2747,
         "mana_potions": 1,
-        "mobs": 6622,
-        "quests": 355
+        "mobs": 6632,
+        "quests": 359
       },
-      "xp": 9674
+      "xp": 14864
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -17464,7 +17464,7 @@
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
-          "count": 1,
+          "count": 2,
           "instance": "Shadowfang Keep"
         },
         "63571": {
@@ -17496,7 +17496,7 @@
       },
       "ilvl": 20,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795078303000,
+      "last_login": 1795090588000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -17632,19 +17632,19 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 24,
+        "critters": 33,
         "deaths": 11,
-        "drinks": 670,
+        "drinks": 700,
         "flights": 21,
         "food": 154,
         "health_potions": 10,
         "hearths": 19,
-        "killing_blows": 1173,
-        "mana_potions": 15,
-        "mobs": 1807,
+        "killing_blows": 1205,
+        "mana_potions": 16,
+        "mobs": 1921,
         "quests": 145
       },
-      "xp": 8658
+      "xp": 13823
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -21563,7 +21563,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795089277,
+  "saved_at": 1795090864,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
