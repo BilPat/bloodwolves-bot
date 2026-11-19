@@ -4356,19 +4356,25 @@
     },
     "eu:efrye-frostheal": {
       "achievements": {
+        "62000": "Novice Priest",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/228/14176740-avatar.jpg",
       "best_item": {
-        "id": 271214,
-        "ilvl": 24,
-        "name": "Rotmender's Treads",
+        "id": 6414,
+        "ilvl": 29,
+        "name": "Seal of Sylvanas",
         "quality": "RARE",
-        "slot": "Feet"
+        "slot": "Ring 2"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -4420,23 +4426,28 @@
         "286980": {
           "name": "Rotmender's Sash",
           "quality": "RARE"
+        },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
         }
       },
-      "ilvl": 19,
+      "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795114923000,
-      "level": 24,
+      "last_login": 1795124431000,
+      "level": 25,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
-        "24": 1795095633
+        "24": 1795095633,
+        "25": 1795125256
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 232,
-        "Tailoring": 201
+        "Tailoring": 203
       },
       "race": "Undead",
       "raids": {},
@@ -5065,7 +5076,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3516,
+          "raw": 3641,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5085,7 +5096,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4191,
+          "raw": 4316,
           "tier": 4
         },
         "Powderfuse": {
@@ -5100,30 +5111,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1703,
+          "raw": 1828,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11412,
+          "raw": 11912,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
-        "critters": 25,
-        "deaths": 45,
-        "drinks": 61,
-        "flights": 60,
-        "food": 81,
+        "critters": 35,
+        "deaths": 46,
+        "drinks": 76,
+        "flights": 64,
+        "food": 87,
         "health_potions": 13,
-        "hearths": 52,
-        "killing_blows": 832,
-        "mana_potions": 20,
-        "mobs": 2742,
-        "quests": 144
+        "hearths": 53,
+        "killing_blows": 842,
+        "mana_potions": 30,
+        "mobs": 2887,
+        "quests": 148
       },
-      "xp": 7426
+      "xp": 4611
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -19661,6 +19672,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 25
+        }
+      },
       "eu:milly-silverwood": {
         "c": {
           "name": "Milly",
@@ -21764,7 +21790,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795124373,
+  "saved_at": 1795125257,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
