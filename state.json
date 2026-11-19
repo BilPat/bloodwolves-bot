@@ -1,5 +1,161 @@
 {
   "characters": {
+    "eu:aldric-crowood": {
+      "achievements": {},
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/37/90175525-avatar.jpg",
+      "best_item": {
+        "id": 5957,
+        "ilvl": 10,
+        "name": "Handstitched Leather Vest",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
+      },
+      "boss_kills": {},
+      "class": "Rogue",
+      "dungeons": {},
+      "first_seen": 1795121683,
+      "gear": {},
+      "ilvl": 2,
+      "last_explored": null,
+      "last_login": 1795121273000,
+      "level": 10,
+      "level_at": {
+        "10": 1795121683
+      },
+      "professions": {
+        "Cooking": 10,
+        "First Aid": 35,
+        "Leatherworking": 38,
+        "Skinning": 81
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4767,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Darkspear Trolls": {
+          "name": "Neutral",
+          "raw": 2025,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Neutral",
+          "raw": 2025,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 6710,
+          "tier": 4
+        }
+      },
+      "spec": "Combat",
+      "stats": {
+        "deaths": 1,
+        "health_potions": 2,
+        "killing_blows": 255,
+        "mobs": 260,
+        "quests": 37
+      },
+      "xp": 640
+    },
     "eu:alto-belli": {
       "achievements": {
         "61997": "Novice Paladin",
@@ -17624,7 +17780,7 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795119013000,
+      "last_login": 1795121448000,
       "level": 26,
       "level_at": {
         "21": 1794866470,
@@ -17715,7 +17871,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3423,
+          "raw": 3592,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17735,7 +17891,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3911,
+          "raw": 4005,
           "tier": 4
         },
         "Powderfuse": {
@@ -17750,30 +17906,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2505,
+          "raw": 2673,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12561,
+          "raw": 12786,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 49,
-        "deaths": 12,
-        "drinks": 788,
-        "flights": 22,
-        "food": 181,
+        "critters": 51,
+        "deaths": 13,
+        "drinks": 805,
+        "flights": 23,
+        "food": 191,
         "health_potions": 10,
         "hearths": 22,
-        "killing_blows": 1321,
+        "killing_blows": 1350,
         "mana_potions": 19,
-        "mobs": 2123,
-        "quests": 150
+        "mobs": 2152,
+        "quests": 154
       },
-      "xp": 10307
+      "xp": 22893
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -19948,6 +20104,7 @@
     "Food eaten": "Nahrung konsumiert",
     "Footpads of the Fang": "Fußpolster des Giftzahns",
     "Forceful Medium Armor Kit": "Kraftvolles mittleres Rüstungsset",
+    "Forsaken Dagger": "Dolch der Verlassenen",
     "Forsaken Greataxe": "Großaxt des Verlassenen",
     "Forsaken Weapons": "Waffen der Verlassenen",
     "Foulfur Gloves": "Faulfellhandschuhe",
@@ -20005,6 +20162,7 @@
     "Hands": "Hände",
     "Handstitched Leather Belt": "Handgenähter Ledergürtel",
     "Handstitched Leather Boots": "Handgenähte Lederstiefel",
+    "Handstitched Leather Bracers": "Handgenähte Armschienen",
     "Handstitched Leather Cloak": "Handgenähter Lederumhang",
     "Handstitched Leather Pants": "Handgenähte Lederhose",
     "Handstitched Leather Vest": "Handgenähte Lederweste",
@@ -20414,6 +20572,7 @@
     "Serpentbane Crown": "Schlangenbannkrone",
     "Serrated Knife": "Sägemesser",
     "Setup": "Reinlegen",
+    "Sewing Gloves": "Näh-Handschuhe",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
     "Shade of the Archmage Kills (City of Dalaran)": "Siege über den Schemen des Erzmagiers (Dalaran)",
     "Shadow": "Schatten",
@@ -20457,6 +20616,7 @@
     "Simple Robe": "Einfache Robe",
     "Siphon Life": "Lebensentzug",
     "Skills": "Fertigkeiten",
+    "Skinning Knife": "Kürschnermesser",
     "Skinning Skill": "Kürschnerfertigkeit",
     "Skullthumper": "Schädelbrecher",
     "Skywatcher's Vestments": "Himmelsschauergewänder",
@@ -20673,6 +20833,7 @@
     "World Honorable Kills": "Weltweite ehrenhafte Siege",
     "World Killing Blows": "Todesstöße weltweit",
     "Worn Greatsword": "Abgenutztes Großschwert",
+    "Worn Hide Cloak": "Abgenutzter Balgumhang",
     "Worn Large Shield": "Abgenutzter großer Schild",
     "Worn Leather Belt": "Abgenutzter Ledergürtel",
     "Worn Leather Bracers": "Abgenutzte Lederarmschienen",
@@ -20745,6 +20906,11 @@
     ]
   },
   "owners": {
+    "eu:aldric-crowood": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw"
+      }
+    },
     "eu:alto-belli": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
@@ -21580,9 +21746,19 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795120807,
+  "saved_at": 1795121685,
   "weekly": {
     "baseline": {
+      "eu:aldric-crowood": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
+      },
       "eu:alto-belli": {
         "achievements": 2,
         "clears": {
