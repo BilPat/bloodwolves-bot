@@ -9809,6 +9809,7 @@
       "achievements": {
         "62003": "Novice Rogue",
         "62009": "Novice Warlock",
+        "62024": "Journeyman Leatherworker",
         "62031": "Novice Spelunker",
         "780": "Explore Redridge Mountains",
         "846": "Explore Thousand Needles"
@@ -9925,8 +9926,8 @@
       },
       "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1795022157000,
-      "level": 33,
+      "last_login": 1795092920000,
+      "level": 34,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -9935,13 +9936,15 @@
         "30": 1794940259,
         "31": 1794950040,
         "32": 1795002929,
-        "33": 1795022669
+        "33": 1795022669,
+        "34": 1795094133
       },
       "professions": {
-        "Cooking": 115,
+        "Cooking": 149,
         "First Aid": 150,
-        "Leatherworking": 147,
-        "Skinning": 222
+        "Fishing": 8,
+        "Leatherworking": 150,
+        "Skinning": 225
       },
       "race": "Undead",
       "raids": {},
@@ -9952,8 +9955,16 @@
             "name": "Crispy Bat Wing"
           },
           {
+            "id": 1875,
+            "name": "Curiously Tasty Omelet"
+          },
+          {
             "id": 1901,
             "name": "Big Bear Steak"
+          },
+          {
+            "id": 1902,
+            "name": "Hot Lion Chops"
           },
           {
             "id": 13344,
@@ -10004,6 +10015,10 @@
             "name": "Rainbow Fin Albacore"
           },
           {
+            "id": 3963,
+            "name": "Goblin Deviled Clams"
+          },
+          {
             "id": 3964,
             "name": "Boiled Clams"
           },
@@ -10048,6 +10063,12 @@
           {
             "id": 52641,
             "name": "First Aid Kit"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
           }
         ],
         "Leatherworking": [
@@ -10228,6 +10249,10 @@
             "name": "Murloc Scale Belt"
           },
           {
+            "id": 5050,
+            "name": "Dusky Leather Armor"
+          },
+          {
             "id": 4156,
             "name": "Handstitched Leather Vest"
           },
@@ -10236,8 +10261,20 @@
             "name": "Dark Leather Pants"
           },
           {
+            "id": 4163,
+            "name": "Barbaric Shoulders"
+          },
+          {
             "id": 52647,
             "name": "Camp Tent"
+          },
+          {
+            "id": 55139,
+            "name": "Warden's Leather Belt"
+          },
+          {
+            "id": 55141,
+            "name": "Skulker's Leather Belt"
           },
           {
             "id": 55170,
@@ -10270,7 +10307,7 @@
         ],
         "Skinning": [
           {
-            "id": 4768,
+            "id": 5746,
             "name": "Skinning"
           },
           {
@@ -10292,7 +10329,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5041,
+          "raw": 5428,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -10317,7 +10354,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6185,
+          "raw": 6810,
           "tier": 4
         },
         "Powderfuse": {
@@ -10330,14 +10367,19 @@
           "raw": 1882,
           "tier": 3
         },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4660,
+          "raw": 5047,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15237,
+          "raw": 15550,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -10350,17 +10392,17 @@
       "stats": {
         "critters": 48,
         "deaths": 23,
-        "drinks": 26,
-        "flights": 46,
-        "food": 152,
-        "health_potions": 22,
-        "hearths": 13,
+        "drinks": 27,
+        "flights": 50,
+        "food": 172,
+        "health_potions": 23,
+        "hearths": 14,
         "honorable_kills": 113,
-        "killing_blows": 2097,
-        "mobs": 3348,
-        "quests": 224
+        "killing_blows": 2240,
+        "mobs": 3496,
+        "quests": 237
       },
-      "xp": 4129
+      "xp": 9110
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -19412,6 +19454,23 @@
           "level": 14
         }
       },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "📜 Neuer Beruf: **Angeln**",
+          "🛠️ **Lederverarbeitung** auf 150",
+          "🛠️ **Kürschnerei** auf 225",
+          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 34
+        }
+      },
       "eu:krakmor-ci%C3%B3rdan": {
         "c": {
           "name": "Krakmor",
@@ -21564,7 +21623,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795092865,
+  "saved_at": 1795094134,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
