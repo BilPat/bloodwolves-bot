@@ -4258,18 +4258,19 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795084786000,
-      "level": 23,
+      "last_login": 1795094926000,
+      "level": 24,
       "level_at": {
         "22": 1794866470,
-        "23": 1794945303
+        "23": 1794945303,
+        "24": 1795095633
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 214,
-        "Tailoring": 195
+        "Herbalism": 224,
+        "Tailoring": 196
       },
       "race": "Undead",
       "raids": {},
@@ -4486,6 +4487,10 @@
           {
             "id": 4872,
             "name": "Crimson Silk Vest"
+          },
+          {
+            "id": 6609,
+            "name": "Red Mageweave Shoulders"
           },
           {
             "id": 55423,
@@ -4938,17 +4943,17 @@
       "stats": {
         "critters": 25,
         "deaths": 43,
-        "drinks": 57,
-        "flights": 54,
-        "food": 78,
+        "drinks": 58,
+        "flights": 56,
+        "food": 79,
         "health_potions": 13,
-        "hearths": 46,
-        "killing_blows": 813,
+        "hearths": 47,
+        "killing_blows": 819,
         "mana_potions": 20,
-        "mobs": 2723,
+        "mobs": 2729,
         "quests": 143
       },
-      "xp": 27987
+      "xp": 497
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -21623,7 +21628,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795094773,
+  "saved_at": 1795095634,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
