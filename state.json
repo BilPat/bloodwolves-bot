@@ -20596,7 +20596,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -21447,7 +21447,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 47,
+        "level": 48,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -21483,7 +21483,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 44,
+        "level": 45,
         "name": "Blut",
         "rank": 4,
         "region": "eu",
@@ -21492,7 +21492,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 28,
         "name": "Blck",
         "rank": 3,
         "region": "eu",
@@ -21609,7 +21609,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Milly",
         "rank": 4,
         "region": "eu",
@@ -21636,7 +21636,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -21672,7 +21672,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Archibald",
         "rank": 4,
         "region": "eu",
@@ -21870,7 +21870,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 9,
+        "level": 10,
         "name": "Aldric",
         "rank": 4,
         "region": "eu",
@@ -21890,7 +21890,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795130660,
+  "saved_at": 1795131834,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
