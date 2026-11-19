@@ -4258,7 +4258,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795044473000,
+      "last_login": 1795048203000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4269,7 +4269,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 214,
-        "Tailoring": 174
+        "Tailoring": 178
       },
       "race": "Undead",
       "raids": {},
@@ -10448,6 +10448,7 @@
         "62354": "Explore Riverglades",
         "728": "Explore Durotar",
         "750": "Explore The Barrens",
+        "765": "Explore Badlands",
         "802": "Explore Westfall",
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains",
@@ -10455,11 +10456,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 11118,
-        "ilvl": 47,
-        "name": "Archaedic Stone of the Falcon",
-        "quality": "RARE",
-        "slot": "Ring 2"
+        "id": 11193,
+        "ilvl": 57,
+        "name": "Blazewind Breastplate",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
       },
       "boss_kills": {
         "1092": {
@@ -10471,6 +10472,11 @@
           "boss": "Scarlet Commander Mograine",
           "count": 2,
           "instance": "Scarlet Monastery"
+        },
+        "1094": {
+          "boss": "Chief Ukorz Sandscalp",
+          "count": 1,
+          "instance": "Zul'Farrak"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -10566,26 +10572,31 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 42,
-      "last_explored": "Westfall",
-      "last_login": 1795022739000,
-      "level": 47,
+      "ilvl": 45,
+      "last_explored": "Badlands",
+      "last_login": 1795047816000,
+      "level": 49,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
-        "47": 1795012854
+        "47": 1795012854,
+        "49": 1795048587
       },
       "professions": {
-        "Alchemy": 225,
-        "Cooking": 243,
-        "First Aid": 225,
-        "Fishing": 156,
-        "Herbalism": 280
+        "Alchemy": 243,
+        "Cooking": 263,
+        "First Aid": 236,
+        "Fishing": 158,
+        "Herbalism": 288
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
         "Alchemy": [
+          {
+            "id": 2909,
+            "name": "Lesser Stoneshield Potion"
+          },
           {
             "id": 12322,
             "name": "Draught of Greater Water Breathing"
@@ -10659,6 +10670,26 @@
             "name": "Wildvine Potion"
           },
           {
+            "id": 6008,
+            "name": "Draught of Detect Undead"
+          },
+          {
+            "id": 6009,
+            "name": "Arcane Elixir"
+          },
+          {
+            "id": 6011,
+            "name": "Elixir of Greater Intellect"
+          },
+          {
+            "id": 6013,
+            "name": "Elixir of Greater Agility"
+          },
+          {
+            "id": 8596,
+            "name": "Dreamless Sleep Potion"
+          },
+          {
             "id": 6848,
             "name": "Catseye Draught"
           },
@@ -10725,6 +10756,10 @@
           {
             "id": 54661,
             "name": "Minor Frenzy Potion"
+          },
+          {
+            "id": 54670,
+            "name": "Greater Mender's Potion"
           },
           {
             "id": 54210,
@@ -10992,7 +11027,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -10975,
+          "raw": -11475,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -11002,7 +11037,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4889,
+          "raw": 5926,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -11012,7 +11047,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12170,
+          "raw": 12757,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -11022,42 +11057,42 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1600,
+          "raw": 1900,
           "tier": 3
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4304,
+          "raw": 5291,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4474,
+          "raw": 6399,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14727,
+          "raw": 15146,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5446,
+          "raw": 6434,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5910,
+          "raw": 6898,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19938,
+          "raw": 20170,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13071,
+          "raw": 13452,
           "tier": 5
         }
       },
@@ -11065,17 +11100,17 @@
       "stats": {
         "critters": 100,
         "deaths": 38,
-        "drinks": 140,
-        "flights": 187,
-        "food": 209,
-        "health_potions": 70,
-        "hearths": 41,
-        "killing_blows": 4104,
+        "drinks": 151,
+        "flights": 197,
+        "food": 221,
+        "health_potions": 74,
+        "hearths": 43,
+        "killing_blows": 4330,
         "mana_potions": 6,
-        "mobs": 7270,
-        "quests": 575
+        "mobs": 7768,
+        "quests": 600
       },
-      "xp": 63251
+      "xp": 25844
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -18775,6 +18810,22 @@
           "level": 14
         }
       },
+      "eu:krakmor-ci%C3%B3rdan": {
+        "c": {
+          "name": "Krakmor",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Ciórdan"
+        },
+        "lines": [
+          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
+          "🎖️ [Erkundet Ödland](https://www.wowhead.com/forever/de/achievement=765)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 49
+        }
+      },
       "eu:maniac-menacepuppy": {
         "c": {
           "name": "Maniac",
@@ -18941,6 +18992,7 @@
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
     "Blast Wave": "Druckwelle",
     "Blazewind Blast": "Lohenwindstoß",
+    "Blazewind Breastplate": "Lohenwindbrustplatte",
     "Blemished Wooden Staff": "Verunstalteter Holzstab",
     "Blessing of Kalimdor": "Segen von Kalimdor",
     "Blight Gloves": "Seuchenhandschuhe",
@@ -20813,7 +20865,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795046082,
+  "saved_at": 1795048588,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
