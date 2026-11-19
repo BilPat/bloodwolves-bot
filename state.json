@@ -5470,11 +5470,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/132/13451652-avatar.jpg",
       "best_item": {
-        "id": 6502,
+        "id": 276720,
         "ilvl": 22,
-        "name": "Violet Scale Armor",
+        "name": "Criminal's Pauldrons",
         "quality": "UNCOMMON",
-        "slot": "Chest"
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "15027": {
@@ -5498,7 +5498,7 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794958448000,
+      "last_login": 1795092051000,
       "level": 22,
       "level_at": {
         "21": 1794866470,
@@ -5754,11 +5754,11 @@
         "health_potions": 17,
         "hearths": 9,
         "honorable_kills": 1,
-        "killing_blows": 873,
-        "mobs": 1431,
+        "killing_blows": 875,
+        "mobs": 1433,
         "quests": 156
       },
-      "xp": 13982
+      "xp": 14618
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -9553,7 +9553,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795007330000,
+      "last_login": 1795091008000,
       "level": 29,
       "level_at": {
         "28": 1794866470,
@@ -19753,6 +19753,7 @@
     "Creatures": "Kreaturen",
     "Creatures killed": "Kreaturen getötet",
     "Crescent Staff": "Mondsichelstab",
+    "Criminal's Pauldrons": "Schulterstücke des Verbrechers",
     "Critical Mass": "Kritische Masse",
     "Critters killed": "Kleintiere getötet",
     "Crossbow": "Armbrust",
@@ -21563,7 +21564,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795090864,
+  "saved_at": 1795092120,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
