@@ -10934,7 +10934,7 @@
       },
       "ilvl": 47,
       "last_explored": "Badlands",
-      "last_login": 1795097973000,
+      "last_login": 1795118934000,
       "level": 49,
       "level_at": {
         "45": 1794866470,
@@ -11476,7 +11476,7 @@
         "flights": 202,
         "food": 224,
         "health_potions": 74,
-        "hearths": 44,
+        "hearths": 45,
         "killing_blows": 4407,
         "mana_potions": 6,
         "mobs": 7864,
@@ -17624,7 +17624,7 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795110563000,
+      "last_login": 1795119013000,
       "level": 26,
       "level_at": {
         "21": 1794866470,
@@ -17767,7 +17767,7 @@
         "flights": 22,
         "food": 181,
         "health_potions": 10,
-        "hearths": 21,
+        "hearths": 22,
         "killing_blows": 1321,
         "mana_potions": 19,
         "mobs": 2123,
@@ -19502,222 +19502,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "🛠️ **Kräuterkunde** auf 225"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 24
-        }
-      },
-      "eu:fred-feuersturm": {
-        "c": {
-          "name": "Fred",
-          "region": "eu",
-          "surname": "Feuersturm"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 150"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 32
-        }
-      },
-      "eu:garm-winterhoof": {
-        "c": {
-          "name": "Garm",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Winterhoof"
-        },
-        "lines": [
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 30
-        }
-      },
-      "eu:gaul-jin": {
-        "c": {
-          "name": "Gaul",
-          "region": "eu",
-          "surname": "Jin"
-        },
-        "lines": [
-          "🛠️ **Kürschnerei** auf 75",
-          "🔵 Erstes blaues Item: **[Satyrnhaut-Umhang](https://www.wowhead.com/forever/de/item=273005)** (Back)"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 13
-        }
-      },
-      "eu:howard-wolowitzard": {
-        "c": {
-          "name": "Howard",
-          "region": "eu",
-          "surname": "Wolowitzard"
-        },
-        "lines": [
-          "🎖️ [Erkundet Teldrassil](https://www.wowhead.com/forever/de/achievement=842)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 14
-        }
-      },
-      "eu:kamah-suhtrah": {
-        "c": {
-          "name": "Kamah",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Suhtrah"
-        },
-        "lines": [
-          "🎖️ [Journeyman Engineer](https://www.wowhead.com/forever/de/achievement=62021)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 29
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "📜 Neuer Beruf: **Angeln**",
-          "🛠️ **Lederverarbeitung** auf 150",
-          "🛠️ **Kürschnerei** auf 225",
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 34
-        }
-      },
-      "eu:krakmor-ci%C3%B3rdan": {
-        "c": {
-          "name": "Krakmor",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ciórdan"
-        },
-        "lines": [
-          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Ödland](https://www.wowhead.com/forever/de/achievement=765)",
-          "🛠️ **Kräuterkunde** auf 300"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 49
-        }
-      },
-      "eu:maniac-menacepuppy": {
-        "c": {
-          "name": "Maniac",
-          "region": "eu",
-          "surname": "Menacepuppy"
-        },
-        "lines": [
-          "🔵 Erstes blaues Item: **[Lil Timmys Blasrohr](https://www.wowhead.com/forever/de/item=13136)** (Ranged)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 18
-        }
-      },
-      "eu:ogmar-donnerhammer": {
-        "c": {
-          "name": "Ogmar",
-          "region": "eu",
-          "surname": "Donnerhammer"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 16
-        }
-      },
-      "eu:ragnar-lodhoof": {
-        "c": {
-          "name": "Ragnar",
-          "region": "eu",
-          "surname": "Lodhoof"
-        },
-        "lines": [
-          "🛠️ **Bergbau** auf 150",
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 33
-        }
-      },
-      "eu:vlad-impalar": {
-        "c": {
-          "name": "Vlad",
-          "region": "eu",
-          "surname": "Impalar"
-        },
-        "lines": [
-          "🛠️ **Schmiedekunst** auf 150",
-          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)",
-          "Neues Reittier: **[Schlachtross beschwören](https://www.wowhead.com/forever/de/search?q=Schlachtross%20beschw%C3%B6ren)**"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 40
-        }
-      },
-      "eu:zulka-seelenfluch": {
-        "c": {
-          "name": "Zulka",
-          "region": "eu",
-          "surname": "Seelenfluch"
-        },
-        "lines": [
-          "🎖️ [Novice Mage](https://www.wowhead.com/forever/de/achievement=61994)",
-          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 25
-        }
-      },
-      "us:pwanage-ownage": {
-        "c": {
-          "name": "pwanage",
-          "region": "us",
-          "surname": "ownage"
-        },
-        "lines": [
-          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 28
-        }
-      }
-    },
-    "last": "2026-11-18"
+    "items": {},
+    "last": "2026-11-19"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -21794,7 +21580,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795118135,
+  "saved_at": 1795119398,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
