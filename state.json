@@ -14313,7 +14313,7 @@
       "gear": {},
       "ilvl": 6,
       "last_explored": "Durotar",
-      "last_login": 1795033682000,
+      "last_login": 1795110151000,
       "level": 16,
       "level_at": {
         "15": 1794866470,
@@ -14420,7 +14420,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1115,
+          "raw": 1187,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -14430,12 +14430,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1115,
+          "raw": 1187,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1115,
+          "raw": 1187,
           "tier": 3
         },
         "Orgrimmar": {
@@ -14445,12 +14445,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1115,
+          "raw": 1187,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2130,
+          "raw": 2275,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -14468,16 +14468,16 @@
       "stats": {
         "critters": 28,
         "deaths": 5,
-        "drinks": 6,
+        "drinks": 8,
         "flights": 7,
         "food": 4,
         "health_potions": 5,
         "hearths": 5,
-        "killing_blows": 585,
-        "mobs": 608,
+        "killing_blows": 617,
+        "mobs": 640,
         "quests": 84
       },
-      "xp": 8060
+      "xp": 11616
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -17583,14 +17583,15 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795104038000,
-      "level": 25,
+      "last_login": 1795110563000,
+      "level": 26,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
         "23": 1795000472,
         "24": 1795011349,
-        "25": 1795079821
+        "25": 1795079821,
+        "26": 1795110929
       },
       "professions": {
         "Alchemy": 70,
@@ -17673,7 +17674,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3373,
+          "raw": 3423,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17693,7 +17694,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3861,
+          "raw": 3911,
           "tier": 4
         },
         "Powderfuse": {
@@ -17708,30 +17709,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2305,
+          "raw": 2505,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12511,
+          "raw": 12561,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 45,
-        "deaths": 11,
-        "drinks": 765,
+        "critters": 49,
+        "deaths": 12,
+        "drinks": 788,
         "flights": 22,
-        "food": 169,
+        "food": 181,
         "health_potions": 10,
-        "hearths": 20,
-        "killing_blows": 1283,
+        "hearths": 21,
+        "killing_blows": 1321,
         "mana_potions": 19,
-        "mobs": 2089,
-        "quests": 146
+        "mobs": 2123,
+        "quests": 150
       },
-      "xp": 31523
+      "xp": 10307
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -20537,6 +20538,7 @@
     "Scarlet Monastery": "Scharlachrotes Kloster",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
     "Scoutmaster's Eyepatch": "Augenklappe des Spähmeisters",
+    "Scroll of Imbue Striking": "Schriftrolle der Durchdringung: Schlagen",
     "Seal of Command": "Siegel des Befehls",
     "Seal of Sylvanas": "Siegel von Sylvanas",
     "Searing Wound": "Sengende Wunde",
@@ -21717,7 +21719,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795110026,
+  "saved_at": 1795110931,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
