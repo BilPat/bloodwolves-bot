@@ -20596,7 +20596,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -21890,7 +21890,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795131834,
+  "saved_at": 1795132525,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
