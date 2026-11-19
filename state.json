@@ -10852,7 +10852,7 @@
       },
       "ilvl": 45,
       "last_explored": "Badlands",
-      "last_login": 1795047816000,
+      "last_login": 1795088668000,
       "level": 49,
       "level_at": {
         "45": 1794866470,
@@ -10865,7 +10865,7 @@
         "Cooking": 263,
         "First Aid": 236,
         "Fishing": 158,
-        "Herbalism": 288
+        "Herbalism": 293
       },
       "race": "Tauren",
       "raids": {},
@@ -11363,6 +11363,11 @@
           "raw": 6898,
           "tier": 4
         },
+        "Ravasaur Trainers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Honored",
           "raw": 20170,
@@ -11377,18 +11382,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 100,
-        "deaths": 38,
-        "drinks": 151,
-        "flights": 197,
-        "food": 221,
+        "deaths": 39,
+        "drinks": 154,
+        "flights": 198,
+        "food": 223,
         "health_potions": 74,
         "hearths": 43,
-        "killing_blows": 4330,
+        "killing_blows": 4388,
         "mana_potions": 6,
-        "mobs": 7768,
-        "quests": 600
+        "mobs": 7835,
+        "quests": 601
       },
-      "xp": 25844
+      "xp": 47695
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -20299,6 +20304,7 @@
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
     "Rath'mael": "Rath'mael",
     "Rath'mael Kills (Ruins of Lordaeron)": "Siege über Rath'mael (Ruinen von Lordaeron)",
+    "Ravasaur Trainers": "Ravasaurusausbilder",
     "Razorfen Downs": "Hügel von Razorfen",
     "Razorfen Kraul": "Kral von Razorfen",
     "Rebirthed by druids": "Wiedergeburten durch Druiden",
@@ -21557,7 +21563,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795088357,
+  "saved_at": 1795089277,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
