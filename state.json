@@ -8493,28 +8493,40 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/197/59743173-avatar.jpg",
       "best_item": {
-        "id": 2300,
-        "ilvl": 12,
-        "name": "Embossed Leather Vest",
-        "quality": "UNCOMMON",
-        "slot": "Chest"
+        "id": 273005,
+        "ilvl": 18,
+        "name": "Satyrskin Cloak",
+        "quality": "RARE",
+        "slot": "Back"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        }
+      },
       "class": "Rogue",
       "dungeons": {},
       "first_seen": 1795018583,
-      "gear": {},
-      "ilvl": 5,
+      "gear": {
+        "273005": {
+          "name": "Satyrskin Cloak",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 7,
       "last_explored": null,
-      "last_login": 1795018184000,
-      "level": 10,
+      "last_login": 1795048722000,
+      "level": 13,
       "level_at": {
-        "10": 1795018583
+        "10": 1795018583,
+        "13": 1795049768
       },
       "professions": {
         "Cooking": 2,
-        "Leatherworking": 36,
-        "Skinning": 73
+        "Leatherworking": 51,
+        "Skinning": 76
       },
       "race": "Troll",
       "raids": {},
@@ -8555,12 +8567,28 @@
             "name": "Embossed Leather Vest"
           },
           {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
             "id": 1708,
             "name": "Light Leather"
           },
           {
             "id": 2162,
             "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
           },
           {
             "id": 4987,
@@ -8579,6 +8607,10 @@
             "name": "Small Leather Ammo Pouch"
           },
           {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
             "id": 2195,
             "name": "Cured Light Hide"
           },
@@ -8589,11 +8621,19 @@
           {
             "id": 52647,
             "name": "Camp Tent"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 58812,
+            "name": "Light Leather Reagent Bag"
           }
         ],
         "Skinning": [
           {
-            "id": 4766,
+            "id": 4767,
             "name": "Skinning"
           },
           {
@@ -8603,43 +8643,69 @@
         ]
       },
       "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6860,
+          "raw": 7172,
           "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5985,
+          "raw": 6522,
           "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 500,
+          "raw": 550,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3150,
+          "raw": 3237,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 550,
+          "raw": 750,
           "tier": 3
         }
       },
-      "spec": "Subtlety",
+      "spec": "Assassination",
       "stats": {
         "deaths": 5,
-        "food": 13,
+        "flights": 1,
+        "food": 15,
         "health_potions": 4,
-        "hearths": 5,
-        "killing_blows": 246,
-        "mobs": 251,
-        "quests": 37
+        "hearths": 6,
+        "killing_blows": 294,
+        "mobs": 401,
+        "quests": 48
       },
-      "xp": 7596
+      "xp": 1972
     },
     "eu:h%C3%A4uptling-blutmacht": {
       "achievements": {
@@ -17141,6 +17207,7 @@
       "achievements": {
         "61502": "Novice Druid",
         "62012": "Journeyman Alchemist",
+        "780": "Explore Redridge Mountains",
         "842": "Explore Teldrassil",
         "844": "Explore Darkshore",
         "855": "Explore Moonglade"
@@ -17219,8 +17286,8 @@
         }
       },
       "ilvl": 20,
-      "last_explored": "Darkshore",
-      "last_login": 1795005032000,
+      "last_explored": "Redridge Mountains",
+      "last_login": 1795048708000,
       "level": 27,
       "level_at": {
         "26": 1794965196,
@@ -17231,7 +17298,7 @@
         "Cooking": 146,
         "First Aid": 80,
         "Fishing": 109,
-        "Herbalism": 187
+        "Herbalism": 188
       },
       "race": "Night Elf",
       "raids": {},
@@ -17545,7 +17612,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 13920,
+          "raw": 14045,
           "tier": 5
         },
         "Gadgetzan": {
@@ -17555,35 +17622,35 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6320,
+          "raw": 6445,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6507,
+          "raw": 6632,
           "tier": 4
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7732,
+          "raw": 8232,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 49,
-        "deaths": 30,
+        "deaths": 31,
         "drinks": 100,
-        "flights": 40,
+        "flights": 41,
         "food": 53,
-        "health_potions": 34,
+        "health_potions": 36,
         "hearths": 19,
-        "killing_blows": 782,
+        "killing_blows": 809,
         "mana_potions": 43,
-        "mobs": 2374,
-        "quests": 211
+        "mobs": 2405,
+        "quests": 215
       },
-      "xp": 15604
+      "xp": 27266
     },
     "us:steel-appeal": {
       "achievements": {
@@ -18796,6 +18863,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:gaul-jin": {
+        "c": {
+          "name": "Gaul",
+          "region": "eu",
+          "surname": "Jin"
+        },
+        "lines": [
+          "🛠️ **Kürschnerei** auf 75",
+          "🔵 Erstes blaues Item: **[Satyrnhaut-Umhang](https://www.wowhead.com/forever/de/item=273005)** (Back)"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 13
+        }
+      },
       "eu:howard-wolowitzard": {
         "c": {
           "name": "Howard",
@@ -18869,6 +18951,20 @@
         "snap": {
           "class": "Paladin",
           "level": 39
+        }
+      },
+      "us:pwanage-ownage": {
+        "c": {
+          "name": "pwanage",
+          "region": "us",
+          "surname": "ownage"
+        },
+        "lines": [
+          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 27
         }
       }
     },
@@ -19415,6 +19511,7 @@
     "Improved Fire Blast": "Verbesserter Feuerschlag",
     "Improved Flamestrike": "Verbesserter Flammenstoß",
     "Improved Ghost Wolf": "Verbesserter Geisterwolf",
+    "Improved Gouge": "Verbesserter Solarplexus",
     "Improved Healing": "Verbesserte Heilung",
     "Improved Heroic Strike": "Verbesserter heldenhafter Stoß",
     "Improved Judgement": "Verbessertes Richturteil",
@@ -20865,7 +20962,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795048588,
+  "saved_at": 1795049769,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
