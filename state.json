@@ -4258,7 +4258,7 @@
       },
       "ilvl": 18,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795050907000,
+      "last_login": 1795084786000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -4269,7 +4269,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 214,
-        "Tailoring": 178
+        "Tailoring": 195
       },
       "race": "Undead",
       "raids": {},
@@ -4544,6 +4544,14 @@
             "name": "Colorful Kilt"
           },
           {
+            "id": 6581,
+            "name": "Black Mageweave Leggings"
+          },
+          {
+            "id": 6589,
+            "name": "Orange Mageweave Shirt"
+          },
+          {
             "id": 4848,
             "name": "Linen Belt"
           },
@@ -4772,6 +4780,10 @@
             "name": "White Woolen Dress"
           },
           {
+            "id": 6596,
+            "name": "Mageweave Bag"
+          },
+          {
             "id": 4302,
             "name": "Brown Linen Robe"
           },
@@ -4927,7 +4939,7 @@
         "critters": 25,
         "deaths": 43,
         "drinks": 57,
-        "flights": 52,
+        "flights": 54,
         "food": 78,
         "health_potions": 13,
         "hearths": 46,
@@ -21490,7 +21502,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795084787,
+  "saved_at": 1795085693,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
