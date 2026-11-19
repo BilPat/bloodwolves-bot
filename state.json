@@ -9564,7 +9564,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795097402000,
+      "last_login": 1795099340000,
       "level": 29,
       "level_at": {
         "28": 1794866470,
@@ -9755,7 +9755,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8412,
+          "raw": 8437,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9775,7 +9775,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11375,
+          "raw": 11400,
           "tier": 5
         },
         "Powderfuse": {
@@ -9790,31 +9790,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7016,
+          "raw": 7041,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9623,
+          "raw": 9723,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 39,
+        "critters": 40,
         "deaths": 8,
         "drinks": 7,
         "flights": 45,
         "food": 77,
         "health_potions": 26,
-        "hearths": 26,
+        "hearths": 27,
         "honorable_kills": 1,
-        "killing_blows": 2480,
+        "killing_blows": 2516,
         "mana_potions": 1,
-        "mobs": 4217,
-        "quests": 238
+        "mobs": 4251,
+        "quests": 239
       },
-      "xp": 15974
+      "xp": 22715
     },
     "eu:keta-f%C3%A4se": {
       "achievements": {
@@ -10476,11 +10476,12 @@
       },
       "ilvl": 23,
       "last_explored": "Durotar",
-      "last_login": 1795070054000,
-      "level": 28,
+      "last_login": 1795100001000,
+      "level": 29,
       "level_at": {
         "27": 1794866470,
-        "28": 1795022064
+        "28": 1795022064,
+        "29": 1795100112
       },
       "professions": {
         "Cooking": 27,
@@ -10705,7 +10706,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9866,
+          "raw": 9935,
           "tier": 5
         },
         "Earthen Ring": {
@@ -10725,7 +10726,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12935,
+          "raw": 13003,
           "tier": 5
         },
         "Powderfuse": {
@@ -10740,12 +10741,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8330,
+          "raw": 8605,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3140,
+          "raw": 3208,
           "tier": 4
         }
       },
@@ -10753,17 +10754,17 @@
       "stats": {
         "critters": 24,
         "deaths": 12,
-        "drinks": 599,
+        "drinks": 603,
         "flights": 58,
-        "food": 205,
+        "food": 207,
         "health_potions": 3,
-        "hearths": 22,
-        "killing_blows": 1329,
+        "hearths": 23,
+        "killing_blows": 1352,
         "mana_potions": 4,
-        "mobs": 2448,
-        "quests": 184
+        "mobs": 2490,
+        "quests": 187
       },
-      "xp": 33603
+      "xp": 4839
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -21691,7 +21692,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795099181,
+  "saved_at": 1795100114,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
