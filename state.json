@@ -15040,7 +15040,7 @@
       },
       "ilvl": 28,
       "last_explored": "Mulgore",
-      "last_login": 1795031013000,
+      "last_login": 1795084573000,
       "level": 32,
       "level_at": {
         "31": 1794866470,
@@ -15349,11 +15349,6 @@
           "raw": 1898,
           "tier": 3
         },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Gadgetzan": {
           "name": "Neutral",
           "raw": 1898,
@@ -15389,7 +15384,7 @@
       "stats": {
         "critters": 73,
         "deaths": 25,
-        "flights": 37,
+        "flights": 38,
         "food": 106,
         "health_potions": 27,
         "hearths": 23,
@@ -21495,7 +21490,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795083913,
+  "saved_at": 1795084787,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
