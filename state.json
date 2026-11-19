@@ -3620,11 +3620,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/116/18969204-avatar.jpg",
       "best_item": {
-        "id": 4251,
-        "ilvl": 26,
-        "name": "Hillman's Shoulders",
+        "id": 5355,
+        "ilvl": 28,
+        "name": "Beastmaster's Girdle",
         "quality": "UNCOMMON",
-        "slot": "Shoulders"
+        "slot": "Waist"
       },
       "boss_kills": {
         "15028": {
@@ -3649,14 +3649,18 @@
           "name": "Snake Eye Kaleidoscope",
           "quality": "RARE"
         },
+        "4253": {
+          "name": "Toughened Leather Gloves",
+          "quality": "RARE"
+        },
         "6472": {
           "name": "Stinging Viper",
           "quality": "RARE"
         }
       },
-      "ilvl": 15,
+      "ilvl": 17,
       "last_explored": null,
-      "last_login": 1795112122000,
+      "last_login": 1795114454000,
       "level": 23,
       "level_at": {
         "21": 1794866470,
@@ -3664,10 +3668,10 @@
         "23": 1795106395
       },
       "professions": {
-        "Cooking": 91,
-        "First Aid": 94,
+        "Cooking": 96,
+        "First Aid": 100,
         "Fishing": 28,
-        "Leatherworking": 106,
+        "Leatherworking": 111,
         "Skinning": 170
       },
       "race": "Tauren",
@@ -3897,6 +3901,10 @@
             "name": "Hillman's Shoulders"
           },
           {
+            "id": 2179,
+            "name": "Toughened Leather Gloves"
+          },
+          {
             "id": 2195,
             "name": "Cured Light Hide"
           },
@@ -3976,7 +3984,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4672,
+          "raw": 4866,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3996,7 +4004,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7098,
+          "raw": 7367,
           "tier": 4
         },
         "Powderfuse": {
@@ -4011,12 +4019,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11240,
+          "raw": 11490,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2316,
+          "raw": 2435,
           "tier": 3
         }
       },
@@ -4025,16 +4033,16 @@
         "critters": 11,
         "deaths": 5,
         "drinks": 63,
-        "flights": 24,
+        "flights": 25,
         "food": 80,
         "health_potions": 28,
-        "hearths": 21,
+        "hearths": 22,
         "killing_blows": 1065,
         "mana_potions": 5,
-        "mobs": 1342,
-        "quests": 162
+        "mobs": 1343,
+        "quests": 166
       },
-      "xp": 17328
+      "xp": 25555
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -4259,7 +4267,7 @@
       },
       "ilvl": 19,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795113361000,
+      "last_login": 1795113843000,
       "level": 24,
       "level_at": {
         "22": 1794866470,
@@ -12143,11 +12151,12 @@
       },
       "ilvl": 19,
       "last_explored": "Durotar",
-      "last_login": 1795051248000,
-      "level": 25,
+      "last_login": 1795114193000,
+      "level": 26,
       "level_at": {
         "24": 1794866470,
-        "25": 1794877050
+        "25": 1794877050,
+        "26": 1795114488
       },
       "professions": {
         "Cooking": 108,
@@ -12474,7 +12483,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9978,
+          "raw": 10203,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -12499,7 +12508,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11072,
+          "raw": 11222,
           "tier": 5
         },
         "Powderfuse": {
@@ -12514,12 +12523,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5503,
+          "raw": 5578,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3271,
+          "raw": 3346,
           "tier": 4
         }
       },
@@ -12527,17 +12536,17 @@
       "stats": {
         "critters": 16,
         "deaths": 23,
-        "drinks": 13,
-        "flights": 24,
+        "drinks": 14,
+        "flights": 25,
         "food": 4,
         "health_potions": 20,
         "hearths": 14,
-        "killing_blows": 1167,
+        "killing_blows": 1220,
         "mana_potions": 6,
-        "mobs": 1904,
-        "quests": 169
+        "mobs": 1982,
+        "quests": 172
       },
-      "xp": 26835
+      "xp": 5335
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -20133,6 +20142,7 @@
     "Flight paths taken": "Bereiste Flugrouten",
     "Flimsy Chain Bracers": "Sehr leichte Kettenarmschienen",
     "Flimsy Chain Gloves": "Sehr leichte Kettenhandschuhe",
+    "Flurry": "Schlaghagel",
     "Focused Fire": "Konzentriertes Feuer",
     "Focused Rage": "Fokussierte Wut",
     "Food eaten": "Nahrung konsumiert",
@@ -20823,6 +20833,7 @@
     "Wand of Decay": "Zauberstab des Verfalls",
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
+    "Ward of the Vale": "Schutzschild des Tales",
     "Warlock": "Hexenmeister",
     "Warped Leather Belt": "Verformter Ledergürtel",
     "Warped Leather Boots": "Verformte Lederstiefel",
@@ -21768,7 +21779,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795113628,
+  "saved_at": 1795114489,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
