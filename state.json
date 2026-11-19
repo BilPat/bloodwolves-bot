@@ -9221,9 +9221,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 37,
+      "ilvl": 38,
       "last_explored": "Thousand Needles",
-      "last_login": 1795044686000,
+      "last_login": 1795124066000,
       "level": 45,
       "level_at": {
         "42": 1794866470,
@@ -9233,8 +9233,8 @@
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
-        "Fishing": 208,
-        "Mining": 178,
+        "Fishing": 209,
+        "Mining": 179,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -9344,12 +9344,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4161,
+          "raw": 4981,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11280,
+          "raw": 11298,
           "tier": 5
         },
         "Earthen Ring": {
@@ -9359,59 +9359,54 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3794,
+          "raw": 4614,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3806,
+          "raw": 5446,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13646,
+          "raw": 13665,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4766,
+          "raw": 5586,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5435,
+          "raw": 6255,
           "tier": 4
-        },
-        "Shen'dralar": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19695,
+          "raw": 19713,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9838,
+          "raw": 9913,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 102,
-        "deaths": 71,
+        "deaths": 72,
         "drinks": 2,
         "flights": 98,
         "food": 168,
-        "health_potions": 116,
+        "health_potions": 119,
         "hearths": 27,
-        "killing_blows": 3317,
-        "mobs": 5945,
-        "quests": 514
+        "killing_blows": 3419,
+        "mobs": 6118,
+        "quests": 523
       },
-      "xp": 24101
+      "xp": 89102
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -13697,7 +13692,9 @@
       "xp": 34
     },
     "eu:milly-silverwood": {
-      "achievements": {},
+      "achievements": {
+        "61997": "Novice Paladin"
+      },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/87/13237079-avatar.jpg",
       "best_item": {
         "id": 250528,
@@ -13722,6 +13719,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "13245": {
+          "name": "Kresh's Back",
+          "quality": "RARE"
+        },
         "250514": {
           "name": "Guard's Chain Belt",
           "quality": "RARE"
@@ -13735,15 +13736,16 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 17,
+      "ilvl": 18,
       "last_explored": null,
-      "last_login": 1794862928000,
-      "level": 24,
+      "last_login": 1795123626000,
+      "level": 25,
       "level_at": {
-        "24": 1794866470
+        "24": 1794866470,
+        "25": 1795124372
       },
       "professions": {
-        "Blacksmithing": 101,
+        "Blacksmithing": 103,
         "Cooking": 34,
         "First Aid": 54,
         "Fishing": 12,
@@ -14044,7 +14046,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3857,
+          "raw": 3882,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -14064,7 +14066,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6145,
+          "raw": 6170,
           "tier": 4
         },
         "Powderfuse": {
@@ -14079,12 +14081,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3373,
+          "raw": 3473,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9111,
+          "raw": 9136,
           "tier": 5
         }
       },
@@ -14093,17 +14095,16 @@
         "critters": 34,
         "deaths": 20,
         "drinks": 13,
-        "flights": 41,
+        "flights": 46,
         "food": 14,
         "health_potions": 9,
-        "hearths": 26,
-        "killing_blows": 1433,
+        "hearths": 27,
+        "killing_blows": 1440,
         "mana_potions": 1,
-        "mobs": 1988,
-        "need_rolls": 4,
-        "quests": 125
+        "mobs": 1995,
+        "quests": 128
       },
-      "xp": 24682
+      "xp": 4466
     },
     "eu:mimisiku-meatshield": {
       "achievements": {},
@@ -19659,7 +19660,22 @@
     ]
   },
   "daily_digest": {
-    "items": {},
+    "items": {
+      "eu:milly-silverwood": {
+        "c": {
+          "name": "Milly",
+          "region": "eu",
+          "surname": "Silverwood"
+        },
+        "lines": [
+          "🎖️ [Novice Paladin](https://www.wowhead.com/forever/de/achievement=61997)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 25
+        }
+      }
+    },
     "last": "2026-11-19"
   },
   "de_names": {
@@ -20639,6 +20655,7 @@
     "Soul Harvest": "Seelenernte",
     "Soul Link": "Seelenverbindung",
     "Soul Siphon": "Seelenentzug",
+    "Southsea Head Bucket": "Südmeertopfhelm",
     "Spare Part Bindings": "Ersatzteilbindungen",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
     "Spell Damage": "Zauberschaden",
@@ -21747,7 +21764,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795123500,
+  "saved_at": 1795124373,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
