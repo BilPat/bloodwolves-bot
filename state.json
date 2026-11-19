@@ -682,12 +682,13 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 14,
+      "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1794925743000,
-      "level": 21,
+      "last_login": 1795123182000,
+      "level": 22,
       "level_at": {
-        "21": 1794866470
+        "21": 1794866470,
+        "22": 1795123499
       },
       "professions": {
         "Cooking": 7,
@@ -931,64 +932,64 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1063,
+          "raw": 1088,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7958,
+          "raw": 8083,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1063,
+          "raw": 1088,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1063,
+          "raw": 1088,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10690,
+          "raw": 10815,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1063,
+          "raw": 1088,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2026,
+          "raw": 2076,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5142,
+          "raw": 5192,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1695,
+          "raw": 1745,
           "tier": 3
         }
       },
       "spec": "Affliction",
       "stats": {
         "critters": 15,
-        "deaths": 24,
+        "deaths": 25,
         "drinks": 1,
-        "flights": 13,
+        "flights": 14,
         "food": 8,
         "health_potions": 22,
-        "hearths": 6,
-        "killing_blows": 850,
-        "mobs": 1225,
-        "quests": 114
+        "hearths": 7,
+        "killing_blows": 877,
+        "mobs": 1252,
+        "quests": 121
       },
-      "xp": 7463
+      "xp": 265
     },
     "eu:aru-tai": {
       "achievements": {
@@ -21746,7 +21747,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795122818,
+  "saved_at": 1795123500,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
