@@ -4257,9 +4257,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 19,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795094926000,
+      "last_login": 1795113361000,
       "level": 24,
       "level_at": {
         "22": 1794866470,
@@ -4270,8 +4270,8 @@
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 224,
-        "Tailoring": 196
+        "Herbalism": 232,
+        "Tailoring": 201
       },
       "race": "Undead",
       "raids": {},
@@ -4850,6 +4850,10 @@
             "name": "Filigreed Pearly Leggings"
           },
           {
+            "id": 55473,
+            "name": "Filigreed Shining Circlet"
+          },
+          {
             "id": 55481,
             "name": "Gilded Slippers"
           },
@@ -4896,7 +4900,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3491,
+          "raw": 3516,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4916,7 +4920,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4166,
+          "raw": 4191,
           "tier": 4
         },
         "Powderfuse": {
@@ -4931,30 +4935,30 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1678,
+          "raw": 1703,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11312,
+          "raw": 11412,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
         "critters": 25,
-        "deaths": 43,
-        "drinks": 58,
-        "flights": 56,
-        "food": 79,
+        "deaths": 45,
+        "drinks": 61,
+        "flights": 60,
+        "food": 81,
         "health_potions": 13,
-        "hearths": 47,
-        "killing_blows": 819,
+        "hearths": 52,
+        "killing_blows": 832,
         "mana_potions": 20,
-        "mobs": 2729,
-        "quests": 143
+        "mobs": 2742,
+        "quests": 144
       },
-      "xp": 497
+      "xp": 7426
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -19476,6 +19480,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "🛠️ **Kräuterkunde** auf 225"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 24
+        }
+      },
       "eu:fred-feuersturm": {
         "c": {
           "name": "Fred",
@@ -21749,7 +21768,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795113063,
+  "saved_at": 1795113628,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
