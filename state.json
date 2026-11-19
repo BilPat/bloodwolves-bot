@@ -4449,7 +4449,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795126607000,
+      "last_login": 1795127424000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -8956,7 +8956,7 @@
       },
       "ilvl": 7,
       "last_explored": null,
-      "last_login": 1795048722000,
+      "last_login": 1795127668000,
       "level": 13,
       "level_at": {
         "10": 1795018583,
@@ -8965,7 +8965,7 @@
       "professions": {
         "Cooking": 2,
         "Leatherworking": 51,
-        "Skinning": 76
+        "Skinning": 77
       },
       "race": "Troll",
       "raids": {},
@@ -9089,17 +9089,12 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7172,
+          "raw": 7410,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
           "raw": 525,
-          "tier": 3
-        },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
           "tier": 3
         },
         "Gadgetzan": {
@@ -9109,7 +9104,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6522,
+          "raw": 6760,
           "tier": 4
         },
         "Powderfuse": {
@@ -9124,27 +9119,27 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3237,
+          "raw": 3487,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 750,
+          "raw": 812,
           "tier": 3
         }
       },
       "spec": "Assassination",
       "stats": {
         "deaths": 5,
-        "flights": 1,
+        "flights": 2,
         "food": 15,
         "health_potions": 4,
         "hearths": 6,
-        "killing_blows": 294,
-        "mobs": 401,
-        "quests": 48
+        "killing_blows": 295,
+        "mobs": 402,
+        "quests": 52
       },
-      "xp": 1972
+      "xp": 8566
     },
     "eu:h%C3%A4uptling-blutmacht": {
       "achievements": {
@@ -12350,9 +12345,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 19,
+      "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1795114193000,
+      "last_login": 1795127578000,
       "level": 26,
       "level_at": {
         "24": 1794866470,
@@ -12364,7 +12359,7 @@
         "First Aid": 65,
         "Fishing": 100,
         "Leatherworking": 114,
-        "Skinning": 194
+        "Skinning": 195
       },
       "race": "Troll",
       "raids": {},
@@ -12677,9 +12672,14 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 200,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1517,
+          "raw": 1567,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -12692,19 +12692,14 @@
           "raw": 2000,
           "tier": 3
         },
-        "Earthen Ring": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1517,
+          "raw": 1567,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1517,
+          "raw": 1567,
           "tier": 3
         },
         "Orgrimmar": {
@@ -12714,13 +12709,13 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1517,
+          "raw": 1567,
           "tier": 3
         },
         "Ratchet": {
-          "name": "Neutral",
-          "raw": 2934,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3034,
+          "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
@@ -12736,18 +12731,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 16,
-        "deaths": 23,
+        "deaths": 24,
         "drinks": 14,
-        "flights": 25,
-        "food": 4,
-        "health_potions": 20,
+        "flights": 26,
+        "food": 8,
+        "health_potions": 21,
         "hearths": 14,
-        "killing_blows": 1220,
+        "killing_blows": 1287,
         "mana_potions": 6,
-        "mobs": 1982,
-        "quests": 172
+        "mobs": 2098,
+        "quests": 174
       },
-      "xp": 5335
+      "xp": 23043
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -21846,7 +21841,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795127144,
+  "saved_at": 1795127997,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
