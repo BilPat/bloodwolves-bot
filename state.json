@@ -2617,17 +2617,18 @@
     "eu:blut-leiche": {
       "achievements": {
         "62009": "Novice Warlock",
+        "62010": "Experienced Warlock",
         "62018": "Journeyman Enchanter",
         "62028": "Journeyman Tailor",
         "769": "Explore Silverpine Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/181/6286517-avatar.jpg",
       "best_item": {
-        "id": 10019,
-        "ilvl": 45,
-        "name": "Dreamweave Gloves",
-        "quality": "RARE",
-        "slot": "Hands"
+        "id": 12043,
+        "ilvl": 47,
+        "name": "Desert Choker of the Hierophant",
+        "quality": "UNCOMMON",
+        "slot": "Neck"
       },
       "boss_kills": {
         "1092": {
@@ -2699,6 +2700,10 @@
           "name": "Tuskwrap Belt",
           "quality": "RARE"
         },
+        "275043": {
+          "name": "Bloodmaster's Ring",
+          "quality": "RARE"
+        },
         "279843": {
           "name": "Enchanted Sandals",
           "quality": "RARE"
@@ -2720,13 +2725,14 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 31,
+      "ilvl": 32,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795038879000,
-      "level": 43,
+      "last_login": 1795126690000,
+      "level": 45,
       "level_at": {
         "42": 1794866470,
-        "43": 1795032935
+        "43": 1795032935,
+        "45": 1795127142
       },
       "professions": {
         "Cooking": 225,
@@ -2813,6 +2819,10 @@
           {
             "id": 58468,
             "name": "Briny Seafood Stew"
+          },
+          {
+            "id": 58469,
+            "name": "Plain Ol' Paletusk"
           }
         ],
         "Enchanting": [
@@ -3138,17 +3148,22 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -14550,
+          "raw": -17350,
           "tier": 0
+        },
+        "Bolder'ok Clan": {
+          "name": "Friendly",
+          "raw": 3711,
+          "tier": 4
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4136,
+          "raw": 4716,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7867,
+          "raw": 7967,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3163,12 +3178,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3153,
+          "raw": 3453,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3153,
+          "raw": 3465,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3183,27 +3198,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9656,
+          "raw": 9681,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3308,
+          "raw": 3615,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4518,
+          "raw": 4818,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7470,
+          "raw": 7495,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19888,
+          "raw": 19913,
           "tier": 5
         }
       },
@@ -3211,17 +3226,17 @@
       "stats": {
         "critters": 99,
         "deaths": 11,
-        "drinks": 65,
-        "flights": 86,
-        "food": 84,
-        "health_potions": 26,
-        "hearths": 38,
-        "killing_blows": 4443,
+        "drinks": 69,
+        "flights": 88,
+        "food": 85,
+        "health_potions": 28,
+        "hearths": 39,
+        "killing_blows": 4706,
         "mana_potions": 2,
-        "mobs": 6861,
-        "quests": 393
+        "mobs": 7183,
+        "quests": 438
       },
-      "xp": 58270
+      "xp": 15316
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -4434,7 +4449,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795124431000,
+      "last_login": 1795126607000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5138,6 +5153,7 @@
     },
     "eu:efrye-frostmage": {
       "achievements": {
+        "62000": "Novice Priest",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
@@ -5157,16 +5173,16 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795048242000,
+      "last_login": 1795126813000,
       "level": 10,
       "level_at": {
         "10": 1795051505
       },
       "professions": {
-        "Alchemy": 75,
+        "Alchemy": 79,
         "Cooking": 7,
-        "Enchanting": 63,
-        "First Aid": 37,
+        "Enchanting": 71,
+        "First Aid": 47,
         "Fishing": 1
       },
       "race": "Undead",
@@ -5174,12 +5190,20 @@
       "recipes": {
         "Alchemy": [
           {
+            "id": 1382,
+            "name": "Elixir of Minor Fortitude"
+          },
+          {
             "id": 4178,
             "name": "Elixir of Minor Defense"
           },
           {
             "id": 52646,
             "name": "Mana Well"
+          },
+          {
+            "id": 54456,
+            "name": "Sulfuric Acid"
           },
           {
             "id": 54210,
@@ -19672,6 +19696,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:blut-leiche": {
+        "c": {
+          "name": "Blut",
+          "region": "eu",
+          "surname": "Leiche"
+        },
+        "lines": [
+          "🎖️ [Experienced Warlock](https://www.wowhead.com/forever/de/achievement=62010)"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 45
+        }
+      },
       "eu:efrye-frostheal": {
         "c": {
           "name": "Efrye",
@@ -19685,6 +19723,21 @@
         "snap": {
           "class": "Priest",
           "level": 25
+        }
+      },
+      "eu:efrye-frostmage": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostmage"
+        },
+        "lines": [
+          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 10
         }
       },
       "eu:milly-silverwood": {
@@ -20009,6 +20062,7 @@
     "Demonic Sacrifice": "Dämonische Opferung",
     "Demonology": "Dämonologie",
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
+    "Desert Choker of the Hierophant": "Wüstenhalsschmuck des Hierophanten",
     "Desert Shoulders": "Wüsten-Schultern",
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
@@ -20073,6 +20127,7 @@
     "Enchant Chest - Inferior Stamina": "Brust - Minderwertige Ausdauer",
     "Enchant Chest - Intellect": "Brust - Intelligenz",
     "Enchant Chest - Lesser Stamina": "Brust - Geringe Ausdauer",
+    "Enchant Chest - Minor Absorption": "Brust - Schwache Absorption",
     "Enchant Chest - Minor Intellect": "Brust - Schwache Intelligenz",
     "Enchant Chest - Stamina": "Brust - Ausdauer",
     "Enchant Cloak - Lesser Protection": "Umhang - Geringer Schutz",
@@ -20292,6 +20347,7 @@
     "Improved Sayaad": "Verbesserte Sayaad",
     "Improved Scorch": "Verbessertes Versengen",
     "Improved Seals": "Verbesserte Siegel",
+    "Improved Shadow Bolt": "Verbesserter Schattenblitz",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
     "Improved Sprint": "Verbessertes Sprinten",
     "Improved Sunder Armor": "Verbessertes Rüstung zerreißen",
@@ -21790,7 +21846,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795126487,
+  "saved_at": 1795127144,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
