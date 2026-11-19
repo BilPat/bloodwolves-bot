@@ -9558,7 +9558,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795091008000,
+      "last_login": 1795097402000,
       "level": 29,
       "level_at": {
         "28": 1794866470,
@@ -9569,7 +9569,7 @@
         "Cooking": 121,
         "First Aid": 90,
         "Fishing": 128,
-        "Mining": 3
+        "Mining": 4
       },
       "race": "Undead",
       "raids": {},
@@ -9749,7 +9749,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8375,
+          "raw": 8412,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9769,7 +9769,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11337,
+          "raw": 11375,
           "tier": 5
         },
         "Powderfuse": {
@@ -9784,12 +9784,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6866,
+          "raw": 7016,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9586,
+          "raw": 9623,
           "tier": 5
         }
       },
@@ -9799,16 +9799,16 @@
         "deaths": 8,
         "drinks": 7,
         "flights": 45,
-        "food": 75,
+        "food": 77,
         "health_potions": 26,
         "hearths": 26,
         "honorable_kills": 1,
-        "killing_blows": 2429,
+        "killing_blows": 2480,
         "mana_potions": 1,
-        "mobs": 4166,
-        "quests": 237
+        "mobs": 4217,
+        "quests": 238
       },
-      "xp": 7670
+      "xp": 15974
     },
     "eu:keta-f%C3%A4se": {
       "achievements": {
@@ -17795,17 +17795,18 @@
       },
       "ilvl": 24,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795061179000,
-      "level": 28,
+      "last_login": 1795096169000,
+      "level": 29,
       "level_at": {
         "26": 1794965196,
         "27": 1795005720,
-        "28": 1795061895
+        "28": 1795061895,
+        "29": 1795097762
       },
       "professions": {
-        "Alchemy": 179,
+        "Alchemy": 189,
         "Cooking": 146,
-        "First Aid": 124,
+        "First Aid": 128,
         "Fishing": 109,
         "Herbalism": 194
       },
@@ -17916,6 +17917,10 @@
           {
             "id": 54546,
             "name": "Minor Mageblood Elixir"
+          },
+          {
+            "id": 54547,
+            "name": "Lesser Mageblood Elixir"
           },
           {
             "id": 54667,
@@ -18145,7 +18150,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 14082,
+          "raw": 14085,
           "tier": 5
         },
         "Gadgetzan": {
@@ -18155,17 +18160,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6482,
+          "raw": 6485,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6670,
+          "raw": 6672,
           "tier": 4
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8382,
+          "raw": 8392,
           "tier": 4
         }
       },
@@ -18174,16 +18179,16 @@
         "critters": 55,
         "deaths": 32,
         "drinks": 104,
-        "flights": 44,
+        "flights": 46,
         "food": 55,
         "health_potions": 37,
-        "hearths": 21,
+        "hearths": 22,
         "killing_blows": 844,
         "mana_potions": 47,
         "mobs": 2668,
-        "quests": 224
+        "quests": 227
       },
-      "xp": 33638
+      "xp": 2338
     },
     "us:steel-appeal": {
       "achievements": {
@@ -18307,7 +18312,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795061512000,
+      "last_login": 1795097528000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -18808,7 +18813,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16587,
+          "raw": 16612,
           "tier": 5
         },
         "Everlook": {
@@ -18823,12 +18828,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6491,
+          "raw": 6516,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7846,
+          "raw": 7871,
           "tier": 4
         },
         "Kirin Tor": {
@@ -18848,7 +18853,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8292,
+          "raw": 8392,
           "tier": 4
         }
       },
@@ -18861,11 +18866,11 @@
         "food": 111,
         "health_potions": 30,
         "hearths": 49,
-        "killing_blows": 2160,
-        "mobs": 4254,
-        "quests": 272
+        "killing_blows": 2161,
+        "mobs": 4255,
+        "quests": 273
       },
-      "xp": 4835
+      "xp": 7327
     },
     "us:whizz-aard": {
       "achievements": {
@@ -19752,6 +19757,7 @@
     "Butcher's Slicer": "Schlächterschnitzler",
     "Buzz Saw": "Kreissäge",
     "Cadet Belt": "Kadettengürtel",
+    "Cadet Leggings": "Kadettengamaschen",
     "Calico Cloak": "Kattunumhang",
     "Call of Flame": "Ruf der Flamme",
     "Canvas Shoulderpads": "Segeltuchschulterpolster",
@@ -19792,6 +19798,7 @@
     "Clever Shapeshifter": "Gerissener Gestaltwandler",
     "Clobrok's Block Rock": "Clobroks Brockenfels",
     "Cloth": "Stoff",
+    "Cobrahn's Grasp": "Kobrahns Griff",
     "Cold Blood": "Kaltblütigkeit",
     "Cold Steel Gauntlets": "Kaltstahlstulpen",
     "Combat": "Kampf",
@@ -19823,6 +19830,7 @@
     "Crossbow": "Armbrust",
     "Cruelty": "Grausamkeit",
     "Crusader's Chain Leggings": "Kettengamaschen des Kreuzfahrers",
+    "Crustacean Boots": "Krustentier-Stiefel",
     "Cryptwalker Boots": "Gruftwandler-Stiefel",
     "Crystal Thread Cloak": "Kristallfadenumhang",
     "Cultist's Armguards": "Armschützer des Kultisten",
@@ -19976,6 +19984,7 @@
     "Fighter Broadsword of the Elder": "Kämpferbreitschwert des Ältesten",
     "Fine Leather Belt": "Feiner Ledergürtel",
     "Fine Leather Tunic": "Feine Ledertunika",
+    "Fine Scimitar": "Feiner Krummsäbel",
     "Finscale Soles": "Flossenschuppensohlen",
     "Fire": "Feuer",
     "Fire Damage": "Feuerschaden",
@@ -20421,6 +20430,7 @@
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
     "Runed Copper Belt": "Runenverzierter Kupfergürtel",
     "Runed Copper Bracers": "Runenverzierte Kupferarmschienen",
+    "Runed Copper Breastplate": "Runenverzierte Kupferbrustplatte",
     "Runed Copper Gauntlets": "Runenverzierte Kupferstulpen",
     "Runed Copper Pants": "Runenverzierte Kupferhose",
     "Rustmetal Bracers": "Rostmetallarmschienen",
@@ -21628,7 +21638,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795095634,
+  "saved_at": 1795097763,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
