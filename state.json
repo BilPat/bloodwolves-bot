@@ -15964,18 +15964,19 @@
       },
       "ilvl": 21,
       "last_explored": "Moonglade",
-      "last_login": 1795104418000,
-      "level": 27,
+      "last_login": 1795112435000,
+      "level": 28,
       "level_at": {
         "25": 1794866470,
         "26": 1794994743,
-        "27": 1795081184
+        "27": 1795081184,
+        "28": 1795113062
       },
       "professions": {
-        "Alchemy": 167,
-        "Cooking": 116,
+        "Alchemy": 186,
+        "Cooking": 121,
         "Fishing": 75,
-        "Herbalism": 162
+        "Herbalism": 164
       },
       "race": "Tauren",
       "raids": {},
@@ -16002,8 +16003,20 @@
             "name": "Minor Troll's Blood Elixir"
           },
           {
+            "id": 1931,
+            "name": "Lesser Invisibility Potion"
+          },
+          {
             "id": 1932,
             "name": "Shadow Oil"
+          },
+          {
+            "id": 1933,
+            "name": "Elixir of Lesser Fortitude"
+          },
+          {
+            "id": 1935,
+            "name": "Mana Potion"
           },
           {
             "id": 1378,
@@ -16020,6 +16033,10 @@
           {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
+          },
+          {
+            "id": 5997,
+            "name": "Elixir of Agility"
           },
           {
             "id": 4393,
@@ -16186,7 +16203,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6232,
+          "raw": 6395,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16211,7 +16228,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7882,
+          "raw": 8045,
           "tier": 4
         },
         "Powderfuse": {
@@ -16226,12 +16243,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12343,
+          "raw": 12543,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3426,
+          "raw": 3513,
           "tier": 4
         }
       },
@@ -16239,16 +16256,16 @@
       "stats": {
         "critters": 19,
         "deaths": 21,
-        "drinks": 10,
-        "flights": 40,
-        "food": 26,
+        "drinks": 11,
+        "flights": 41,
+        "food": 27,
         "health_potions": 4,
-        "hearths": 22,
-        "killing_blows": 1089,
-        "mobs": 1977,
-        "quests": 196
+        "hearths": 23,
+        "killing_blows": 1142,
+        "mobs": 2036,
+        "quests": 199
       },
-      "xp": 32349
+      "xp": 5562
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -21732,7 +21749,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795112294,
+  "saved_at": 1795113063,
   "weekly": {
     "baseline": {
       "eu:alto-belli": {
