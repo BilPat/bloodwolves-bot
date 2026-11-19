@@ -2205,6 +2205,11 @@
           "count": 1,
           "instance": "Wailing Caverns"
         },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -2257,20 +2262,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 22,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794959234000,
-      "level": 26,
+      "last_login": 1795130229000,
+      "level": 28,
       "level_at": {
         "25": 1794884198,
-        "26": 1794959691
+        "26": 1794959691,
+        "28": 1795130659
       },
       "professions": {
         "Cooking": 35,
         "Enchanting": 80,
-        "First Aid": 28,
+        "First Aid": 31,
         "Fishing": 1,
-        "Tailoring": 84
+        "Tailoring": 92
       },
       "race": "Undead",
       "raids": {},
@@ -2567,12 +2573,17 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3732,
+          "raw": 4595,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
           "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 450,
           "tier": 3
         },
         "Everlook": {
@@ -2587,7 +2598,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4295,
+          "raw": 4688,
           "tier": 4
         },
         "Powderfuse": {
@@ -2601,32 +2612,32 @@
           "tier": 3
         },
         "Thunder Bluff": {
-          "name": "Neutral",
-          "raw": 2840,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3458,
+          "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14320,
+          "raw": 15201,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
         "critters": 59,
-        "deaths": 13,
-        "drinks": 61,
-        "flights": 21,
-        "food": 40,
-        "health_potions": 7,
-        "hearths": 20,
+        "deaths": 17,
+        "drinks": 65,
+        "flights": 22,
+        "food": 46,
+        "health_potions": 10,
+        "hearths": 22,
         "honorable_kills": 5,
-        "killing_blows": 1018,
+        "killing_blows": 1106,
         "mana_potions": 15,
-        "mobs": 3318,
-        "quests": 173
+        "mobs": 3572,
+        "quests": 186
       },
-      "xp": 20599
+      "xp": 5298
     },
     "eu:blut-leiche": {
       "achievements": {
@@ -20262,6 +20273,7 @@
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
     "Green Leather Armor": "Grüne Lederrüstung",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
+    "Greenweave Leggings of the Sorcerer": "Grünzwirngamaschen des Zauberers",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
     "Grimlok's Charge": "Grimloks Attacke",
     "Grip of Fear": "Griff der Angst",
@@ -20324,6 +20336,7 @@
     "Hillman's Shoulders": "Schultern des Hügelwächters",
     "Hit": "Trefferwert",
     "Holy": "Heilig",
+    "Holy Binding": "Heilige Bindung",
     "Holy Damage": "Heiligschaden",
     "Holy Nova": "Heilige Nova",
     "Holy Specialization": "Heiligspezialisierung",
@@ -21877,7 +21890,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795129994,
+  "saved_at": 1795130660,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
