@@ -10382,7 +10382,7 @@
       },
       "ilvl": 30,
       "last_explored": "Thousand Needles",
-      "last_login": 1795188945000,
+      "last_login": 1795193496000,
       "level": 36,
       "level_at": {
         "25": 1794866470,
@@ -10400,7 +10400,7 @@
       "professions": {
         "Cooking": 178,
         "First Aid": 204,
-        "Fishing": 8,
+        "Fishing": 12,
         "Leatherworking": 152,
         "Skinning": 236
       },
@@ -22507,7 +22507,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795192833,
+  "saved_at": 1795193687,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
