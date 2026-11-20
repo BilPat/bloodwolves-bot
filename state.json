@@ -8612,6 +8612,10 @@
           "name": "Emblem of Slamming",
           "quality": "RARE"
         },
+        "275043": {
+          "name": "Bloodmaster's Ring",
+          "quality": "RARE"
+        },
         "279480": {
           "name": "Bigger Rock on Bigger Stick",
           "quality": "RARE"
@@ -8625,21 +8629,22 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 42,
+      "ilvl": 43,
       "last_explored": "Thousand Needles",
-      "last_login": 1795202461000,
-      "level": 43,
+      "last_login": 1795212436000,
+      "level": 44,
       "level_at": {
         "40": 1794866470,
         "41": 1795031689,
         "42": 1795117149,
-        "43": 1795194762
+        "43": 1795194762,
+        "44": 1795212804
       },
       "professions": {
         "Blacksmithing": 185,
-        "Cooking": 226,
+        "Cooking": 250,
         "First Aid": 211,
-        "Mining": 215
+        "Mining": 217
       },
       "race": "Undead",
       "raids": {},
@@ -9062,6 +9067,10 @@
           {
             "id": 58468,
             "name": "Briny Seafood Stew"
+          },
+          {
+            "id": 58469,
+            "name": "Plain Ol' Paletusk"
           }
         ],
         "First Aid": [
@@ -9165,17 +9174,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -10875,
+          "raw": -12800,
           "tier": 0
         },
         "Bolder'ok Clan": {
-          "name": "Neutral",
-          "raw": 1231,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3961,
+          "tier": 4
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3913,
+          "raw": 5055,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -9195,12 +9204,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3165,
+          "raw": 4125,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3178,
+          "raw": 4138,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -9220,12 +9229,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3428,
+          "raw": 5165,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4658,
+          "raw": 5618,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -9243,18 +9252,18 @@
       "stats": {
         "critters": 106,
         "deaths": 10,
-        "drinks": 86,
-        "flights": 68,
-        "food": 103,
-        "health_potions": 30,
-        "hearths": 27,
+        "drinks": 88,
+        "flights": 69,
+        "food": 106,
+        "health_potions": 32,
+        "hearths": 28,
         "honorable_kills": 1,
-        "killing_blows": 3442,
+        "killing_blows": 3527,
         "mana_potions": 1,
-        "mobs": 5700,
-        "quests": 475
+        "mobs": 5801,
+        "quests": 509
       },
-      "xp": 94729
+      "xp": 111688
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -20837,6 +20846,7 @@
     "Enchant Boots - Lesser Agility": "Stiefel - Geringe Beweglichkeit",
     "Enchant Boots - Minor Stamina": "Stiefel - Schwache Ausdauer",
     "Enchant Bracer - Inferior Stamina": "Armschiene - Minderwertige Ausdauer",
+    "Enchant Bracer - Intellect": "Armschiene - Intelligenz",
     "Enchant Bracer - Lesser Intellect": "Armschiene - Geringe Intelligenz",
     "Enchant Bracer - Lesser Stamina": "Armschiene - Geringe Ausdauer",
     "Enchant Bracer - Minor Agility": "Armschiene - Schwache Beweglichkeit",
@@ -20844,6 +20854,7 @@
     "Enchant Bracer - Minor Intellect": "Armschiene - Schwache Intelligenz",
     "Enchant Bracer - Minor Stamina": "Armschiene - Schwache Ausdauer",
     "Enchant Bracer - Strength": "Armschiene - Stärke",
+    "Enchant Chest - Greater Intellect": "Brust - Große Intelligenz",
     "Enchant Chest - Greater Stamina": "Brust - Große Ausdauer",
     "Enchant Chest - Inferior Stamina": "Brust - Minderwertige Ausdauer",
     "Enchant Chest - Intellect": "Brust - Intelligenz",
@@ -20855,6 +20866,7 @@
     "Enchant Cloak - Minor Protection": "Umhang - Schwacher Schutz",
     "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
     "Enchant Cloak - Resistance": "Umhang - Widerstand",
+    "Enchant Gloves - Agility": "Handschuhe - Beweglichkeit",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance": "Durchhaltevermögen",
@@ -22641,7 +22653,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795211714,
+  "saved_at": 1795212806,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
