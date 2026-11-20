@@ -1090,7 +1090,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795183279000,
+      "last_login": 1795189033000,
       "level": 26,
       "level_at": {
         "23": 1794866470,
@@ -1250,10 +1250,10 @@
         "critters": 32,
         "deaths": 15,
         "drinks": 17,
-        "flights": 44,
+        "flights": 45,
         "food": 6,
         "health_potions": 5,
-        "hearths": 20,
+        "hearths": 21,
         "killing_blows": 1144,
         "mana_potions": 21,
         "mobs": 2271,
@@ -10247,11 +10247,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 274084,
-        "ilvl": 36,
-        "name": "Quilboar Blaster",
+        "id": 274603,
+        "ilvl": 40,
+        "name": "Dreadfrost Saber",
         "quality": "RARE",
-        "slot": "Ranged"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "1092": {
@@ -10343,6 +10343,14 @@
           "name": "Quilboar Blaster",
           "quality": "RARE"
         },
+        "274599": {
+          "name": "Oathbound Bracers",
+          "quality": "RARE"
+        },
+        "274603": {
+          "name": "Dreadfrost Saber",
+          "quality": "RARE"
+        },
         "4253": {
           "name": "Toughened Leather Gloves",
           "quality": "RARE"
@@ -10362,12 +10370,20 @@
         "6904": {
           "name": "Bite of Serra'kis",
           "quality": "RARE"
+        },
+        "7682": {
+          "name": "Torturing Poker",
+          "quality": "RARE"
+        },
+        "7756": {
+          "name": "Dog Training Gloves",
+          "quality": "RARE"
         }
       },
       "ilvl": 30,
       "last_explored": "Thousand Needles",
-      "last_login": 1795174108000,
-      "level": 35,
+      "last_login": 1795188945000,
+      "level": 36,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -10378,11 +10394,12 @@
         "32": 1795002929,
         "33": 1795022669,
         "34": 1795094133,
-        "35": 1795170310
+        "35": 1795170310,
+        "36": 1795189148
       },
       "professions": {
-        "Cooking": 149,
-        "First Aid": 203,
+        "Cooking": 178,
+        "First Aid": 204,
         "Fishing": 8,
         "Leatherworking": 152,
         "Skinning": 236
@@ -10406,6 +10423,10 @@
           {
             "id": 1902,
             "name": "Hot Lion Chops"
+          },
+          {
+            "id": 1904,
+            "name": "Soothing Turtle Bisque"
           },
           {
             "id": 13344,
@@ -10434,6 +10455,10 @@
           {
             "id": 1545,
             "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
           },
           {
             "id": 4353,
@@ -10783,7 +10808,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5622,
+          "raw": 5760,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -10808,7 +10833,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7435,
+          "raw": 7497,
           "tier": 4
         },
         "Powderfuse": {
@@ -10823,12 +10848,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5241,
+          "raw": 5303,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15893,
+          "raw": 16068,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -10839,19 +10864,19 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 50,
+        "critters": 73,
         "deaths": 29,
-        "drinks": 30,
+        "drinks": 31,
         "flights": 53,
-        "food": 201,
-        "health_potions": 24,
-        "hearths": 16,
+        "food": 218,
+        "health_potions": 26,
+        "hearths": 18,
         "honorable_kills": 147,
-        "killing_blows": 2479,
-        "mobs": 3847,
-        "quests": 258
+        "killing_blows": 2571,
+        "mobs": 4177,
+        "quests": 261
       },
-      "xp": 41115
+      "xp": 15893
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -18067,10 +18092,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 22,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795179753000,
-      "level": 27,
+      "last_login": 1795188493000,
+      "level": 28,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
@@ -18078,7 +18103,8 @@
         "24": 1795011349,
         "25": 1795079821,
         "26": 1795110929,
-        "27": 1795180559
+        "27": 1795180559,
+        "28": 1795189148
       },
       "professions": {
         "Alchemy": 70,
@@ -18161,7 +18187,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3755,
+          "raw": 3930,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -18181,7 +18207,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4280,
+          "raw": 4455,
           "tier": 4
         },
         "Powderfuse": {
@@ -18195,13 +18221,13 @@
           "tier": 3
         },
         "Thunder Bluff": {
-          "name": "Neutral",
-          "raw": 2948,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3236,
+          "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13211,
+          "raw": 13798,
           "tier": 5
         }
       },
@@ -18209,17 +18235,17 @@
       "stats": {
         "critters": 54,
         "deaths": 14,
-        "drinks": 864,
-        "flights": 24,
-        "food": 212,
+        "drinks": 896,
+        "flights": 25,
+        "food": 232,
         "health_potions": 11,
-        "hearths": 23,
-        "killing_blows": 1471,
-        "mana_potions": 19,
-        "mobs": 2300,
-        "quests": 159
+        "hearths": 25,
+        "killing_blows": 1523,
+        "mana_potions": 20,
+        "mobs": 2424,
+        "quests": 166
       },
-      "xp": 13531
+      "xp": 2843
     },
     "us:devil-latterday": {
       "achievements": {
@@ -20304,11 +20330,12 @@
           "surname": "Fäse"
         },
         "lines": [
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
+          "🛠️ **Kochkunst** auf 150"
         ],
         "snap": {
           "class": "Rogue",
-          "level": 35
+          "level": 36
         }
       },
       "eu:milly-silverwood": {
@@ -20662,12 +20689,14 @@
     "Divine Fury": "Göttlicher Furor",
     "Divine Intellect": "Göttliche Weisheit",
     "Divine Strength": "Göttliche Stärke",
+    "Dog Training Gloves": "Handschuhe zur Hundeausbildung",
     "Dokebi Bracers": "Dokebi-Armschienen",
     "Double-Stitched Woolen Shoulders": "Doppelt genähte Wollschultern",
     "Double-layered Gloves": "Doppellagige Handschuhe",
     "Dragon's Blood Necklace": "Drachenblut-Halskette",
     "Dragonclaw Ring": "Drachenklauenring",
     "Drape of Shifting Energy": "Tuch der veränderlichen Energie",
+    "Dreadfrost Saber": "Schreckensfrostsäbel",
     "Dreamer's Chestguard": "Brustschutz des Träumers",
     "Dreamweave Gloves": "Traumzwirnhandschuhe",
     "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
@@ -20853,6 +20882,7 @@
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
     "Guild Tabard": "Gildenwappenrock",
     "Gun": "Schusswaffe",
+    "Hack and Slash": "Niedermetzeln",
     "Hall of Thanes": "Halle der Thanen",
     "Hamhock's Cleaver": "Hamhocks Spaltbeil",
     "Hand of Righteousness": "Hand der Rechtschaffenheit",
@@ -21097,6 +21127,7 @@
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Novice Ardent's Sash": "Schärpe des inbrünstigen Novizen",
     "Number of times hearthed": "Anzahl der Nutzungen des Ruhesteins",
+    "Oathbound Bracers": "Schwurgebundene Armschienen",
     "Odo's Ley Staff": "Odos Leystab",
     "Off Hand": "Schildhand",
     "Ogre Horn Ring": "Ogerhornring",
@@ -21430,6 +21461,8 @@
     "Tiger Hide Boots": "Tigerbalg-Stiefel",
     "Tiger Hunter Gloves": "Tigerjäger-Handschuhe",
     "Times camped": "Ruhezeiten im Lager",
+    "Torture": "Folter",
+    "Torturing Poker": "Quälerschüreisen",
     "Total 10-player raids entered": "10-Spieler-Schlachtzügen beigetreten",
     "Total 5-player dungeons entered": "5-Spieler-Dungeons betreten",
     "Total Honorable Kills": "Ehrenhafte Siege insgesamt",
@@ -22474,7 +22507,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795188368,
+  "saved_at": 1795189149,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
