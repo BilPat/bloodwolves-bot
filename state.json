@@ -3857,7 +3857,7 @@
       },
       "ilvl": 16,
       "last_explored": null,
-      "last_login": 1795170026000,
+      "last_login": 1795172966000,
       "level": 23,
       "level_at": {
         "21": 1794866470,
@@ -4181,7 +4181,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4866,
+          "raw": 4885,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4201,7 +4201,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7367,
+          "raw": 7386,
           "tier": 4
         },
         "Powderfuse": {
@@ -4216,12 +4216,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11490,
+          "raw": 11565,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2435,
+          "raw": 2453,
           "tier": 3
         }
       },
@@ -4234,12 +4234,12 @@
         "food": 80,
         "health_potions": 28,
         "hearths": 23,
-        "killing_blows": 1065,
+        "killing_blows": 1069,
         "mana_potions": 5,
-        "mobs": 1343,
-        "quests": 166
+        "mobs": 1347,
+        "quests": 167
       },
-      "xp": 25555
+      "xp": 27137
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -4398,6 +4398,7 @@
       "achievements": {
         "62000": "Novice Priest",
         "62012": "Journeyman Alchemist",
+        "62018": "Journeyman Enchanter",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
@@ -4475,7 +4476,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795168963000,
+      "last_login": 1795172191000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5181,6 +5182,7 @@
       "achievements": {
         "62000": "Novice Priest",
         "62012": "Journeyman Alchemist",
+        "62018": "Journeyman Enchanter",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
@@ -5200,7 +5202,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795170884000,
+      "last_login": 1795172142000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -5208,7 +5210,7 @@
       "professions": {
         "Alchemy": 150,
         "Cooking": 7,
-        "Enchanting": 118,
+        "Enchanting": 150,
         "First Aid": 47,
         "Fishing": 1
       },
@@ -5320,6 +5322,10 @@
           }
         ],
         "Enchanting": [
+          {
+            "id": 7426,
+            "name": "Enchant Weapon - Lesser Striking"
+          },
           {
             "id": 7999,
             "name": "Lesser Magic Wand"
@@ -15433,7 +15439,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3430,
+          "raw": 3455,
           "tier": 4
         },
         "Everlook": {
@@ -15448,7 +15454,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3880,
+          "raw": 3980,
           "tier": 4
         },
         "Powderfuse": {
@@ -15463,12 +15469,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8695,
+          "raw": 8720,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 905,
+          "raw": 930,
           "tier": 3
         }
       },
@@ -15479,9 +15485,9 @@
         "food": 6,
         "health_potions": 5,
         "hearths": 6,
-        "killing_blows": 688,
-        "mobs": 686,
-        "quests": 82
+        "killing_blows": 713,
+        "mobs": 711,
+        "quests": 83
       },
       "xp": 9991
     },
@@ -17517,7 +17523,7 @@
       },
       "ilvl": 34,
       "last_explored": "Thousand Needles",
-      "last_login": 1795163391000,
+      "last_login": 1795172636000,
       "level": 41,
       "level_at": {
         "35": 1794866470,
@@ -17532,7 +17538,7 @@
         "Cooking": 180,
         "First Aid": 62,
         "Fishing": 156,
-        "Mining": 195
+        "Mining": 196
       },
       "race": "Undead",
       "raids": {},
@@ -17963,17 +17969,17 @@
       "stats": {
         "critters": 114,
         "deaths": 47,
-        "drinks": 22,
-        "flights": 79,
-        "food": 55,
+        "drinks": 23,
+        "flights": 81,
+        "food": 56,
         "health_potions": 32,
         "hearths": 40,
-        "killing_blows": 3009,
+        "killing_blows": 3063,
         "mana_potions": 1,
-        "mobs": 6926,
-        "quests": 384
+        "mobs": 6981,
+        "quests": 390
       },
-      "xp": 49567
+      "xp": 78656
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -18569,7 +18575,7 @@
       },
       "ilvl": 24,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795136706000,
+      "last_login": 1795172302000,
       "level": 29,
       "level_at": {
         "26": 1794965196,
@@ -18579,7 +18585,7 @@
       },
       "professions": {
         "Alchemy": 189,
-        "Cooking": 146,
+        "Cooking": 157,
         "First Aid": 128,
         "Fishing": 109,
         "Herbalism": 194
@@ -18946,11 +18952,6 @@
           "name": "Friendly",
           "raw": 8392,
           "tier": 4
-        },
-        "Theramore Expeditionary Force": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Feral Combat",
@@ -20223,7 +20224,8 @@
         },
         "lines": [
           "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
+          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
         ],
         "snap": {
           "class": "Priest",
@@ -20241,7 +20243,9 @@
           "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
           "🛠️ **Alchemie** auf 150",
           "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
-          "🛠️ **Verzauberkunst** auf 75"
+          "🛠️ **Verzauberkunst** auf 75",
+          "🛠️ **Verzauberkunst** auf 150",
+          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
         ],
         "snap": {
           "class": "Mage",
@@ -20291,6 +20295,20 @@
         "snap": {
           "class": "Paladin",
           "level": 25
+        }
+      },
+      "us:pwanage-ownage": {
+        "c": {
+          "name": "pwanage",
+          "region": "us",
+          "surname": "ownage"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 150"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 29
         }
       }
     },
@@ -22418,7 +22436,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795172098,
+  "saved_at": 1795173290,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
