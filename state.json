@@ -9980,7 +9980,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795108613000,
+      "last_login": 1795178393000,
       "level": 29,
       "level_at": {
         "28": 1794866470,
@@ -10171,7 +10171,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8437,
+          "raw": 8462,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -10191,7 +10191,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11400,
+          "raw": 11425,
           "tier": 5
         },
         "Powderfuse": {
@@ -10206,31 +10206,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7041,
+          "raw": 7066,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9723,
+          "raw": 9823,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 40,
-        "deaths": 8,
-        "drinks": 9,
+        "deaths": 9,
+        "drinks": 10,
         "flights": 45,
         "food": 79,
-        "health_potions": 27,
+        "health_potions": 28,
         "hearths": 28,
         "honorable_kills": 1,
-        "killing_blows": 2600,
+        "killing_blows": 2635,
         "mana_potions": 1,
-        "mobs": 4341,
-        "quests": 239
+        "mobs": 4376,
+        "quests": 240
       },
-      "xp": 31273
+      "xp": 39232
     },
     "eu:keta-f%C3%A4se": {
       "achievements": {
@@ -22462,7 +22462,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795177308,
+  "saved_at": 1795178545,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
