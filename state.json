@@ -14230,14 +14230,14 @@
       },
       "ilvl": 18,
       "last_explored": null,
-      "last_login": 1795210137000,
+      "last_login": 1795217802000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
         "25": 1795124372
       },
       "professions": {
-        "Blacksmithing": 106,
+        "Blacksmithing": 107,
         "Cooking": 34,
         "First Aid": 54,
         "Fishing": 12,
@@ -14302,6 +14302,10 @@
           {
             "id": 1862,
             "name": "Rough Bronze Shoulders"
+          },
+          {
+            "id": 1864,
+            "name": "Silvered Bronze Boots"
           },
           {
             "id": 1868,
@@ -14546,7 +14550,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3882,
+          "raw": 3920,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -14566,7 +14570,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6170,
+          "raw": 6207,
           "tier": 4
         },
         "Powderfuse": {
@@ -14581,30 +14585,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3473,
+          "raw": 3511,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9136,
+          "raw": 9286,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 34,
+        "critters": 41,
         "deaths": 20,
-        "drinks": 13,
-        "flights": 46,
+        "drinks": 15,
+        "flights": 48,
         "food": 14,
         "health_potions": 9,
-        "hearths": 27,
-        "killing_blows": 1440,
+        "hearths": 28,
+        "killing_blows": 1515,
         "mana_potions": 1,
-        "mobs": 1995,
-        "quests": 128
+        "mobs": 2122,
+        "quests": 130
       },
-      "xp": 4466
+      "xp": 8122
     },
     "eu:mimisiku-meatshield": {
       "achievements": {},
@@ -17754,6 +17758,10 @@
           "name": "Quillord Mail Leggings",
           "quality": "RARE"
         },
+        "274608": {
+          "name": "Maw of Min'loth",
+          "quality": "RARE"
+        },
         "274609": {
           "name": "Serpentbane Crown",
           "quality": "RARE"
@@ -17787,10 +17795,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 34,
+      "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795186714000,
-      "level": 42,
+      "last_login": 1795217180000,
+      "level": 43,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
@@ -17798,14 +17806,15 @@
         "39": 1795040704,
         "40": 1795088356,
         "41": 1795110024,
-        "42": 1795180559
+        "42": 1795180559,
+        "43": 1795217953
       },
       "professions": {
         "Blacksmithing": 151,
         "Cooking": 180,
         "First Aid": 62,
-        "Fishing": 156,
-        "Mining": 200
+        "Fishing": 157,
+        "Mining": 201
       },
       "race": "Undead",
       "raids": {},
@@ -18178,17 +18187,17 @@
         },
         "Bolder'ok Clan": {
           "name": "Neutral",
-          "raw": 601,
+          "raw": 1951,
           "tier": 3
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2277,
+          "raw": 2367,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7830,
+          "raw": 7867,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -18198,60 +18207,60 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1300,
+          "raw": 1600,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1960,
+          "raw": 2050,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1960,
+          "raw": 2050,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8175,
+          "raw": 8212,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2427,
+          "raw": 2607,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2335,
+          "raw": 2425,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7220,
+          "raw": 7370,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 20932,
+          "raw": 20970,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 114,
-        "deaths": 47,
-        "drinks": 24,
-        "flights": 82,
+        "deaths": 50,
+        "drinks": 25,
+        "flights": 88,
         "food": 56,
-        "health_potions": 33,
-        "hearths": 41,
-        "killing_blows": 3145,
+        "health_potions": 36,
+        "hearths": 42,
+        "killing_blows": 3219,
         "mana_potions": 1,
-        "mobs": 7077,
-        "quests": 400
+        "mobs": 7217,
+        "quests": 423
       },
-      "xp": 34125
+      "xp": 10178
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -21133,6 +21142,7 @@
     "Hooded Cowl": "Kapuzenkutte",
     "Horn Ring": "Hornring",
     "Howlhide Vest": "Heulbalgweste",
+    "Hulking Cloak": "Titanischer Umhang",
     "Human": "Mensch",
     "Hunter": "Jäger",
     "Hunting Bow": "Jagdbogen",
@@ -21265,6 +21275,7 @@
     "Master of Defense": "Meister der Verteidigung",
     "Master of Elements": "Meister der Elemente",
     "Materials produced from disenchanting": "Durch Entzaubern produzierte Materialien",
+    "Maw of Min'loth": "Schlund von Min'loth",
     "Meathook Slicer": "Fleischhakenschlitzer",
     "Medium Armor Kit": "Mittleres Rüstungsset",
     "Mekgineer Thermaplugg": "Robogenieur Thermadraht",
@@ -21404,6 +21415,7 @@
     "Razorfen Kraul": "Kral von Razorfen",
     "Rebirthed by druids": "Wiedergeburten durch Druiden",
     "Reckless Swings": "Tollkühne Schwünge",
+    "Reckoning": "Abrechnung",
     "Redeemed by paladins": "Erlösungen durch Paladine",
     "Redoubt": "Verschanzen",
     "Reflection": "Reflexion",
@@ -22726,7 +22738,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795217097,
+  "saved_at": 1795217955,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
