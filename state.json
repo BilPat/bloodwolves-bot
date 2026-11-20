@@ -4475,7 +4475,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795136484000,
+      "last_login": 1795140363000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5166,16 +5166,16 @@
         "critters": 35,
         "deaths": 46,
         "drinks": 76,
-        "flights": 65,
+        "flights": 66,
         "food": 87,
         "health_potions": 13,
-        "hearths": 54,
-        "killing_blows": 845,
+        "hearths": 55,
+        "killing_blows": 847,
         "mana_potions": 30,
-        "mobs": 2890,
+        "mobs": 2892,
         "quests": 148
       },
-      "xp": 4980
+      "xp": 5108
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -21955,7 +21955,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795139727,
+  "saved_at": 1795141184,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
