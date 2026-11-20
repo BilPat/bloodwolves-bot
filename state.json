@@ -1088,9 +1088,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795115952000,
+      "last_login": 1795183279000,
       "level": 26,
       "level_at": {
         "23": 1794866470,
@@ -1100,7 +1100,7 @@
       "professions": {
         "Alchemy": 125,
         "Fishing": 18,
-        "Herbalism": 108
+        "Herbalism": 111
       },
       "race": "Orc",
       "raids": {},
@@ -1109,6 +1109,10 @@
           {
             "id": 1814,
             "name": "Elixir of Wisdom"
+          },
+          {
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
           },
           {
             "id": 1832,
@@ -1197,7 +1201,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7266,
+          "raw": 7316,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1217,7 +1221,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9453,
+          "raw": 9503,
           "tier": 5
         },
         "Powderfuse": {
@@ -1232,12 +1236,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5631,
+          "raw": 5681,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5153,
+          "raw": 5353,
           "tier": 4
         }
       },
@@ -1246,16 +1250,16 @@
         "critters": 32,
         "deaths": 15,
         "drinks": 17,
-        "flights": 43,
-        "food": 5,
+        "flights": 44,
+        "food": 6,
         "health_potions": 5,
         "hearths": 20,
-        "killing_blows": 1105,
-        "mana_potions": 18,
-        "mobs": 2231,
-        "quests": 149
+        "killing_blows": 1144,
+        "mana_potions": 21,
+        "mobs": 2271,
+        "quests": 151
       },
-      "xp": 15623
+      "xp": 26055
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -14428,7 +14432,7 @@
       },
       "ilvl": 14,
       "last_explored": null,
-      "last_login": 1795031310000,
+      "last_login": 1795183011000,
       "level": 22,
       "level_at": {
         "20": 1794866470,
@@ -14440,7 +14444,7 @@
         "Cooking": 19,
         "First Aid": 101,
         "Fishing": 3,
-        "Mining": 87
+        "Mining": 89
       },
       "race": "Tauren",
       "raids": {},
@@ -14621,7 +14625,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4096,
+          "raw": 4123,
           "tier": 4
         },
         "Everlook": {
@@ -14636,7 +14640,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5165,
+          "raw": 5267,
           "tier": 4
         },
         "Powderfuse": {
@@ -14651,28 +14655,28 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8912,
+          "raw": 8947,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1890,
+          "raw": 1917,
           "tier": 3
         }
       },
       "spec": "Fury",
       "stats": {
-        "critters": 6,
-        "deaths": 30,
-        "flights": 19,
-        "food": 33,
-        "health_potions": 22,
+        "critters": 7,
+        "deaths": 32,
+        "flights": 20,
+        "food": 34,
+        "health_potions": 24,
         "hearths": 14,
-        "killing_blows": 883,
-        "mobs": 1291,
-        "quests": 140
+        "killing_blows": 888,
+        "mobs": 1295,
+        "quests": 144
       },
-      "xp": 4700
+      "xp": 9560
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -17540,7 +17544,7 @@
       },
       "ilvl": 34,
       "last_explored": "Thousand Needles",
-      "last_login": 1795180383000,
+      "last_login": 1795183072000,
       "level": 42,
       "level_at": {
         "35": 1794866470,
@@ -17556,7 +17560,7 @@
         "Cooking": 180,
         "First Aid": 62,
         "Fishing": 156,
-        "Mining": 199
+        "Mining": 200
       },
       "race": "Undead",
       "raids": {},
@@ -17929,7 +17933,7 @@
         },
         "Bolder'ok Clan": {
           "name": "Neutral",
-          "raw": 501,
+          "raw": 601,
           "tier": 3
         },
         "Booty Bay": {
@@ -17996,13 +18000,13 @@
         "flights": 81,
         "food": 56,
         "health_potions": 33,
-        "hearths": 40,
-        "killing_blows": 3143,
+        "hearths": 41,
+        "killing_blows": 3145,
         "mana_potions": 1,
-        "mobs": 7075,
-        "quests": 399
+        "mobs": 7077,
+        "quests": 400
       },
-      "xp": 33224
+      "xp": 34125
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -22470,7 +22474,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795182855,
+  "saved_at": 1795184122,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
