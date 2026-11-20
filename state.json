@@ -3855,9 +3855,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 17,
+      "ilvl": 16,
       "last_explored": null,
-      "last_login": 1795114454000,
+      "last_login": 1795170026000,
       "level": 23,
       "level_at": {
         "21": 1794866470,
@@ -4233,7 +4233,7 @@
         "flights": 25,
         "food": 80,
         "health_potions": 28,
-        "hearths": 22,
+        "hearths": 23,
         "killing_blows": 1065,
         "mana_potions": 5,
         "mobs": 1343,
@@ -10266,9 +10266,14 @@
           "count": 1,
           "instance": "Ruins of Lordaeron"
         },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
         "63589": {
           "boss": "Lyn the Ignored",
-          "count": 1,
+          "count": 2,
           "instance": "City of Dalaran"
         }
       },
@@ -10298,6 +10303,10 @@
         },
         "273041": {
           "name": "Slitherwrap Girdle",
+          "quality": "RARE"
+        },
+        "273047": {
+          "name": "Unstable Crystalline Shoulderpads",
           "quality": "RARE"
         },
         "273054": {
@@ -10339,8 +10348,8 @@
       },
       "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1795104200000,
-      "level": 34,
+      "last_login": 1795169933000,
+      "level": 35,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -10350,11 +10359,12 @@
         "31": 1794950040,
         "32": 1795002929,
         "33": 1795022669,
-        "34": 1795094133
+        "34": 1795094133,
+        "35": 1795170310
       },
       "professions": {
         "Cooking": 149,
-        "First Aid": 188,
+        "First Aid": 189,
         "Fishing": 8,
         "Leatherworking": 150,
         "Skinning": 236
@@ -10746,7 +10756,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5528,
+          "raw": 5622,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -10771,7 +10781,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7210,
+          "raw": 7435,
           "tier": 4
         },
         "Powderfuse": {
@@ -10786,12 +10796,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5147,
+          "raw": 5241,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15650,
+          "raw": 15893,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -10802,19 +10812,19 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 49,
-        "deaths": 23,
-        "drinks": 28,
-        "flights": 52,
-        "food": 186,
-        "health_potions": 23,
-        "hearths": 15,
+        "critters": 50,
+        "deaths": 25,
+        "drinks": 30,
+        "flights": 53,
+        "food": 201,
+        "health_potions": 24,
+        "hearths": 16,
         "honorable_kills": 113,
-        "killing_blows": 2312,
-        "mobs": 3569,
-        "quests": 250
+        "killing_blows": 2477,
+        "mobs": 3843,
+        "quests": 257
       },
-      "xp": 51501
+      "xp": 40835
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -18022,7 +18032,7 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795121448000,
+      "last_login": 1795169683000,
       "level": 26,
       "level_at": {
         "21": 1794866470,
@@ -18161,17 +18171,17 @@
       "stats": {
         "critters": 51,
         "deaths": 13,
-        "drinks": 805,
+        "drinks": 806,
         "flights": 23,
-        "food": 191,
+        "food": 192,
         "health_potions": 10,
         "hearths": 22,
-        "killing_blows": 1350,
+        "killing_blows": 1355,
         "mana_potions": 19,
-        "mobs": 2152,
+        "mobs": 2157,
         "quests": 154
       },
-      "xp": 22893
+      "xp": 24019
     },
     "us:devil-latterday": {
       "achievements": {
@@ -20251,6 +20261,20 @@
           "level": 34
         }
       },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 35
+        }
+      },
       "eu:milly-silverwood": {
         "c": {
           "name": "Milly",
@@ -20389,6 +20413,7 @@
     "Blackened Defias Leggings": "Geschwärzte Gamaschen der Defias",
     "Blackfathom Deeps": "Blackfathom-Tiefe",
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
+    "Blade Flurry": "Klingenwirbel",
     "Blast Wave": "Druckwelle",
     "Blazewind Blast": "Lohenwindstoß",
     "Blazewind Breastplate": "Lohenwindbrustplatte",
@@ -21387,6 +21412,7 @@
     "Undead": "Untoter",
     "Unholy Power": "Unheilige Macht",
     "Unsealed Wrath": "Entfesselter Zorn",
+    "Unstable Crystalline Shoulderpads": "Instabile kristalline Schulterpolster",
     "Vagabond Leggings": "Vagabunden-Gamaschen",
     "Vanguard": "Frontkämpfer",
     "Vanity pets owned": "Anzahl der besessenen Haustiere",
@@ -22388,7 +22414,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795169710,
+  "saved_at": 1795170311,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
