@@ -13405,9 +13405,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 10,
+      "ilvl": 9,
       "last_explored": null,
-      "last_login": 1795197206000,
+      "last_login": 1795197379000,
       "level": 20,
       "level_at": {
         "14": 1794866470,
@@ -14457,6 +14457,11 @@
           "count": 2,
           "instance": "Ragefire Chasm"
         },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 1,
@@ -14478,21 +14483,26 @@
         "271211": {
           "name": "Vilewalkers",
           "quality": "RARE"
+        },
+        "6459": {
+          "name": "Savage Trodders",
+          "quality": "RARE"
         }
       },
       "ilvl": 14,
       "last_explored": null,
-      "last_login": 1795183011000,
-      "level": 22,
+      "last_login": 1795197608000,
+      "level": 23,
       "level_at": {
         "20": 1794866470,
         "21": 1794938124,
-        "22": 1795031689
+        "22": 1795031689,
+        "23": 1795198664
       },
       "professions": {
         "Blacksmithing": 54,
         "Cooking": 19,
-        "First Aid": 101,
+        "First Aid": 108,
         "Fishing": 3,
         "Mining": 89
       },
@@ -14670,63 +14680,63 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1225,
+          "raw": 1801,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4123,
+          "raw": 4173,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1225,
+          "raw": 1801,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1225,
+          "raw": 1801,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5267,
+          "raw": 5317,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1225,
+          "raw": 1801,
           "tier": 3
         },
         "Ratchet": {
-          "name": "Neutral",
-          "raw": 2250,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3402,
+          "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8947,
+          "raw": 8997,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1917,
+          "raw": 1967,
           "tier": 3
         }
       },
       "spec": "Fury",
       "stats": {
-        "critters": 7,
+        "critters": 28,
         "deaths": 32,
-        "flights": 20,
+        "flights": 23,
         "food": 34,
-        "health_potions": 24,
-        "hearths": 14,
-        "killing_blows": 888,
-        "mobs": 1295,
-        "quests": 144
+        "health_potions": 25,
+        "hearths": 16,
+        "killing_blows": 1021,
+        "mobs": 1663,
+        "quests": 156
       },
-      "xp": 9560
+      "xp": 12746
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -22593,7 +22603,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795197320,
+  "saved_at": 1795198665,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
