@@ -5200,7 +5200,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795136427000,
+      "last_login": 1795137520000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -5208,7 +5208,7 @@
       "professions": {
         "Alchemy": 150,
         "Cooking": 7,
-        "Enchanting": 97,
+        "Enchanting": 118,
         "First Aid": 47,
         "Fishing": 1
       },
@@ -5333,8 +5333,16 @@
             "name": "Enchant Cloak - Minor Protection"
           },
           {
+            "id": 4368,
+            "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
             "id": 7316,
             "name": "Disenchant"
+          },
+          {
+            "id": 7356,
+            "name": "Enchant Shield - Minor Stamina"
           },
           {
             "id": 4289,
@@ -21947,7 +21955,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795137335,
+  "saved_at": 1795137892,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
