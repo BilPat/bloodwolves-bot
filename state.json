@@ -2752,7 +2752,7 @@
       },
       "ilvl": 32,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795126690000,
+      "last_login": 1795161758000,
       "level": 45,
       "level_at": {
         "42": 1794866470,
@@ -3178,12 +3178,12 @@
         },
         "Bolder'ok Clan": {
           "name": "Friendly",
-          "raw": 3711,
+          "raw": 3861,
           "tier": 4
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4716,
+          "raw": 5183,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -3203,12 +3203,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3453,
+          "raw": 3920,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3465,
+          "raw": 3933,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3228,12 +3228,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3615,
+          "raw": 4550,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4818,
+          "raw": 5285,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -3256,12 +3256,12 @@
         "food": 85,
         "health_potions": 28,
         "hearths": 39,
-        "killing_blows": 4706,
+        "killing_blows": 4772,
         "mana_potions": 2,
-        "mobs": 7183,
-        "quests": 438
+        "mobs": 7249,
+        "quests": 446
       },
-      "xp": 15316
+      "xp": 58485
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -21519,16 +21519,7 @@
       },
       "raid": {}
     },
-    "firsts_pending": {
-      "dungeon|Maraudon": {
-        "keys": [
-          "eu:baumora-axiom"
-        ],
-        "kind": "dungeon",
-        "since": 1795129993,
-        "what": "Maraudon"
-      }
-    },
+    "firsts_pending": {},
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -22094,7 +22085,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -22292,7 +22283,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -22402,7 +22393,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795161264,
+  "saved_at": 1795162781,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
