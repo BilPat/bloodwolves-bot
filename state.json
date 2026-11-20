@@ -18076,17 +18076,27 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
       "best_item": {
-        "id": 279865,
+        "id": 286977,
         "ilvl": 23,
-        "name": "Grave Shroud",
-        "quality": "UNCOMMON",
-        "slot": "Back"
+        "name": "Sword of the Fallen",
+        "quality": "RARE",
+        "slot": "Main Hand"
       },
       "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 1,
           "instance": "Ruins of Lordaeron"
+        },
+        "63573": {
+          "boss": "Durgen Dirgehammer",
+          "count": 1,
+          "instance": "Hall of Thanes"
         }
       },
       "class": "Hunter",
@@ -18097,24 +18107,33 @@
           "name": "Dark Leather Boots",
           "quality": "RARE"
         },
+        "270231": {
+          "name": "Flamefist Grips",
+          "quality": "RARE"
+        },
         "271204": {
           "name": "Meathook Slicer",
           "quality": "RARE"
+        },
+        "286977": {
+          "name": "Sword of the Fallen",
+          "quality": "RARE"
         }
       },
-      "ilvl": 9,
+      "ilvl": 11,
       "last_explored": "Teldrassil",
-      "last_login": 1795068172000,
-      "level": 18,
+      "last_login": 1795151509000,
+      "level": 20,
       "level_at": {
-        "18": 1795149590
+        "18": 1795149590,
+        "20": 1795151747
       },
       "professions": {
         "Cooking": 30,
-        "First Aid": 81,
+        "First Aid": 89,
         "Fishing": 21,
         "Leatherworking": 58,
-        "Skinning": 118
+        "Skinning": 130
       },
       "race": "Night Elf",
       "raids": {},
@@ -18155,12 +18174,20 @@
         ],
         "First Aid": [
           {
+            "id": 4417,
+            "name": "Anti-Venom"
+          },
+          {
             "id": 1838,
             "name": "Linen Bandage"
           },
           {
             "id": 1839,
             "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
           },
           {
             "id": 52641,
@@ -18275,42 +18302,53 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 200,
+          "tier": 3
+        },
         "Darnassus": {
           "name": "Honored",
-          "raw": 11692,
+          "raw": 13067,
           "tier": 5
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 4126,
+          "raw": 4695,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 4013,
+          "raw": 4832,
           "tier": 4
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 3863,
+          "raw": 4257,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 42,
+        "critters": 60,
         "deaths": 10,
-        "flights": 6,
-        "food": 22,
+        "drinks": 4,
+        "flights": 12,
+        "food": 23,
         "health_potions": 6,
-        "hearths": 1,
+        "hearths": 5,
         "honorable_kills": 50,
-        "killing_blows": 1094,
+        "killing_blows": 1301,
         "mana_potions": 1,
-        "mobs": 1149,
-        "quests": 108
+        "mobs": 1449,
+        "quests": 132
       },
-      "xp": 3664
+      "xp": 12785
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -20212,6 +20250,7 @@
     "Benediction": "Segnung",
     "Bent Large Shield": "Gebogener großer Schild",
     "Berylline Pads": "Beryllpolster",
+    "Bestial Swiftness": "Erhöhte Tiergeschwindigkeit",
     "Beverages consumed": "Getränke verbraucht",
     "Bigger Rock on Bigger Stick": "Größerer Stein auf größerem Stock",
     "Bigger Rock to the Face": "Größerer Stein ins Gesicht",
@@ -20274,6 +20313,7 @@
     "Briny Sash": "Salzige Schärpe",
     "Bristlebark Amice": "Borstenlederamicia",
     "Bristlebark Belt": "Borstenledergürtel",
+    "Bristlebark Bindings": "Borstenlederbindungen",
     "Bronze Shortsword": "Bronzenes Kurzschwert",
     "Bronze Warhammer": "Bronzener Kriegshammer",
     "Bronzed Shoulderguards": "Talmischulterschutz",
@@ -20443,6 +20483,7 @@
     "Durgen Dirgehammer Kills (Hall of Thanes)": "Siege über Durgen Dirgehammer (Halle der Thanen)",
     "Durotar Supply and Logistics": "Versorgung und Logistik Durotar",
     "Dust-covered Leggings": "Staubbedeckte Gamaschen",
+    "Dusty Belt": "Staubiger Gürtel",
     "Dusty Mail Boots": "Verstaubte Panzerstiefel",
     "Earth's Grasp": "Griff der Erde",
     "Earthen Ring": "Der Irdene Ring",
@@ -20540,6 +20581,7 @@
     "Fishing skill": "Angelfertigkeit",
     "Flame Charged": "Flammengeladen",
     "Flame Throwing": "Flammenwerfen",
+    "Flamefist Grips": "Handschutz der Flammenfaust",
     "Flanged Mace": "Gebördelter Streitkolben",
     "Flash Pellet": "Blitzkügelchen",
     "Flax Belt": "Flachs-Gürtel",
@@ -21151,6 +21193,7 @@
     "Swiftmend": "Rasche Heilung",
     "Swinetusk Shank": "Keilerhauer",
     "Sword": "Schwert",
+    "Sword of the Fallen": "Schwert der Gefallenen",
     "Tabard": "Wappenrock",
     "Tabitha's Cuffs": "Tabithas Manschetten",
     "Tailoring Patterns learned": "Erlernte Schnittmuster",
@@ -21281,6 +21324,7 @@
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
+    "Wildkeeper Leggings": "Wildhüter-Gamaschen",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Gloves of the Whale": "Weidenhandschuhe des Wals",
     "Willow Pants of Intellect": "Weidenhose der Intelligenz",
@@ -21362,7 +21406,8 @@
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
-        "eu:rausmit-deviechers"
+        "eu:rausmit-deviechers",
+        "us:devil-latterday"
       ],
       "30": [
         "eu:fred-feuersturm",
@@ -22231,7 +22276,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795150462,
+  "saved_at": 1795151748,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
