@@ -209,6 +209,10 @@
           "name": "Outlaw Sabre",
           "quality": "RARE"
         },
+        "250498": {
+          "name": "Veteran's Chain Helm",
+          "quality": "RARE"
+        },
         "250525": {
           "name": "Protector's Silvered Chain Leggings",
           "quality": "RARE"
@@ -254,14 +258,15 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 24,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795129698000,
-      "level": 28,
+      "last_login": 1795204191000,
+      "level": 29,
       "level_at": {
         "26": 1794866470,
         "27": 1794957233,
-        "28": 1795044313
+        "28": 1795044313,
+        "29": 1795204443
       },
       "professions": {
         "Blacksmithing": 134,
@@ -575,7 +580,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4895,
+          "raw": 4926,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -600,7 +605,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5138,
+          "raw": 5170,
           "tier": 4
         },
         "Powderfuse": {
@@ -615,12 +620,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3771,
+          "raw": 3802,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16163,
+          "raw": 16288,
           "tier": 5
         }
       },
@@ -629,17 +634,17 @@
         "critters": 51,
         "deaths": 10,
         "drinks": 41,
-        "flights": 38,
+        "flights": 39,
         "food": 4,
         "health_potions": 9,
-        "hearths": 16,
+        "hearths": 17,
         "honorable_kills": 5,
-        "killing_blows": 1623,
-        "mana_potions": 2,
-        "mobs": 3637,
-        "quests": 206
+        "killing_blows": 1655,
+        "mana_potions": 3,
+        "mobs": 3669,
+        "quests": 208
       },
-      "xp": 32931
+      "xp": 4352
     },
     "eu:archibald-white": {
       "achievements": {
@@ -1090,7 +1095,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795201216000,
+      "last_login": 1795203842000,
       "level": 27,
       "level_at": {
         "23": 1794866470,
@@ -1202,7 +1207,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7422,
+          "raw": 7472,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1222,7 +1227,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9685,
+          "raw": 9735,
           "tier": 5
         },
         "Powderfuse": {
@@ -1237,12 +1242,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6031,
+          "raw": 6231,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5460,
+          "raw": 5510,
           "tier": 4
         }
       },
@@ -1258,9 +1263,9 @@
         "killing_blows": 1197,
         "mana_potions": 24,
         "mobs": 2359,
-        "quests": 156
+        "quests": 158
       },
-      "xp": 6205
+      "xp": 10905
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -12661,7 +12666,7 @@
       },
       "ilvl": 23,
       "last_explored": "Durotar",
-      "last_login": 1795195313000,
+      "last_login": 1795204329000,
       "level": 28,
       "level_at": {
         "24": 1794866470,
@@ -12673,7 +12678,7 @@
         "Cooking": 108,
         "First Aid": 65,
         "Fishing": 112,
-        "Leatherworking": 114,
+        "Leatherworking": 130,
         "Skinning": 204
       },
       "race": "Troll",
@@ -12847,6 +12852,10 @@
             "name": "Light Leather"
           },
           {
+            "id": 12516,
+            "name": "Heavy Leather Ball"
+          },
+          {
             "id": 2162,
             "name": "Handstitched Leather Belt"
           },
@@ -12897,6 +12906,10 @@
           {
             "id": 5028,
             "name": "Earthen Leather Shoulders"
+          },
+          {
+            "id": 5030,
+            "name": "Heavy Earthen Gloves"
           },
           {
             "id": 2172,
@@ -13417,11 +13430,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/198/18282182-avatar.jpg",
       "best_item": {
-        "id": 279875,
-        "ilvl": 24,
-        "name": "Spare Part Bindings",
+        "id": 281673,
+        "ilvl": 28,
+        "name": "Loop of Sacrifice",
         "quality": "UNCOMMON",
-        "slot": "Wrist"
+        "slot": "Ring 2"
       },
       "boss_kills": {
         "63571": {
@@ -13439,24 +13452,25 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 9,
+      "ilvl": 13,
       "last_explored": null,
-      "last_login": 1795199106000,
-      "level": 20,
+      "last_login": 1795203705000,
+      "level": 21,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005,
         "16": 1794993427,
         "18": 1795033546,
         "19": 1795088356,
-        "20": 1795197315
+        "20": 1795197315,
+        "21": 1795204443
       },
       "professions": {
         "Cooking": 37,
         "Engineering": 49,
         "First Aid": 55,
         "Fishing": 20,
-        "Mining": 67
+        "Mining": 72
       },
       "race": "Tauren",
       "raids": {},
@@ -13549,7 +13563,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4068,
+          "raw": 4162,
           "tier": 4
         },
         "Everlook": {
@@ -13564,7 +13578,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4368,
+          "raw": 4462,
           "tier": 4
         },
         "Powderfuse": {
@@ -13579,12 +13593,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8416,
+          "raw": 8510,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6527,
+          "raw": 6902,
           "tier": 4
         }
       },
@@ -13593,15 +13607,15 @@
         "deaths": 5,
         "drinks": 2,
         "flights": 9,
-        "food": 11,
+        "food": 14,
         "health_potions": 7,
-        "hearths": 17,
-        "killing_blows": 915,
+        "hearths": 18,
+        "killing_blows": 985,
         "mana_potions": 4,
-        "mobs": 1188,
-        "quests": 148
+        "mobs": 1430,
+        "quests": 155
       },
-      "xp": 20396
+      "xp": 18127
     },
     "eu:maul-worf": {
       "achievements": {
@@ -20695,6 +20709,7 @@
     "Cadet Leggings": "Kadettengamaschen",
     "Calico Cloak": "Kattunumhang",
     "Call of Flame": "Ruf der Flamme",
+    "Camouflaged Tunic": "Tarntunika",
     "Canvas Shoulderpads": "Segeltuchschulterpolster",
     "Cape of the Brotherhood": "Cape der Bruderschaft",
     "Carapace of Tuten'kash": "Knochenpanzer von Tuten'kash",
@@ -20957,6 +20972,7 @@
     "Flax Bracers": "Flachs-Armschienen",
     "Flax Gloves": "Flachshandschuhe",
     "Flax Vest": "Flachsweste",
+    "Flesh Carver": "Fleischschnitzer",
     "Flight paths taken": "Bereiste Flugrouten",
     "Flimsy Chain Bracers": "Sehr leichte Kettenarmschienen",
     "Flimsy Chain Gloves": "Sehr leichte Kettenhandschuhe",
@@ -20996,6 +21012,7 @@
     "Glowing Lizardscale Cloak": "Leuchtender Echsenschuppenumhang",
     "Gnarled Necromancer's Staff": "Knorriger Stab des Totenbeschwörers",
     "Gnoll Shackles": "Gnollfesseln",
+    "Gnollhide Pants": "Gnollfellhose",
     "Gnomeregan Exiles": "Gnomeregangnome",
     "Gore Drinker": "Blutgier",
     "Grassland Sash": "Graslandschärpe",
@@ -21285,6 +21302,7 @@
     "Outrunner's Legguards of the Eagle": "Kundschafter-Beinschützer des Adlers",
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
     "Pandemic": "Pandemie",
+    "Patched Leather Boots": "Geflickte Lederstiefel",
     "Patched Leather Gloves": "Geflickte Lederhandschuhe",
     "Patched Leather Shoulderpads": "Geflickte Lederschulterstücke",
     "Patchwing Pants": "Flickenflügelhose",
@@ -21650,6 +21668,7 @@
     "Uncommon": "Selten",
     "Undead": "Untoter",
     "Unholy Power": "Unheilige Macht",
+    "Unleashed Fury": "Entfesselter Zorn",
     "Unsealed Wrath": "Entfesselter Zorn",
     "Unstable Crystalline Shoulderpads": "Instabile kristalline Schulterpolster",
     "Vagabond Leggings": "Vagabunden-Gamaschen",
@@ -22671,7 +22690,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795203619,
+  "saved_at": 1795204444,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
