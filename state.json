@@ -4474,7 +4474,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795127424000,
+      "last_login": 1795132637000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5165,20 +5165,21 @@
         "critters": 35,
         "deaths": 46,
         "drinks": 76,
-        "flights": 64,
+        "flights": 65,
         "food": 87,
         "health_potions": 13,
-        "hearths": 53,
-        "killing_blows": 842,
+        "hearths": 54,
+        "killing_blows": 845,
         "mana_potions": 30,
-        "mobs": 2887,
+        "mobs": 2890,
         "quests": 148
       },
-      "xp": 4611
+      "xp": 4980
     },
     "eu:efrye-frostmage": {
       "achievements": {
         "62000": "Novice Priest",
+        "62012": "Journeyman Alchemist",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
@@ -5198,13 +5199,13 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795128628000,
+      "last_login": 1795134643000,
       "level": 10,
       "level_at": {
         "10": 1795051505
       },
       "professions": {
-        "Alchemy": 117,
+        "Alchemy": 150,
         "Cooking": 7,
         "Enchanting": 71,
         "First Aid": 47,
@@ -5219,12 +5220,44 @@
             "name": "Elixir of Wisdom"
           },
           {
+            "id": 1816,
+            "name": "Lesser Mana Potion"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 1378,
+            "name": "Elixir of Minor Strength"
+          },
+          {
+            "id": 1379,
+            "name": "Minor Mana Potion"
+          },
+          {
+            "id": 1380,
+            "name": "Minor Rejuvenation Potion"
+          },
+          {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
           },
           {
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
+            "id": 4394,
+            "name": "Fire Oil"
+          },
+          {
             "id": 4395,
             "name": "Swim Speed Potion"
+          },
+          {
+            "id": 4176,
+            "name": "Draught of Water Breathing"
           },
           {
             "id": 4178,
@@ -5233,6 +5266,14 @@
           {
             "id": 52646,
             "name": "Mana Well"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 54454,
+            "name": "Magenta Dye"
           },
           {
             "id": 54456,
@@ -15812,15 +15853,15 @@
       },
       "ilvl": 15,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794959643000,
+      "last_login": 1795134409000,
       "level": 22,
       "level_at": {
         "19": 1794866470,
         "22": 1794872318
       },
       "professions": {
-        "Cooking": 38,
-        "First Aid": 97,
+        "Cooking": 45,
+        "First Aid": 98,
         "Fishing": 19,
         "Leatherworking": 101,
         "Skinning": 150
@@ -16083,7 +16124,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4282,
+          "raw": 4395,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16103,7 +16144,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6063,
+          "raw": 6176,
           "tier": 4
         },
         "Powderfuse": {
@@ -16118,29 +16159,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10380,
+          "raw": 10492,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2401,
+          "raw": 2851,
           "tier": 3
         }
       },
       "spec": "Marksmanship",
       "stats": {
         "critters": 33,
-        "deaths": 16,
-        "drinks": 9,
-        "flights": 10,
-        "food": 43,
-        "health_potions": 9,
+        "deaths": 18,
+        "drinks": 10,
+        "flights": 12,
+        "food": 45,
+        "health_potions": 11,
         "hearths": 12,
-        "killing_blows": 1032,
-        "mobs": 1456,
-        "quests": 134
+        "killing_blows": 1105,
+        "mana_potions": 2,
+        "mobs": 1529,
+        "quests": 139
       },
-      "xp": 4432
+      "xp": 13569
     },
     "eu:redbully-badbully": {
       "achievements": {
@@ -18615,7 +18657,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795097528000,
+      "last_login": 1795133790000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -19165,7 +19207,7 @@
         "critters": 157,
         "deaths": 20,
         "drinks": 2,
-        "flights": 89,
+        "flights": 90,
         "food": 111,
         "health_potions": 30,
         "hearths": 49,
@@ -19761,7 +19803,9 @@
           "surname": "Frostmage"
         },
         "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)"
+          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
+          "🛠️ **Alchemie** auf 150",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
         ],
         "snap": {
           "class": "Mage",
@@ -21890,7 +21934,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795132525,
+  "saved_at": 1795134800,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
