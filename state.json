@@ -12376,11 +12376,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/203/21630411-avatar.jpg",
       "best_item": {
-        "id": 252508,
-        "ilvl": 27,
-        "name": "Brawler's Leather Tunic",
+        "id": 7753,
+        "ilvl": 32,
+        "name": "Bloodspiller",
         "quality": "RARE",
-        "slot": "Chest"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "15027": {
@@ -12392,6 +12392,11 @@
           "boss": "Mutanus the Devourer",
           "count": 1,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -12415,6 +12420,10 @@
           "name": "Brawler's Leather Tunic",
           "quality": "RARE"
         },
+        "270032": {
+          "name": "Cultist's Armguards",
+          "quality": "RARE"
+        },
         "285329": {
           "name": "Raptor Hide Cloak",
           "quality": "RARE"
@@ -12430,23 +12439,28 @@
         "6630": {
           "name": "Seedcloud Buckler",
           "quality": "RARE"
+        },
+        "7753": {
+          "name": "Bloodspiller",
+          "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795127578000,
-      "level": 26,
+      "last_login": 1795142663000,
+      "level": 28,
       "level_at": {
         "24": 1794866470,
         "25": 1794877050,
-        "26": 1795114488
+        "26": 1795114488,
+        "28": 1795143299
       },
       "professions": {
         "Cooking": 108,
         "First Aid": 65,
-        "Fishing": 100,
+        "Fishing": 109,
         "Leatherworking": 114,
-        "Skinning": 195
+        "Skinning": 202
       },
       "race": "Troll",
       "raids": {},
@@ -12761,7 +12775,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 200,
+          "raw": 400,
           "tier": 3
         },
         "Booty Bay": {
@@ -12771,12 +12785,17 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10203,
+          "raw": 10816,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
           "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 300,
           "tier": 3
         },
         "Everlook": {
@@ -12791,7 +12810,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11222,
+          "raw": 11591,
           "tier": 5
         },
         "Powderfuse": {
@@ -12806,30 +12825,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5578,
+          "raw": 6147,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3346,
+          "raw": 3790,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 16,
-        "deaths": 24,
+        "deaths": 27,
         "drinks": 14,
-        "flights": 26,
+        "flights": 33,
         "food": 8,
-        "health_potions": 21,
-        "hearths": 14,
-        "killing_blows": 1287,
+        "health_potions": 22,
+        "hearths": 16,
+        "killing_blows": 1412,
         "mana_potions": 6,
-        "mobs": 2098,
-        "quests": 174
+        "mobs": 2381,
+        "quests": 183
       },
-      "xp": 23043
+      "xp": 3500
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -19985,6 +20004,7 @@
     "Bloodmaster's Ring": "Blutmeisterring",
     "Bloodsail Buccaneers": "Blutsegelbukaniere",
     "Bloodspattered Gloves of Magic": "Blutbespritzte Handschuhe der Magie",
+    "Bloodspiller": "Blutvergießer",
     "Bloodspine Staff": "Blutstachelstab",
     "Bloodsport Band": "Blutsportring",
     "Bloom": "Blüte",
@@ -20336,6 +20356,7 @@
     "Greater Magic Wand": "Großer Magiezauberstab",
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
     "Green Leather Armor": "Grüne Lederrüstung",
+    "Green Leather Belt": "Grüner Ledergürtel",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
     "Greenweave Leggings of the Sorcerer": "Grünzwirngamaschen des Zauberers",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
@@ -20680,6 +20701,7 @@
     "Relic": "Relikt",
     "Reliquary Mantle": "Reliquiarmantelung",
     "Remorseless Attacks": "Gnadenlose Angriffe",
+    "Rend": "Zerfleischen",
     "Rend and Tear": "Beißen und Reißen",
     "Repentance": "Buße",
     "Reputation": "Ruf",
@@ -21955,7 +21977,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795142405,
+  "saved_at": 1795143301,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
