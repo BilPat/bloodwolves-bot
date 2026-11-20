@@ -17,7 +17,7 @@
       "gear": {},
       "ilvl": 2,
       "last_explored": null,
-      "last_login": 1795121273000,
+      "last_login": 1795209712000,
       "level": 10,
       "level_at": {
         "10": 1795121683
@@ -26,7 +26,7 @@
         "Cooking": 10,
         "First Aid": 35,
         "Leatherworking": 38,
-        "Skinning": 81
+        "Skinning": 82
       },
       "race": "Undead",
       "raids": {},
@@ -125,6 +125,11 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 650,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Neutral",
           "raw": 2025,
@@ -148,13 +153,14 @@
       },
       "spec": "Combat",
       "stats": {
-        "deaths": 1,
-        "health_potions": 2,
-        "killing_blows": 255,
-        "mobs": 260,
-        "quests": 37
+        "deaths": 3,
+        "food": 4,
+        "health_potions": 3,
+        "killing_blows": 271,
+        "mobs": 279,
+        "quests": 40
       },
-      "xp": 640
+      "xp": 5167
     },
     "eu:alto-belli": {
       "achievements": {
@@ -22535,7 +22541,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795209200,
+  "saved_at": 1795209864,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
