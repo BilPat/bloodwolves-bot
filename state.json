@@ -12547,9 +12547,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/203/21630411-avatar.jpg",
       "best_item": {
-        "id": 7753,
-        "ilvl": 32,
-        "name": "Bloodspiller",
+        "id": 2299,
+        "ilvl": 33,
+        "name": "Burning War Axe",
         "quality": "RARE",
         "slot": "Main Hand"
       },
@@ -12583,8 +12583,16 @@
           "name": "Belt of the Fang",
           "quality": "RARE"
         },
+        "2299": {
+          "name": "Burning War Axe",
+          "quality": "RARE"
+        },
         "252447": {
           "name": "Defender's Leather Hood",
+          "quality": "RARE"
+        },
+        "252501": {
+          "name": "Trapper's Leather Pants",
           "quality": "RARE"
         },
         "252508": {
@@ -12616,9 +12624,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 23,
       "last_explored": "Durotar",
-      "last_login": 1795191518000,
+      "last_login": 1795195313000,
       "level": 28,
       "level_at": {
         "24": 1794866470,
@@ -12896,6 +12904,10 @@
             "name": "Handstitched Leather Vest"
           },
           {
+            "id": 4158,
+            "name": "Fine Leather Pants"
+          },
+          {
             "id": 4159,
             "name": "Dark Leather Pants"
           },
@@ -12910,6 +12922,10 @@
           {
             "id": 55168,
             "name": "Defender's Leather Hood"
+          },
+          {
+            "id": 55175,
+            "name": "Trapper's Leather Pants"
           },
           {
             "id": 55184,
@@ -20564,6 +20580,7 @@
     "Buckled Boots": "Schnallenstiefel",
     "Bullet": "Kugel",
     "Burning Soul": "Brennende Seele",
+    "Burning War Axe": "Brennende Kriegsaxt",
     "Burnished Girdle": "Brünierter Gurt",
     "Burnt Leather Belt": "Brandledergürtel",
     "Burnt Leather Breeches": "Brandlederbundhosen",
@@ -20812,6 +20829,7 @@
     "Fire": "Feuer",
     "Fire Damage": "Feuerschaden",
     "Fire Resistance": "Feuerwiderstand",
+    "Fireball": "Feuerball",
     "Firebelch": "Feuerrülps",
     "Firebelcher": "Feuerrülpser",
     "Firemane Leggings": "Feuermähnengamaschen",
@@ -20914,6 +20932,7 @@
     "Hawk Eye": "Falkenauge",
     "Head": "Kopf",
     "Headhunter's Armor of the Tiger": "Kopfjägerrüstung des Tigers",
+    "Headhunter's Cloak of Power": "Kopfjägerumhang der Macht",
     "Healer's Staff": "Heilerstab",
     "Healing Light": "Heilendes Licht",
     "Health Per 5 Sec.": "Gesundheit pro 5 Sek.",
@@ -21500,6 +21519,7 @@
     "Toughness": "Zähigkeit",
     "Toxic Sporidium": "Toxisches Sporidium",
     "Transformative Cocoon": "Transformativer Kokon",
+    "Trapper's Leather Pants": "Lederhose des Fallenstellers",
     "Trapper's Shirt": "Fallenstellerhemd",
     "Travel": "Reise",
     "Traveler's Shawl": "Schal des Reisenden",
@@ -21508,6 +21528,7 @@
     "Trinket 2": "Schmuckstück 2",
     "Triprunner Dungarees": "Stolperläufer-Latzhose",
     "Tundra Boots": "Tundra-Stiefel",
+    "Tundra Ring of the Bandit": "Tundraring des Banditen",
     "Tusken Helm": "Hauerhelm",
     "Tuskwrap Belt": "Hauerwickelgürtel",
     "Twilight Barrier": "Twilightbarriere",
@@ -22522,7 +22543,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795194764,
+  "saved_at": 1795195498,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
