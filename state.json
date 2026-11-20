@@ -12615,9 +12615,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795170709000,
+      "last_login": 1795191518000,
       "level": 28,
       "level_at": {
         "24": 1794866470,
@@ -13016,7 +13016,7 @@
         "flights": 33,
         "food": 8,
         "health_potions": 25,
-        "hearths": 16,
+        "hearths": 17,
         "killing_blows": 1519,
         "mana_potions": 6,
         "mobs": 2506,
@@ -22507,7 +22507,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795191370,
+  "saved_at": 1795191928,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
