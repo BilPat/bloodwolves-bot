@@ -3624,14 +3624,14 @@
       },
       "ilvl": 11,
       "last_explored": "Silverpine Forest",
-      "last_login": 1794868052000,
+      "last_login": 1795204589000,
       "level": 22,
       "level_at": {
         "20": 1794866470,
         "22": 1794867229
       },
       "professions": {
-        "Alchemy": 138,
+        "Alchemy": 147,
         "Cooking": 3,
         "Herbalism": 143
       },
@@ -3840,7 +3840,6 @@
         "killing_blows": 857,
         "mana_potions": 10,
         "mobs": 1464,
-        "need_rolls": 11,
         "quests": 160
       },
       "xp": 13193
@@ -6681,11 +6680,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/15/12989711-avatar.jpg",
       "best_item": {
-        "id": 4197,
-        "ilvl": 36,
-        "name": "Berylline Pads",
-        "quality": "RARE",
-        "slot": "Shoulders"
+        "id": 1996,
+        "ilvl": 37,
+        "name": "Voodoo Band",
+        "quality": "UNCOMMON",
+        "slot": "Ring 1"
       },
       "boss_kills": {
         "1092": {
@@ -6786,9 +6785,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 30,
+      "ilvl": 31,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795158715000,
+      "last_login": 1795205562000,
       "level": 34,
       "level_at": {
         "28": 1794866470,
@@ -6802,7 +6801,7 @@
       "professions": {
         "Cooking": 223,
         "Enchanting": 150,
-        "Fishing": 211,
+        "Fishing": 215,
         "Tailoring": 150
       },
       "race": "Undead",
@@ -6820,6 +6819,10 @@
           {
             "id": 1902,
             "name": "Hot Lion Chops"
+          },
+          {
+            "id": 1904,
+            "name": "Soothing Turtle Bisque"
           },
           {
             "id": 13344,
@@ -7330,12 +7333,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1000,
-          "tier": 3
-        },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 1005,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -7355,12 +7353,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 862,
+          "raw": 865,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 862,
+          "raw": 865,
           "tier": 3
         },
         "Orgrimmar": {
@@ -7370,12 +7368,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 862,
+          "raw": 865,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1087,
+          "raw": 1090,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -7393,18 +7391,18 @@
       "stats": {
         "critters": 50,
         "deaths": 17,
-        "drinks": 596,
-        "flights": 44,
-        "food": 198,
+        "drinks": 636,
+        "flights": 45,
+        "food": 228,
         "health_potions": 20,
-        "hearths": 16,
+        "hearths": 17,
         "honorable_kills": 4,
-        "killing_blows": 1701,
-        "mana_potions": 8,
-        "mobs": 3987,
-        "quests": 234
+        "killing_blows": 1862,
+        "mana_potions": 11,
+        "mobs": 4154,
+        "quests": 235
       },
-      "xp": 7578
+      "xp": 44278
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -18722,7 +18720,7 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795200727000,
+      "last_login": 1795204746000,
       "level": 30,
       "level_at": {
         "26": 1794965196,
@@ -19086,7 +19084,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15510,
+          "raw": 15810,
           "tier": 5
         },
         "Gadgetzan": {
@@ -19096,17 +19094,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6816,
+          "raw": 6891,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7003,
+          "raw": 7078,
           "tier": 4
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8723,
+          "raw": 8798,
           "tier": 4
         }
       },
@@ -19118,13 +19116,13 @@
         "flights": 50,
         "food": 58,
         "health_potions": 50,
-        "hearths": 22,
-        "killing_blows": 980,
+        "hearths": 23,
+        "killing_blows": 981,
         "mana_potions": 48,
-        "mobs": 2812,
-        "quests": 243
+        "mobs": 2813,
+        "quests": 245
       },
-      "xp": 10811
+      "xp": 16776
     },
     "us:steel-appeal": {
       "achievements": {
@@ -20356,164 +20354,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:blut-leiche": {
-        "c": {
-          "name": "Blut",
-          "region": "eu",
-          "surname": "Leiche"
-        },
-        "lines": [
-          "🎖️ [Experienced Warlock](https://www.wowhead.com/forever/de/achievement=62010)"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 45
-        }
-      },
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
-          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 25
-        }
-      },
-      "eu:efrye-frostmage": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostmage"
-        },
-        "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
-          "🛠️ **Alchemie** auf 150",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
-          "🛠️ **Verzauberkunst** auf 75",
-          "🛠️ **Verzauberkunst** auf 150",
-          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 10
-        }
-      },
-      "eu:fred-feuersturm": {
-        "c": {
-          "name": "Fred",
-          "region": "eu",
-          "surname": "Feuersturm"
-        },
-        "lines": [
-          "🛠️ **Verzauberkunst** auf 150",
-          "🛠️ **Schneiderei** auf 150",
-          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)",
-          "🎖️ [Journeyman Tailor](https://www.wowhead.com/forever/de/achievement=62028)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 34
-        }
-      },
-      "eu:garm-winterhoof": {
-        "c": {
-          "name": "Garm",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Winterhoof"
-        },
-        "lines": [
-          "🛠️ **Kürschnerei** auf 225"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 30
-        }
-      },
-      "eu:garret-aschwind": {
-        "c": {
-          "name": "Garret",
-          "region": "eu",
-          "surname": "Aschwind"
-        },
-        "lines": [
-          "Gegenstandsstufe **40**"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 43
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
-          "🛠️ **Kochkunst** auf 150"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 36
-        }
-      },
-      "eu:milly-silverwood": {
-        "c": {
-          "name": "Milly",
-          "region": "eu",
-          "surname": "Silverwood"
-        },
-        "lines": [
-          "🎖️ [Novice Paladin](https://www.wowhead.com/forever/de/achievement=61997)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 25
-        }
-      },
-      "eu:redbully-badbully": {
-        "c": {
-          "name": "Redbully",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Badbully"
-        },
-        "lines": [
-          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 29
-        }
-      },
-      "us:pwanage-ownage": {
-        "c": {
-          "name": "pwanage",
-          "region": "us",
-          "surname": "ownage"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 150"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 29
-        }
-      }
-    },
-    "last": "2026-11-19"
+    "items": {},
+    "last": "2026-11-20"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -21581,6 +21423,7 @@
     "Subtlety": "Feingefühl",
     "Summon Felsteed": "Teufelsross beschwören",
     "Summon Warhorse": "Schlachtross beschwören",
+    "Summoner's Wand": "Zauberstab des Beschwörers",
     "Summons accepted": "Beschwörungen angenommen",
     "Superior Bracers of the Bandit": "Überragende Armschienen des Banditen",
     "Superior Shoulders of the Beast": "Überragende Schultern der Bestie",
@@ -21701,7 +21544,9 @@
     "Violet Sorcerer's Vestments": "Gewänder des purpurnen Zauberers",
     "Violet Sorcerer's Wraps": "Wickel des Violetten Zauberers",
     "Viscera Spaulders": "Eingeweideschiftung",
+    "Vital Headband of the Owl": "Vitales Stirnband der Eule",
     "Volcanic Rock Ring": "Vulkangesteinring",
+    "Voodoo Band": "Voodooband",
     "Vuldren Hide Bracers": "Vuldren-Tierhautarmschienen",
     "Wailing Caverns": "Höhlen des Wehklagens",
     "Waist": "Taille",
@@ -22211,7 +22056,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Alto",
         "rank": 4,
         "region": "eu",
@@ -22274,7 +22119,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 42,
+        "level": 43,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -22283,7 +22128,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 45,
+        "level": 46,
         "name": "Blut",
         "rank": 4,
         "region": "eu",
@@ -22310,7 +22155,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Redbully",
         "rank": 1,
         "region": "eu",
@@ -22346,7 +22191,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Aru",
         "rank": 3,
         "region": "eu",
@@ -22499,7 +22344,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 19,
+        "level": 21,
         "name": "Maniac",
         "rank": 4,
         "region": "eu",
@@ -22690,7 +22535,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795204444,
+  "saved_at": 1795205714,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
