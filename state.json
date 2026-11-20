@@ -1449,11 +1449,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 11122,
-        "ilvl": 50,
-        "name": "Carrot on a Stick",
-        "quality": "UNCOMMON",
-        "slot": "Trinket 2"
+        "id": 17732,
+        "ilvl": 53,
+        "name": "Rotgrip Mantle",
+        "quality": "RARE",
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -1468,7 +1468,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 6,
+          "count": 7,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -1508,7 +1508,7 @@
         },
         "6143": {
           "boss": "Princess Theradras",
-          "count": 1,
+          "count": 2,
           "instance": "Maraudon"
         },
         "63570": {
@@ -1541,6 +1541,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "17732": {
+          "name": "Rotgrip Mantle",
+          "quality": "RARE"
+        },
         "270081": {
           "name": "Purified Ring",
           "quality": "RARE"
@@ -1559,6 +1563,10 @@
         },
         "274613": {
           "name": "Priestess Cloak",
+          "quality": "RARE"
+        },
+        "274641": {
+          "name": "Theka's Last Breath",
           "quality": "RARE"
         },
         "274657": {
@@ -1598,9 +1606,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 43,
+      "ilvl": 46,
       "last_explored": "Thousand Needles",
-      "last_login": 1795129196000,
+      "last_login": 1795177081000,
       "level": 48,
       "level_at": {
         "38": 1794866470,
@@ -1615,7 +1623,7 @@
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 281
+        "Skinning": 283
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -2100,7 +2108,7 @@
         },
         "Cenarion Circle": {
           "name": "Neutral",
-          "raw": 2635,
+          "raw": 2935,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -2161,19 +2169,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 177,
-        "deaths": 37,
-        "drinks": 602,
-        "flights": 82,
-        "food": 144,
-        "health_potions": 44,
-        "hearths": 28,
-        "killing_blows": 2921,
-        "mana_potions": 19,
-        "mobs": 11096,
-        "quests": 426
+        "critters": 180,
+        "deaths": 38,
+        "drinks": 644,
+        "flights": 83,
+        "food": 146,
+        "health_potions": 45,
+        "hearths": 29,
+        "killing_blows": 2943,
+        "mana_potions": 21,
+        "mobs": 11696,
+        "quests": 431
       },
-      "xp": 1972
+      "xp": 110985
     },
     "eu:blck-jck": {
       "achievements": {
@@ -11336,7 +11344,7 @@
       },
       "ilvl": 47,
       "last_explored": "Badlands",
-      "last_login": 1795121881000,
+      "last_login": 1795176314000,
       "level": 49,
       "level_at": {
         "45": 1794866470,
@@ -20792,6 +20800,7 @@
     "Furs of the Earthen Ring": "Felle des Irdenen Rings",
     "Fury": "Furor",
     "Fury Ring": "Zornring",
+    "Gaea's Handwraps of the Physician": "Gaeas Handlappen des Heilers",
     "Gargoyle Leggings": "Gargoylegamaschen",
     "Garrison Cuffs": "Garnisons-Manschetten",
     "Gear": "Ausrüstung",
@@ -21193,6 +21202,7 @@
     "Robes of Arugal": "Robe von Arugal",
     "Robes of the Disgraced Thane": "Robe des in Ungnade gefallenen Thans",
     "Rogue": "Schurke",
+    "Rotgrip Mantle": "Faulschnappers Mantel",
     "Rotmender's Garb": "Gewand des Fäulnisheilers",
     "Rotmender's Gloves": "Handschuhe des Fäulnisheilers",
     "Rotmender's Leggings": "Gamaschen des Fäulnisheilers",
@@ -21388,6 +21398,7 @@
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
     "The Defilers": "Die Entweihten",
+    "Theka's Last Breath": "Thekas letzter Atemzug",
     "Thendal Novice's Shirt": "Hemd des Novizen von Thendal",
     "Thendal Survivalist's Shirt": "Hemd des Überlebenskünstlers von Thendal",
     "Thendal Warrior's Shirt": "Hemd des Kriegers von Thendal",
@@ -22451,7 +22462,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795175701,
+  "saved_at": 1795177308,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
