@@ -11933,7 +11933,7 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1795098329000,
+      "last_login": 1795173576000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -15264,7 +15264,7 @@
       "gear": {},
       "ilvl": 7,
       "last_explored": "Mulgore",
-      "last_login": 1795019306000,
+      "last_login": 1795173184000,
       "level": 16,
       "level_at": {
         "15": 1794866470,
@@ -15275,7 +15275,7 @@
         "First Aid": 58,
         "Fishing": 75,
         "Leatherworking": 67,
-        "Skinning": 132
+        "Skinning": 140
       },
       "race": "Tauren",
       "raids": {},
@@ -15489,7 +15489,7 @@
         "mobs": 711,
         "quests": 83
       },
-      "xp": 9991
+      "xp": 14293
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -18042,7 +18042,7 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795169683000,
+      "last_login": 1795173583000,
       "level": 26,
       "level_at": {
         "21": 1794866470,
@@ -18179,19 +18179,19 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 51,
+        "critters": 53,
         "deaths": 13,
-        "drinks": 806,
+        "drinks": 837,
         "flights": 23,
-        "food": 192,
+        "food": 202,
         "health_potions": 10,
         "hearths": 22,
-        "killing_blows": 1355,
+        "killing_blows": 1416,
         "mana_potions": 19,
-        "mobs": 2157,
+        "mobs": 2244,
         "quests": 154
       },
-      "xp": 24019
+      "xp": 33261
     },
     "us:devil-latterday": {
       "achievements": {
@@ -21228,6 +21228,7 @@
     "Scarlet Monastery": "Scharlachrotes Kloster",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
     "Scoutmaster's Eyepatch": "Augenklappe des Spähmeisters",
+    "Scroll of Imbue Baleflame": "Schriftrolle der Durchdringung: Unheilsflamme",
     "Scroll of Imbue Flame": "Schriftrolle der Durchdringung: Flamme",
     "Scroll of Imbue Striking": "Schriftrolle der Durchdringung: Schlagen",
     "Seal of Command": "Siegel des Befehls",
@@ -22436,7 +22437,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795173290,
+  "saved_at": 1795173916,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
