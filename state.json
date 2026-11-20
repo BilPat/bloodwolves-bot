@@ -21840,7 +21840,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 28,
         "name": "Lazy",
         "rank": 3,
         "region": "eu",
@@ -21977,7 +21977,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795144654,
+  "saved_at": 1795145424,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
