@@ -6637,6 +6637,8 @@
     "eu:fred-feuersturm": {
       "achievements": {
         "61994": "Novice Mage",
+        "62018": "Journeyman Enchanter",
+        "62028": "Journeyman Tailor",
         "769": "Explore Silverpine Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/15/12989711-avatar.jpg",
@@ -6748,21 +6750,22 @@
       },
       "ilvl": 30,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795098517000,
-      "level": 33,
+      "last_login": 1795158715000,
+      "level": 34,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
         "30": 1794923709,
         "31": 1794945303,
         "32": 1795041613,
-        "33": 1795099180
+        "33": 1795099180,
+        "34": 1795159072
       },
       "professions": {
         "Cooking": 223,
-        "Enchanting": 143,
-        "Fishing": 207,
-        "Tailoring": 125
+        "Enchanting": 150,
+        "Fishing": 211,
+        "Tailoring": 150
       },
       "race": "Undead",
       "raids": {},
@@ -6859,8 +6862,28 @@
             "name": "Enchant Bracer - Lesser Stamina"
           },
           {
+            "id": 7437,
+            "name": "Enchant 2H Weapon - Lesser Impact"
+          },
+          {
             "id": 7457,
             "name": "Enchant Chest - Lesser Absorption"
+          },
+          {
+            "id": 7496,
+            "name": "Enchant Chest - Intellect"
+          },
+          {
+            "id": 7500,
+            "name": "Enchant Bracer - Lesser Intellect"
+          },
+          {
+            "id": 7501,
+            "name": "Enchant Chest - Minor Stats"
+          },
+          {
+            "id": 7502,
+            "name": "Runed Golden Rod"
           },
           {
             "id": 7426,
@@ -6987,6 +7010,10 @@
             "name": "Simple Kilt"
           },
           {
+            "id": 4872,
+            "name": "Crimson Silk Vest"
+          },
+          {
             "id": 55423,
             "name": "Novice Arcanist's Sash"
           },
@@ -6995,12 +7022,20 @@
             "name": "Simple Linen Pants"
           },
           {
+            "id": 2397,
+            "name": "Long Silken Cloak"
+          },
+          {
             "id": 2401,
             "name": "Stylish Red Shirt"
           },
           {
             "id": 2402,
             "name": "Phoenix Gloves"
+          },
+          {
+            "id": 2405,
+            "name": "Formal White Shirt"
           },
           {
             "id": 2408,
@@ -7017,6 +7052,30 @@
           {
             "id": 4849,
             "name": "Azure Silk Pants"
+          },
+          {
+            "id": 4850,
+            "name": "Azure Silk Hood"
+          },
+          {
+            "id": 4851,
+            "name": "Silk Headband"
+          },
+          {
+            "id": 4852,
+            "name": "Earthen Vest"
+          },
+          {
+            "id": 4853,
+            "name": "Azure Silk Belt"
+          },
+          {
+            "id": 4855,
+            "name": "Crimson Silk Belt"
+          },
+          {
+            "id": 4856,
+            "name": "Green Silken Shoulders"
           },
           {
             "id": 2359,
@@ -7083,6 +7142,10 @@
             "name": "Bolt of Silk Cloth"
           },
           {
+            "id": 2377,
+            "name": "Bolt of Mageweave"
+          },
+          {
             "id": 2378,
             "name": "Heavy Linen Gloves"
           },
@@ -7119,6 +7182,10 @@
             "name": "Spidersilk Boots"
           },
           {
+            "id": 2395,
+            "name": "Azure Silk Vest"
+          },
+          {
             "id": 3973,
             "name": "Pearl-clasped Cloak"
           },
@@ -7131,12 +7198,24 @@
             "name": "Woolen Bag"
           },
           {
+            "id": 4003,
+            "name": "Small Silk Pack"
+          },
+          {
             "id": 4019,
             "name": "Red Linen Bag"
           },
           {
             "id": 4021,
             "name": "Lesser Wizard's Robe"
+          },
+          {
+            "id": 4714,
+            "name": "Red Swashbuckler's Shirt"
+          },
+          {
+            "id": 4715,
+            "name": "White Swashbuckler's Shirt"
           },
           {
             "id": 4708,
@@ -7167,6 +7246,30 @@
             "name": "Flame Leggings"
           },
           {
+            "id": 55481,
+            "name": "Gilded Slippers"
+          },
+          {
+            "id": 55482,
+            "name": "Frothing Slippers"
+          },
+          {
+            "id": 55483,
+            "name": "Fiery Slippers"
+          },
+          {
+            "id": 55484,
+            "name": "Black Slippers"
+          },
+          {
+            "id": 55485,
+            "name": "Golden Slippers"
+          },
+          {
+            "id": 55486,
+            "name": "Radiant Slippers"
+          },
+          {
             "id": 55366,
             "name": "Linen Reagent Bag"
           },
@@ -7184,17 +7287,22 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -6625,
+          "raw": -7875,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 750,
+          "raw": 1000,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4817,
+          "raw": 4930,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -7209,37 +7317,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 862,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 862,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4780,
+          "raw": 4967,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 862,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 962,
+          "raw": 1087,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4367,
+          "raw": 4480,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15873,
+          "raw": 16248,
           "tier": 5
         }
       },
@@ -7247,18 +7355,18 @@
       "stats": {
         "critters": 50,
         "deaths": 17,
-        "drinks": 565,
-        "flights": 41,
-        "food": 172,
-        "health_potions": 16,
-        "hearths": 15,
+        "drinks": 596,
+        "flights": 44,
+        "food": 198,
+        "health_potions": 20,
+        "hearths": 16,
         "honorable_kills": 4,
-        "killing_blows": 1556,
-        "mana_potions": 7,
-        "mobs": 3831,
-        "quests": 221
+        "killing_blows": 1701,
+        "mana_potions": 8,
+        "mobs": 3987,
+        "quests": 234
       },
-      "xp": 11692
+      "xp": 7578
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -20131,6 +20239,23 @@
           "level": 10
         }
       },
+      "eu:fred-feuersturm": {
+        "c": {
+          "name": "Fred",
+          "region": "eu",
+          "surname": "Feuersturm"
+        },
+        "lines": [
+          "🛠️ **Verzauberkunst** auf 150",
+          "🛠️ **Schneiderei** auf 150",
+          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)",
+          "🎖️ [Journeyman Tailor](https://www.wowhead.com/forever/de/achievement=62028)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 34
+        }
+      },
       "eu:milly-silverwood": {
         "c": {
           "name": "Milly",
@@ -21061,6 +21186,7 @@
     "Scarlet Monastery": "Scharlachrotes Kloster",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
     "Scoutmaster's Eyepatch": "Augenklappe des Spähmeisters",
+    "Scroll of Imbue Flame": "Schriftrolle der Durchdringung: Flamme",
     "Scroll of Imbue Striking": "Schriftrolle der Durchdringung: Schlagen",
     "Seal of Command": "Siegel des Befehls",
     "Seal of Sylvanas": "Siegel von Sylvanas",
@@ -22276,7 +22402,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795157730,
+  "saved_at": 1795159073,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
