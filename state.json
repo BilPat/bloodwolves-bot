@@ -18476,6 +18476,241 @@
       },
       "xp": 3747
     },
+    "us:aeri-moonglow": {
+      "achievements": {
+        "61502": "Novice Druid",
+        "842": "Explore Teldrassil",
+        "844": "Explore Darkshore",
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-us/character/218/29133018-avatar.jpg",
+      "best_item": {
+        "id": 281305,
+        "ilvl": 31,
+        "name": "Excavation Cloak",
+        "quality": "UNCOMMON",
+        "slot": "Back"
+      },
+      "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        },
+        "15029": {
+          "boss": "Bazil Thredd",
+          "count": 2,
+          "instance": "Stormwind Stockade"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
+        },
+        "63573": {
+          "boss": "Durgen Dirgehammer",
+          "count": 1,
+          "instance": "Hall of Thanes"
+        }
+      },
+      "class": "Druid",
+      "dungeons": {},
+      "first_seen": 1795218860,
+      "gear": {
+        "1264": {
+          "name": "Headbasher",
+          "quality": "RARE"
+        },
+        "270260": {
+          "name": "Direhammer Leggings",
+          "quality": "RARE"
+        },
+        "273804": {
+          "name": "Executioner Mantle",
+          "quality": "RARE"
+        },
+        "273807": {
+          "name": "Demolition Girdle",
+          "quality": "RARE"
+        },
+        "273820": {
+          "name": "Nightskulker Ring",
+          "quality": "RARE"
+        },
+        "273840": {
+          "name": "Cursed Murloc Eye",
+          "quality": "RARE"
+        },
+        "3230": {
+          "name": "Black Wolf Bracers",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 22,
+      "last_explored": "Darkshore",
+      "last_login": 1795208623000,
+      "level": 29,
+      "level_at": {
+        "29": 1795218860
+      },
+      "professions": {
+        "Cooking": 29,
+        "Herbalism": 209,
+        "Skinning": 210
+      },
+      "race": "High Order Skyborne",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
+          },
+          {
+            "id": 56881,
+            "name": "Skywall Souffle"
+          }
+        ],
+        "Herbalism": [
+          {
+            "id": 1419,
+            "name": "Herbalism"
+          },
+          {
+            "id": 2041,
+            "name": "Herbalism"
+          },
+          {
+            "id": 54116,
+            "name": "Herbalism"
+          },
+          {
+            "id": 52642,
+            "name": "Incense Candle"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4768,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 700,
+          "tier": 3
+        },
+        "Azeroth Commerce Authority": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
+        },
+        "Cenarion Circle": {
+          "name": "Neutral",
+          "raw": 2885,
+          "tier": 3
+        },
+        "Darnassus": {
+          "name": "Friendly",
+          "raw": 7035,
+          "tier": 4
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
+        },
+        "Gnomeregan Exiles": {
+          "name": "Friendly",
+          "raw": 4915,
+          "tier": 4
+        },
+        "High Order": {
+          "name": "Friendly",
+          "raw": 5885,
+          "tier": 4
+        },
+        "Ironforge": {
+          "name": "Friendly",
+          "raw": 6608,
+          "tier": 4
+        },
+        "Kirin Tor": {
+          "name": "Friendly",
+          "raw": 3200,
+          "tier": 4
+        },
+        "Nightclaw Druids": {
+          "name": "Friendly",
+          "raw": 5700,
+          "tier": 4
+        },
+        "Stormwind": {
+          "name": "Friendly",
+          "raw": 6496,
+          "tier": 4
+        },
+        "Wildhammer Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        }
+      },
+      "spec": "Feral Combat",
+      "stats": {
+        "critters": 12,
+        "deaths": 36,
+        "drinks": 5,
+        "flights": 34,
+        "food": 8,
+        "health_potions": 18,
+        "hearths": 23,
+        "killing_blows": 1349,
+        "mana_potions": 3,
+        "mobs": 1981,
+        "quests": 251
+      },
+      "xp": 1066
+    },
     "us:devil-latterday": {
       "achievements": {
         "842": "Explore Teldrassil"
@@ -20560,6 +20795,7 @@
     "Alchemy Recipes learned": "Erlernte Alchemierezepte",
     "Algae Fists": "Algenfäuste",
     "Alliance": "Allianz",
+    "Ambassador's Boots": "Botschafter-Stiefel",
     "Ammo": "Munition",
     "Amnennar the Coldbringer": "Amnennar den Kältebringer",
     "Amnennar the Coldbringer kills (Razorfen Downs)": "Siege über Amnennar den Kältebringer (Hügel von Razorfen)",
@@ -20838,6 +21074,7 @@
     "Deaths": "Tode",
     "Deaths from drowning": "Tode durch Ertrinken",
     "Deaths from falling": "Tode durch Stürze",
+    "Deaths from fatigue": "Tode durch Erschöpfung",
     "Deaths from fire and lava": "Tode durch Feuer und Lava",
     "Deaths in Darkspear Islands": "Tode auf den Darkspear-Inseln",
     "Deaths in Warsong Gulch": "Tode in der Kriegshymnenschlucht",
@@ -20854,6 +21091,7 @@
     "Defias Renegade Ring": "Renegatenring der Defias",
     "Deflection": "Abwehr",
     "Deftkin Belt": "Deftkin-Gürtel",
+    "Demolition Girdle": "Gurt der Zerstörung",
     "Demolition Hammer": "Demolierhammer",
     "Demon Band": "Dämonenband",
     "Demonic Brand": "Dämonisches Brandmal",
@@ -20869,6 +21107,7 @@
     "Desertwalker Cane": "Stock des Wüstenläufers",
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
+    "Direhammer Leggings": "Düsterhammergamaschen",
     "Divine Fury": "Göttlicher Furor",
     "Divine Intellect": "Göttliche Weisheit",
     "Divine Strength": "Göttliche Stärke",
@@ -20959,6 +21198,7 @@
     "Ephemeral Choker": "Ephemerer Halsreif",
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
+    "Excavation Cloak": "Ausgrabungsmantel",
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
     "Fade": "Verblassen",
@@ -21018,6 +21258,7 @@
     "Food eaten": "Nahrung konsumiert",
     "Footpads of the Fang": "Fußpolster des Giftzahns",
     "Forceful Medium Armor Kit": "Kraftvolles mittleres Rüstungsset",
+    "Forest Leather Gloves": "Waldlederhandschuhe",
     "Forsaken Dagger": "Dolch der Verlassenen",
     "Forsaken Greataxe": "Großaxt des Verlassenen",
     "Forsaken Weapons": "Waffen der Verlassenen",
@@ -21092,6 +21333,7 @@
     "Hated": "Hasserfüllt",
     "Hawk Eye": "Falkenauge",
     "Head": "Kopf",
+    "Headbasher": "Kopfberster",
     "Headhunter's Armor of the Tiger": "Kopfjägerrüstung des Tigers",
     "Headhunter's Cloak of Power": "Kopfjägerumhang der Macht",
     "Healer's Staff": "Heilerstab",
@@ -21119,6 +21361,8 @@
     "Hidden Shirt": "Verstecktes Hemd",
     "High Inquisitor Whitemane": "Flammenwirker Koegler",
     "High Inquisitor Whitemane kills (Scarlet Monastery)": "Siege über Flammenwirker Koegler (Scharlachrote Hallen)",
+    "High Order": "Der Hohe Orden",
+    "High Order Skyborne": "Himmelsgeborener des Hohen Ordens",
     "High Robe of the Adjudicator": "Hohe Robe des Schiedsrichters",
     "Highest Alchemy skill": "Höchste Alchemiefertigkeit",
     "Highest Blacksmithing skill": "Höchste Schmiedefertigkeit",
@@ -21321,12 +21565,15 @@
     "Nightclaw Druids": "Druiden der Nachtklaue",
     "Nightclaw Gloves": "Handschuhe der Nachtklaue",
     "Nightfall": "Einbruch der Nacht",
+    "Nightskulker": "Nachtschleicher",
+    "Nightskulker Ring": "Nachtschleicherring",
     "Nightsky Sash": "Nachthauchschärpe",
     "Nimble Leather Gloves": "Behände Lederhandschuhe",
     "Nogg's Gold Ring": "Noggs Goldring",
     "Nomad Gloves": "Reisehandschuhe",
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Novice Ardent's Sash": "Schärpe des inbrünstigen Novizen",
+    "Number of hugs": "Anzahl an Umarmungen",
     "Number of times hearthed": "Anzahl der Nutzungen des Ruhesteins",
     "Oathbound Bracers": "Schwurgebundene Armschienen",
     "Odo's Ley Staff": "Odos Leystab",
@@ -21405,6 +21652,7 @@
     "Rambling Boots": "Stromer-Stiefel",
     "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
+    "Raptorbane Armor": "Raptorbannrüstung",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
@@ -21631,6 +21879,7 @@
     "Superior Shoulders of the Beast": "Überragende Schultern der Bestie",
     "Superior Shoulders of the Monkey": "Überragende Schultern des Affen",
     "Suppression": "Unterdrückung",
+    "Sustaining Ring": "Erhaltender Ring",
     "Swashbuckler Sash": "Schwadroneursschärpe",
     "Swift Judgement": "Schnelles Richturteil",
     "Swiftmend": "Rasche Heilung",
@@ -21780,6 +22029,7 @@
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
+    "Wildhammer Clan": "Wildhammerklan",
     "Wildkeeper Leggings": "Wildhüter-Gamaschen",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Gloves of the Whale": "Weidenhandschuhe des Wals",
@@ -22133,6 +22383,12 @@
       "mounts": {}
     },
     "rogue": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
+    "rykn0": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
@@ -22738,7 +22994,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795217955,
+  "saved_at": 1795218861,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -24703,6 +24959,50 @@
           "quests": 105
         },
         "xp": 7323
+      },
+      "us:aeri-moonglow": {
+        "achievements": 4,
+        "clears": {
+          "Blackfathom Deeps": 1,
+          "Hall of Thanes": 1,
+          "Shadowfang Keep": 1,
+          "The Stockade": 2
+        },
+        "epics": [],
+        "level": 29,
+        "professions": {
+          "Cooking": 29,
+          "Herbalism": 209,
+          "Skinning": 210
+        },
+        "rep": {
+          "Argent Dawn": 700,
+          "Azeroth Commerce Authority": 2000,
+          "Cenarion Circle": 2885,
+          "Darnassus": 7035,
+          "Gadgetzan": 600,
+          "Gnomeregan Exiles": 4915,
+          "High Order": 5885,
+          "Ironforge": 6608,
+          "Kirin Tor": 3200,
+          "Nightclaw Druids": 5700,
+          "Stormwind": 6496,
+          "Wildhammer Clan": 0
+        },
+        "stats": {
+          "critters": 12,
+          "deaths": 36,
+          "drinks": 5,
+          "flights": 34,
+          "food": 8,
+          "health_potions": 18,
+          "hearths": 23,
+          "killing_blows": 1349,
+          "mana_potions": 3,
+          "mobs": 1981,
+          "quests": 251
+        },
+        "xp": 1066
       },
       "us:devil-latterday": {
         "achievements": 1,
