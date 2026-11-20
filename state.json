@@ -14584,11 +14584,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/151/14477463-avatar.jpg",
       "best_item": {
-        "id": 6667,
+        "id": 16978,
         "ilvl": 27,
-        "name": "Engineer's Cloak",
-        "quality": "UNCOMMON",
-        "slot": "Back"
+        "name": "Warsong Gauntlets",
+        "quality": "RARE",
+        "slot": "Hands"
       },
       "boss_kills": {
         "15027": {
@@ -14615,6 +14615,10 @@
           "name": "Axe of Orgrimmar",
           "quality": "RARE"
         },
+        "16978": {
+          "name": "Warsong Gauntlets",
+          "quality": "RARE"
+        },
         "271205": {
           "name": "Abomination Bones",
           "quality": "RARE"
@@ -14628,22 +14632,23 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 14,
+      "ilvl": 15,
       "last_explored": null,
-      "last_login": 1795197608000,
-      "level": 23,
+      "last_login": 1795213676000,
+      "level": 24,
       "level_at": {
         "20": 1794866470,
         "21": 1794938124,
         "22": 1795031689,
-        "23": 1795198664
+        "23": 1795198664,
+        "24": 1795214368
       },
       "professions": {
         "Blacksmithing": 54,
         "Cooking": 19,
-        "First Aid": 108,
+        "First Aid": 114,
         "Fishing": 3,
-        "Mining": 89
+        "Mining": 90
       },
       "race": "Tauren",
       "raids": {},
@@ -14819,63 +14824,68 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1801,
+          "raw": 1851,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4173,
+          "raw": 4660,
           "tier": 4
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 100,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1801,
+          "raw": 1851,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1801,
+          "raw": 1851,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5317,
+          "raw": 5878,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1801,
+          "raw": 1851,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3402,
+          "raw": 3502,
           "tier": 4
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8997,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9405,
+          "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1967,
+          "raw": 2210,
           "tier": 3
         }
       },
       "spec": "Fury",
       "stats": {
         "critters": 28,
-        "deaths": 32,
-        "flights": 23,
-        "food": 34,
-        "health_potions": 25,
-        "hearths": 16,
-        "killing_blows": 1021,
-        "mobs": 1663,
-        "quests": 156
+        "deaths": 33,
+        "flights": 30,
+        "food": 37,
+        "health_potions": 28,
+        "hearths": 17,
+        "killing_blows": 1138,
+        "mobs": 1809,
+        "quests": 170
       },
-      "xp": 12746
+      "xp": 28969
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -14979,7 +14989,7 @@
       "gear": {},
       "ilvl": 6,
       "last_explored": "Durotar",
-      "last_login": 1795110151000,
+      "last_login": 1795213776000,
       "level": 16,
       "level_at": {
         "15": 1794866470,
@@ -15086,7 +15096,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1187,
+          "raw": 1440,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -15096,12 +15106,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1187,
+          "raw": 1440,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1187,
+          "raw": 1440,
           "tier": 3
         },
         "Orgrimmar": {
@@ -15111,12 +15121,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1187,
+          "raw": 1440,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2275,
+          "raw": 2780,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -15139,11 +15149,11 @@
         "food": 4,
         "health_potions": 5,
         "hearths": 5,
-        "killing_blows": 617,
-        "mobs": 640,
-        "quests": 84
+        "killing_blows": 624,
+        "mobs": 647,
+        "quests": 89
       },
-      "xp": 11616
+      "xp": 15800
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -20462,6 +20472,20 @@
           "class": "Warlock",
           "level": 46
         }
+      },
+      "eu:mimisiku-meatshield": {
+        "c": {
+          "name": "Mimisiku",
+          "region": "eu",
+          "surname": "Meatshield"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Donnerfels"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 24
+        }
       }
     },
     "last": "2026-11-20"
@@ -22653,7 +22677,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795213493,
+  "saved_at": 1795214369,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
