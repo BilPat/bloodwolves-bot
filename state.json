@@ -1090,7 +1090,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795196082000,
+      "last_login": 1795201216000,
       "level": 27,
       "level_at": {
         "23": 1794866470,
@@ -1202,7 +1202,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7397,
+          "raw": 7422,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1222,7 +1222,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9660,
+          "raw": 9685,
           "tier": 5
         },
         "Powderfuse": {
@@ -1237,30 +1237,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5931,
+          "raw": 6031,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5435,
+          "raw": 5460,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 32,
-        "deaths": 15,
+        "deaths": 17,
         "drinks": 17,
         "flights": 46,
         "food": 6,
         "health_potions": 5,
         "hearths": 21,
-        "killing_blows": 1185,
-        "mana_potions": 22,
-        "mobs": 2335,
-        "quests": 155
+        "killing_blows": 1197,
+        "mana_potions": 24,
+        "mobs": 2359,
+        "quests": 156
       },
-      "xp": 2229
+      "xp": 6205
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -7961,7 +7961,7 @@
       },
       "ilvl": 20,
       "last_explored": "Thousand Needles",
-      "last_login": 1795196429000,
+      "last_login": 1795201083000,
       "level": 30,
       "level_at": {
         "27": 1794866470,
@@ -8333,7 +8333,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1652,
+          "raw": 1702,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -8343,7 +8343,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5991,
+          "raw": 6003,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -8358,37 +8358,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1652,
+          "raw": 1702,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1652,
+          "raw": 1702,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8080,
+          "raw": 8092,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1652,
+          "raw": 1702,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2805,
+          "raw": 2905,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13482,
+          "raw": 13532,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4478,
+          "raw": 4491,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -8402,17 +8402,17 @@
         "critters": 46,
         "deaths": 31,
         "drinks": 50,
-        "flights": 38,
-        "food": 127,
+        "flights": 40,
+        "food": 128,
         "health_potions": 22,
-        "hearths": 25,
+        "hearths": 26,
         "honorable_kills": 68,
-        "killing_blows": 1790,
+        "killing_blows": 1812,
         "mana_potions": 1,
-        "mobs": 2375,
-        "quests": 221
+        "mobs": 2400,
+        "quests": 227
       },
-      "xp": 27944
+      "xp": 43744
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -22615,7 +22615,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795200905,
+  "saved_at": 1795202002,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
