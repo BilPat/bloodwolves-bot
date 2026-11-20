@@ -18070,6 +18070,248 @@
       },
       "xp": 22893
     },
+    "us:devil-latterday": {
+      "achievements": {
+        "842": "Explore Teldrassil"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
+      "best_item": {
+        "id": 279865,
+        "ilvl": 23,
+        "name": "Grave Shroud",
+        "quality": "UNCOMMON",
+        "slot": "Back"
+      },
+      "boss_kills": {
+        "63571": {
+          "boss": "Rath'mael",
+          "count": 1,
+          "instance": "Ruins of Lordaeron"
+        }
+      },
+      "class": "Hunter",
+      "dungeons": {},
+      "first_seen": 1795149590,
+      "gear": {
+        "252425": {
+          "name": "Dark Leather Boots",
+          "quality": "RARE"
+        },
+        "271204": {
+          "name": "Meathook Slicer",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 9,
+      "last_explored": "Teldrassil",
+      "last_login": 1795068172000,
+      "level": 18,
+      "level_at": {
+        "18": 1795149590
+      },
+      "professions": {
+        "Cooking": 30,
+        "First Aid": 81,
+        "Fishing": 21,
+        "Leatherworking": 58,
+        "Skinning": 118
+      },
+      "race": "Night Elf",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 3926,
+            "name": "Kaldorei Spider Kabob"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
+          },
+          {
+            "id": 58812,
+            "name": "Light Leather Reagent Bag"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4767,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Darnassus": {
+          "name": "Honored",
+          "raw": 11692,
+          "tier": 5
+        },
+        "Gnomeregan Exiles": {
+          "name": "Friendly",
+          "raw": 4126,
+          "tier": 4
+        },
+        "Ironforge": {
+          "name": "Friendly",
+          "raw": 4013,
+          "tier": 4
+        },
+        "Stormwind": {
+          "name": "Friendly",
+          "raw": 3863,
+          "tier": 4
+        }
+      },
+      "spec": "Beast Mastery",
+      "stats": {
+        "critters": 42,
+        "deaths": 10,
+        "flights": 6,
+        "food": 22,
+        "health_potions": 6,
+        "hearths": 1,
+        "honorable_kills": 50,
+        "killing_blows": 1094,
+        "mana_potions": 1,
+        "mobs": 1149,
+        "quests": 108
+      },
+      "xp": 3664
+    },
     "us:pwanage-ownage": {
       "achievements": {
         "61502": "Novice Druid",
@@ -20433,6 +20675,7 @@
     "Human": "Mensch",
     "Hunter": "Jäger",
     "Hunting Bow": "Jagdbogen",
+    "Hunting Gloves": "Jagdhandschuhe",
     "Hunting Tunic": "Jagdtunika",
     "Hydra Leather Legs": "Hydralederbeinlinge",
     "Idol": "Götze",
@@ -20458,6 +20701,7 @@
     "Improved Renew": "Verbesserte Erneuerung",
     "Improved Revenge": "Verbesserte Rache",
     "Improved Revival": "Verbesserte Wiederbelebung",
+    "Improved Revive Pet": "Verbessertes Tier wiederbeleben",
     "Improved Righteous Fury": "Verbesserter Zorn der Gerechtigkeit",
     "Improved Sayaad": "Verbesserte Sayaad",
     "Improved Scorch": "Verbessertes Versengen",
@@ -20479,6 +20723,7 @@
     "Iron Shield Spike": "Eisenschildstachel",
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
+    "Ivy Cuffs": "Efeu-Manschetten",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Jungle Boots": "Dschungel-Stiefel",
     "Justicar's Belt": "Gürtel des Rechtsprechers",
@@ -20697,6 +20942,7 @@
     "Redoubt": "Verschanzen",
     "Reflection": "Reflexion",
     "Regent's Cloak": "Regentenumhang",
+    "Reinforced Bow": "Verstärkter Bogen",
     "Reinforced Linen Cape": "Verstärktes Leinencape",
     "Relic": "Relikt",
     "Reliquary Mantle": "Reliquiarmantelung",
@@ -20739,6 +20985,7 @@
     "Royal Gloves of the Elder": "Königliche Handschuhe des Ältesten",
     "Ruga's Bulwark": "Rugas Bollwerk",
     "Rugged Mail Vest": "Unverwüstliche Panzerweste",
+    "Rugged Trapper's Shirt": "Unverwüstliches Fallenstellerhemd",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
     "Runed Copper Belt": "Runenverzierter Kupfergürtel",
     "Runed Copper Bracers": "Runenverzierte Kupferarmschienen",
@@ -20976,6 +21223,7 @@
     "Undead": "Untoter",
     "Unholy Power": "Unheilige Macht",
     "Unsealed Wrath": "Entfesselter Zorn",
+    "Vagabond Leggings": "Vagabunden-Gamaschen",
     "Vanguard": "Frontkämpfer",
     "Vanity pets owned": "Anzahl der besessenen Haustiere",
     "Vanquisher's Sword": "Bezwingerschwert",
@@ -21376,6 +21624,12 @@
     },
     "eu:zulka-seelenfluch": {
       "mounts": {}
+    },
+    "rogue": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
     },
     "us:pwanage-ownage": {
       "mounts": {
@@ -21977,7 +22231,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795149025,
+  "saved_at": 1795149591,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -23942,6 +24196,41 @@
           "quests": 105
         },
         "xp": 7323
+      },
+      "us:devil-latterday": {
+        "achievements": 1,
+        "clears": {
+          "Ruins of Lordaeron": 1
+        },
+        "epics": [],
+        "level": 18,
+        "professions": {
+          "Cooking": 30,
+          "First Aid": 81,
+          "Fishing": 21,
+          "Leatherworking": 58,
+          "Skinning": 118
+        },
+        "rep": {
+          "Darnassus": 11692,
+          "Gnomeregan Exiles": 4126,
+          "Ironforge": 4013,
+          "Stormwind": 3863
+        },
+        "stats": {
+          "critters": 42,
+          "deaths": 10,
+          "flights": 6,
+          "food": 22,
+          "health_potions": 6,
+          "hearths": 1,
+          "honorable_kills": 50,
+          "killing_blows": 1094,
+          "mana_potions": 1,
+          "mobs": 1149,
+          "quests": 108
+        },
+        "xp": 3664
       },
       "us:pwanage-ownage": {
         "achievements": 5,
