@@ -2795,7 +2795,7 @@
       },
       "ilvl": 34,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795209840000,
+      "last_login": 1795211264000,
       "level": 46,
       "level_at": {
         "42": 1794866470,
@@ -2962,6 +2962,14 @@
           {
             "id": 7661,
             "name": "Enchant Bracer - Intellect"
+          },
+          {
+            "id": 7663,
+            "name": "Enchant Gloves - Advanced Mining"
+          },
+          {
+            "id": 7667,
+            "name": "Enchant Cloak - Lesser Agility"
           },
           {
             "id": 7529,
@@ -3283,7 +3291,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5546,
+          "raw": 5626,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -3303,12 +3311,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4283,
+          "raw": 4363,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4295,
+          "raw": 4455,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3328,12 +3336,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5275,
+          "raw": 5355,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5648,
+          "raw": 5728,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -3355,13 +3363,13 @@
         "flights": 91,
         "food": 86,
         "health_potions": 30,
-        "hearths": 40,
-        "killing_blows": 4915,
+        "hearths": 41,
+        "killing_blows": 4945,
         "mana_potions": 2,
-        "mobs": 7549,
+        "mobs": 7584,
         "quests": 458
       },
-      "xp": 29404
+      "xp": 34391
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -4575,7 +4583,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795207753000,
+      "last_login": 1795211168000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -22633,7 +22641,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795210771,
+  "saved_at": 1795211714,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
