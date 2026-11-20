@@ -12447,7 +12447,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795142663000,
+      "last_login": 1795144208000,
       "level": 28,
       "level_at": {
         "24": 1794866470,
@@ -12460,7 +12460,7 @@
         "First Aid": 65,
         "Fishing": 109,
         "Leatherworking": 114,
-        "Skinning": 202
+        "Skinning": 203
       },
       "race": "Troll",
       "raids": {},
@@ -12836,19 +12836,19 @@
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 16,
+        "critters": 17,
         "deaths": 27,
         "drinks": 14,
         "flights": 33,
         "food": 8,
-        "health_potions": 22,
+        "health_potions": 23,
         "hearths": 16,
-        "killing_blows": 1412,
+        "killing_blows": 1450,
         "mana_potions": 6,
-        "mobs": 2381,
+        "mobs": 2421,
         "quests": 183
       },
-      "xp": 3500
+      "xp": 7801
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -21977,7 +21977,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795143301,
+  "saved_at": 1795144654,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
