@@ -5200,7 +5200,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795137520000,
+      "last_login": 1795170884000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -12563,9 +12563,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 21,
       "last_explored": "Durotar",
-      "last_login": 1795144208000,
+      "last_login": 1795170709000,
       "level": 28,
       "level_at": {
         "24": 1794866470,
@@ -12576,9 +12576,9 @@
       "professions": {
         "Cooking": 108,
         "First Aid": 65,
-        "Fishing": 109,
+        "Fishing": 112,
         "Leatherworking": 114,
-        "Skinning": 203
+        "Skinning": 204
       },
       "race": "Troll",
       "raids": {},
@@ -12799,6 +12799,10 @@
             "name": "Fletcher's Gloves"
           },
           {
+            "id": 5028,
+            "name": "Earthen Leather Shoulders"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
           },
@@ -12903,7 +12907,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10816,
+          "raw": 11003,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -12928,7 +12932,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11591,
+          "raw": 11778,
           "tier": 5
         },
         "Powderfuse": {
@@ -12943,12 +12947,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6147,
+          "raw": 6560,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3790,
+          "raw": 4315,
           "tier": 4
         }
       },
@@ -12959,14 +12963,14 @@
         "drinks": 14,
         "flights": 33,
         "food": 8,
-        "health_potions": 23,
+        "health_potions": 25,
         "hearths": 16,
-        "killing_blows": 1450,
+        "killing_blows": 1519,
         "mana_potions": 6,
-        "mobs": 2421,
-        "quests": 183
+        "mobs": 2506,
+        "quests": 189
       },
-      "xp": 7801
+      "xp": 27609
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -22414,7 +22418,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795170311,
+  "saved_at": 1795171254,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
