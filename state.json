@@ -8515,14 +8515,15 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 38,
+      "ilvl": 40,
       "last_explored": "Thousand Needles",
-      "last_login": 1795117063000,
-      "level": 42,
+      "last_login": 1795193895000,
+      "level": 43,
       "level_at": {
         "40": 1794866470,
         "41": 1795031689,
-        "42": 1795117149
+        "42": 1795117149,
+        "43": 1795194762
       },
       "professions": {
         "Blacksmithing": 185,
@@ -9055,7 +9056,7 @@
         },
         "Bolder'ok Clan": {
           "name": "Neutral",
-          "raw": 411,
+          "raw": 1231,
           "tier": 3
         },
         "Booty Bay": {
@@ -9127,19 +9128,19 @@
       "spec": "Retribution",
       "stats": {
         "critters": 106,
-        "deaths": 9,
-        "drinks": 78,
+        "deaths": 10,
+        "drinks": 82,
         "flights": 68,
-        "food": 98,
-        "health_potions": 27,
+        "food": 100,
+        "health_potions": 29,
         "hearths": 26,
         "honorable_kills": 1,
-        "killing_blows": 3331,
+        "killing_blows": 3376,
         "mana_potions": 1,
-        "mobs": 5395,
-        "quests": 453
+        "mobs": 5447,
+        "quests": 463
       },
-      "xp": 73615
+      "xp": 8596
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -20323,6 +20324,20 @@
           "level": 34
         }
       },
+      "eu:garret-aschwind": {
+        "c": {
+          "name": "Garret",
+          "region": "eu",
+          "surname": "Aschwind"
+        },
+        "lines": [
+          "Gegenstandsstufe **40**"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 43
+        }
+      },
       "eu:keta-f%C3%A4se": {
         "c": {
           "name": "Keta",
@@ -21652,8 +21667,8 @@
     }
   },
   "group_board": {
-    "last": "2026-11-19",
-    "message_id": "1573023393089982558"
+    "last": "2026-11-20",
+    "message_id": "1573385619961286738"
   },
   "officer_board": {
     "message_ids": [
@@ -22507,7 +22522,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795193687,
+  "saved_at": 1795194764,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
