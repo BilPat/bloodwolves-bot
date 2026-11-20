@@ -1090,17 +1090,18 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795189033000,
-      "level": 26,
+      "last_login": 1795196082000,
+      "level": 27,
       "level_at": {
         "23": 1794866470,
         "24": 1794940852,
-        "26": 1795004429
+        "26": 1795004429,
+        "27": 1795196609
       },
       "professions": {
         "Alchemy": 125,
         "Fishing": 18,
-        "Herbalism": 111
+        "Herbalism": 116
       },
       "race": "Orc",
       "raids": {},
@@ -1201,7 +1202,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7316,
+          "raw": 7397,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1221,7 +1222,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9503,
+          "raw": 9660,
           "tier": 5
         },
         "Powderfuse": {
@@ -1236,12 +1237,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5681,
+          "raw": 5931,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5353,
+          "raw": 5435,
           "tier": 4
         }
       },
@@ -1250,16 +1251,16 @@
         "critters": 32,
         "deaths": 15,
         "drinks": 17,
-        "flights": 45,
+        "flights": 46,
         "food": 6,
         "health_potions": 5,
         "hearths": 21,
-        "killing_blows": 1144,
-        "mana_potions": 21,
-        "mobs": 2271,
-        "quests": 151
+        "killing_blows": 1185,
+        "mana_potions": 22,
+        "mobs": 2335,
+        "quests": 155
       },
-      "xp": 26055
+      "xp": 2229
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -7958,9 +7959,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 20,
       "last_explored": "Thousand Needles",
-      "last_login": 1795111517000,
+      "last_login": 1795196429000,
       "level": 30,
       "level_at": {
         "27": 1794866470,
@@ -7973,7 +7974,7 @@
         "First Aid": 20,
         "Fishing": 160,
         "Leatherworking": 142,
-        "Skinning": 203
+        "Skinning": 225
       },
       "race": "Tauren",
       "raids": {},
@@ -8400,18 +8401,18 @@
       "stats": {
         "critters": 46,
         "deaths": 31,
-        "drinks": 47,
+        "drinks": 50,
         "flights": 38,
-        "food": 121,
+        "food": 127,
         "health_potions": 22,
         "hearths": 25,
         "honorable_kills": 68,
-        "killing_blows": 1718,
+        "killing_blows": 1790,
         "mana_potions": 1,
-        "mobs": 2303,
+        "mobs": 2375,
         "quests": 221
       },
-      "xp": 9146
+      "xp": 27944
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -16411,6 +16412,7 @@
       "achievements": {
         "61502": "Novice Druid",
         "62012": "Journeyman Alchemist",
+        "847": "Explore Stonetalon Mountains",
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/20/8976148-avatar.jpg",
@@ -16442,6 +16444,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "16977": {
+          "name": "Warsong Boots",
+          "quality": "RARE"
+        },
         "270043": {
           "name": "Dreamer's Chestguard",
           "quality": "RARE"
@@ -16475,21 +16481,22 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
-      "last_explored": "Moonglade",
-      "last_login": 1795166738000,
-      "level": 28,
+      "ilvl": 22,
+      "last_explored": "Stonetalon Mountains",
+      "last_login": 1795195573000,
+      "level": 29,
       "level_at": {
         "25": 1794866470,
         "26": 1794994743,
         "27": 1795081184,
-        "28": 1795113062
+        "28": 1795113062,
+        "29": 1795196609
       },
       "professions": {
         "Alchemy": 186,
         "Cooking": 122,
         "Fishing": 75,
-        "Herbalism": 165
+        "Herbalism": 168
       },
       "race": "Tauren",
       "raids": {},
@@ -16578,6 +16585,10 @@
           {
             "id": 4178,
             "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 4211,
+            "name": "Holy Protection Potion"
           },
           {
             "id": 52646,
@@ -16716,7 +16727,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6420,
+          "raw": 6557,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16741,7 +16752,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8145,
+          "raw": 8470,
           "tier": 4
         },
         "Powderfuse": {
@@ -16756,29 +16767,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12568,
+          "raw": 12931,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3538,
+          "raw": 3676,
           "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
         "critters": 19,
-        "deaths": 21,
+        "deaths": 22,
         "drinks": 13,
-        "flights": 43,
+        "flights": 45,
         "food": 30,
-        "health_potions": 5,
-        "hearths": 25,
-        "killing_blows": 1250,
-        "mobs": 2228,
-        "quests": 203
+        "health_potions": 6,
+        "hearths": 27,
+        "killing_blows": 1276,
+        "mobs": 2255,
+        "quests": 209
       },
-      "xp": 29680
+      "xp": 6749
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -18109,9 +18120,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795188493000,
+      "last_login": 1795195946000,
       "level": 28,
       "level_at": {
         "21": 1794866470,
@@ -18256,13 +18267,13 @@
         "flights": 25,
         "food": 232,
         "health_potions": 11,
-        "hearths": 25,
+        "hearths": 26,
         "killing_blows": 1523,
         "mana_potions": 20,
         "mobs": 2424,
         "quests": 166
       },
-      "xp": 2843
+      "xp": 3043
     },
     "us:devil-latterday": {
       "achievements": {
@@ -20340,6 +20351,21 @@
           "level": 34
         }
       },
+      "eu:garm-winterhoof": {
+        "c": {
+          "name": "Garm",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Winterhoof"
+        },
+        "lines": [
+          "🛠️ **Kürschnerei** auf 225"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 30
+        }
+      },
       "eu:garret-aschwind": {
         "c": {
           "name": "Garret",
@@ -20381,6 +20407,21 @@
         "snap": {
           "class": "Paladin",
           "level": 25
+        }
+      },
+      "eu:redbully-badbully": {
+        "c": {
+          "name": "Redbully",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Badbully"
+        },
+        "lines": [
+          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 29
         }
       },
       "us:pwanage-ownage": {
@@ -21235,7 +21276,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -21586,6 +21627,7 @@
     "Warped Leather Boots": "Verformte Lederstiefel",
     "Warrior": "Krieger",
     "Warrior's Tunic": "Kriegertunika",
+    "Warsong Boots": "Warsongstiefel",
     "Warsong Gauntlets": "Warsongstulpen",
     "Warsong Gulch Honorable Kills": "Ehrenhafte Siege in der Kriegshymnenschlucht",
     "Warsong Gulch Killing Blows": "Todesstöße in der Kriegshymnenschlucht",
@@ -22543,7 +22585,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795195498,
+  "saved_at": 1795196611,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
