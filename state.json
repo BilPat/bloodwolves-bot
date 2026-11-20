@@ -11375,7 +11375,7 @@
       },
       "ilvl": 47,
       "last_explored": "Badlands",
-      "last_login": 1795176314000,
+      "last_login": 1795197060000,
       "level": 49,
       "level_at": {
         "45": 1794866470,
@@ -11850,7 +11850,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 6421,
+          "raw": 6471,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -11875,12 +11875,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5661,
+          "raw": 5711,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 7014,
+          "raw": 7114,
           "tier": 4
         },
         "Orgrimmar": {
@@ -11890,12 +11890,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6804,
+          "raw": 6854,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7268,
+          "raw": 7318,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -11914,16 +11914,16 @@
         "critters": 100,
         "deaths": 39,
         "drinks": 155,
-        "flights": 202,
+        "flights": 203,
         "food": 224,
         "health_potions": 74,
         "hearths": 45,
-        "killing_blows": 4407,
+        "killing_blows": 4410,
         "mana_potions": 6,
-        "mobs": 7864,
-        "quests": 617
+        "mobs": 7867,
+        "quests": 618
       },
-      "xp": 120574
+      "xp": 125856
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -13383,13 +13383,19 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/198/18282182-avatar.jpg",
       "best_item": {
-        "id": 13136,
-        "ilvl": 21,
-        "name": "Lil Timmy's Peashooter",
-        "quality": "RARE",
-        "slot": "Ranged"
+        "id": 279875,
+        "ilvl": 24,
+        "name": "Spare Part Bindings",
+        "quality": "UNCOMMON",
+        "slot": "Wrist"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "63571": {
+          "boss": "Rath'mael",
+          "count": 1,
+          "instance": "Ruins of Lordaeron"
+        }
+      },
       "class": "Hunter",
       "dungeons": {},
       "first_seen": 1794866470,
@@ -13399,16 +13405,17 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 8,
+      "ilvl": 10,
       "last_explored": null,
-      "last_login": 1795086086000,
-      "level": 19,
+      "last_login": 1795197206000,
+      "level": 20,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005,
         "16": 1794993427,
         "18": 1795033546,
-        "19": 1795088356
+        "19": 1795088356,
+        "20": 1795197315
       },
       "professions": {
         "Cooking": 37,
@@ -13543,7 +13550,7 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6077,
+          "raw": 6527,
           "tier": 4
         }
       },
@@ -13551,16 +13558,16 @@
       "stats": {
         "deaths": 5,
         "drinks": 2,
-        "flights": 8,
-        "food": 10,
+        "flights": 9,
+        "food": 11,
         "health_potions": 7,
-        "hearths": 16,
-        "killing_blows": 881,
+        "hearths": 17,
+        "killing_blows": 915,
         "mana_potions": 4,
-        "mobs": 1067,
-        "quests": 137
+        "mobs": 1188,
+        "quests": 148
       },
-      "xp": 2484
+      "xp": 20396
     },
     "eu:maul-worf": {
       "achievements": {
@@ -18122,7 +18129,7 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795195946000,
+      "last_login": 1795196758000,
       "level": 28,
       "level_at": {
         "21": 1794866470,
@@ -18273,7 +18280,7 @@
         "mobs": 2424,
         "quests": 166
       },
-      "xp": 3043
+      "xp": 3747
     },
     "us:devil-latterday": {
       "achievements": {
@@ -21276,7 +21283,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
     "Rare": "Rar",
@@ -21716,7 +21723,8 @@
     "milestone_order": {
       "20": [
         "eu:rausmit-deviechers",
-        "us:devil-latterday"
+        "us:devil-latterday",
+        "eu:maniac-menacepuppy"
       ],
       "30": [
         "eu:fred-feuersturm",
@@ -22585,7 +22593,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795196611,
+  "saved_at": 1795197320,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
