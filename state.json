@@ -1473,7 +1473,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 7,
+          "count": 9,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -1531,6 +1531,11 @@
           "count": 3,
           "instance": "City of Dalaran"
         },
+        "63575": {
+          "boss": "Blazeroar",
+          "count": 2,
+          "instance": "Alcaz Prison"
+        },
         "63589": {
           "boss": "Lyn the Ignored",
           "count": 2,
@@ -1546,8 +1551,16 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "12471": {
+          "name": "Desertwalker Cane",
+          "quality": "RARE"
+        },
         "17732": {
           "name": "Rotgrip Mantle",
+          "quality": "RARE"
+        },
+        "18083": {
+          "name": "Jumanza Grips",
           "quality": "RARE"
         },
         "270081": {
@@ -1613,8 +1626,8 @@
       },
       "ilvl": 46,
       "last_explored": "Thousand Needles",
-      "last_login": 1795177081000,
-      "level": 48,
+      "last_login": 1795202145000,
+      "level": 49,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -1622,13 +1635,14 @@
         "45": 1794994094,
         "46": 1795017247,
         "47": 1795035267,
-        "48": 1795129993
+        "48": 1795129993,
+        "49": 1795202759
       },
       "professions": {
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 283
+        "Skinning": 284
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -2176,17 +2190,17 @@
       "stats": {
         "critters": 180,
         "deaths": 38,
-        "drinks": 644,
-        "flights": 83,
-        "food": 146,
-        "health_potions": 45,
-        "hearths": 29,
-        "killing_blows": 2943,
-        "mana_potions": 21,
-        "mobs": 11696,
-        "quests": 431
+        "drinks": 687,
+        "flights": 84,
+        "food": 155,
+        "health_potions": 46,
+        "hearths": 30,
+        "killing_blows": 2981,
+        "mana_potions": 22,
+        "mobs": 12588,
+        "quests": 432
       },
-      "xp": 110985
+      "xp": 56750
     },
     "eu:blck-jck": {
       "achievements": {
@@ -8422,11 +8436,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/6238556-avatar.jpg",
       "best_item": {
-        "id": 10330,
-        "ilvl": 44,
-        "name": "Scarlet Leggings",
+        "id": 275009,
+        "ilvl": 47,
+        "name": "Emblem of Slamming",
         "quality": "RARE",
-        "slot": "Legs"
+        "slot": "Trinket 2"
       },
       "boss_kills": {
         "1092": {
@@ -8507,6 +8521,22 @@
           "name": "Viscera Spaulders",
           "quality": "RARE"
         },
+        "275003": {
+          "name": "Worgbinder's Treads",
+          "quality": "RARE"
+        },
+        "275006": {
+          "name": "Krol'dok Warplate Helmet",
+          "quality": "RARE"
+        },
+        "275009": {
+          "name": "Emblem of Slamming",
+          "quality": "RARE"
+        },
+        "279480": {
+          "name": "Bigger Rock on Bigger Stick",
+          "quality": "RARE"
+        },
         "279885": {
           "name": "Ceremonial Mallet",
           "quality": "RARE"
@@ -8516,9 +8546,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 40,
+      "ilvl": 42,
       "last_explored": "Thousand Needles",
-      "last_login": 1795193895000,
+      "last_login": 1795202461000,
       "level": 43,
       "level_at": {
         "40": 1794866470,
@@ -8530,7 +8560,7 @@
         "Blacksmithing": 185,
         "Cooking": 226,
         "First Aid": 211,
-        "Mining": 213
+        "Mining": 215
       },
       "race": "Undead",
       "raids": {},
@@ -8539,6 +8569,10 @@
           {
             "id": 1984,
             "name": "Big Bronze Knife"
+          },
+          {
+            "id": 1990,
+            "name": "Frost Tiger Blade"
           },
           {
             "id": 1993,
@@ -9067,7 +9101,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8746,
+          "raw": 8771,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9102,7 +9136,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11380,
+          "raw": 11405,
           "tier": 5
         },
         "Powderfuse": {
@@ -9117,12 +9151,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8661,
+          "raw": 8686,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19665,
+          "raw": 19765,
           "tier": 5
         }
       },
@@ -9130,18 +9164,18 @@
       "stats": {
         "critters": 106,
         "deaths": 10,
-        "drinks": 82,
+        "drinks": 86,
         "flights": 68,
-        "food": 100,
-        "health_potions": 29,
-        "hearths": 26,
+        "food": 103,
+        "health_potions": 30,
+        "hearths": 27,
         "honorable_kills": 1,
-        "killing_blows": 3376,
+        "killing_blows": 3442,
         "mana_potions": 1,
-        "mobs": 5447,
-        "quests": 463
+        "mobs": 5700,
+        "quests": 475
       },
-      "xp": 8596
+      "xp": 94729
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -20478,6 +20512,7 @@
     "Airy Windseeker's Shirt": "Luftiges Hemd des Windsuchers",
     "Aku'mai": "Aku'mai",
     "Aku'mai kills (Blackfathom Deeps)": "Siege über Aku'mai (Blackfathom-Tiefe)",
+    "Alcaz Prison": "Das Gefängnis von Alcaz",
     "Alchemy Recipes learned": "Erlernte Alchemierezepte",
     "Algae Fists": "Algenfäuste",
     "Alliance": "Allianz",
@@ -20591,6 +20626,8 @@
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
     "Blade Flurry": "Klingenwirbel",
     "Blast Wave": "Druckwelle",
+    "Blazeroar": "Blazeroar",
+    "Blazeroar Kills (Alcaz Prison)": "Siege über Blazeroar (Das Gefängnis von Alcaz)",
     "Blazewind Blast": "Lohenwindstoß",
     "Blazewind Breastplate": "Lohenwindbrustplatte",
     "Blemished Wooden Staff": "Verunstalteter Holzstab",
@@ -20783,6 +20820,7 @@
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
     "Desert Choker of the Hierophant": "Wüstenhalsschmuck des Hierophanten",
     "Desert Shoulders": "Wüsten-Schultern",
+    "Desertwalker Cane": "Stock des Wüstenläufers",
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
     "Divine Fury": "Göttlicher Furor",
@@ -20829,6 +20867,7 @@
     "Elite Peacekeeper's Leggings": "Elite-Gamaschen des Friedensbewahrers",
     "Elixirs consumed": "Elixiere verbraucht",
     "Emblazoned Chestpiece": "Geschmückter Brustharnisch",
+    "Emblem of Slamming": "Emblem des Schmetterns",
     "Embossed Leather Boots": "Geprägte Lederstiefel",
     "Embossed Leather Gloves": "Geprägte Lederhandschuhe",
     "Embossed Leather Vest": "Geprägte Lederweste",
@@ -21088,6 +21127,7 @@
     "Improved Thunder Clap": "Verbesserter Donnerknall",
     "Improved Wrath": "Verbesserter Zorn",
     "Incineration": "Verbrennung",
+    "Indoctrinated Choker": "Halsreif des Indoktrinierten",
     "Infantry Gauntlets": "Infanteriestulpen",
     "Inscribed Leather Boots": "Gravierte Lederstiefel",
     "Insect Swarm": "Insektenschwarm",
@@ -21100,6 +21140,7 @@
     "Items disenchanted": "Entzauberte Gegenstände",
     "Ivy Cuffs": "Efeu-Manschetten",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
+    "Jumanza Grips": "Jumanza Handschutz",
     "Jungle Boots": "Dschungel-Stiefel",
     "Justicar's Belt": "Gürtel des Rechtsprechers",
     "Jutebraid Gloves": "Jutezopf-Handschuhe",
@@ -21465,6 +21506,7 @@
     "Skullthumper": "Schädelbrecher",
     "Skywatcher's Vestments": "Himmelsschauergewänder",
     "Slain Baron's Signet": "Siegelring des getöteten Barons",
+    "Slammed": "Zerschmettert",
     "Slayer's Shoulder Pads": "Töterschulterpolster",
     "Slick Deviate Leggings": "Clevere Deviatgamaschen",
     "Slime-encrusted Pads": "Schleimüberzogene Polster",
@@ -21616,6 +21658,7 @@
     "Vanquisher's Sword": "Bezwingerschwert",
     "Veiled Grips": "Verhüllter Handschutz",
     "Vengeance": "Rache",
+    "Venomshroud Armguards": "Giftschleierarmschützer",
     "Veteran Adventurer's Boots": "Stiefel des erfahrenen Abenteurers",
     "Veteran Adventurer's Chestpiece": "Brustharnisch des erfahrenen Abenteurers",
     "Veteran Adventurer's Cloak": "Umhang des erfahrenen Abenteurers",
@@ -21684,6 +21727,7 @@
     "Wolfmaster Cape": "Wolfmeister Cape",
     "Wolfsbane": "Wolfsbann",
     "Wooden Mallet": "Hölzerner Schlaghammer",
+    "Worgbinder's Treads": "Treter des Worgbinders",
     "Worgenbane": "Worgenbann",
     "Worgenbane Talisman": "Worgenbann-Talisman",
     "World": "Welt",
@@ -21707,6 +21751,9 @@
   "group": {
     "firsts": {
       "boss": {
+        "Blazeroar (Alcaz Prison)": [
+          "eu:baumora-axiom"
+        ],
         "Lyn the Ignored (City of Dalaran)": [
           "eu:fred-feuersturm"
         ],
@@ -21739,7 +21786,16 @@
       },
       "raid": {}
     },
-    "firsts_pending": {},
+    "firsts_pending": {
+      "boss|Blazeroar (Alcaz Prison)": {
+        "keys": [
+          "eu:baumora-axiom"
+        ],
+        "kind": "boss",
+        "since": 1795202759,
+        "what": "Blazeroar (Alcaz Prison)"
+      }
+    },
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -22615,7 +22671,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795202002,
+  "saved_at": 1795202761,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
