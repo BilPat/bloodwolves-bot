@@ -12726,6 +12726,10 @@
           "name": "Cultist's Armguards",
           "quality": "RARE"
         },
+        "273026": {
+          "name": "Garb of Florid Feathers",
+          "quality": "RARE"
+        },
         "285329": {
           "name": "Raptor Hide Cloak",
           "quality": "RARE"
@@ -12747,22 +12751,23 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 26,
       "last_explored": "Durotar",
-      "last_login": 1795204329000,
-      "level": 28,
+      "last_login": 1795214424000,
+      "level": 29,
       "level_at": {
         "24": 1794866470,
         "25": 1794877050,
         "26": 1795114488,
-        "28": 1795143299
+        "28": 1795143299,
+        "29": 1795215289
       },
       "professions": {
-        "Cooking": 108,
+        "Cooking": 150,
         "First Aid": 65,
         "Fishing": 112,
         "Leatherworking": 130,
-        "Skinning": 204
+        "Skinning": 210
       },
       "race": "Troll",
       "raids": {},
@@ -12771,6 +12776,14 @@
           {
             "id": 8616,
             "name": "Crispy Bat Wing"
+          },
+          {
+            "id": 1901,
+            "name": "Big Bear Steak"
+          },
+          {
+            "id": 1902,
+            "name": "Hot Lion Chops"
           },
           {
             "id": 13344,
@@ -12825,6 +12838,10 @@
             "name": "Rainbow Fin Albacore"
           },
           {
+            "id": 3963,
+            "name": "Goblin Deviled Clams"
+          },
+          {
             "id": 3964,
             "name": "Boiled Clams"
           },
@@ -12835,6 +12852,10 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 54502,
+            "name": "Twice-Spiced Raptor Slice"
           },
           {
             "id": 54504,
@@ -13107,7 +13128,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11003,
+          "raw": 11203,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -13117,7 +13138,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 300,
+          "raw": 750,
           "tier": 3
         },
         "Everlook": {
@@ -13132,7 +13153,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11778,
+          "raw": 11978,
           "tier": 5
         },
         "Powderfuse": {
@@ -13147,30 +13168,35 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6560,
+          "raw": 6910,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4315,
+          "raw": 4440,
           "tier": 4
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 17,
-        "deaths": 27,
-        "drinks": 14,
-        "flights": 33,
-        "food": 8,
-        "health_potions": 25,
-        "hearths": 17,
-        "killing_blows": 1519,
-        "mana_potions": 6,
-        "mobs": 2506,
-        "quests": 189
+        "critters": 21,
+        "deaths": 32,
+        "drinks": 22,
+        "flights": 34,
+        "food": 13,
+        "health_potions": 30,
+        "hearths": 18,
+        "killing_blows": 1572,
+        "mana_potions": 8,
+        "mobs": 2647,
+        "quests": 198
       },
-      "xp": 27609
+      "xp": 28153
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -18823,7 +18849,7 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795204746000,
+      "last_login": 1795214713000,
       "level": 30,
       "level_at": {
         "26": 1794965196,
@@ -19205,6 +19231,11 @@
           "raw": 7078,
           "tier": 4
         },
+        "Kirin Tor": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Stormwind": {
           "name": "Friendly",
           "raw": 8798,
@@ -19216,7 +19247,7 @@
         "critters": 55,
         "deaths": 38,
         "drinks": 104,
-        "flights": 50,
+        "flights": 51,
         "food": 58,
         "health_potions": 50,
         "hearths": 23,
@@ -20473,6 +20504,21 @@
           "level": 46
         }
       },
+      "eu:lazy-quinn": {
+        "c": {
+          "name": "Lazy",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Quinn"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 150"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 29
+        }
+      },
       "eu:mimisiku-meatshield": {
         "c": {
           "name": "Mimisiku",
@@ -20977,6 +21023,7 @@
     "Fury": "Furor",
     "Fury Ring": "Zornring",
     "Gaea's Handwraps of the Physician": "Gaeas Handlappen des Heilers",
+    "Garb of Florid Feathers": "Überreich verziertes Federgewand",
     "Gargoyle Leggings": "Gargoylegamaschen",
     "Garrison Cuffs": "Garnisons-Manschetten",
     "Gear": "Ausrüstung",
@@ -21382,6 +21429,7 @@
     "Reverence": "Andacht",
     "Revived by druids": "Von Druiden wiederbelebt",
     "Ribbed Breastplate": "Rippenbrustplatte",
+    "Ring 1": "Ring 2",
     "Ring of Iron Will": "Ring des eisernen Willens",
     "Ritual Belt of Stamina": "Ritueller Gürtel der Ausdauer",
     "Riveted Gauntlets": "Nietenstulpen",
@@ -21641,7 +21689,8 @@
     "Trinket 2": "Schmuckstück 2",
     "Triprunner Dungarees": "Stolperläufer-Latzhose",
     "Tundra Boots": "Tundra-Stiefel",
-    "Tundra Ring of the Bandit": "Tundraring des Banditen",
+    "Tundra Ring of the Bandit": "Tundraring des Gorillas",
+    "Tundra Ring of the Gorilla": "Tundraring des Gorillas",
     "Tusken Helm": "Hauerhelm",
     "Tuskwrap Belt": "Hauerwickelgürtel",
     "Twilight Barrier": "Twilightbarriere",
@@ -22677,7 +22726,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795214369,
+  "saved_at": 1795215291,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
