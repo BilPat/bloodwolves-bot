@@ -10352,9 +10352,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 29,
+      "ilvl": 30,
       "last_explored": "Thousand Needles",
-      "last_login": 1795169933000,
+      "last_login": 1795174108000,
       "level": 35,
       "level_at": {
         "25": 1794866470,
@@ -10370,9 +10370,9 @@
       },
       "professions": {
         "Cooking": 149,
-        "First Aid": 189,
+        "First Aid": 203,
         "Fishing": 8,
-        "Leatherworking": 150,
+        "Leatherworking": 152,
         "Skinning": 236
       },
       "race": "Undead",
@@ -10472,6 +10472,10 @@
           {
             "id": 4414,
             "name": "Silk Bandage"
+          },
+          {
+            "id": 4415,
+            "name": "Heavy Silk Bandage"
           },
           {
             "id": 1838,
@@ -10760,6 +10764,11 @@
           "raw": 1241,
           "tier": 3
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 60,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
           "raw": 5622,
@@ -10819,18 +10828,18 @@
       "spec": "Combat",
       "stats": {
         "critters": 50,
-        "deaths": 25,
+        "deaths": 29,
         "drinks": 30,
         "flights": 53,
         "food": 201,
         "health_potions": 24,
         "hearths": 16,
-        "honorable_kills": 113,
-        "killing_blows": 2477,
-        "mobs": 3843,
-        "quests": 257
+        "honorable_kills": 147,
+        "killing_blows": 2479,
+        "mobs": 3847,
+        "quests": 258
       },
-      "xp": 40835
+      "xp": 41115
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -20388,6 +20397,7 @@
     "Bane": "Dunkle Macht",
     "Barbaric Cloth Boots": "Barbarische Stoffstiefel",
     "Barbaric Crossbow": "Barbarische Armbrust",
+    "Barbaric Leggings": "Barbarische Gamaschen",
     "Barbaric Linen Vest": "Barbarische Leinenweste",
     "Barbaric Shoulders": "Barbarische Schultern",
     "Bard's Trousers of Healing": "Bardenhose der Heilung",
@@ -20588,6 +20598,8 @@
     "Dark Leather Tunic": "Dunkle Ledertunika",
     "Dark Ritual Leggings": "Dunkle Ritualgamaschen",
     "Darkmoon Faire": "Dunkelmond-Jahrmarkt",
+    "Darkspear Islands Honorable Kills": "Ehrenhafte Siege auf den Darkspear-Inseln",
+    "Darkspear Islands Killing Blows": "Todesstöße auf den Darkspear-Inseln",
     "Darkspear Raiders": "Darkspear-Räuber",
     "Darkspear Trolls": "Darkspear",
     "Deadly Aspects": "Tödliche Aspekte",
@@ -20599,6 +20611,7 @@
     "Deaths from drowning": "Tode durch Ertrinken",
     "Deaths from falling": "Tode durch Stürze",
     "Deaths from fire and lava": "Tode durch Feuer und Lava",
+    "Deaths in Darkspear Islands": "Tode auf den Darkspear-Inseln",
     "Deaths in Warsong Gulch": "Tode in der Kriegshymnenschlucht",
     "Decimation": "Dezimierung",
     "Deckhand's Shirt": "Deckmatrosenhemd",
@@ -20649,6 +20662,7 @@
     "Durgen Dirgehammer": "Durgen Dirgehammer",
     "Durgen Dirgehammer Kills (Hall of Thanes)": "Siege über Durgen Dirgehammer (Halle der Thanen)",
     "Durotar Supply and Logistics": "Versorgung und Logistik Durotar",
+    "Dusky Leather Armor": "Schwärzliche Lederrüstung",
     "Dust-covered Leggings": "Staubbedeckte Gamaschen",
     "Dusty Belt": "Staubiger Gürtel",
     "Dusty Mail Boots": "Verstaubte Panzerstiefel",
@@ -22437,7 +22451,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795173916,
+  "saved_at": 1795175701,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
