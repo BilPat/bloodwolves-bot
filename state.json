@@ -2682,6 +2682,7 @@
         "62009": "Novice Warlock",
         "62010": "Experienced Warlock",
         "62018": "Journeyman Enchanter",
+        "62019": "Expert Enchanter",
         "62028": "Journeyman Tailor",
         "769": "Explore Silverpine Forest"
       },
@@ -2775,6 +2776,10 @@
           "name": "Sacrificial Sword",
           "quality": "RARE"
         },
+        "286429": {
+          "name": "Big-Belly Belt",
+          "quality": "RARE"
+        },
         "4197": {
           "name": "Berylline Pads",
           "quality": "RARE"
@@ -2788,20 +2793,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 32,
+      "ilvl": 34,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795161758000,
-      "level": 45,
+      "last_login": 1795209840000,
+      "level": 46,
       "level_at": {
         "42": 1794866470,
         "43": 1795032935,
-        "45": 1795127142
+        "45": 1795127142,
+        "46": 1795210769
       },
       "professions": {
         "Cooking": 225,
-        "Enchanting": 190,
+        "Enchanting": 225,
         "First Aid": 78,
-        "Tailoring": 172
+        "Tailoring": 190
       },
       "race": "Undead",
       "raids": {},
@@ -2898,6 +2904,14 @@
             "name": "Enchant Boots - Minor Agility"
           },
           {
+            "id": 7522,
+            "name": "Enchant Bracer - Strength"
+          },
+          {
+            "id": 7523,
+            "name": "Enchant Chest - Greater Intellect"
+          },
+          {
             "id": 7425,
             "name": "Enchant Bracer - Lesser Stamina"
           },
@@ -2934,6 +2948,34 @@
             "name": "Enchant Weapon - Lesser Beastslayer"
           },
           {
+            "id": 7521,
+            "name": "Enchant Shield - Spirit"
+          },
+          {
+            "id": 7657,
+            "name": "Enchant Cloak - Greater Defense"
+          },
+          {
+            "id": 7658,
+            "name": "Enchant Cloak - Resistance"
+          },
+          {
+            "id": 7661,
+            "name": "Enchant Bracer - Intellect"
+          },
+          {
+            "id": 7529,
+            "name": "Enchant Weapon - Striking"
+          },
+          {
+            "id": 7530,
+            "name": "Enchant 2H Weapon - Impact"
+          },
+          {
+            "id": 7532,
+            "name": "Enchant Chest - Lesser Stats"
+          },
+          {
             "id": 7999,
             "name": "Lesser Magic Wand"
           },
@@ -2968,6 +3010,14 @@
           {
             "id": 4399,
             "name": "Enchant Chest - Stamina"
+          },
+          {
+            "id": 7533,
+            "name": "Runed Truesilver Rod"
+          },
+          {
+            "id": 7659,
+            "name": "Enchant Gloves - Agility"
           },
           {
             "id": 7316,
@@ -3050,6 +3100,10 @@
             "name": "Simple Kilt"
           },
           {
+            "id": 4876,
+            "name": "Crimson Silk Pantaloons"
+          },
+          {
             "id": 55423,
             "name": "Novice Arcanist's Sash"
           },
@@ -3064,6 +3118,10 @@
           {
             "id": 2409,
             "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 6581,
+            "name": "Black Mageweave Leggings"
           },
           {
             "id": 4850,
@@ -3190,6 +3248,10 @@
             "name": "Shadow Gown"
           },
           {
+            "id": 55502,
+            "name": "Black Cord"
+          },
+          {
             "id": 55366,
             "name": "Linen Reagent Bag"
           },
@@ -3221,7 +3283,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5183,
+          "raw": 5546,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -3241,12 +3303,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3920,
+          "raw": 4283,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3933,
+          "raw": 4295,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3266,12 +3328,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4550,
+          "raw": 5275,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5285,
+          "raw": 5648,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -3288,18 +3350,18 @@
       "spec": "Demonology",
       "stats": {
         "critters": 99,
-        "deaths": 11,
-        "drinks": 69,
-        "flights": 88,
-        "food": 85,
-        "health_potions": 28,
-        "hearths": 39,
-        "killing_blows": 4772,
+        "deaths": 12,
+        "drinks": 77,
+        "flights": 91,
+        "food": 86,
+        "health_potions": 30,
+        "hearths": 40,
+        "killing_blows": 4915,
         "mana_potions": 2,
-        "mobs": 7249,
-        "quests": 446
+        "mobs": 7549,
+        "quests": 458
       },
-      "xp": 58485
+      "xp": 29404
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -5239,7 +5301,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795190714000,
+      "last_login": 1795210020000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -14125,14 +14187,14 @@
       },
       "ilvl": 18,
       "last_explored": null,
-      "last_login": 1795123626000,
+      "last_login": 1795210137000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
         "25": 1795124372
       },
       "professions": {
-        "Blacksmithing": 103,
+        "Blacksmithing": 106,
         "Cooking": 34,
         "First Aid": 54,
         "Fishing": 12,
@@ -14169,6 +14231,10 @@
           {
             "id": 1851,
             "name": "Thick War Axe"
+          },
+          {
+            "id": 1853,
+            "name": "Heavy Bronze Mace"
           },
           {
             "id": 1855,
@@ -14297,6 +14363,10 @@
           {
             "id": 5339,
             "name": "Bronze Warhammer"
+          },
+          {
+            "id": 5340,
+            "name": "Bronze Greatsword"
           },
           {
             "id": 4285,
@@ -20360,7 +20430,23 @@
     ]
   },
   "daily_digest": {
-    "items": {},
+    "items": {
+      "eu:blut-leiche": {
+        "c": {
+          "name": "Blut",
+          "region": "eu",
+          "surname": "Leiche"
+        },
+        "lines": [
+          "🛠️ **Verzauberkunst** auf 225",
+          "🎖️ [Expert Enchanter](https://www.wowhead.com/forever/de/achievement=62019)"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 46
+        }
+      }
+    },
     "last": "2026-11-20"
   },
   "de_names": {
@@ -20469,6 +20555,7 @@
     "Berylline Pads": "Beryllpolster",
     "Bestial Swiftness": "Erhöhte Tiergeschwindigkeit",
     "Beverages consumed": "Getränke verbraucht",
+    "Big-Belly Belt": "Riesenwanstgürtel",
     "Bigger Rock on Bigger Stick": "Größerer Stein auf größerem Stock",
     "Bigger Rock to the Face": "Größerer Stein ins Gesicht",
     "Binding Girdle": "Bindegurt",
@@ -20748,6 +20835,7 @@
     "Enchant Bracer - Minor Deflect": "Armschiene - Schwache Abwehr",
     "Enchant Bracer - Minor Intellect": "Armschiene - Schwache Intelligenz",
     "Enchant Bracer - Minor Stamina": "Armschiene - Schwache Ausdauer",
+    "Enchant Bracer - Strength": "Armschiene - Stärke",
     "Enchant Chest - Greater Stamina": "Brust - Große Ausdauer",
     "Enchant Chest - Inferior Stamina": "Brust - Minderwertige Ausdauer",
     "Enchant Chest - Intellect": "Brust - Intelligenz",
@@ -20758,6 +20846,7 @@
     "Enchant Cloak - Lesser Protection": "Umhang - Geringer Schutz",
     "Enchant Cloak - Minor Protection": "Umhang - Schwacher Schutz",
     "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
+    "Enchant Cloak - Resistance": "Umhang - Widerstand",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance": "Durchhaltevermögen",
@@ -20871,6 +20960,7 @@
     "Gray Kodo": "Grauer Kodo",
     "Gray Leather Boots": "Graue Lederstiefel",
     "Greasy Tinker's Pants": "Schmierige Tüftlerhose",
+    "Greater Firestone": "Großer Feuerstein",
     "Greater Magic Wand": "Großer Magiezauberstab",
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
     "Green Leather Armor": "Grüne Lederrüstung",
@@ -20914,6 +21004,7 @@
     "Heating Up": "Aufwärmen",
     "Heavehammer": "Wuchthammer",
     "Heavy Armor Kit": "Schweres Rüstungsset",
+    "Heavy Bronze Mace": "Schwerer bronzener Streitkolben",
     "Heavy Linen Gloves": "Schwere Leinenhandschuhe",
     "Heavy Shot": "Schweres Geschoss",
     "Heavy Throwing Dagger": "Schwerer Wurfdolch",
@@ -20967,6 +21058,7 @@
     "Improved Channeling": "Verbesserte Kanalisierung",
     "Improved Concussive Shot": "Verbesserter erschütternder Schuss",
     "Improved Corruption": "Verbesserte Verderbnis",
+    "Improved Drains": "Verbessertes Entziehen",
     "Improved Fire Blast": "Verbesserter Feuerschlag",
     "Improved Flamestrike": "Verbesserter Flammenstoß",
     "Improved Ghost Wolf": "Verbesserter Geisterwolf",
@@ -22541,7 +22633,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795209864,
+  "saved_at": 1795210771,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
