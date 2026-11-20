@@ -4488,7 +4488,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795172191000,
+      "last_login": 1795191126000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5214,7 +5214,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795172142000,
+      "last_login": 1795190714000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -18629,7 +18629,7 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795180386000,
+      "last_login": 1795191014000,
       "level": 29,
       "level_at": {
         "26": 1794965196,
@@ -19011,18 +19011,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 55,
-        "deaths": 33,
+        "deaths": 34,
         "drinks": 104,
-        "flights": 48,
+        "flights": 49,
         "food": 56,
         "health_potions": 42,
         "hearths": 22,
-        "killing_blows": 921,
+        "killing_blows": 922,
         "mana_potions": 47,
-        "mobs": 2751,
+        "mobs": 2752,
         "quests": 240
       },
-      "xp": 37492
+      "xp": 37708
     },
     "us:steel-appeal": {
       "achievements": {
@@ -22064,7 +22064,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 48,
+        "level": 49,
         "name": "Baumora",
         "rank": 3,
         "region": "eu",
@@ -22136,7 +22136,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 41,
+        "level": 42,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -22145,7 +22145,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 28,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -22262,7 +22262,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 22,
+        "level": 23,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -22397,7 +22397,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -22507,7 +22507,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795190133,
+  "saved_at": 1795191370,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
