@@ -17501,9 +17501,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 35,
+      "ilvl": 34,
       "last_explored": "Thousand Needles",
-      "last_login": 1795109026000,
+      "last_login": 1795163391000,
       "level": 41,
       "level_at": {
         "35": 1794866470,
@@ -17518,7 +17518,7 @@
         "Cooking": 180,
         "First Aid": 62,
         "Fishing": 156,
-        "Mining": 189
+        "Mining": 195
       },
       "race": "Undead",
       "raids": {},
@@ -17889,11 +17889,6 @@
           "raw": -8875,
           "tier": 0
         },
-        "Bolder'ok Clan": {
-          "name": "Neutral",
-          "raw": 1,
-          "tier": 3
-        },
         "Booty Bay": {
           "name": "Neutral",
           "raw": 2020,
@@ -17957,14 +17952,14 @@
         "drinks": 22,
         "flights": 79,
         "food": 55,
-        "health_potions": 31,
+        "health_potions": 32,
         "hearths": 40,
-        "killing_blows": 2939,
+        "killing_blows": 3009,
         "mana_potions": 1,
-        "mobs": 6838,
-        "quests": 378
+        "mobs": 6926,
+        "quests": 384
       },
-      "xp": 16080
+      "xp": 49567
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -22393,7 +22388,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795162781,
+  "saved_at": 1795163498,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
