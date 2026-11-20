@@ -18674,18 +18674,19 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795191014000,
-      "level": 29,
+      "last_login": 1795200727000,
+      "level": 30,
       "level_at": {
         "26": 1794965196,
         "27": 1795005720,
         "28": 1795061895,
-        "29": 1795097762
+        "29": 1795097762,
+        "30": 1795200900
       },
       "professions": {
-        "Alchemy": 189,
+        "Alchemy": 190,
         "Cooking": 157,
-        "First Aid": 128,
+        "First Aid": 146,
         "Fishing": 113,
         "Herbalism": 194
       },
@@ -18746,6 +18747,10 @@
             "name": "Elixir of Minor Fortitude"
           },
           {
+            "id": 5997,
+            "name": "Elixir of Agility"
+          },
+          {
             "id": 4393,
             "name": "Blackmouth Oil"
           },
@@ -18760,6 +18765,10 @@
           {
             "id": 4396,
             "name": "Elixir of Fire Power"
+          },
+          {
+            "id": 4006,
+            "name": "Great Rage Potion"
           },
           {
             "id": 4176,
@@ -19029,7 +19038,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15185,
+          "raw": 15510,
           "tier": 5
         },
         "Gadgetzan": {
@@ -19039,35 +19048,35 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6735,
+          "raw": 6816,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6922,
+          "raw": 7003,
           "tier": 4
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8642,
+          "raw": 8723,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 55,
-        "deaths": 34,
+        "deaths": 38,
         "drinks": 104,
-        "flights": 49,
-        "food": 56,
-        "health_potions": 42,
+        "flights": 50,
+        "food": 58,
+        "health_potions": 50,
         "hearths": 22,
-        "killing_blows": 922,
-        "mana_potions": 47,
-        "mobs": 2752,
-        "quests": 240
+        "killing_blows": 980,
+        "mana_potions": 48,
+        "mobs": 2812,
+        "quests": 243
       },
-      "xp": 37708
+      "xp": 10811
     },
     "us:steel-appeal": {
       "achievements": {
@@ -21317,6 +21326,7 @@
     "Rend": "Zerfleischen",
     "Rend and Tear": "Beißen und Reißen",
     "Repentance": "Buße",
+    "Replica Crescent Necklace": "Nachbildung einer Mondsichelhalskette",
     "Reputation": "Ruf",
     "Resistance Breaker Spaulder": "Schiftung des Widerstandsbrechers",
     "Restoration": "Wiederherstellung",
@@ -21659,6 +21669,7 @@
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
+    "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
     "Wildkeeper Leggings": "Wildhüter-Gamaschen",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Gloves of the Whale": "Weidenhandschuhe des Wals",
@@ -21739,7 +21750,8 @@
       "30": [
         "eu:fred-feuersturm",
         "eu:keta-f%C3%A4se",
-        "eu:garm-winterhoof"
+        "eu:garm-winterhoof",
+        "us:pwanage-ownage"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -22603,7 +22615,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795199942,
+  "saved_at": 1795200905,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
