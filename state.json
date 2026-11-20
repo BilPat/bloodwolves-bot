@@ -2264,7 +2264,7 @@
       },
       "ilvl": 22,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795130229000,
+      "last_login": 1795134900000,
       "level": 28,
       "level_at": {
         "25": 1794884198,
@@ -2627,10 +2627,10 @@
         "critters": 59,
         "deaths": 17,
         "drinks": 65,
-        "flights": 22,
+        "flights": 23,
         "food": 46,
         "health_potions": 10,
-        "hearths": 22,
+        "hearths": 23,
         "honorable_kills": 5,
         "killing_blows": 1106,
         "mana_potions": 15,
@@ -4397,6 +4397,7 @@
     "eu:efrye-frostheal": {
       "achievements": {
         "62000": "Novice Priest",
+        "62012": "Journeyman Alchemist",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
@@ -4474,7 +4475,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795132637000,
+      "last_login": 1795135512000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -19788,7 +19789,8 @@
           "surname": "Frostheal"
         },
         "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)"
+          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
         ],
         "snap": {
           "class": "Priest",
@@ -21934,7 +21936,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795134800,
+  "saved_at": 1795135926,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
