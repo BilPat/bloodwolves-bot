@@ -698,6 +698,7 @@
     },
     "eu:anna-graufuss": {
       "achievements": {
+        "62000": "Novice Priest",
         "62006": "Novice Shaman",
         "728": "Explore Durotar"
       },
@@ -731,14 +732,15 @@
       },
       "ilvl": 17,
       "last_explored": "Durotar",
-      "last_login": 1795267370000,
-      "level": 24,
+      "last_login": 1795291330000,
+      "level": 25,
       "level_at": {
-        "24": 1795289063
+        "24": 1795289063,
+        "25": 1795292020
       },
       "professions": {
         "Cooking": 32,
-        "Enchanting": 130,
+        "Enchanting": 135,
         "First Aid": 83,
         "Fishing": 1,
         "Tailoring": 110
@@ -1154,7 +1156,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4385,
+          "raw": 4703,
           "tier": 4
         },
         "Everlook": {
@@ -1169,7 +1171,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6417,
+          "raw": 6942,
           "tier": 4
         },
         "Powderfuse": {
@@ -1184,30 +1186,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3856,
+          "raw": 4525,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13641,
+          "raw": 13885,
           "tier": 5
         }
       },
       "spec": "Discipline",
       "stats": {
-        "critters": 8,
+        "critters": 11,
         "deaths": 7,
         "drinks": 61,
-        "flights": 30,
+        "flights": 34,
         "food": 1,
         "health_potions": 18,
-        "hearths": 10,
-        "killing_blows": 1167,
-        "mana_potions": 1,
-        "mobs": 1895,
-        "quests": 198
+        "hearths": 11,
+        "killing_blows": 1217,
+        "mana_potions": 2,
+        "mobs": 2037,
+        "quests": 213
       },
-      "xp": 14915
+      "xp": 18538
     },
     "eu:archibald-white": {
       "achievements": {
@@ -1769,12 +1771,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1286,
+          "raw": 1336,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7522,
+          "raw": 7566,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1784,53 +1786,53 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1286,
+          "raw": 1336,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1286,
+          "raw": 1336,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9785,
+          "raw": 9828,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1286,
+          "raw": 1336,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2072,
+          "raw": 2172,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6431,
+          "raw": 6606,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5560,
+          "raw": 5603,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 32,
-        "deaths": 17,
+        "deaths": 19,
         "drinks": 17,
-        "flights": 47,
-        "food": 6,
+        "flights": 52,
+        "food": 10,
         "health_potions": 8,
-        "hearths": 21,
-        "killing_blows": 1253,
-        "mana_potions": 28,
-        "mobs": 2414,
-        "quests": 162
+        "hearths": 23,
+        "killing_blows": 1355,
+        "mana_potions": 30,
+        "mobs": 2581,
+        "quests": 168
       },
       "xp": 28907
     },
@@ -6649,9 +6651,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 13,
+      "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795287096000,
+      "last_login": 1795291093000,
       "level": 24,
       "level_at": {
         "21": 1794866470,
@@ -6862,7 +6864,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2003,
+          "raw": 2103,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -6870,19 +6872,14 @@
           "raw": 9845,
           "tier": 5
         },
-        "Durotar Supply and Logistics": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2003,
+          "raw": 2103,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2003,
+          "raw": 2103,
           "tier": 3
         },
         "Orgrimmar": {
@@ -6892,12 +6889,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2003,
+          "raw": 2103,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3907,
+          "raw": 4107,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -6914,18 +6911,18 @@
       "spec": "Protection",
       "stats": {
         "critters": 13,
-        "deaths": 26,
+        "deaths": 27,
         "drinks": 4,
-        "flights": 39,
+        "flights": 41,
         "food": 8,
         "health_potions": 19,
-        "hearths": 11,
+        "hearths": 12,
         "honorable_kills": 1,
-        "killing_blows": 1146,
-        "mobs": 1753,
-        "quests": 200
+        "killing_blows": 1171,
+        "mobs": 1778,
+        "quests": 203
       },
-      "xp": 10782
+      "xp": 17542
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -22733,272 +22730,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:alto-belli": {
-        "c": {
-          "name": "Alto",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Belli"
-        },
-        "lines": [
-          "🛠️ **Schmiedekunst** auf 150",
-          "🛠️ **Bergbau** auf 150",
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 30
-        }
-      },
-      "eu:blut-leiche": {
-        "c": {
-          "name": "Blut",
-          "region": "eu",
-          "surname": "Leiche"
-        },
-        "lines": [
-          "🛠️ **Verzauberkunst** auf 225",
-          "🎖️ [Expert Enchanter](https://www.wowhead.com/forever/de/achievement=62019)"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 46
-        }
-      },
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 25
-        }
-      },
-      "eu:efrye-frostmage": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostmage"
-        },
-        "lines": [
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 10
-        }
-      },
-      "eu:fred-feuersturm": {
-        "c": {
-          "name": "Fred",
-          "region": "eu",
-          "surname": "Feuersturm"
-        },
-        "lines": [
-          "🎖️ [Erkundet Tirisfal](https://www.wowhead.com/forever/de/achievement=768)",
-          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 36
-        }
-      },
-      "eu:garm-winterhoof": {
-        "c": {
-          "name": "Garm",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Winterhoof"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 225",
-          "🛠️ **Lederverarbeitung** auf 150",
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 31
-        }
-      },
-      "eu:garret-aschwind": {
-        "c": {
-          "name": "Garret",
-          "region": "eu",
-          "surname": "Aschwind"
-        },
-        "lines": [
-          "🛠️ **Erste Hilfe** auf 225",
-          "🎖️ [Experienced Paladin](https://www.wowhead.com/forever/de/achievement=61998)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 45
-        }
-      },
-      "eu:h%C3%A4uptling-blutmacht": {
-        "c": {
-          "name": "Häuptling",
-          "rank_name": "Gildenmeister",
-          "region": "eu",
-          "surname": "Blutmacht"
-        },
-        "lines": [
-          "Gegenstandsstufe **40**"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 47
-        }
-      },
-      "eu:khaladin-ronen": {
-        "c": {
-          "name": "Khaladin",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ronen"
-        },
-        "lines": [
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🤝 **Wohlwollend** bei Donnerfels"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 30
-        }
-      },
-      "eu:krakmor-ci%C3%B3rdan": {
-        "c": {
-          "name": "Krakmor",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ciórdan"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 300",
-          "🎖️ [Erkundet Hinterland](https://www.wowhead.com/forever/de/achievement=773)",
-          "🎖️ [Erkundet Tanaris](https://www.wowhead.com/forever/de/achievement=851)",
-          "🎖️ [Erkundet Krater von Un'Goro](https://www.wowhead.com/forever/de/achievement=854)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 50
-        }
-      },
-      "eu:lazy-quinn": {
-        "c": {
-          "name": "Lazy",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Quinn"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 150",
-          "🛠️ **Kürschnerei** auf 225",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🗝️ **[Burg Schattenfang](https://www.wowhead.com/forever/de/search?q=Burg%20Schattenfang)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 33
-        }
-      },
-      "eu:mimisiku-meatshield": {
-        "c": {
-          "name": "Mimisiku",
-          "region": "eu",
-          "surname": "Meatshield"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Donnerfels"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 24
-        }
-      },
-      "us:aeri-moonglow": {
-        "c": {
-          "name": "aeri",
-          "region": "us",
-          "surname": "moonglow"
-        },
-        "lines": [
-          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 29
-        }
-      },
-      "us:devil-latterday": {
-        "c": {
-          "name": "devil",
-          "region": "us",
-          "surname": "latterday"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 75"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 22
-        }
-      },
-      "us:pwanage-ownage": {
-        "c": {
-          "name": "pwanage",
-          "region": "us",
-          "surname": "ownage"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Stormwind",
-          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 31
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 75"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 32
-        }
-      },
-      "us:whizz-aard": {
-        "c": {
-          "name": "whizz",
-          "region": "us",
-          "surname": "aard"
-        },
-        "lines": [
-          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 29
-        }
-      }
-    },
-    "last": "2026-11-20"
+    "items": {},
+    "last": "2026-11-21"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -25336,7 +25069,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795290875,
+  "saved_at": 1795292022,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
