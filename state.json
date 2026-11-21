@@ -4583,7 +4583,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795215370000,
+      "last_login": 1795220371000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5274,10 +5274,10 @@
         "critters": 35,
         "deaths": 46,
         "drinks": 76,
-        "flights": 67,
+        "flights": 68,
         "food": 87,
         "health_potions": 13,
-        "hearths": 56,
+        "hearths": 57,
         "killing_blows": 850,
         "mana_potions": 30,
         "mobs": 2895,
@@ -17620,6 +17620,675 @@
       },
       "xp": 7105
     },
+    "eu:thalia-mondrabe": {
+      "achievements": {
+        "61502": "Novice Druid",
+        "62024": "Journeyman Leatherworker",
+        "62031": "Novice Spelunker",
+        "728": "Explore Durotar",
+        "750": "Explore The Barrens",
+        "846": "Explore Thousand Needles",
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/102/500326-avatar.jpg",
+      "best_item": {
+        "id": 4109,
+        "ilvl": 41,
+        "name": "Excelsior Boots",
+        "quality": "UNCOMMON",
+        "slot": "Feet"
+      },
+      "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 3,
+          "instance": "Shadowfang Keep"
+        },
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 3,
+          "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
+        },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
+        },
+        "6140": {
+          "boss": "Mekgineer Thermaplugg",
+          "count": 1,
+          "instance": "Gnomeregan"
+        },
+        "63570": {
+          "boss": "Edwin VanCleef",
+          "count": 1,
+          "instance": "Deadmines"
+        },
+        "63571": {
+          "boss": "Rath'mael",
+          "count": 2,
+          "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 2,
+          "instance": "City of Dalaran"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
+          "count": 1,
+          "instance": "City of Dalaran"
+        }
+      },
+      "class": "Druid",
+      "dungeons": {},
+      "first_seen": 1795221303,
+      "gear": {
+        "252460": {
+          "name": "Warden's Leather Belt",
+          "quality": "RARE"
+        },
+        "270043": {
+          "name": "Dreamer's Chestguard",
+          "quality": "RARE"
+        },
+        "273032": {
+          "name": "Bonebinder's Signet",
+          "quality": "RARE"
+        },
+        "273457": {
+          "name": "Sorcerer Collar",
+          "quality": "RARE"
+        },
+        "273643": {
+          "name": "Worgenbane Talisman",
+          "quality": "RARE"
+        },
+        "279844": {
+          "name": "Striking Staff",
+          "quality": "RARE"
+        },
+        "3230": {
+          "name": "Black Wolf Bracers",
+          "quality": "RARE"
+        },
+        "4253": {
+          "name": "Toughened Leather Gloves",
+          "quality": "RARE"
+        },
+        "6340": {
+          "name": "Fenrus' Hide",
+          "quality": "RARE"
+        },
+        "9588": {
+          "name": "Nogg's Gold Ring",
+          "quality": "RARE"
+        },
+        "9624": {
+          "name": "Triprunner Dungarees",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 32,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795218773000,
+      "level": 38,
+      "level_at": {
+        "38": 1795221303
+      },
+      "professions": {
+        "Cooking": 169,
+        "First Aid": 34,
+        "Fishing": 136,
+        "Leatherworking": 165,
+        "Skinning": 259
+      },
+      "race": "Windshaper Skyborne",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 4569,
+            "name": "Savory Deviate Delight"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 3930,
+            "name": "Strider Stew"
+          },
+          {
+            "id": 3931,
+            "name": "Dig Rat Stew"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 3963,
+            "name": "Goblin Deviled Clams"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 54502,
+            "name": "Twice-Spiced Raptor Slice"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
+          },
+          {
+            "id": 57021,
+            "name": "Cookie's Feast"
+          },
+          {
+            "id": 56881,
+            "name": "Skywall Souffle"
+          },
+          {
+            "id": 56882,
+            "name": "Pincer Bites"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4346,
+            "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 4419,
+            "name": "Deviate Scale Belt"
+          },
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1359,
+            "name": "Fine Leather Boots"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
+          },
+          {
+            "id": 1371,
+            "name": "Dark Leather Tunic"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 2168,
+            "name": "Hillman's Cloak"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
+            "id": 5047,
+            "name": "Heavy Quiver"
+          },
+          {
+            "id": 5048,
+            "name": "Heavy Leather Ammo Pouch"
+          },
+          {
+            "id": 5052,
+            "name": "Frost Leather Cloak"
+          },
+          {
+            "id": 5053,
+            "name": "Dusky Bracers"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2173,
+            "name": "Hillman's Leather Gloves"
+          },
+          {
+            "id": 2174,
+            "name": "Dark Leather Gloves"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 2177,
+            "name": "Hillman's Shoulders"
+          },
+          {
+            "id": 2178,
+            "name": "Dark Leather Shoulders"
+          },
+          {
+            "id": 2179,
+            "name": "Toughened Leather Gloves"
+          },
+          {
+            "id": 2183,
+            "name": "Green Leather Belt"
+          },
+          {
+            "id": 2185,
+            "name": "Green Leather Bracers"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 2197,
+            "name": "Cured Heavy Hide"
+          },
+          {
+            "id": 2199,
+            "name": "Heavy Armor Kit"
+          },
+          {
+            "id": 3343,
+            "name": "Kodo Hide Bag"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 11757,
+            "name": "Heavy Leather"
+          },
+          {
+            "id": 4027,
+            "name": "Murloc Scale Bracers"
+          },
+          {
+            "id": 4029,
+            "name": "Thick Murloc Armor"
+          },
+          {
+            "id": 5050,
+            "name": "Dusky Leather Armor"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
+            "id": 4160,
+            "name": "Guardian Pants"
+          },
+          {
+            "id": 4163,
+            "name": "Barbaric Shoulders"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55136,
+            "name": "Mender's Leather Belt"
+          },
+          {
+            "id": 55137,
+            "name": "Skycaller's Leather Belt"
+          },
+          {
+            "id": 55138,
+            "name": "Skirmisher's Leather Belt"
+          },
+          {
+            "id": 55139,
+            "name": "Warden's Leather Belt"
+          },
+          {
+            "id": 55140,
+            "name": "Stalker's Leather Belt"
+          },
+          {
+            "id": 55141,
+            "name": "Skulker's Leather Belt"
+          },
+          {
+            "id": 55142,
+            "name": "Prowler's Leather Belt"
+          },
+          {
+            "id": 55156,
+            "name": "Forceful Heavy Armor Kit"
+          },
+          {
+            "id": 55157,
+            "name": "Mystic Heavy Armor Kit"
+          },
+          {
+            "id": 55172,
+            "name": "Stormrider's Leather Pants"
+          },
+          {
+            "id": 55173,
+            "name": "Totemic Leather Pants"
+          },
+          {
+            "id": 55174,
+            "name": "Defender's Leather Pants"
+          },
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
+          },
+          {
+            "id": 57015,
+            "name": "Tanning Rack"
+          },
+          {
+            "id": 58812,
+            "name": "Light Leather Reagent Bag"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 5746,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 400,
+          "tier": 3
+        },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -10375,
+          "tier": 0
+        },
+        "Booty Bay": {
+          "name": "Friendly",
+          "raw": 3135,
+          "tier": 4
+        },
+        "Cenarion Circle": {
+          "name": "Neutral",
+          "raw": 2885,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 8048,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2075,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 1450,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 2690,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 2690,
+          "tier": 3
+        },
+        "Nightclaw Druids": {
+          "name": "Friendly",
+          "raw": 5300,
+          "tier": 4
+        },
+        "Orgrimmar": {
+          "name": "Honored",
+          "raw": 10580,
+          "tier": 5
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 2690,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Friendly",
+          "raw": 4435,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Honored",
+          "raw": 12498,
+          "tier": 5
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 7942,
+          "tier": 4
+        },
+        "Windshapers": {
+          "name": "Friendly",
+          "raw": 6010,
+          "tier": 4
+        }
+      },
+      "spec": "Feral Combat",
+      "stats": {
+        "critters": 32,
+        "deaths": 13,
+        "drinks": 19,
+        "flights": 121,
+        "food": 87,
+        "health_potions": 12,
+        "hearths": 35,
+        "killing_blows": 3326,
+        "mana_potions": 2,
+        "mobs": 5127,
+        "quests": 423
+      },
+      "xp": 48430
+    },
     "eu:vlad-impalar": {
       "achievements": {
         "61997": "Novice Paladin",
@@ -20818,6 +21487,7 @@
     "Archaedas": "Archaedas",
     "Archaedas kills (Uldaman)": "Siege über Archaedas (Uldaman)",
     "Archaedic Stone of the Falcon": "Archaedischer Stein des Falken",
+    "Archery Training Gloves": "Ausbildungshandschuhe zum Bogenschießen",
     "Archmage Arugal": "Erzmagier Arugal",
     "Archmage Arugal kills (Shadowfang Keep)": "Siege über Erzmagier Arugal (Burg Schattenfang)",
     "Arctic Buckler": "Arktischer Rundschild",
@@ -20931,6 +21601,7 @@
     "Boar Hunter's Cape": "Eberjägercape",
     "Boar Signet": "Ebersiegel",
     "Bolder'ok Clan": "Klan der Bolder'ok",
+    "Bonebinder's Signet": "Siegelring des Knochenbinders",
     "Bonerust Leggings": "Knochenrostgamaschen",
     "Bonus Armor": "Bonusrüstung",
     "Boss Kills": "Boss-Kills",
@@ -21199,6 +21870,7 @@
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
     "Excavation Cloak": "Ausgrabungsmantel",
+    "Excelsior Boots": "Exzelsiorstiefel",
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
     "Fade": "Verblassen",
@@ -21459,6 +22131,7 @@
     "Krol'dok Warplate Helmet": "Kriegsplattenhelm von Krol'Dok",
     "Krol'dok Warplate Legplates": "Kriegsplattenbeinplatten von Krol'Dok",
     "Krol'dok Warplate Pauldrons": "Kriegsplattenschulterstücke von Krol'Dok",
+    "Lacerate": "Aufschlitzen",
     "Laminated Recurve Bow": "Laminierter Doppelbogen",
     "Larcenist's Belt": "Diebesgürtel",
     "Last Stand": "Letztes Gefecht",
@@ -21490,6 +22163,7 @@
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
     "Lupine Leggings of the Monkey": "Werwolf-Gamaschen des Affen",
+    "Lupine Mantle": "Werwolf-Mantel",
     "Lupine Slippers of Shadow Protection": "Werwolf-Schuhe des Schattenschutzes",
     "Lupine Slippers of the Bear": "Werwolf-Schuhe des Bären",
     "Lyn the Ignored": "Lyn der Ignorierte",
@@ -21571,6 +22245,7 @@
     "Nimble Leather Gloves": "Behände Lederhandschuhe",
     "Nogg's Gold Ring": "Noggs Goldring",
     "Nomad Gloves": "Reisehandschuhe",
+    "Nomad Trousers": "Reisebeinkleider",
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Novice Ardent's Sash": "Schärpe des inbrünstigen Novizen",
     "Number of hugs": "Anzahl an Umarmungen",
@@ -21646,6 +22321,7 @@
     "Quillord Mail Leggings": "Panzergamaschen des Stachelfürsten",
     "Ragefire Chasm": "Flammenschlund",
     "Ragged Leather Belt": "Struppiger Ledergürtel",
+    "Ragged Leather Boots": "Struppige Lederstiefel",
     "Ragged Leather Vest": "Struppige Lederweste",
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
@@ -21850,6 +22526,7 @@
     "Spiked Shell Band": "Stachelpanzerschalenring",
     "Spikes": "Stacheln",
     "Spirit": "Willenskraft",
+    "Spirit Hunter Headdress": "Geistjägerkopfputz",
     "Spirit returned to body by shamans": "Wiederbelebungen durch Schamanen",
     "Spiritual Focus": "Spiritueller Fokus",
     "Sporid Cape": "Sporen-Cape",
@@ -21867,6 +22544,7 @@
     "Stormwind Stockade": "Verlies von Stormwind",
     "Strength": "Stärke",
     "Stretched Leather Trousers": "Gedehnte Lederbeinkleider",
+    "Striking Staff": "Schlagstab",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Stygian Bone Amulet": "Stygisches Knochenamulett",
     "Subterranean Cape": "Unterirdisches Cape",
@@ -21980,6 +22658,7 @@
     "Veteran Adventurer's Hood": "Kapuze des erfahrenen Abenteurers",
     "Veteran Adventurer's Legguards": "Beinschützer des erfahrenen Abenteurers",
     "Veteran Adventurer's Loyal Companion": "Treuer Gefährte des Abenteuerveteranen",
+    "Veteran Adventurer's Rucksack": "Rucksack des Abenteuerveteranen",
     "Veteran Adventurer's Shoulderpads": "Schulterpolster des erfahrenen Abenteurers",
     "Veteran's Chain Helm": "Kettenhelm des Veteranen",
     "Veteran's Silvered Chain Helm": "Versilberter Kettenhelm des Veteranen",
@@ -22008,6 +22687,7 @@
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
     "Ward of the Vale": "Schutzschild des Tales",
+    "Warden's Leather Belt": "Ledergürtel des Aufsehers",
     "Warlock": "Hexenmeister",
     "Warped Leather Belt": "Verformter Ledergürtel",
     "Warped Leather Boots": "Verformte Lederstiefel",
@@ -22372,6 +23052,12 @@
     "eu:thalgrim-tirisfal": {
       "mounts": {}
     },
+    "eu:thalia-mondrabe": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
     "eu:vlad-impalar": {
       "mounts": {
         "2923": "Summon Warhorse",
@@ -22413,6 +23099,10 @@
   "pending": [],
   "roster": {
     "left_log": [
+      {
+        "name": "Paladírne Mageshard",
+        "ts": 1795221240
+      },
       {
         "name": "Maul Worf",
         "ts": 1795023497
@@ -22470,7 +23160,6 @@
       "mimisiku-meatshield": "Mimisiku Meatshield",
       "nekrion-grabw%C3%A4chter": "Nekrion Grabwächter",
       "ogmar-donnerhammer": "Ogmar Donnerhammer",
-      "palad%C3%ADrne-mageshard": "Paladírne Mageshard",
       "pandora-snow": "Pandora Snow",
       "pantherra-wolf": "Pantherra Wolf",
       "prophet-eierfred": "Prophet Eierfred",
@@ -22480,6 +23169,7 @@
       "seppi-sapbert": "Seppi Sapbert",
       "sorayha-avalon": "Sorayha Avalon",
       "thalgrim-tirisfal": "Thalgrim Tirisfal",
+      "thalia-mondrabe": "Thalia Mondrabe",
       "vlad-impalar": "Vlad Impalar",
       "zelda-moon": "Zelda Moon",
       "zulka-seelenfluch": "Zulka Seelenfluch"
@@ -22515,9 +23205,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Alto",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Belli"
       },
@@ -22578,7 +23268,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 43,
+        "level": 44,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -22623,7 +23313,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 42,
+        "level": 43,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -22664,15 +23354,6 @@
         "rank": 3,
         "region": "eu",
         "surname": "Tirisfal"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 11,
-        "name": "Paladírne",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Mageshard"
       },
       {
         "class": null,
@@ -22722,9 +23403,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 22,
+        "level": 23,
         "name": "Elric",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Wolfsclan"
       },
@@ -22749,7 +23430,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -22857,7 +23538,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Lazy",
         "rank": 3,
         "region": "eu",
@@ -22947,9 +23628,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 5,
+        "level": 6,
         "name": "Prophet",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Eierfred"
       },
@@ -22988,13 +23669,22 @@
         "rank": 1,
         "region": "eu",
         "surname": "Frostmage"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 38,
+        "name": "Thalia",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Mondrabe"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795218861,
+  "saved_at": 1795221305,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -24876,6 +25566,59 @@
           "quests": 131
         },
         "xp": 23422
+      },
+      "eu:thalia-mondrabe": {
+        "achievements": 7,
+        "clears": {
+          "Blackfathom Deeps": 1,
+          "Gnomeregan": 1,
+          "Razorfen Kraul": 1,
+          "Ruins of Lordaeron": 2,
+          "Shadowfang Keep": 3,
+          "The Deadmines": 1,
+          "Wailing Caverns": 1
+        },
+        "epics": [],
+        "level": 38,
+        "professions": {
+          "Cooking": 169,
+          "First Aid": 34,
+          "Fishing": 136,
+          "Leatherworking": 165,
+          "Skinning": 259
+        },
+        "rep": {
+          "Argent Dawn": 400,
+          "Bloodsail Buccaneers": -10375,
+          "Booty Bay": 3135,
+          "Cenarion Circle": 2885,
+          "Darkspear Trolls": 8048,
+          "Durotar Supply and Logistics": 2075,
+          "Earthen Ring": 1450,
+          "Everlook": 2690,
+          "Gadgetzan": 2690,
+          "Nightclaw Druids": 5300,
+          "Orgrimmar": 10580,
+          "Powderfuse": 2690,
+          "Ratchet": 4435,
+          "Thunder Bluff": 12498,
+          "Undercity": 7942,
+          "Windshapers": 6010
+        },
+        "stats": {
+          "critters": 32,
+          "deaths": 13,
+          "drinks": 19,
+          "flights": 121,
+          "food": 87,
+          "health_potions": 12,
+          "hearths": 35,
+          "killing_blows": 3326,
+          "mana_potions": 2,
+          "mobs": 5127,
+          "quests": 423
+        },
+        "xp": 48430
       },
       "eu:vlad-impalar": {
         "achievements": 2,
