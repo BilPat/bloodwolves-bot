@@ -19450,11 +19450,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
       "best_item": {
-        "id": 286977,
-        "ilvl": 23,
-        "name": "Sword of the Fallen",
-        "quality": "RARE",
-        "slot": "Main Hand"
+        "id": 281927,
+        "ilvl": 27,
+        "name": "Boulderheart Band",
+        "quality": "UNCOMMON",
+        "slot": "Ring 1"
       },
       "boss_kills": {
         "15027": {
@@ -19494,56 +19494,89 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 11,
+      "ilvl": 14,
       "last_explored": "Teldrassil",
-      "last_login": 1795151509000,
-      "level": 20,
+      "last_login": 1795241344000,
+      "level": 22,
       "level_at": {
         "18": 1795149590,
-        "20": 1795151747
+        "20": 1795151747,
+        "22": 1795242093
       },
       "professions": {
-        "Cooking": 30,
-        "First Aid": 89,
+        "Cooking": 83,
+        "First Aid": 116,
         "Fishing": 21,
-        "Leatherworking": 58,
-        "Skinning": 130
+        "Leatherworking": 70,
+        "Skinning": 143
       },
       "race": "Night Elf",
       "raids": {},
       "recipes": {
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 4786,
+            "name": "Herb Baked Egg"
           },
           {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
+            "id": 1543,
+            "name": "Crab Cake"
           },
           {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 54505,
+            "name": "Breakfast Omelette"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
           },
           {
             "id": 3926,
             "name": "Kaldorei Spider Kabob"
           },
           {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 3930,
+            "name": "Strider Stew"
+          },
+          {
             "id": 4353,
             "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1540,
+            "name": "Westfall Stew"
           },
           {
             "id": 4354,
             "name": "Slitherskin Mackerel"
           },
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 3964,
+            "name": "Boiled Clams"
           }
         ],
         "First Aid": [
@@ -19552,28 +19585,40 @@
             "name": "Anti-Venom"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
-          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
           },
           {
-            "id": 1840,
-            "name": "Wool Bandage"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           },
           {
             "id": 54191,
             "name": "Minor Healing Potion"
           },
           {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
+          },
+          {
+            "id": 55747,
+            "name": "Simple Poultice"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 1841,
+            "name": "Heavy Wool Bandage"
           }
         ],
         "Fishing": [
@@ -19584,56 +19629,64 @@
         ],
         "Leatherworking": [
           {
-            "id": 1353,
-            "name": "Handstitched Leather Boots"
-          },
-          {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
-          },
-          {
             "id": 1356,
             "name": "Light Armor Kit"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 1364,
-            "name": "Embossed Leather Cloak"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
-          },
-          {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
-          },
-          {
-            "id": 2164,
-            "name": "Embossed Leather Gloves"
-          },
-          {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
-            "id": 4988,
-            "name": "Handstitched Leather Bracers"
           },
           {
             "id": 4989,
             "name": "Light Leather Quiver"
           },
           {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
           },
           {
             "id": 2195,
             "name": "Cured Light Hide"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
           },
           {
             "id": 4156,
@@ -19648,42 +19701,62 @@
             "name": "Moonglow Boots"
           },
           {
-            "id": 55205,
-            "name": "Murloc Scale Shoes"
+            "id": 58812,
+            "name": "Light Leather Reagent Bag"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
           },
           {
             "id": 55206,
             "name": "Dark Leather Boots"
           },
           {
-            "id": 55207,
-            "name": "Black Whelp Slippers"
-          },
-          {
-            "id": 58812,
-            "name": "Light Leather Reagent Bag"
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
           }
         ],
         "Skinning": [
           {
-            "id": 4767,
-            "name": "Skinning"
-          },
-          {
             "id": 52644,
             "name": "Camp Chair"
+          },
+          {
+            "id": 4768,
+            "name": "Skinning"
           }
         ]
       },
       "reputations": {
-        "Argent Dawn": {
+        "Azeroth Commerce Authority": {
           "name": "Neutral",
-          "raw": 200,
+          "raw": 0,
           "tier": 3
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 13067,
+          "raw": 13330,
           "tier": 5
         },
         "Gadgetzan": {
@@ -19693,36 +19766,51 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 4695,
+          "raw": 4957,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 4832,
+          "raw": 5095,
           "tier": 4
+        },
+        "Silverwing Sentinels": {
+          "name": "Neutral",
+          "raw": 150,
+          "tier": 3
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 4257,
+          "raw": 5307,
           "tier": 4
+        },
+        "The League of Arathor": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
+        "Theramore Expeditionary Force": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 60,
-        "deaths": 10,
+        "critters": 69,
+        "deaths": 23,
         "drinks": 4,
-        "flights": 12,
-        "food": 23,
-        "health_potions": 6,
-        "hearths": 5,
-        "honorable_kills": 50,
-        "killing_blows": 1301,
+        "flights": 13,
+        "food": 26,
+        "health_potions": 8,
+        "hearths": 6,
+        "honorable_kills": 104,
+        "killing_blows": 1572,
         "mana_potions": 1,
-        "mobs": 1449,
-        "quests": 132
+        "mobs": 1718,
+        "quests": 148
       },
-      "xp": 12785
+      "xp": 7779
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -21587,6 +21675,20 @@
           "class": "Druid",
           "level": 29
         }
+      },
+      "us:devil-latterday": {
+        "c": {
+          "name": "devil",
+          "region": "us",
+          "surname": "latterday"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 75"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 22
+        }
       }
     },
     "last": "2026-11-20"
@@ -21747,8 +21849,10 @@
     "Bonerust Leggings": "Knochenrostgamaschen",
     "Bonus Armor": "Bonusrüstung",
     "Boss Kills": "Boss-Kills",
+    "Boulderheart Band": "Felsenherzband",
     "Bound Harness": "Gebundener Harnisch",
     "Bounty Hunter's Ring": "Kopfgeldjägerring",
+    "Bouquet of Scarlet Begonias": "Scharlachroter Begonienstrauß",
     "Bow": "Bogen",
     "Bow of Plunder": "Plünderbogen",
     "Brackwater Vest": "Brackwasserweste",
@@ -22418,6 +22522,7 @@
     "Patchwork Belt": "Flickwerkgürtel",
     "Patchwork Gloves": "Flickwerkhandschuhe",
     "Patchwork Shoes": "Flickwerkschuhe",
+    "Pathfinding": "Orientierung",
     "Patterned Bronze Bracers": "Gemusterte bronzene Armschienen",
     "Physical": "Körperlich",
     "Pioneer Boots": "Pionierstiefel",
@@ -22630,6 +22735,7 @@
     "Signet of the Zhevra": "Siegel der Zhevras",
     "Silvered Bronze Shoulders": "Bronzene Schultern mit Versilberung",
     "Silverlaine's Family Seal": "Silverlaines Familiensiegel",
+    "Silverwing Sentinels": "Schildwachen der Silverwing",
     "Simple Kilt": "Einfacher Kilt",
     "Simple Linen Pants": "Einfache Leinenhose",
     "Simple Robe": "Einfache Robe",
@@ -22647,6 +22753,7 @@
     "Slitherwrap Girdle": "Schlitterwickelgurt",
     "Small Throwing Knife": "Kleines Wurfmesser",
     "Smelting Recipes learned": "Erlernte Verhüttungsmethoden",
+    "Smith's Trousers": "Hose des Schmieds",
     "Snake Eye Kaleidoscope": "Schlangenaugenkaleidoskop",
     "Snake Hoop": "Natternreifen",
     "Social": "Geselligkeit",
@@ -22723,6 +22830,7 @@
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
     "The Defilers": "Die Entweihten",
+    "The League of Arathor": "Der Bund von Arathor",
     "Theka's Last Breath": "Thekas letzter Atemzug",
     "Thendal Novice's Shirt": "Hemd des Novizen von Thendal",
     "Thendal Survivalist's Shirt": "Hemd des Überlebenskünstlers von Thendal",
@@ -23834,7 +23942,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795240507,
+  "saved_at": 1795242094,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
