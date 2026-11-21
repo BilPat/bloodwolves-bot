@@ -15348,11 +15348,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/87/13237079-avatar.jpg",
       "best_item": {
-        "id": 250528,
-        "ilvl": 25,
-        "name": "Veteran's Silvered Chain Helm",
-        "quality": "RARE",
-        "slot": "Head"
+        "id": 7957,
+        "ilvl": 26,
+        "name": "Bronze Greatsword",
+        "quality": "UNCOMMON",
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "15027": {
@@ -15389,7 +15389,7 @@
       },
       "ilvl": 18,
       "last_explored": null,
-      "last_login": 1795217802000,
+      "last_login": 1795289687000,
       "level": 25,
       "level_at": {
         "24": 1794866470,
@@ -15399,176 +15399,16 @@
         "Blacksmithing": 107,
         "Cooking": 34,
         "First Aid": 54,
-        "Fishing": 12,
-        "Mining": 115
+        "Fishing": 15,
+        "Mining": 117
       },
       "race": "Undead",
       "raids": {},
       "recipes": {
         "Blacksmithing": [
           {
-            "id": 1984,
-            "name": "Big Bronze Knife"
-          },
-          {
-            "id": 1798,
-            "name": "Rough Weightstone"
-          },
-          {
-            "id": 1799,
-            "name": "Heavy Weightstone"
-          },
-          {
-            "id": 1800,
-            "name": "Coarse Weightstone"
-          },
-          {
-            "id": 1849,
-            "name": "Heavy Copper Broadsword"
-          },
-          {
-            "id": 1850,
-            "name": "Copper Battle Axe"
-          },
-          {
-            "id": 1851,
-            "name": "Thick War Axe"
-          },
-          {
-            "id": 1853,
-            "name": "Heavy Bronze Mace"
-          },
-          {
-            "id": 1855,
-            "name": "Copper Chain Boots"
-          },
-          {
-            "id": 1856,
-            "name": "Rough Grinding Stone"
-          },
-          {
-            "id": 1858,
-            "name": "Runed Copper Gauntlets"
-          },
-          {
-            "id": 1859,
-            "name": "Runed Copper Pants"
-          },
-          {
-            "id": 1861,
-            "name": "Coarse Grinding Stone"
-          },
-          {
-            "id": 1862,
-            "name": "Rough Bronze Shoulders"
-          },
-          {
-            "id": 1864,
-            "name": "Silvered Bronze Boots"
-          },
-          {
-            "id": 1868,
-            "name": "Heavy Grinding Stone"
-          },
-          {
-            "id": 6636,
-            "name": "Rough Copper Vest"
-          },
-          {
-            "id": 1631,
-            "name": "Rough Sharpening Stone"
-          },
-          {
             "id": 1632,
             "name": "Copper Chain Belt"
-          },
-          {
-            "id": 1633,
-            "name": "Copper Chain Pants"
-          },
-          {
-            "id": 1634,
-            "name": "Copper Bracers"
-          },
-          {
-            "id": 1635,
-            "name": "Runed Copper Bracers"
-          },
-          {
-            "id": 1636,
-            "name": "Coarse Sharpening Stone"
-          },
-          {
-            "id": 1637,
-            "name": "Runed Copper Belt"
-          },
-          {
-            "id": 1639,
-            "name": "Rough Bronze Leggings"
-          },
-          {
-            "id": 1640,
-            "name": "Rough Bronze Cuirass"
-          },
-          {
-            "id": 1642,
-            "name": "Patterned Bronze Bracers"
-          },
-          {
-            "id": 1644,
-            "name": "Heavy Sharpening Stone"
-          },
-          {
-            "id": 1646,
-            "name": "Copper Mace"
-          },
-          {
-            "id": 1649,
-            "name": "Bronze Mace"
-          },
-          {
-            "id": 1650,
-            "name": "Bronze Axe"
-          },
-          {
-            "id": 1651,
-            "name": "Copper Axe"
-          },
-          {
-            "id": 1652,
-            "name": "Copper Shortsword"
-          },
-          {
-            "id": 1653,
-            "name": "Bronze Shortsword"
-          },
-          {
-            "id": 4389,
-            "name": "Rough Bronze Boots"
-          },
-          {
-            "id": 4390,
-            "name": "Silver Rod"
-          },
-          {
-            "id": 11183,
-            "name": "Silver Skeleton Key"
-          },
-          {
-            "id": 3972,
-            "name": "Pearl-handled Dagger"
-          },
-          {
-            "id": 4910,
-            "name": "Copper Dagger"
-          },
-          {
-            "id": 5338,
-            "name": "Copper Claymore"
-          },
-          {
-            "id": 5339,
-            "name": "Bronze Warhammer"
           },
           {
             "id": 5340,
@@ -15579,36 +15419,196 @@
             "name": "Heavy Copper Maul"
           },
           {
-            "id": 52645,
-            "name": "Sharpening Wheel"
+            "id": 11183,
+            "name": "Silver Skeleton Key"
+          },
+          {
+            "id": 1639,
+            "name": "Rough Bronze Leggings"
+          },
+          {
+            "id": 1640,
+            "name": "Rough Bronze Cuirass"
+          },
+          {
+            "id": 1653,
+            "name": "Bronze Shortsword"
           },
           {
             "id": 54692,
             "name": "Gemmed Copper Boots"
           },
           {
-            "id": 54693,
-            "name": "Strange Copper Boots"
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
+          },
+          {
+            "id": 1798,
+            "name": "Rough Weightstone"
           },
           {
             "id": 54694,
             "name": "Glowing Copper Boots"
           },
           {
-            "id": 54702,
-            "name": "Protector's Chain Shirt"
+            "id": 1642,
+            "name": "Patterned Bronze Bracers"
+          },
+          {
+            "id": 1853,
+            "name": "Heavy Bronze Mace"
+          },
+          {
+            "id": 1633,
+            "name": "Copper Chain Pants"
+          },
+          {
+            "id": 4389,
+            "name": "Rough Bronze Boots"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1864,
+            "name": "Silvered Bronze Boots"
+          },
+          {
+            "id": 1652,
+            "name": "Copper Shortsword"
+          },
+          {
+            "id": 1799,
+            "name": "Heavy Weightstone"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1650,
+            "name": "Bronze Axe"
+          },
+          {
+            "id": 1862,
+            "name": "Rough Bronze Shoulders"
+          },
+          {
+            "id": 1644,
+            "name": "Heavy Sharpening Stone"
+          },
+          {
+            "id": 1855,
+            "name": "Copper Chain Boots"
+          },
+          {
+            "id": 1868,
+            "name": "Heavy Grinding Stone"
+          },
+          {
+            "id": 1856,
+            "name": "Rough Grinding Stone"
           },
           {
             "id": 54726,
             "name": "Guard's Chain Belt"
           },
           {
+            "id": 5339,
+            "name": "Bronze Warhammer"
+          },
+          {
+            "id": 1649,
+            "name": "Bronze Mace"
+          },
+          {
+            "id": 4910,
+            "name": "Copper Dagger"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 1637,
+            "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1984,
+            "name": "Big Bronze Knife"
+          },
+          {
+            "id": 54693,
+            "name": "Strange Copper Boots"
+          },
+          {
+            "id": 3972,
+            "name": "Pearl-handled Dagger"
+          },
+          {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 1858,
+            "name": "Runed Copper Gauntlets"
+          },
+          {
+            "id": 1635,
+            "name": "Runed Copper Bracers"
+          },
+          {
             "id": 54740,
             "name": "Veteran's Silvered Chain Helm"
           },
           {
+            "id": 5338,
+            "name": "Copper Claymore"
+          },
+          {
+            "id": 1851,
+            "name": "Thick War Axe"
+          },
+          {
+            "id": 1850,
+            "name": "Copper Battle Axe"
+          },
+          {
+            "id": 1800,
+            "name": "Coarse Weightstone"
+          },
+          {
+            "id": 1646,
+            "name": "Copper Mace"
+          },
+          {
             "id": 54212,
             "name": "Copper Rod"
+          },
+          {
+            "id": 54702,
+            "name": "Protector's Chain Shirt"
+          },
+          {
+            "id": 1859,
+            "name": "Runed Copper Pants"
+          },
+          {
+            "id": 1849,
+            "name": "Heavy Copper Broadsword"
+          },
+          {
+            "id": 1651,
+            "name": "Copper Axe"
+          },
+          {
+            "id": 4390,
+            "name": "Silver Rod"
           }
         ],
         "Cooking": [
@@ -15617,50 +15617,50 @@
             "name": "Crispy Bat Wing"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           },
           {
             "id": 52640,
             "name": "Basic Campfire"
           },
           {
-            "id": 54504,
-            "name": "Tasty Raptor Bites"
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
           }
         ],
         "First Aid": [
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -15671,28 +15671,28 @@
         ],
         "Mining": [
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 1570,
             "name": "Mining"
           },
           {
-            "id": 1599,
-            "name": "Smelt Silver"
-          },
-          {
             "id": 1600,
             "name": "Smelt Bronze"
           },
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 52643,
             "name": "Lodestone"
+          },
+          {
+            "id": 1599,
+            "name": "Smelt Silver"
           }
         ]
       },
@@ -15755,19 +15755,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 41,
+        "critters": 43,
         "deaths": 20,
-        "drinks": 15,
-        "flights": 48,
+        "drinks": 16,
+        "flights": 50,
         "food": 14,
         "health_potions": 9,
         "hearths": 28,
-        "killing_blows": 1515,
+        "killing_blows": 1573,
         "mana_potions": 1,
-        "mobs": 2122,
+        "mobs": 2180,
         "quests": 130
       },
-      "xp": 8122
+      "xp": 8250
     },
     "eu:mimisiku-meatshield": {
       "achievements": {},
@@ -23177,6 +23177,7 @@
     "Bristlebark Amice": "Borstenlederamicia",
     "Bristlebark Belt": "Borstenledergürtel",
     "Bristlebark Bindings": "Borstenlederbindungen",
+    "Bronze Greatsword": "Bronzenes Großschwert",
     "Bronze Shortsword": "Bronzenes Kurzschwert",
     "Bronze Warhammer": "Bronzener Kriegshammer",
     "Bronzed Shoulderguards": "Talmischulterschutz",
@@ -25327,7 +25328,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795289065,
+  "saved_at": 1795290011,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
