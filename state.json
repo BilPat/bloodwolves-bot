@@ -4628,7 +4628,7 @@
       },
       "ilvl": 20,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795226314000,
+      "last_login": 1795267966000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5338,6 +5338,7 @@
       "achievements": {
         "62000": "Novice Priest",
         "62012": "Journeyman Alchemist",
+        "62015": "Journeyman Blacksmith",
         "62018": "Journeyman Enchanter",
         "62028": "Journeyman Tailor",
         "768": "Explore Tirisfal Glades",
@@ -5358,7 +5359,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795210020000,
+      "last_login": 1795268027000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -5375,16 +5376,20 @@
       "recipes": {
         "Alchemy": [
           {
+            "id": 54454,
+            "name": "Magenta Dye"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
+          },
+          {
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
             "id": 1814,
             "name": "Elixir of Wisdom"
-          },
-          {
-            "id": 1816,
-            "name": "Lesser Mana Potion"
-          },
-          {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
           },
           {
             "id": 1378,
@@ -5395,6 +5400,14 @@
             "name": "Minor Mana Potion"
           },
           {
+            "id": 1816,
+            "name": "Lesser Mana Potion"
+          },
+          {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
           },
@@ -5403,48 +5416,36 @@
             "name": "Elixir of Minor Fortitude"
           },
           {
-            "id": 4393,
-            "name": "Blackmouth Oil"
-          },
-          {
-            "id": 4394,
-            "name": "Fire Oil"
-          },
-          {
-            "id": 4395,
-            "name": "Swim Speed Potion"
-          },
-          {
-            "id": 4176,
-            "name": "Draught of Water Breathing"
-          },
-          {
-            "id": 4178,
-            "name": "Elixir of Minor Defense"
-          },
-          {
-            "id": 52646,
-            "name": "Mana Well"
-          },
-          {
-            "id": 54453,
-            "name": "Cerulean Dye"
-          },
-          {
-            "id": 54454,
-            "name": "Magenta Dye"
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
           },
           {
             "id": 54456,
             "name": "Sulfuric Acid"
           },
           {
-            "id": 54210,
-            "name": "Minor Arcane Elixir"
+            "id": 4394,
+            "name": "Fire Oil"
           },
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 4176,
+            "name": "Draught of Water Breathing"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           }
         ],
         "Cooking": [
@@ -5453,38 +5454,82 @@
             "name": "Crispy Bat Wing"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
           },
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
           }
         ],
         "Enchanting": [
+          {
+            "id": 4368,
+            "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
+          },
+          {
+            "id": 7316,
+            "name": "Disenchant"
+          },
+          {
+            "id": 4289,
+            "name": "Enchant Bracer - Inferior Stamina"
+          },
+          {
+            "id": 4291,
+            "name": "Runed Copper Rod"
+          },
+          {
+            "id": 7356,
+            "name": "Enchant Shield - Minor Stamina"
+          },
           {
             "id": 7426,
             "name": "Enchant Weapon - Lesser Striking"
           },
           {
+            "id": 4300,
+            "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
             "id": 7999,
             "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          },
+          {
+            "id": 4301,
+            "name": "Enchant Bracer - Minor Stamina"
           },
           {
             "id": 4352,
@@ -5495,70 +5540,26 @@
             "name": "Enchant Cloak - Minor Protection"
           },
           {
-            "id": 4368,
-            "name": "Enchant 2H Weapon - Minor Impact"
-          },
-          {
-            "id": 7316,
-            "name": "Disenchant"
-          },
-          {
-            "id": 7356,
-            "name": "Enchant Shield - Minor Stamina"
-          },
-          {
-            "id": 4289,
-            "name": "Enchant Bracer - Inferior Stamina"
-          },
-          {
-            "id": 4290,
-            "name": "Enchant Chest - Inferior Stamina"
-          },
-          {
-            "id": 4291,
-            "name": "Runed Copper Rod"
-          },
-          {
-            "id": 4292,
-            "name": "Enchant Chest - Minor Absorption"
-          },
-          {
-            "id": 4293,
-            "name": "Enchant Bracer - Minor Deflect"
-          },
-          {
-            "id": 4300,
-            "name": "Enchant Cloak - Minor Resistance"
-          },
-          {
-            "id": 4301,
-            "name": "Enchant Bracer - Minor Stamina"
-          },
-          {
-            "id": 52649,
-            "name": "Enchanted Lute"
-          },
-          {
             "id": 54213,
             "name": "Dust to Motes"
           },
           {
-            "id": 54214,
-            "name": "Novice's Practice Wand"
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
           }
         ],
         "First Aid": [
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -20019,7 +20020,7 @@
         }
       },
       "ilvl": 25,
-      "last_explored": null,
+      "last_explored": "Redridge Mountains",
       "last_login": 1795214713000,
       "level": 30,
       "level_at": {
@@ -21737,6 +21738,21 @@
         "snap": {
           "class": "Priest",
           "level": 25
+        }
+      },
+      "eu:efrye-frostmage": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostmage"
+        },
+        "lines": [
+          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 10
         }
       },
       "eu:fred-feuersturm": {
@@ -24114,7 +24130,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795267529,
+  "saved_at": 1795268369,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
