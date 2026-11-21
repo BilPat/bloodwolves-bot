@@ -7715,6 +7715,11 @@
           "count": 1,
           "instance": "Razorfen Kraul"
         },
+        "6140": {
+          "boss": "Mekgineer Thermaplugg",
+          "count": 1,
+          "instance": "Gnomeregan"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 2,
@@ -7790,8 +7795,8 @@
       },
       "ilvl": 31,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795259046000,
-      "level": 35,
+      "last_login": 1795290427000,
+      "level": 36,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
@@ -7800,7 +7805,8 @@
         "32": 1795041613,
         "33": 1795099180,
         "34": 1795159072,
-        "35": 1795259608
+        "35": 1795259608,
+        "36": 1795290873
       },
       "professions": {
         "Cooking": 223,
@@ -8395,18 +8401,18 @@
       "stats": {
         "critters": 54,
         "deaths": 17,
-        "drinks": 670,
-        "flights": 49,
-        "food": 238,
+        "drinks": 699,
+        "flights": 51,
+        "food": 241,
         "health_potions": 24,
-        "hearths": 18,
+        "hearths": 19,
         "honorable_kills": 4,
-        "killing_blows": 1931,
+        "killing_blows": 2014,
         "mana_potions": 11,
-        "mobs": 4345,
-        "quests": 255
+        "mobs": 4717,
+        "quests": 260
       },
-      "xp": 45606
+      "xp": 866
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -22798,11 +22804,12 @@
           "surname": "Feuersturm"
         },
         "lines": [
-          "🎖️ [Erkundet Tirisfal](https://www.wowhead.com/forever/de/achievement=768)"
+          "🎖️ [Erkundet Tirisfal](https://www.wowhead.com/forever/de/achievement=768)",
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Mage",
-          "level": 35
+          "level": 36
         }
       },
       "eu:garm-winterhoof": {
@@ -23683,6 +23690,7 @@
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
     "Ivy Cuffs": "Efeu-Manschetten",
+    "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Jumanza Grips": "Jumanza Handschutz",
     "Jungle Boots": "Dschungel-Stiefel",
@@ -25328,7 +25336,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795290011,
+  "saved_at": 1795290875,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
