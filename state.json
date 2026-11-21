@@ -23538,7 +23538,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 49,
+        "level": 50,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -23619,7 +23619,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 44,
+        "level": 45,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -23718,7 +23718,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -23817,7 +23817,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Garm",
         "rank": 3,
         "region": "eu",
@@ -23889,7 +23889,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 33,
         "name": "Lazy",
         "rank": 3,
         "region": "eu",
@@ -23943,7 +23943,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 16,
+        "level": 17,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -24026,7 +24026,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795259610,
+  "saved_at": 1795260308,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
