@@ -25041,7 +25041,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 51,
+        "level": 52,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -25077,7 +25077,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 1,
+        "level": 5,
         "name": "Lockendotter",
         "rank": 3,
         "region": "eu",
@@ -25086,7 +25086,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 47,
+        "level": 48,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -25131,7 +25131,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 46,
+        "level": 47,
         "name": "Blut",
         "rank": 3,
         "region": "eu",
@@ -25194,7 +25194,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Aru",
         "rank": 3,
         "region": "eu",
@@ -25221,7 +25221,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Fred",
         "rank": 3,
         "region": "eu",
@@ -25257,7 +25257,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Elric",
         "rank": 3,
         "region": "eu",
@@ -25275,7 +25275,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -25284,7 +25284,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Mimisiku",
         "rank": 3,
         "region": "eu",
@@ -25320,7 +25320,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Garm",
         "rank": 3,
         "region": "eu",
@@ -25340,7 +25340,7 @@
         "guild": true,
         "level": 21,
         "name": "Maniac",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Menacepuppy"
       },
@@ -25419,7 +25419,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 37,
+        "level": 38,
         "name": "Keta",
         "rank": 3,
         "region": "eu",
@@ -25446,9 +25446,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 17,
+        "level": 18,
         "name": "Ogmar",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Donnerhammer"
       },
@@ -25545,7 +25545,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Anna",
         "rank": 1,
         "region": "eu",
@@ -25556,7 +25556,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795302772,
+  "saved_at": 1795303456,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
