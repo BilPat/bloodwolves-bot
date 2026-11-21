@@ -17512,143 +17512,132 @@
       },
       "ilvl": 21,
       "last_explored": null,
-      "last_login": 1795032612000,
-      "level": 27,
+      "last_login": 1795269823000,
+      "level": 28,
       "level_at": {
         "23": 1794866470,
         "24": 1794928566,
         "26": 1795004429,
-        "27": 1795032935
+        "27": 1795032935,
+        "28": 1795270445
       },
       "professions": {
         "Blacksmithing": 111,
         "Cooking": 23,
         "First Aid": 63,
-        "Fishing": 37,
-        "Mining": 143
+        "Fishing": 50,
+        "Mining": 147
       },
       "race": "Undead",
       "raids": {},
       "recipes": {
         "Blacksmithing": [
           {
-            "id": 1798,
-            "name": "Rough Weightstone"
-          },
-          {
-            "id": 1799,
-            "name": "Heavy Weightstone"
-          },
-          {
-            "id": 1800,
-            "name": "Coarse Weightstone"
-          },
-          {
-            "id": 1852,
-            "name": "Deadly Bronze Poniard"
-          },
-          {
-            "id": 1856,
-            "name": "Rough Grinding Stone"
-          },
-          {
-            "id": 1858,
-            "name": "Runed Copper Gauntlets"
-          },
-          {
-            "id": 1859,
-            "name": "Runed Copper Pants"
-          },
-          {
-            "id": 1860,
-            "name": "Gemmed Copper Gauntlets"
-          },
-          {
-            "id": 1861,
-            "name": "Coarse Grinding Stone"
-          },
-          {
-            "id": 1862,
-            "name": "Rough Bronze Shoulders"
-          },
-          {
-            "id": 1868,
-            "name": "Heavy Grinding Stone"
-          },
-          {
-            "id": 6636,
-            "name": "Rough Copper Vest"
-          },
-          {
-            "id": 1631,
-            "name": "Rough Sharpening Stone"
-          },
-          {
             "id": 1632,
             "name": "Copper Chain Belt"
-          },
-          {
-            "id": 1634,
-            "name": "Copper Bracers"
-          },
-          {
-            "id": 1636,
-            "name": "Coarse Sharpening Stone"
-          },
-          {
-            "id": 1637,
-            "name": "Runed Copper Belt"
-          },
-          {
-            "id": 1642,
-            "name": "Patterned Bronze Bracers"
-          },
-          {
-            "id": 1644,
-            "name": "Heavy Sharpening Stone"
-          },
-          {
-            "id": 4390,
-            "name": "Silver Rod"
           },
           {
             "id": 4285,
             "name": "Heavy Copper Maul"
           },
           {
-            "id": 52645,
-            "name": "Sharpening Wheel"
-          },
-          {
             "id": 54692,
             "name": "Gemmed Copper Boots"
           },
           {
-            "id": 54730,
-            "name": "Veteran's Silvered Chain Shirt"
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
+          },
+          {
+            "id": 1798,
+            "name": "Rough Weightstone"
+          },
+          {
+            "id": 1642,
+            "name": "Patterned Bronze Bracers"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1799,
+            "name": "Heavy Weightstone"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1862,
+            "name": "Rough Bronze Shoulders"
+          },
+          {
+            "id": 1644,
+            "name": "Heavy Sharpening Stone"
+          },
+          {
+            "id": 1868,
+            "name": "Heavy Grinding Stone"
+          },
+          {
+            "id": 1856,
+            "name": "Rough Grinding Stone"
+          },
+          {
+            "id": 1852,
+            "name": "Deadly Bronze Poniard"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 1637,
+            "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 1858,
+            "name": "Runed Copper Gauntlets"
           },
           {
             "id": 54740,
             "name": "Veteran's Silvered Chain Helm"
           },
           {
+            "id": 1800,
+            "name": "Coarse Weightstone"
+          },
+          {
             "id": 54212,
             "name": "Copper Rod"
+          },
+          {
+            "id": 1859,
+            "name": "Runed Copper Pants"
+          },
+          {
+            "id": 54730,
+            "name": "Veteran's Silvered Chain Shirt"
+          },
+          {
+            "id": 4390,
+            "name": "Silver Rod"
+          },
+          {
+            "id": 1860,
+            "name": "Gemmed Copper Gauntlets"
           }
         ],
         "Cooking": [
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
           {
             "id": 4786,
             "name": "Herb Baked Egg"
@@ -17656,28 +17645,40 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "First Aid": [
-          {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
           {
             "id": 1839,
             "name": "Heavy Linen Bandage"
           },
           {
-            "id": 52641,
-            "name": "First Aid Kit"
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           },
           {
             "id": 54191,
             "name": "Minor Healing Potion"
           },
           {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -17692,16 +17693,12 @@
         ],
         "Mining": [
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 1570,
             "name": "Mining"
-          },
-          {
-            "id": 1599,
-            "name": "Smelt Silver"
           },
           {
             "id": 1600,
@@ -17712,12 +17709,16 @@
             "name": "Mining"
           },
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 52643,
             "name": "Lodestone"
+          },
+          {
+            "id": 1599,
+            "name": "Smelt Silver"
           }
         ]
       },
@@ -17734,7 +17735,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5535,
+          "raw": 5647,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17759,7 +17760,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6903,
+          "raw": 7128,
           "tier": 4
         },
         "Powderfuse": {
@@ -17774,30 +17775,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3518,
+          "raw": 3631,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 10391,
+          "raw": 10728,
           "tier": 5
         }
       },
       "spec": "Retribution",
       "stats": {
-        "critters": 29,
-        "deaths": 9,
+        "critters": 31,
+        "deaths": 10,
         "drinks": 12,
-        "flights": 37,
+        "flights": 39,
         "food": 7,
         "health_potions": 8,
-        "hearths": 19,
-        "killing_blows": 1115,
-        "mana_potions": 2,
-        "mobs": 2603,
-        "quests": 161
+        "hearths": 20,
+        "killing_blows": 1266,
+        "mana_potions": 3,
+        "mobs": 2754,
+        "quests": 165
       },
-      "xp": 7105
+      "xp": 2282
     },
     "eu:thalia-mondrabe": {
       "achievements": {
@@ -24164,7 +24165,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795269324,
+  "saved_at": 1795270446,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
