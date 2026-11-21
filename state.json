@@ -9633,18 +9633,19 @@
       },
       "ilvl": 38,
       "last_explored": "Thousand Needles",
-      "last_login": 1795124066000,
-      "level": 45,
+      "last_login": 1795224191000,
+      "level": 46,
       "level_at": {
         "42": 1794866470,
         "44": 1794878167,
-        "45": 1794950735
+        "45": 1794950735,
+        "46": 1795224302
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 209,
-        "Mining": 179,
+        "Mining": 182,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -9744,7 +9745,7 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9400,
+          "raw": -12775,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -9754,12 +9755,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4981,
+          "raw": 6115,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11298,
+          "raw": 11511,
           "tier": 5
         },
         "Earthen Ring": {
@@ -9769,54 +9770,54 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4614,
+          "raw": 5268,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 5446,
+          "raw": 6138,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13665,
+          "raw": 13858,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5586,
+          "raw": 6378,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 6255,
+          "raw": 6910,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19713,
+          "raw": 19795,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9913,
+          "raw": 9995,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 102,
-        "deaths": 72,
+        "deaths": 73,
         "drinks": 2,
-        "flights": 98,
-        "food": 168,
-        "health_potions": 119,
+        "flights": 103,
+        "food": 170,
+        "health_potions": 124,
         "hearths": 27,
-        "killing_blows": 3419,
-        "mobs": 6118,
-        "quests": 523
+        "killing_blows": 3546,
+        "mobs": 6247,
+        "quests": 542
       },
-      "xp": 89102
+      "xp": 44367
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -19191,6 +19192,7 @@
     "us:aeri-moonglow": {
       "achievements": {
         "61502": "Novice Druid",
+        "841": "Explore Wetlands",
         "842": "Explore Teldrassil",
         "844": "Explore Darkshore",
         "855": "Explore Moonglade"
@@ -19263,17 +19265,17 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
-      "last_explored": "Darkshore",
-      "last_login": 1795208623000,
+      "ilvl": 23,
+      "last_explored": "Wetlands",
+      "last_login": 1795223751000,
       "level": 29,
       "level_at": {
         "29": 1795218860
       },
       "professions": {
         "Cooking": 29,
-        "Herbalism": 209,
-        "Skinning": 210
+        "Herbalism": 213,
+        "Skinning": 212
       },
       "race": "High Order Skyborne",
       "raids": {},
@@ -19356,6 +19358,11 @@
           "raw": 2000,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2885,
@@ -19363,7 +19370,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7035,
+          "raw": 7087,
           "tier": 4
         },
         "Gadgetzan": {
@@ -19373,7 +19380,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 4915,
+          "raw": 4967,
           "tier": 4
         },
         "High Order": {
@@ -19383,7 +19390,7 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6608,
+          "raw": 6668,
           "tier": 4
         },
         "Kirin Tor": {
@@ -19398,7 +19405,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 6496,
+          "raw": 6698,
           "tier": 4
         },
         "Wildhammer Clan": {
@@ -19410,18 +19417,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 12,
-        "deaths": 36,
+        "deaths": 37,
         "drinks": 5,
-        "flights": 34,
+        "flights": 36,
         "food": 8,
         "health_potions": 18,
-        "hearths": 23,
-        "killing_blows": 1349,
+        "hearths": 24,
+        "killing_blows": 1390,
         "mana_potions": 3,
-        "mobs": 1981,
-        "quests": 251
+        "mobs": 2046,
+        "quests": 261
       },
-      "xp": 1066
+      "xp": 20050
     },
     "us:devil-latterday": {
       "achievements": {
@@ -21506,6 +21513,20 @@
           "class": "Warrior",
           "level": 24
         }
+      },
+      "us:aeri-moonglow": {
+        "c": {
+          "name": "aeri",
+          "region": "us",
+          "surname": "moonglow"
+        },
+        "lines": [
+          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 29
+        }
       }
     },
     "last": "2026-11-20"
@@ -22400,6 +22421,7 @@
     "Ravasaur Trainers": "Ravasaurusausbilder",
     "Razorfen Downs": "Hügel von Razorfen",
     "Razorfen Kraul": "Kral von Razorfen",
+    "Razormaw Shorts": "Scharfzahnshorts",
     "Rebirthed by druids": "Wiedergeburten durch Druiden",
     "Reckless Swings": "Tollkühne Schwünge",
     "Reckoning": "Abrechnung",
@@ -22538,6 +22560,7 @@
     "Shimmering Cloak of Fiery Wrath": "Schimmernder Umhang des feurigen Zorns",
     "Shimmering Cloak of the Falcon": "Schimmernder Umhang des Falken",
     "Shining Silver Breastplate": "Leuchtende silberne Brustplatte",
+    "Shinkicker Boots": "Schienbeintreter-Stiefel",
     "Shirt": "Hemd",
     "Shoulder": "Schulter",
     "Shoulders": "Schultern",
@@ -23749,7 +23772,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795223716,
+  "saved_at": 1795224303,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
