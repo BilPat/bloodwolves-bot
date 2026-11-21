@@ -9677,21 +9677,22 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 38,
+      "ilvl": 40,
       "last_explored": "Thousand Needles",
-      "last_login": 1795257771000,
-      "level": 46,
+      "last_login": 1795272946000,
+      "level": 47,
       "level_at": {
         "42": 1794866470,
         "44": 1794878167,
         "45": 1794950735,
-        "46": 1795224302
+        "46": 1795224302,
+        "47": 1795273985
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 209,
-        "Mining": 182,
+        "Mining": 185,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -9783,7 +9784,7 @@
             "name": "Camp Chair"
           },
           {
-            "id": 4768,
+            "id": 5746,
             "name": "Skinning"
           }
         ]
@@ -9806,7 +9807,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11586,
+          "raw": 11967,
           "tier": 5
         },
         "Earthen Ring": {
@@ -9826,7 +9827,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14202,
+          "raw": 14833,
           "tier": 5
         },
         "Powderfuse": {
@@ -9841,29 +9842,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 19926,
+          "raw": 20551,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 10070,
+          "raw": 10451,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 102,
-        "deaths": 73,
+        "deaths": 74,
         "drinks": 2,
         "flights": 103,
-        "food": 170,
-        "health_potions": 124,
-        "hearths": 27,
-        "killing_blows": 3617,
-        "mobs": 6318,
-        "quests": 548
+        "food": 171,
+        "health_potions": 126,
+        "hearths": 28,
+        "killing_blows": 3715,
+        "mobs": 6421,
+        "quests": 557
       },
-      "xp": 84145
+      "xp": 16022
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -11477,6 +11478,8 @@
         "802": "Explore Westfall",
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains",
+        "851": "Explore Tanaris",
+        "854": "Explore Un'Goro Crater",
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
@@ -11602,8 +11605,8 @@
         }
       },
       "ilvl": 47,
-      "last_explored": "The Hinterlands",
-      "last_login": 1795258559000,
+      "last_explored": "Un'Goro Crater",
+      "last_login": 1795273029000,
       "level": 50,
       "level_at": {
         "45": 1794866470,
@@ -11630,6 +11633,10 @@
           {
             "id": 54211,
             "name": "Elixir of Minor Force"
+          },
+          {
+            "id": 6010,
+            "name": "Invisibility Potion"
           },
           {
             "id": 6020,
@@ -11722,6 +11729,10 @@
           {
             "id": 54661,
             "name": "Minor Frenzy Potion"
+          },
+          {
+            "id": 1822,
+            "name": "Elixir of Ogre Strength"
           },
           {
             "id": 4007,
@@ -12089,7 +12100,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12787,
+          "raw": 12865,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -12114,7 +12125,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 15176,
+          "raw": 15253,
           "tier": 5
         },
         "Powderfuse": {
@@ -12129,30 +12140,31 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 20290,
+          "raw": 20600,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13482,
+          "raw": 13560,
           "tier": 5
         }
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 100,
-        "deaths": 39,
-        "drinks": 156,
-        "flights": 205,
-        "food": 225,
-        "health_potions": 76,
-        "hearths": 46,
-        "killing_blows": 4437,
+        "critters": 101,
+        "deaths": 41,
+        "drinks": 160,
+        "flights": 208,
+        "food": 229,
+        "health_potions": 79,
+        "hearths": 48,
+        "honorable_kills": 1,
+        "killing_blows": 4476,
         "mana_potions": 6,
-        "mobs": 7893,
-        "quests": 622
+        "mobs": 7935,
+        "quests": 640
       },
-      "xp": 1044
+      "xp": 102172
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -21814,6 +21826,21 @@
           "level": 45
         }
       },
+      "eu:h%C3%A4uptling-blutmacht": {
+        "c": {
+          "name": "Häuptling",
+          "rank_name": "Gildenmeister",
+          "region": "eu",
+          "surname": "Blutmacht"
+        },
+        "lines": [
+          "Gegenstandsstufe **40**"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 47
+        }
+      },
       "eu:khaladin-ronen": {
         "c": {
           "name": "Khaladin",
@@ -21839,7 +21866,9 @@
         },
         "lines": [
           "🛠️ **Kochkunst** auf 300",
-          "🎖️ [Erkundet Hinterland](https://www.wowhead.com/forever/de/achievement=773)"
+          "🎖️ [Erkundet Hinterland](https://www.wowhead.com/forever/de/achievement=773)",
+          "🎖️ [Erkundet Tanaris](https://www.wowhead.com/forever/de/achievement=851)",
+          "🎖️ [Erkundet Krater von Un'Goro](https://www.wowhead.com/forever/de/achievement=854)"
         ],
         "snap": {
           "class": "Druid",
@@ -24165,7 +24194,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795272853,
+  "saved_at": 1795273987,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
