@@ -10611,7 +10611,7 @@
       },
       "ilvl": 40,
       "last_explored": "Thousand Needles",
-      "last_login": 1795287961000,
+      "last_login": 1795293886000,
       "level": 47,
       "level_at": {
         "42": 1794866470,
@@ -10624,7 +10624,7 @@
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 209,
-        "Mining": 185,
+        "Mining": 188,
         "Skinning": 225
       },
       "race": "Tauren",
@@ -10724,7 +10724,7 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -13450,
+          "raw": -17275,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -10734,7 +10734,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 6300,
+          "raw": 7115,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -10749,12 +10749,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5386,
+          "raw": 5793,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6256,
+          "raw": 6663,
           "tier": 4
         },
         "Orgrimmar": {
@@ -10764,12 +10764,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6496,
+          "raw": 6903,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7077,
+          "raw": 7485,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -10788,15 +10788,15 @@
         "critters": 102,
         "deaths": 79,
         "drinks": 2,
-        "flights": 103,
+        "flights": 104,
         "food": 177,
-        "health_potions": 129,
+        "health_potions": 130,
         "hearths": 28,
-        "killing_blows": 3748,
-        "mobs": 6454,
-        "quests": 560
+        "killing_blows": 3814,
+        "mobs": 6522,
+        "quests": 567
       },
-      "xp": 35729
+      "xp": 68208
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -25160,7 +25160,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795293598,
+  "saved_at": 1795294517,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
