@@ -1145,7 +1145,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795257912000,
+      "last_login": 1795280072000,
       "level": 27,
       "level_at": {
         "23": 1794866470,
@@ -1156,12 +1156,16 @@
       "professions": {
         "Alchemy": 125,
         "Fishing": 18,
-        "Herbalism": 116
+        "Herbalism": 124
       },
       "race": "Orc",
       "raids": {},
       "recipes": {
         "Alchemy": [
+          {
+            "id": 54553,
+            "name": "Elixir of Spirit"
+          },
           {
             "id": 54211,
             "name": "Elixir of Minor Force"
@@ -1308,14 +1312,14 @@
         "drinks": 17,
         "flights": 47,
         "food": 6,
-        "health_potions": 5,
+        "health_potions": 8,
         "hearths": 21,
-        "killing_blows": 1198,
-        "mana_potions": 24,
-        "mobs": 2360,
-        "quests": 159
+        "killing_blows": 1253,
+        "mana_potions": 28,
+        "mobs": 2414,
+        "quests": 162
       },
-      "xp": 13056
+      "xp": 28907
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -23327,8 +23331,8 @@
     }
   },
   "group_board": {
-    "last": "2026-11-20",
-    "message_id": "1573385619961286738"
+    "last": "2026-11-21",
+    "message_id": "1573748174743671028"
   },
   "officer_board": {
     "message_ids": [
@@ -24198,7 +24202,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795280128,
+  "saved_at": 1795281203,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
