@@ -20468,14 +20468,15 @@
       },
       "ilvl": 23,
       "last_explored": "Wetlands",
-      "last_login": 1795288383000,
-      "level": 29,
+      "last_login": 1795295199000,
+      "level": 30,
       "level_at": {
-        "29": 1795218860
+        "29": 1795218860,
+        "30": 1795295607
       },
       "professions": {
         "Cooking": 29,
-        "Herbalism": 213,
+        "Herbalism": 216,
         "Skinning": 215
       },
       "race": "High Order Skyborne",
@@ -20566,7 +20567,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7087,
+          "raw": 7175,
           "tier": 4
         },
         "Gadgetzan": {
@@ -20576,7 +20577,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 4967,
+          "raw": 5055,
           "tier": 4
         },
         "High Order": {
@@ -20586,7 +20587,7 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6668,
+          "raw": 7018,
           "tier": 4
         },
         "Kirin Tor": {
@@ -20601,8 +20602,13 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 6698,
+          "raw": 6786,
           "tier": 4
+        },
+        "The League of Arathor": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Wildhammer Clan": {
           "name": "Neutral",
@@ -20613,18 +20619,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 12,
-        "deaths": 42,
+        "deaths": 43,
         "drinks": 9,
-        "flights": 36,
+        "flights": 39,
         "food": 10,
-        "health_potions": 20,
-        "hearths": 26,
-        "killing_blows": 1428,
+        "health_potions": 21,
+        "hearths": 27,
+        "killing_blows": 1452,
         "mana_potions": 3,
-        "mobs": 2123,
-        "quests": 261
+        "mobs": 2147,
+        "quests": 266
       },
-      "xp": 29838
+      "xp": 2501
     },
     "us:devil-latterday": {
       "achievements": {
@@ -24231,7 +24237,8 @@
         "eu:alto-belli",
         "eu:lazy-quinn",
         "eu:khaladin-ronen",
-        "eu:kamah-suhtrah"
+        "eu:kamah-suhtrah",
+        "us:aeri-moonglow"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -25160,7 +25167,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795294517,
+  "saved_at": 1795295609,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
