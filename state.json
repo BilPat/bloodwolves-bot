@@ -1257,7 +1257,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7497,
+          "raw": 7522,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1277,7 +1277,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9760,
+          "raw": 9785,
           "tier": 5
         },
         "Powderfuse": {
@@ -1292,12 +1292,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6331,
+          "raw": 6431,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5535,
+          "raw": 5560,
           "tier": 4
         }
       },
@@ -4632,7 +4632,7 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795274180000,
+      "last_login": 1795279560000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5273,12 +5273,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1260,
+          "raw": 1272,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3641,
+          "raw": 3647,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5288,37 +5288,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1260,
+          "raw": 1272,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1260,
+          "raw": 1272,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4316,
+          "raw": 4341,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1260,
+          "raw": 1272,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2420,
+          "raw": 2445,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1828,
+          "raw": 1835,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11912,
+          "raw": 11918,
           "tier": 5
         }
       },
@@ -5327,16 +5327,16 @@
         "critters": 35,
         "deaths": 46,
         "drinks": 76,
-        "flights": 72,
-        "food": 87,
+        "flights": 73,
+        "food": 88,
         "health_potions": 13,
         "hearths": 59,
-        "killing_blows": 853,
+        "killing_blows": 858,
         "mana_potions": 30,
-        "mobs": 2898,
-        "quests": 148
+        "mobs": 2903,
+        "quests": 153
       },
-      "xp": 6118
+      "xp": 18612
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -24198,7 +24198,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795279208,
+  "saved_at": 1795280128,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
