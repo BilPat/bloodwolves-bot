@@ -1660,18 +1660,19 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795280072000,
-      "level": 27,
+      "last_login": 1795291974000,
+      "level": 28,
       "level_at": {
         "23": 1794866470,
         "24": 1794940852,
         "26": 1795004429,
-        "27": 1795196609
+        "27": 1795196609,
+        "28": 1795292738
       },
       "professions": {
         "Alchemy": 125,
         "Fishing": 18,
-        "Herbalism": 124
+        "Herbalism": 128
       },
       "race": "Orc",
       "raids": {},
@@ -1834,7 +1835,7 @@
         "mobs": 2581,
         "quests": 168
       },
-      "xp": 28907
+      "xp": 14351
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -3251,11 +3252,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/181/6286517-avatar.jpg",
       "best_item": {
-        "id": 12043,
+        "id": 275010,
         "ilvl": 47,
-        "name": "Desert Choker of the Hierophant",
-        "quality": "UNCOMMON",
-        "slot": "Neck"
+        "name": "Strongly Scented Hood",
+        "quality": "RARE",
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -3327,6 +3328,14 @@
           "name": "Tuskwrap Belt",
           "quality": "RARE"
         },
+        "274999": {
+          "name": "Shadecaster's Leggings",
+          "quality": "RARE"
+        },
+        "275010": {
+          "name": "Strongly Scented Hood",
+          "quality": "RARE"
+        },
         "275043": {
           "name": "Bloodmaster's Ring",
           "quality": "RARE"
@@ -3356,9 +3365,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 34,
+      "ilvl": 36,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795250035000,
+      "last_login": 1795292062000,
       "level": 46,
       "level_at": {
         "42": 1794866470,
@@ -3854,7 +3863,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5811,
+          "raw": 5821,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -3874,12 +3883,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4548,
+          "raw": 4558,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4825,
+          "raw": 4845,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3899,12 +3908,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5540,
+          "raw": 5550,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5913,
+          "raw": 5923,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -3921,18 +3930,18 @@
       "spec": "Demonology",
       "stats": {
         "critters": 99,
-        "deaths": 12,
-        "drinks": 77,
-        "flights": 92,
-        "food": 86,
+        "deaths": 13,
+        "drinks": 80,
+        "flights": 93,
+        "food": 87,
         "health_potions": 30,
-        "hearths": 41,
-        "killing_blows": 4964,
+        "hearths": 42,
+        "killing_blows": 5021,
         "mana_potions": 2,
-        "mobs": 7604,
-        "quests": 461
+        "mobs": 7782,
+        "quests": 462
       },
-      "xp": 51827
+      "xp": 66185
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -16168,20 +16177,20 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/52935260-avatar.jpg",
       "best_item": {
-        "id": 5327,
-        "ilvl": 18,
-        "name": "Greasy Tinker's Pants",
+        "id": 5311,
+        "ilvl": 21,
+        "name": "Buckled Boots",
         "quality": "UNCOMMON",
-        "slot": "Legs"
+        "slot": "Feet"
       },
       "boss_kills": {},
       "class": "Shaman",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 6,
+      "ilvl": 7,
       "last_explored": "Durotar",
-      "last_login": 1795262346000,
+      "last_login": 1795292343000,
       "level": 17,
       "level_at": {
         "15": 1794866470,
@@ -16190,9 +16199,9 @@
       },
       "professions": {
         "Cooking": 1,
-        "First Aid": 38,
+        "First Aid": 46,
         "Leatherworking": 39,
-        "Skinning": 95
+        "Skinning": 96
       },
       "race": "Orc",
       "raids": {},
@@ -16289,47 +16298,52 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1560,
+          "raw": 1727,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7322,
+          "raw": 7422,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1560,
+          "raw": 1727,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1560,
+          "raw": 1727,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9528,
+          "raw": 9703,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1560,
+          "raw": 1727,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3020,
+          "raw": 3355,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3643,
+          "raw": 3818,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1062,
+          "raw": 1162,
           "tier": 3
         }
       },
@@ -16338,15 +16352,15 @@
         "critters": 28,
         "deaths": 5,
         "drinks": 8,
-        "flights": 9,
+        "flights": 11,
         "food": 4,
-        "health_potions": 5,
+        "health_potions": 6,
         "hearths": 5,
-        "killing_blows": 652,
-        "mobs": 676,
-        "quests": 90
+        "killing_blows": 683,
+        "mobs": 752,
+        "quests": 94
       },
-      "xp": 4686
+      "xp": 14432
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -22738,6 +22752,7 @@
     "Aboriginal Cape": "Ureinwohnercape",
     "Accelerant": "Beschleuniger",
     "Acidproof Cloak": "Säurefester Umhang",
+    "Acolyte's Robe": "Akolythenrobe",
     "Adept's Cloak": "Adepten-Umhang",
     "Affliction": "Gebrechen",
     "Agility": "Beweglichkeit",
@@ -23015,6 +23030,7 @@
     "Crustacean Boots": "Krustentier-Stiefel",
     "Cryptwalker Boots": "Gruftwandler-Stiefel",
     "Crystal Thread Cloak": "Kristallfadenumhang",
+    "Crystalline Cuffs": "Kristallene Manschetten",
     "Cultist's Armguards": "Armschützer des Kultisten",
     "Cursed Murloc Eye": "Verfluchtes Murlocauge",
     "Daewyn's Girdle": "Daewyns Gurt",
@@ -23167,6 +23183,7 @@
     "Ephemeral Choker": "Ephemerer Halsreif",
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
+    "Everglow Lantern": "Immerscheinlaterne",
     "Excavation Cloak": "Ausgrabungsmantel",
     "Excavation Rod": "Ausgrabungsrute",
     "Excelsior Boots": "Exzelsiorstiefel",
@@ -23772,6 +23789,7 @@
     "Sewing Gloves": "Näh-Handschuhe",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
     "Shade of the Archmage Kills (City of Dalaran)": "Siege über den Schemen des Erzmagiers (Dalaran)",
+    "Shadecaster's Leggings": "Gamaschen des Düsterzauberers",
     "Shadow": "Schatten",
     "Shadow Bolt": "Schattenblitz",
     "Shadow Circlet": "Schattenreif",
@@ -23878,6 +23896,7 @@
     "Strength": "Stärke",
     "Stretched Leather Trousers": "Gedehnte Lederbeinkleider",
     "Striking Staff": "Schlagstab",
+    "Strongly Scented Hood": "Intensiv duftende Kapuze",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Stygian Bone Amulet": "Stygisches Knochenamulett",
     "Subterranean Cape": "Unterirdisches Cape",
@@ -25069,7 +25088,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795292022,
+  "saved_at": 1795292740,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
