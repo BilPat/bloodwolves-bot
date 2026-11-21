@@ -9642,11 +9642,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/4873569-avatar.jpg",
       "best_item": {
-        "id": 275005,
-        "ilvl": 46,
-        "name": "Krol'dok Warplate Chest",
-        "quality": "RARE",
-        "slot": "Chest"
+        "id": 19037,
+        "ilvl": 48,
+        "name": "Emerald Peak Spaulders",
+        "quality": "UNCOMMON",
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1093": {
@@ -9745,7 +9745,7 @@
       },
       "ilvl": 40,
       "last_explored": "Thousand Needles",
-      "last_login": 1795272946000,
+      "last_login": 1795287961000,
       "level": 47,
       "level_at": {
         "42": 1794866470,
@@ -9858,7 +9858,7 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -12775,
+          "raw": -13450,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -9868,12 +9868,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 6165,
+          "raw": 6300,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11967,
+          "raw": 12067,
           "tier": 5
         },
         "Earthen Ring": {
@@ -9883,54 +9883,54 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5318,
+          "raw": 5386,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6188,
+          "raw": 6256,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14833,
+          "raw": 15046,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6428,
+          "raw": 6496,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7010,
+          "raw": 7077,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 20551,
+          "raw": 20613,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 10451,
+          "raw": 10513,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 102,
-        "deaths": 74,
+        "deaths": 79,
         "drinks": 2,
         "flights": 103,
-        "food": 171,
-        "health_potions": 126,
+        "food": 177,
+        "health_potions": 129,
         "hearths": 28,
-        "killing_blows": 3715,
-        "mobs": 6421,
-        "quests": 557
+        "killing_blows": 3748,
+        "mobs": 6454,
+        "quests": 560
       },
-      "xp": 16022
+      "xp": 35729
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -19263,6 +19263,11 @@
           "count": 3,
           "instance": "Shadowfang Keep"
         },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 4,
@@ -19289,6 +19294,10 @@
           "name": "Blindwatcher's Sight",
           "quality": "RARE"
         },
+        "273840": {
+          "name": "Cursed Murloc Eye",
+          "quality": "RARE"
+        },
         "3748": {
           "name": "Feline Mantle",
           "quality": "RARE"
@@ -19300,11 +19309,15 @@
         "6414": {
           "name": "Seal of Sylvanas",
           "quality": "RARE"
+        },
+        "6903": {
+          "name": "Gaze Dreamer Pants",
+          "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 24,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795196758000,
+      "last_login": 1795287928000,
       "level": 28,
       "level_at": {
         "21": 1794866470,
@@ -19325,8 +19338,8 @@
       "recipes": {
         "Alchemy": [
           {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
+            "id": 54211,
+            "name": "Elixir of Minor Force"
           },
           {
             "id": 1378,
@@ -19337,36 +19350,40 @@
             "name": "Minor Mana Potion"
           },
           {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
+          },
+          {
+            "id": 2907,
+            "name": "Minor Discolored Healing Potion"
           },
           {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
           },
           {
-            "id": 4178,
-            "name": "Elixir of Minor Defense"
-          },
-          {
-            "id": 52646,
-            "name": "Mana Well"
-          },
-          {
-            "id": 54453,
-            "name": "Cerulean Dye"
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
           },
           {
             "id": 54456,
             "name": "Sulfuric Acid"
           },
           {
-            "id": 54210,
-            "name": "Minor Arcane Elixir"
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
           },
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           }
         ],
         "Herbalism": [
@@ -19397,12 +19414,17 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3930,
+          "raw": 4255,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
           "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 250,
           "tier": 3
         },
         "Everlook": {
@@ -19417,7 +19439,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4455,
+          "raw": 4536,
           "tier": 4
         },
         "Powderfuse": {
@@ -19432,12 +19454,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3236,
+          "raw": 3317,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13798,
+          "raw": 13880,
           "tier": 5
         }
       },
@@ -19445,17 +19467,17 @@
       "stats": {
         "critters": 54,
         "deaths": 14,
-        "drinks": 896,
+        "drinks": 982,
         "flights": 25,
-        "food": 232,
+        "food": 237,
         "health_potions": 11,
-        "hearths": 26,
-        "killing_blows": 1523,
+        "hearths": 27,
+        "killing_blows": 1578,
         "mana_potions": 20,
-        "mobs": 2424,
-        "quests": 166
+        "mobs": 2667,
+        "quests": 169
       },
-      "xp": 3747
+      "xp": 29492
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -20072,6 +20094,7 @@
         "62012": "Journeyman Alchemist",
         "62031": "Novice Spelunker",
         "780": "Explore Redridge Mountains",
+        "841": "Explore Wetlands",
         "842": "Explore Teldrassil",
         "844": "Explore Darkshore",
         "855": "Explore Moonglade"
@@ -20167,22 +20190,23 @@
         }
       },
       "ilvl": 25,
-      "last_explored": "Redridge Mountains",
-      "last_login": 1795276825000,
-      "level": 30,
+      "last_explored": "Wetlands",
+      "last_login": 1795288207000,
+      "level": 31,
       "level_at": {
         "26": 1794965196,
         "27": 1795005720,
         "28": 1795061895,
         "29": 1795097762,
-        "30": 1795200900
+        "30": 1795200900,
+        "31": 1795288333
       },
       "professions": {
         "Alchemy": 195,
         "Cooking": 157,
         "First Aid": 146,
         "Fishing": 113,
-        "Herbalism": 205
+        "Herbalism": 211
       },
       "race": "Night Elf",
       "raids": {},
@@ -20375,6 +20399,10 @@
             "name": "Smoked Sagefish"
           },
           {
+            "id": 1903,
+            "name": "Tasty Lion Steak"
+          },
+          {
             "id": 3933,
             "name": "Lean Venison"
           },
@@ -20536,7 +20564,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15847,
+          "raw": 15916,
           "tier": 5
         },
         "Gadgetzan": {
@@ -20546,40 +20574,35 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6928,
+          "raw": 6997,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7116,
+          "raw": 7185,
           "tier": 4
         },
         "Stormwind": {
-          "name": "Friendly",
-          "raw": 8948,
-          "tier": 4
-        },
-        "The League of Arathor": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
+          "name": "Honored",
+          "raw": 9223,
+          "tier": 5
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 55,
-        "deaths": 38,
-        "drinks": 106,
-        "flights": 51,
-        "food": 59,
-        "health_potions": 54,
+        "deaths": 42,
+        "drinks": 111,
+        "flights": 52,
+        "food": 62,
+        "health_potions": 58,
         "hearths": 24,
-        "killing_blows": 994,
-        "mana_potions": 48,
-        "mobs": 2831,
-        "quests": 248
+        "killing_blows": 1070,
+        "mana_potions": 49,
+        "mobs": 2972,
+        "quests": 254
       },
-      "xp": 31645
+      "xp": 15719
     },
     "us:steel-appeal": {
       "achievements": {
@@ -21279,7 +21302,8 @@
       "achievements": {
         "61994": "Novice Mage",
         "62018": "Journeyman Enchanter",
-        "776": "Explore Elwynn Forest"
+        "776": "Explore Elwynn Forest",
+        "841": "Explore Wetlands"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/151/7402647-avatar.jpg",
       "best_item": {
@@ -21354,9 +21378,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
-      "last_explored": "Elwynn Forest",
-      "last_login": 1795231434000,
+      "ilvl": 19,
+      "last_explored": "Wetlands",
+      "last_login": 1795288220000,
       "level": 29,
       "level_at": {
         "28": 1794965196,
@@ -21790,7 +21814,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 8377,
+          "raw": 8446,
           "tier": 4
         },
         "Everlook": {
@@ -21805,12 +21829,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5845,
+          "raw": 5913,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7565,
+          "raw": 7802,
           "tier": 4
         },
         "Powderfuse": {
@@ -21825,25 +21849,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 13985,
+          "raw": 14091,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 68,
-        "deaths": 62,
-        "drinks": 657,
-        "flights": 45,
-        "food": 126,
-        "health_potions": 46,
-        "hearths": 23,
-        "killing_blows": 1641,
-        "mana_potions": 13,
-        "mobs": 3176,
-        "quests": 262
+        "deaths": 64,
+        "drinks": 689,
+        "flights": 46,
+        "food": 128,
+        "health_potions": 48,
+        "hearths": 24,
+        "killing_blows": 1664,
+        "mana_potions": 14,
+        "mobs": 3252,
+        "quests": 266
       },
-      "xp": 20020
+      "xp": 43545
     }
   },
   "craft_board": {
@@ -22074,6 +22098,21 @@
           "level": 22
         }
       },
+      "us:pwanage-ownage": {
+        "c": {
+          "name": "pwanage",
+          "region": "us",
+          "surname": "ownage"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Stormwind",
+          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 31
+        }
+      },
       "us:steel-appeal": {
         "c": {
           "name": "steel",
@@ -22086,6 +22125,20 @@
         "snap": {
           "class": "Warrior",
           "level": 32
+        }
+      },
+      "us:whizz-aard": {
+        "c": {
+          "name": "whizz",
+          "region": "us",
+          "surname": "aard"
+        },
+        "lines": [
+          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 29
         }
       }
     },
@@ -22187,6 +22240,7 @@
     "Battlegrounds": "Schlachtfelder",
     "Battlegrounds played": "Gespielte Schlachtfelder",
     "Battlegrounds won": "Schlachtfelder gewonnen",
+    "Battlehard Cape": "Kampfgehärtetes Cape",
     "Bazil Thredd": "Bazil Thredd",
     "Bazil Thredd kills (Stormwind Stockade)": "Siege über Bazil Thredd (Verlies von Stormwind)",
     "Bazzalan": "Bazzalan",
@@ -22478,6 +22532,7 @@
     "Embossed Plate Boots of the Knight": "Geprägte Plattenstiefel des Ritters",
     "Embrace of the Viper": "Umarmung der Viper",
     "Embroidered Leggings": "Bestickte Gamaschen",
+    "Emerald Peak Spaulders": "Smaragdgipfelstulpen",
     "Empyrean Greatsword": "Großschwert des Lichthimmels",
     "Empyrean Treads": "Treter des Lichthimmels",
     "Enchant Boots - Lesser Agility": "Stiefel - Geringe Beweglichkeit",
@@ -22518,6 +22573,7 @@
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
     "Excavation Cloak": "Ausgrabungsmantel",
+    "Excavation Rod": "Ausgrabungsrute",
     "Excelsior Boots": "Exzelsiorstiefel",
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
@@ -22599,6 +22655,7 @@
     "Garb of Florid Feathers": "Überreich verziertes Federgewand",
     "Gargoyle Leggings": "Gargoylegamaschen",
     "Garrison Cuffs": "Garnisons-Manschetten",
+    "Gaze Dreamer Pants": "Gazeträumer-Hose",
     "Gear": "Ausrüstung",
     "Gelkis Clan Centaur": "Gelkisklan",
     "Gemmed Copper Boots": "Edelsteinbesetzte Kupferstiefel",
@@ -22857,6 +22914,7 @@
     "Mental Dexterity": "Geistige Gewandtheit",
     "Mental Quickness": "Geistige Schnelligkeit",
     "Mercenary Leggings": "Söldnergamaschen",
+    "Minor Mana Oil": "Schwaches Manaöl",
     "Minor Wizard Oil": "Schwaches Zauberöl",
     "Mirage Mirror": "Illusionsspiegel",
     "Miscellaneous": "Verschiedenes",
@@ -24354,7 +24412,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795287310,
+  "saved_at": 1795288335,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
