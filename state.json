@@ -13300,7 +13300,8 @@
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
-        "728": "Explore Durotar"
+        "728": "Explore Durotar",
+        "736": "Explore Mulgore"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/19603806-avatar.jpg",
       "best_item": {
@@ -13352,9 +13353,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 13,
-      "last_explored": "Durotar",
-      "last_login": 1795173576000,
+      "ilvl": 14,
+      "last_explored": "Mulgore",
+      "last_login": 1795300929000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -13376,40 +13377,12 @@
             "name": "Crispy Bat Wing"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
-            "id": 3964,
-            "name": "Boiled Clams"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           },
           {
             "id": 5149,
@@ -13420,8 +13393,36 @@
             "name": "Basic Campfire"
           },
           {
-            "id": 54504,
-            "name": "Tasty Raptor Bites"
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
           }
         ],
         "First Aid": [
@@ -13430,28 +13431,28 @@
             "name": "Anti-Venom"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
-          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
           },
           {
-            "id": 1840,
-            "name": "Wool Bandage"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           },
           {
             "id": 54191,
             "name": "Minor Healing Potion"
           },
           {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -13462,28 +13463,28 @@
         ],
         "Mining": [
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 1570,
             "name": "Mining"
           },
           {
-            "id": 1599,
-            "name": "Smelt Silver"
-          },
-          {
             "id": 1600,
             "name": "Smelt Bronze"
           },
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 52643,
             "name": "Lodestone"
+          },
+          {
+            "id": 1599,
+            "name": "Smelt Silver"
           }
         ],
         "Skinning": [
@@ -15973,7 +15974,9 @@
       "xp": 8250
     },
     "eu:mimisiku-meatshield": {
-      "achievements": {},
+      "achievements": {
+        "61499": "Novice Warrior"
+      },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/151/14477463-avatar.jpg",
       "best_item": {
         "id": 16978,
@@ -16003,6 +16006,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "14145": {
+          "name": "Cursed Felblade",
+          "quality": "RARE"
+        },
         "15424": {
           "name": "Axe of Orgrimmar",
           "quality": "RARE"
@@ -16019,40 +16026,105 @@
           "name": "Vilewalkers",
           "quality": "RARE"
         },
+        "271213": {
+          "name": "Mirror of Rath'mael",
+          "quality": "RARE"
+        },
         "6459": {
           "name": "Savage Trodders",
           "quality": "RARE"
         }
       },
-      "ilvl": 15,
+      "ilvl": 17,
       "last_explored": null,
-      "last_login": 1795213676000,
-      "level": 24,
+      "last_login": 1795301594000,
+      "level": 25,
       "level_at": {
         "20": 1794866470,
         "21": 1794938124,
         "22": 1795031689,
         "23": 1795198664,
-        "24": 1795214368
+        "24": 1795214368,
+        "25": 1795301667
       },
       "professions": {
-        "Blacksmithing": 54,
+        "Blacksmithing": 87,
         "Cooking": 19,
-        "First Aid": 114,
+        "First Aid": 147,
         "Fishing": 3,
-        "Mining": 90
+        "Mining": 107
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
         "Blacksmithing": [
           {
+            "id": 1632,
+            "name": "Copper Chain Belt"
+          },
+          {
+            "id": 4285,
+            "name": "Heavy Copper Maul"
+          },
+          {
+            "id": 11183,
+            "name": "Silver Skeleton Key"
+          },
+          {
+            "id": 1639,
+            "name": "Rough Bronze Leggings"
+          },
+          {
+            "id": 1640,
+            "name": "Rough Bronze Cuirass"
+          },
+          {
+            "id": 54692,
+            "name": "Gemmed Copper Boots"
+          },
+          {
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
+          },
+          {
             "id": 1798,
             "name": "Rough Weightstone"
           },
           {
-            "id": 1800,
-            "name": "Coarse Weightstone"
+            "id": 54694,
+            "name": "Glowing Copper Boots"
+          },
+          {
+            "id": 1633,
+            "name": "Copper Chain Pants"
+          },
+          {
+            "id": 4389,
+            "name": "Rough Bronze Boots"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1652,
+            "name": "Copper Shortsword"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 58811,
+            "name": "Rough Copper Chain Boots"
+          },
+          {
+            "id": 1862,
+            "name": "Rough Bronze Shoulders"
           },
           {
             "id": 1855,
@@ -16063,70 +16135,94 @@
             "name": "Rough Grinding Stone"
           },
           {
-            "id": 1858,
-            "name": "Runed Copper Gauntlets"
+            "id": 1649,
+            "name": "Bronze Mace"
           },
           {
-            "id": 1859,
-            "name": "Runed Copper Pants"
-          },
-          {
-            "id": 1861,
-            "name": "Coarse Grinding Stone"
-          },
-          {
-            "id": 6636,
-            "name": "Rough Copper Vest"
-          },
-          {
-            "id": 1631,
-            "name": "Rough Sharpening Stone"
-          },
-          {
-            "id": 1633,
-            "name": "Copper Chain Pants"
+            "id": 4910,
+            "name": "Copper Dagger"
           },
           {
             "id": 1634,
             "name": "Copper Bracers"
           },
           {
-            "id": 1636,
-            "name": "Coarse Sharpening Stone"
-          },
-          {
             "id": 1637,
             "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1984,
+            "name": "Big Bronze Knife"
+          },
+          {
+            "id": 54693,
+            "name": "Strange Copper Boots"
+          },
+          {
+            "id": 3972,
+            "name": "Pearl-handled Dagger"
+          },
+          {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 1858,
+            "name": "Runed Copper Gauntlets"
+          },
+          {
+            "id": 1635,
+            "name": "Runed Copper Bracers"
+          },
+          {
+            "id": 5338,
+            "name": "Copper Claymore"
+          },
+          {
+            "id": 1851,
+            "name": "Thick War Axe"
+          },
+          {
+            "id": 1850,
+            "name": "Copper Battle Axe"
+          },
+          {
+            "id": 1800,
+            "name": "Coarse Weightstone"
           },
           {
             "id": 1646,
             "name": "Copper Mace"
           },
           {
-            "id": 1651,
-            "name": "Copper Axe"
-          },
-          {
-            "id": 52645,
-            "name": "Sharpening Wheel"
-          },
-          {
-            "id": 54692,
-            "name": "Gemmed Copper Boots"
-          },
-          {
             "id": 54212,
             "name": "Copper Rod"
           },
           {
-            "id": 58811,
-            "name": "Rough Copper Chain Boots"
+            "id": 1859,
+            "name": "Runed Copper Pants"
+          },
+          {
+            "id": 1849,
+            "name": "Heavy Copper Broadsword"
+          },
+          {
+            "id": 1651,
+            "name": "Copper Axe"
+          },
+          {
+            "id": 4390,
+            "name": "Silver Rod"
           }
         ],
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           },
           {
             "id": 1536,
@@ -16137,12 +16233,8 @@
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "First Aid": [
@@ -16151,32 +16243,44 @@
             "name": "Anti-Venom"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
-          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 1840,
-            "name": "Wool Bandage"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
           },
           {
             "id": 54192,
             "name": "Lesser Healing Potion"
           },
           {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
+          },
+          {
             "id": 55747,
             "name": "Simple Poultice"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 55743,
+            "name": "Woolen Tourniquet"
+          },
+          {
+            "id": 1841,
+            "name": "Heavy Wool Bandage"
           }
         ],
         "Fishing": [
@@ -16187,8 +16291,8 @@
         ],
         "Mining": [
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 1570,
@@ -16199,12 +16303,16 @@
             "name": "Smelt Bronze"
           },
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 52643,
             "name": "Lodestone"
+          },
+          {
+            "id": 1599,
+            "name": "Smelt Silver"
           }
         ]
       },
@@ -16221,7 +16329,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4660,
+          "raw": 4753,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16241,7 +16349,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5878,
+          "raw": 5972,
           "tier": 4
         },
         "Powderfuse": {
@@ -16256,28 +16364,28 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9405,
+          "raw": 9780,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2210,
+          "raw": 2303,
           "tier": 3
         }
       },
       "spec": "Fury",
       "stats": {
-        "critters": 28,
-        "deaths": 33,
-        "flights": 30,
-        "food": 37,
-        "health_potions": 28,
-        "hearths": 17,
-        "killing_blows": 1138,
-        "mobs": 1809,
-        "quests": 170
+        "critters": 31,
+        "deaths": 41,
+        "flights": 32,
+        "food": 38,
+        "health_potions": 29,
+        "hearths": 19,
+        "killing_blows": 1229,
+        "mobs": 1939,
+        "quests": 176
       },
-      "xp": 28969
+      "xp": 28226
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -16381,18 +16489,19 @@
       "gear": {},
       "ilvl": 7,
       "last_explored": "Durotar",
-      "last_login": 1795292343000,
-      "level": 17,
+      "last_login": 1795300846000,
+      "level": 18,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
-        "17": 1795256711
+        "17": 1795256711,
+        "18": 1795301667
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 46,
         "Leatherworking": 39,
-        "Skinning": 96
+        "Skinning": 100
       },
       "race": "Orc",
       "raids": {},
@@ -16489,52 +16598,62 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1727,
-          "tier": 3
-        },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 1740,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7422,
+          "raw": 7592,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1727,
+          "raw": 1740,
+          "tier": 3
+        },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1727,
+          "raw": 1740,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9703,
+          "raw": 10023,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1727,
+          "raw": 1740,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3355,
+          "raw": 3380,
           "tier": 4
+        },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3818,
+          "raw": 3953,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1162,
+          "raw": 1222,
+          "tier": 3
+        },
+        "Warsong Outriders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         }
       },
@@ -16545,13 +16664,13 @@
         "drinks": 8,
         "flights": 11,
         "food": 4,
-        "health_potions": 6,
-        "hearths": 5,
-        "killing_blows": 683,
-        "mobs": 752,
-        "quests": 94
+        "health_potions": 7,
+        "hearths": 6,
+        "killing_blows": 705,
+        "mobs": 782,
+        "quests": 101
       },
-      "xp": 14432
+      "xp": 3690
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -23008,6 +23127,20 @@
           "level": 52
         }
       },
+      "eu:kreuzaua-scoops": {
+        "c": {
+          "name": "Kreuzaua",
+          "region": "eu",
+          "surname": "Scoops"
+        },
+        "lines": [
+          "🎖️ [Erkundet Mulgore](https://www.wowhead.com/forever/de/achievement=736)"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 24
+        }
+      },
       "eu:maniac-menacepuppy": {
         "c": {
           "name": "Maniac",
@@ -23020,6 +23153,22 @@
         "snap": {
           "class": "Hunter",
           "level": 21
+        }
+      },
+      "eu:mimisiku-meatshield": {
+        "c": {
+          "name": "Mimisiku",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Meatshield"
+        },
+        "lines": [
+          "🛠️ **Schmiedekunst** auf 75",
+          "🎖️ [Novice Warrior](https://www.wowhead.com/forever/de/achievement=61499)"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 25
         }
       },
       "eu:thalgrim-tirisfal": {
@@ -23317,6 +23466,7 @@
     "Creatures killed": "Kreaturen getötet",
     "Crescent Staff": "Mondsichelstab",
     "Criminal's Pauldrons": "Schulterstücke des Verbrechers",
+    "Cripple": "Verkrüppeln",
     "Critical Mass": "Kritische Masse",
     "Critical Strike": "Kritischer Trefferwert",
     "Critters killed": "Kleintiere getötet",
@@ -23328,6 +23478,7 @@
     "Crystal Thread Cloak": "Kristallfadenumhang",
     "Crystalline Cuffs": "Kristallene Manschetten",
     "Cultist's Armguards": "Armschützer des Kultisten",
+    "Cursed Felblade": "Verfluchte Teufelsklinge",
     "Cursed Murloc Eye": "Verfluchtes Murlocauge",
     "Daewyn's Girdle": "Daewyns Gurt",
     "Dagger": "Dolch",
@@ -23838,6 +23989,7 @@
     "Minor Mana Oil": "Schwaches Manaöl",
     "Minor Wizard Oil": "Schwaches Zauberöl",
     "Mirage Mirror": "Illusionsspiegel",
+    "Mirror of Rath'mael": "Rath'maels Spiegel",
     "Miscellaneous": "Verschiedenes",
     "Misplaced Shooter": "Verlegte Büchse",
     "Missile Barrage": "Geschosssalve",
@@ -24147,6 +24299,7 @@
     "Skywatcher's Vestments": "Himmelsschauergewänder",
     "Slain Baron's Signet": "Siegelring des getöteten Barons",
     "Slammed": "Zerschmettert",
+    "Slayer's Cape": "Tötercape",
     "Slayer's Shoulder Pads": "Töterschulterpolster",
     "Slick Deviate Leggings": "Clevere Deviatgamaschen",
     "Slime-encrusted Pads": "Schleimüberzogene Polster",
@@ -25402,7 +25555,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795300797,
+  "saved_at": 1795301668,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
