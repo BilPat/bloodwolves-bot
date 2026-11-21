@@ -11531,22 +11531,28 @@
         "62009": "Novice Warlock",
         "62024": "Journeyman Leatherworker",
         "62031": "Novice Spelunker",
+        "760": "Explore Alterac Mountains",
         "780": "Explore Redridge Mountains",
         "846": "Explore Thousand Needles"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 274603,
-        "ilvl": 40,
-        "name": "Dreadfrost Saber",
+        "id": 6802,
+        "ilvl": 44,
+        "name": "Sword of Omen",
         "quality": "RARE",
-        "slot": "Main Hand"
+        "slot": "Off Hand"
       },
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
           "count": 3,
           "instance": "Shadowfang Keep"
+        },
+        "1093": {
+          "boss": "Scarlet Commander Mograine",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -11582,6 +11588,11 @@
           "boss": "Lyn the Ignored",
           "count": 2,
           "instance": "City of Dalaran"
+        },
+        "6786": {
+          "boss": "High Inquisitor Whitemane",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         }
       },
       "class": "Rogue",
@@ -11656,6 +11667,10 @@
           "name": "Butcher's Slicer",
           "quality": "RARE"
         },
+        "6802": {
+          "name": "Sword of Omen",
+          "quality": "RARE"
+        },
         "6904": {
           "name": "Bite of Serra'kis",
           "quality": "RARE"
@@ -11669,10 +11684,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 31,
-      "last_explored": "Thousand Needles",
-      "last_login": 1795267218000,
-      "level": 37,
+      "ilvl": 33,
+      "last_explored": "Alterac Mountains",
+      "last_login": 1795299351000,
+      "level": 38,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -11685,14 +11700,15 @@
         "34": 1795094133,
         "35": 1795170310,
         "36": 1795189148,
-        "37": 1795267528
+        "37": 1795267528,
+        "38": 1795299898
       },
       "professions": {
         "Cooking": 178,
         "First Aid": 204,
         "Fishing": 12,
         "Leatherworking": 152,
-        "Skinning": 245
+        "Skinning": 246
       },
       "race": "Undead",
       "raids": {},
@@ -12102,7 +12118,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5931,
+          "raw": 6431,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -12127,7 +12143,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7620,
+          "raw": 8138,
           "tier": 4
         },
         "Powderfuse": {
@@ -12142,12 +12158,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5362,
+          "raw": 5618,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16127,
+          "raw": 16646,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -12158,19 +12174,19 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 73,
-        "deaths": 29,
-        "drinks": 31,
-        "flights": 55,
-        "food": 235,
-        "health_potions": 29,
-        "hearths": 19,
+        "critters": 78,
+        "deaths": 30,
+        "drinks": 38,
+        "flights": 56,
+        "food": 247,
+        "health_potions": 32,
+        "hearths": 20,
         "honorable_kills": 147,
-        "killing_blows": 2698,
-        "mobs": 4307,
-        "quests": 280
+        "killing_blows": 2837,
+        "mobs": 4675,
+        "quests": 290
       },
-      "xp": 28252
+      "xp": 39626
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -22928,6 +22944,22 @@
           "level": 30
         }
       },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
+          "🎖️ [Erkundet Alteracgebirge](https://www.wowhead.com/forever/de/achievement=760)"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 38
+        }
+      },
       "eu:krakmor-ci%C3%B3rdan": {
         "c": {
           "name": "Krakmor",
@@ -23671,6 +23703,7 @@
     "Insect Swarm": "Insektenschwarm",
     "Instant Poison": "Sofort wirkendes Gift",
     "Instant Poison II": "Sofort wirkendes Gift II",
+    "Instant Poison III": "Sofort wirkendes Gift III",
     "Intellect": "Intelligenz",
     "Inventor's League Ring": "Erfinderliga-Ring",
     "Iron Shield Spike": "Eisenschildstachel",
@@ -24159,6 +24192,7 @@
     "Swiftmend": "Rasche Heilung",
     "Swinetusk Shank": "Keilerhauer",
     "Sword": "Schwert",
+    "Sword of Omen": "Schwert des Omens",
     "Sword of the Fallen": "Schwert der Gefallenen",
     "Tabard": "Wappenrock",
     "Tabitha's Cuffs": "Tabithas Manschetten",
@@ -24232,6 +24266,7 @@
     "Tusken Helm": "Hauerhelm",
     "Tuskwrap Belt": "Hauerwickelgürtel",
     "Twilight Barrier": "Twilightbarriere",
+    "Twilight Cape of the Bandit": "Twilightcape des Banditen",
     "Twilight Focus": "Zwielichtfokus",
     "Twilight Lord Girdle": "Twilightfürstgurt",
     "Twin Disciplines": "Zwillingsdisziplinen",
@@ -24278,6 +24313,7 @@
     "Vital Headband of the Owl": "Vitales Stirnband der Eule",
     "Volcanic Rock Ring": "Vulkangesteinring",
     "Voodoo Band": "Voodooband",
+    "Vorrel's Boots": "Vorrels Stiefel",
     "Vuldren Hide Bracers": "Vuldren-Tierhautarmschienen",
     "Wailing Caverns": "Höhlen des Wehklagens",
     "Waist": "Taille",
@@ -25334,7 +25370,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795299223,
+  "saved_at": 1795299899,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
