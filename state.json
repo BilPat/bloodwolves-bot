@@ -11055,6 +11055,7 @@
         "728": "Explore Durotar",
         "736": "Explore Mulgore",
         "802": "Explore Westfall",
+        "846": "Explore Thousand Needles",
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/66/25290562-avatar.jpg",
@@ -11129,9 +11130,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
-      "last_explored": "Durotar",
-      "last_login": 1795286916000,
+      "ilvl": 21,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795296652000,
       "level": 30,
       "level_at": {
         "28": 1794866470,
@@ -11139,11 +11140,11 @@
         "30": 1795287308
       },
       "professions": {
-        "Blacksmithing": 30,
+        "Blacksmithing": 80,
         "Cooking": 121,
         "First Aid": 90,
         "Fishing": 134,
-        "Mining": 55
+        "Mining": 94
       },
       "race": "Undead",
       "raids": {},
@@ -11154,16 +11155,48 @@
             "name": "Copper Chain Belt"
           },
           {
+            "id": 4285,
+            "name": "Heavy Copper Maul"
+          },
+          {
+            "id": 11183,
+            "name": "Silver Skeleton Key"
+          },
+          {
+            "id": 1639,
+            "name": "Rough Bronze Leggings"
+          },
+          {
+            "id": 1640,
+            "name": "Rough Bronze Cuirass"
+          },
+          {
+            "id": 54692,
+            "name": "Gemmed Copper Boots"
+          },
+          {
             "id": 52645,
             "name": "Sharpening Wheel"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
           },
           {
             "id": 1798,
             "name": "Rough Weightstone"
           },
           {
+            "id": 54694,
+            "name": "Glowing Copper Boots"
+          },
+          {
             "id": 1633,
             "name": "Copper Chain Pants"
+          },
+          {
+            "id": 4389,
+            "name": "Rough Bronze Boots"
           },
           {
             "id": 6636,
@@ -11194,12 +11227,44 @@
             "name": "Copper Bracers"
           },
           {
+            "id": 1637,
+            "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1984,
+            "name": "Big Bronze Knife"
+          },
+          {
+            "id": 54693,
+            "name": "Strange Copper Boots"
+          },
+          {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 1858,
+            "name": "Runed Copper Gauntlets"
+          },
+          {
+            "id": 1635,
+            "name": "Runed Copper Bracers"
+          },
+          {
             "id": 5338,
             "name": "Copper Claymore"
           },
           {
+            "id": 1851,
+            "name": "Thick War Axe"
+          },
+          {
             "id": 1850,
             "name": "Copper Battle Axe"
+          },
+          {
+            "id": 1800,
+            "name": "Coarse Weightstone"
           },
           {
             "id": 1646,
@@ -11210,12 +11275,28 @@
             "name": "Copper Rod"
           },
           {
+            "id": 1859,
+            "name": "Runed Copper Pants"
+          },
+          {
             "id": 1857,
             "name": "Copper Chain Vest"
           },
           {
+            "id": 1849,
+            "name": "Heavy Copper Broadsword"
+          },
+          {
             "id": 1651,
             "name": "Copper Axe"
+          },
+          {
+            "id": 1638,
+            "name": "Runed Copper Breastplate"
+          },
+          {
+            "id": 4390,
+            "name": "Silver Rod"
           }
         ],
         "Cooking": [
@@ -11358,8 +11439,20 @@
             "name": "Smelt Copper"
           },
           {
-            "id": 1569,
+            "id": 1570,
             "name": "Mining"
+          },
+          {
+            "id": 1600,
+            "name": "Smelt Bronze"
+          },
+          {
+            "id": 1848,
+            "name": "Smelt Tin"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
           }
         ]
       },
@@ -11371,7 +11464,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8481,
+          "raw": 8675,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -11391,7 +11484,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11443,
+          "raw": 11787,
           "tier": 5
         },
         "Powderfuse": {
@@ -11406,31 +11499,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7141,
+          "raw": 7766,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9842,
+          "raw": 10036,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 40,
+        "critters": 52,
         "deaths": 9,
         "drinks": 10,
-        "flights": 49,
-        "food": 79,
-        "health_potions": 28,
-        "hearths": 28,
+        "flights": 52,
+        "food": 81,
+        "health_potions": 29,
+        "hearths": 30,
         "honorable_kills": 1,
-        "killing_blows": 2697,
+        "killing_blows": 2865,
         "mana_potions": 2,
-        "mobs": 4436,
-        "quests": 242
+        "mobs": 4608,
+        "quests": 250
       },
-      "xp": 3505
+      "xp": 36844
     },
     "eu:keta-f%C3%A4se": {
       "achievements": {
@@ -12149,7 +12242,7 @@
       },
       "ilvl": 24,
       "last_explored": "Durotar",
-      "last_login": 1795286647000,
+      "last_login": 1795296477000,
       "level": 30,
       "level_at": {
         "27": 1794866470,
@@ -12428,17 +12521,17 @@
       "stats": {
         "critters": 24,
         "deaths": 12,
-        "drinks": 625,
+        "drinks": 659,
         "flights": 63,
-        "food": 212,
+        "food": 235,
         "health_potions": 3,
-        "hearths": 23,
-        "killing_blows": 1408,
+        "hearths": 25,
+        "killing_blows": 1471,
         "mana_potions": 4,
-        "mobs": 2715,
-        "quests": 193
+        "mobs": 2811,
+        "quests": 196
       },
-      "xp": 5100
+      "xp": 32138
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -22791,6 +22884,23 @@
   },
   "daily_digest": {
     "items": {
+      "eu:kamah-suhtrah": {
+        "c": {
+          "name": "Kamah",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Suhtrah"
+        },
+        "lines": [
+          "🛠️ **Schmiedekunst** auf 75",
+          "🛠️ **Bergbau** auf 75",
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 30
+        }
+      },
       "eu:maniac-menacepuppy": {
         "c": {
           "name": "Maniac",
@@ -23382,6 +23492,7 @@
     "Greenweave Leggings of the Sorcerer": "Grünzwirngamaschen des Zauberers",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
     "Grimlok's Charge": "Grimloks Attacke",
+    "Grimtoll Wristguards": "Handgelenksschutz des dunklen Tributs",
     "Grip of Fear": "Griff der Angst",
     "Grizzled Boots": "Ergraute Stiefel",
     "Grizzly Gloves": "Grizzly-Handschuhe",
@@ -25167,7 +25278,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795296348,
+  "saved_at": 1795297147,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
