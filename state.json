@@ -3252,11 +3252,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/181/6286517-avatar.jpg",
       "best_item": {
-        "id": 275010,
-        "ilvl": 47,
-        "name": "Strongly Scented Hood",
-        "quality": "RARE",
-        "slot": "Head"
+        "id": 11122,
+        "ilvl": 50,
+        "name": "Carrot on a Stick",
+        "quality": "UNCOMMON",
+        "slot": "Trinket 1"
       },
       "boss_kills": {
         "1092": {
@@ -3268,6 +3268,11 @@
           "boss": "Scarlet Commander Mograine",
           "count": 4,
           "instance": "Scarlet Monastery"
+        },
+        "1094": {
+          "boss": "Chief Ukorz Sandscalp",
+          "count": 1,
+          "instance": "Zul'Farrak"
         },
         "15028": {
           "boss": "Mutanus the Devourer",
@@ -3324,6 +3329,10 @@
           "name": "Purified Ring",
           "quality": "RARE"
         },
+        "270099": {
+          "name": "Magister Cowl",
+          "quality": "RARE"
+        },
         "271210": {
           "name": "Tuskwrap Belt",
           "quality": "RARE"
@@ -3365,15 +3374,16 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 36,
+      "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795292062000,
-      "level": 46,
+      "last_login": 1795300298000,
+      "level": 47,
       "level_at": {
         "42": 1794866470,
         "43": 1795032935,
         "45": 1795127142,
-        "46": 1795210769
+        "46": 1795210769,
+        "47": 1795300796
       },
       "professions": {
         "Cooking": 225,
@@ -3728,6 +3738,10 @@
             "name": "Green Woolen Vest"
           },
           {
+            "id": 55503,
+            "name": "Golden Cord"
+          },
+          {
             "id": 2391,
             "name": "Spidersilk Boots"
           },
@@ -3863,12 +3877,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5821,
+          "raw": 6158,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7967,
+          "raw": 8117,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3878,17 +3892,17 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 900,
           "tier": 3
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4558,
+          "raw": 4895,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4845,
+          "raw": 5520,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3903,27 +3917,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9681,
+          "raw": 9718,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5550,
+          "raw": 5888,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5923,
+          "raw": 6260,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7495,
+          "raw": 7532,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19913,
+          "raw": 19951,
           "tier": 5
         }
       },
@@ -3931,17 +3945,17 @@
       "stats": {
         "critters": 99,
         "deaths": 13,
-        "drinks": 80,
-        "flights": 93,
-        "food": 87,
+        "drinks": 84,
+        "flights": 94,
+        "food": 88,
         "health_potions": 30,
-        "hearths": 42,
-        "killing_blows": 5021,
+        "hearths": 43,
+        "killing_blows": 5128,
         "mana_potions": 2,
-        "mobs": 7782,
-        "quests": 462
+        "mobs": 8067,
+        "quests": 469
       },
-      "xp": 66185
+      "xp": 36553
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -8995,21 +9009,22 @@
       },
       "ilvl": 21,
       "last_explored": "Thousand Needles",
-      "last_login": 1795284713000,
-      "level": 31,
+      "last_login": 1795300555000,
+      "level": 32,
       "level_at": {
         "27": 1794866470,
         "28": 1794950735,
         "29": 1795025807,
         "30": 1795112290,
-        "31": 1795254887
+        "31": 1795254887,
+        "32": 1795300796
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 20,
         "Fishing": 175,
         "Leatherworking": 151,
-        "Skinning": 232
+        "Skinning": 236
       },
       "race": "Tauren",
       "raids": {},
@@ -9439,7 +9454,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6166,
+          "raw": 6247,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9464,7 +9479,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8255,
+          "raw": 8336,
           "tier": 4
         },
         "Powderfuse": {
@@ -9479,12 +9494,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13845,
+          "raw": 13926,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4991,
+          "raw": 5316,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -9496,19 +9511,19 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 46,
-        "deaths": 38,
-        "drinks": 55,
+        "deaths": 39,
+        "drinks": 56,
         "flights": 47,
-        "food": 141,
-        "health_potions": 25,
+        "food": 144,
+        "health_potions": 26,
         "hearths": 27,
         "honorable_kills": 68,
-        "killing_blows": 1930,
+        "killing_blows": 1943,
         "mana_potions": 1,
-        "mobs": 2508,
-        "quests": 239
+        "mobs": 2521,
+        "quests": 242
       },
-      "xp": 44789
+      "xp": 5190
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -22927,6 +22942,22 @@
   },
   "daily_digest": {
     "items": {
+      "eu:blut-leiche": {
+        "c": {
+          "name": "Blut",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Leiche"
+        },
+        "lines": [
+          "Gegenstandsstufe **40**",
+          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 47
+        }
+      },
       "eu:kamah-suhtrah": {
         "c": {
           "name": "Kamah",
@@ -23774,6 +23805,7 @@
     "Mage Portals taken": "Benutzte Magierportale",
     "Mage portal taken most": "Am häufigsten benutztes Magierportal",
     "Magefist Gloves": "Handschuhe der Magiekraft",
+    "Magister Cowl": "Magistergugel",
     "Magram Clan Centaur": "Magramklan",
     "Mail": "Schwere Rüstung",
     "Main Hand": "Waffenhand",
@@ -25370,7 +25402,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795299899,
+  "saved_at": 1795300797,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
