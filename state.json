@@ -1144,7 +1144,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795203842000,
+      "last_login": 1795256712000,
       "level": 27,
       "level_at": {
         "23": 1794866470,
@@ -1162,16 +1162,16 @@
       "recipes": {
         "Alchemy": [
           {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
+          },
+          {
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
             "id": 1814,
             "name": "Elixir of Wisdom"
-          },
-          {
-            "id": 1819,
-            "name": "Lesser Troll's Blood Elixir"
-          },
-          {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
           },
           {
             "id": 1378,
@@ -1182,6 +1182,14 @@
             "name": "Minor Mana Potion"
           },
           {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
+          },
+          {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
           },
@@ -1190,36 +1198,28 @@
             "name": "Elixir of Minor Fortitude"
           },
           {
-            "id": 4393,
-            "name": "Blackmouth Oil"
-          },
-          {
-            "id": 4395,
-            "name": "Swim Speed Potion"
-          },
-          {
-            "id": 4178,
-            "name": "Elixir of Minor Defense"
-          },
-          {
-            "id": 52646,
-            "name": "Mana Well"
-          },
-          {
-            "id": 54453,
-            "name": "Cerulean Dye"
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
           },
           {
             "id": 54456,
             "name": "Sulfuric Acid"
           },
           {
-            "id": 54210,
-            "name": "Minor Arcane Elixir"
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
           },
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           }
         ],
         "Fishing": [
@@ -1305,7 +1305,7 @@
         "critters": 32,
         "deaths": 17,
         "drinks": 17,
-        "flights": 46,
+        "flights": 47,
         "food": 6,
         "health_potions": 5,
         "hearths": 21,
@@ -23955,7 +23955,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795256712,
+  "saved_at": 1795257602,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
