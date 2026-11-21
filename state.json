@@ -4632,7 +4632,7 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795270871000,
+      "last_login": 1795274180000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5327,16 +5327,16 @@
         "critters": 35,
         "deaths": 46,
         "drinks": 76,
-        "flights": 70,
+        "flights": 72,
         "food": 87,
         "health_potions": 13,
         "hearths": 59,
-        "killing_blows": 851,
+        "killing_blows": 853,
         "mana_potions": 30,
-        "mobs": 2896,
+        "mobs": 2898,
         "quests": 148
       },
-      "xp": 5478
+      "xp": 6118
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -16868,9 +16868,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795195573000,
+      "last_login": 1795274494000,
       "level": 29,
       "level_at": {
         "25": 1794866470,
@@ -16883,47 +16883,39 @@
         "Alchemy": 186,
         "Cooking": 122,
         "Fishing": 75,
-        "Herbalism": 168
+        "Herbalism": 170
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
         "Alchemy": [
           {
-            "id": 1814,
-            "name": "Elixir of Wisdom"
+            "id": 54454,
+            "name": "Magenta Dye"
           },
           {
-            "id": 1816,
-            "name": "Lesser Mana Potion"
+            "id": 54663,
+            "name": "Frenzy Potion"
           },
           {
-            "id": 1819,
-            "name": "Lesser Troll's Blood Elixir"
-          },
-          {
-            "id": 1820,
-            "name": "Elixir of Lesser Defense"
-          },
-          {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
-          },
-          {
-            "id": 1931,
-            "name": "Lesser Invisibility Potion"
-          },
-          {
-            "id": 1932,
-            "name": "Shadow Oil"
+            "id": 54211,
+            "name": "Elixir of Minor Force"
           },
           {
             "id": 1933,
             "name": "Elixir of Lesser Fortitude"
           },
           {
-            "id": 1935,
-            "name": "Mana Potion"
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
+            "id": 5997,
+            "name": "Elixir of Agility"
+          },
+          {
+            "id": 1814,
+            "name": "Elixir of Wisdom"
           },
           {
             "id": 1378,
@@ -16934,165 +16926,173 @@
             "name": "Minor Mana Potion"
           },
           {
-            "id": 1380,
-            "name": "Minor Rejuvenation Potion"
-          },
-          {
-            "id": 1382,
-            "name": "Elixir of Minor Fortitude"
-          },
-          {
-            "id": 5997,
-            "name": "Elixir of Agility"
-          },
-          {
-            "id": 4393,
-            "name": "Blackmouth Oil"
-          },
-          {
-            "id": 4394,
-            "name": "Fire Oil"
-          },
-          {
-            "id": 4395,
-            "name": "Swim Speed Potion"
-          },
-          {
-            "id": 4396,
-            "name": "Elixir of Fire Power"
-          },
-          {
-            "id": 4007,
-            "name": "Rage Potion"
-          },
-          {
-            "id": 4176,
-            "name": "Draught of Water Breathing"
+            "id": 1816,
+            "name": "Lesser Mana Potion"
           },
           {
             "id": 4178,
             "name": "Elixir of Minor Defense"
           },
           {
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
+          },
+          {
+            "id": 1380,
+            "name": "Minor Rejuvenation Potion"
+          },
+          {
             "id": 4211,
             "name": "Holy Protection Potion"
           },
           {
-            "id": 52646,
-            "name": "Mana Well"
+            "id": 4007,
+            "name": "Rage Potion"
           },
           {
-            "id": 54453,
-            "name": "Cerulean Dye"
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
           },
           {
-            "id": 54454,
-            "name": "Magenta Dye"
+            "id": 1931,
+            "name": "Lesser Invisibility Potion"
           },
           {
-            "id": 54456,
-            "name": "Sulfuric Acid"
+            "id": 4396,
+            "name": "Elixir of Fire Power"
           },
           {
-            "id": 54663,
-            "name": "Frenzy Potion"
+            "id": 1382,
+            "name": "Elixir of Minor Fortitude"
           },
           {
             "id": 54210,
             "name": "Minor Arcane Elixir"
           },
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
+            "id": 54456,
+            "name": "Sulfuric Acid"
+          },
+          {
+            "id": 4394,
+            "name": "Fire Oil"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 4176,
+            "name": "Draught of Water Breathing"
+          },
+          {
+            "id": 1932,
+            "name": "Shadow Oil"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 1935,
+            "name": "Mana Potion"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           }
         ],
         "Cooking": [
           {
-            "id": 13344,
-            "name": "Smoked Sagefish"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 1543,
-            "name": "Crab Cake"
-          },
-          {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
-            "id": 3930,
-            "name": "Strider Stew"
+            "id": 4786,
+            "name": "Herb Baked Egg"
           },
           {
             "id": 3931,
             "name": "Dig Rat Stew"
           },
           {
-            "id": 3932,
-            "name": "Crispy Lizard Tail"
+            "id": 1543,
+            "name": "Crab Cake"
           },
           {
-            "id": 4355,
-            "name": "Longjaw Mud Snapper"
+            "id": 52640,
+            "name": "Basic Campfire"
           },
           {
             "id": 4359,
             "name": "Bristle Whisker Catfish"
           },
           {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
             "id": 4391,
             "name": "Rainbow Fin Albacore"
           },
           {
+            "id": 3932,
+            "name": "Crispy Lizard Tail"
+          },
+          {
+            "id": 3930,
+            "name": "Strider Stew"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
             "id": 3964,
             "name": "Boiled Clams"
-          },
-          {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
           }
         ],
         "Fishing": [
           {
-            "id": 4345,
-            "name": "Fishing"
-          },
-          {
             "id": 52639,
             "name": "Fish Bowl"
+          },
+          {
+            "id": 4345,
+            "name": "Fishing"
           }
         ],
         "Herbalism": [
+          {
+            "id": 54116,
+            "name": "Herbalism"
+          },
           {
             "id": 1419,
             "name": "Herbalism"
           },
           {
             "id": 2041,
-            "name": "Herbalism"
-          },
-          {
-            "id": 54116,
             "name": "Herbalism"
           },
           {
@@ -17114,7 +17114,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6557,
+          "raw": 6607,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -17139,7 +17139,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8470,
+          "raw": 8520,
           "tier": 4
         },
         "Powderfuse": {
@@ -17154,29 +17154,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12931,
+          "raw": 13181,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3676,
+          "raw": 3726,
           "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
         "critters": 19,
-        "deaths": 22,
-        "drinks": 13,
-        "flights": 45,
-        "food": 30,
+        "deaths": 23,
+        "drinks": 14,
+        "flights": 47,
+        "food": 32,
         "health_potions": 6,
-        "hearths": 27,
-        "killing_blows": 1276,
-        "mobs": 2255,
-        "quests": 209
+        "hearths": 28,
+        "killing_blows": 1311,
+        "mobs": 2311,
+        "quests": 214
       },
-      "xp": 6749
+      "xp": 27121
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -23697,7 +23697,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 38,
+        "level": 39,
         "name": "Thalia",
         "rank": 4,
         "region": "eu",
@@ -23724,7 +23724,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Alto",
         "rank": 3,
         "region": "eu",
@@ -23751,7 +23751,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 46,
+        "level": 47,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -23769,7 +23769,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Khaladin",
         "rank": 3,
         "region": "eu",
@@ -23868,7 +23868,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Thalgrim",
         "rank": 3,
         "region": "eu",
@@ -24084,7 +24084,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 36,
+        "level": 37,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -24194,7 +24194,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795273987,
+  "saved_at": 1795274705,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
