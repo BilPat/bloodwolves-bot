@@ -15105,7 +15105,7 @@
       "gear": {},
       "ilvl": 6,
       "last_explored": "Durotar",
-      "last_login": 1795256523000,
+      "last_login": 1795262346000,
       "level": 17,
       "level_at": {
         "15": 1794866470,
@@ -15116,7 +15116,7 @@
         "Cooking": 1,
         "First Aid": 38,
         "Leatherworking": 39,
-        "Skinning": 83
+        "Skinning": 95
       },
       "race": "Orc",
       "raids": {},
@@ -15262,15 +15262,15 @@
         "critters": 28,
         "deaths": 5,
         "drinks": 8,
-        "flights": 8,
+        "flights": 9,
         "food": 4,
         "health_potions": 5,
         "hearths": 5,
-        "killing_blows": 634,
-        "mobs": 657,
+        "killing_blows": 652,
+        "mobs": 676,
         "quests": 90
       },
-      "xp": 2271
+      "xp": 4686
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -24026,7 +24026,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795262041,
+  "saved_at": 1795263566,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
