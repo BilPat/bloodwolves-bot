@@ -23040,16 +23040,7 @@
       },
       "raid": {}
     },
-    "firsts_pending": {
-      "boss|Blazeroar (Alcaz Prison)": {
-        "keys": [
-          "eu:baumora-axiom"
-        ],
-        "kind": "boss",
-        "since": 1795202759,
-        "what": "Blazeroar (Alcaz Prison)"
-      }
-    },
+    "firsts_pending": {},
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -23942,7 +23933,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795247694,
+  "saved_at": 1795249057,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
