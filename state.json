@@ -5346,13 +5346,14 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795282312000,
-      "level": 25,
+      "last_login": 1795301910000,
+      "level": 26,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
         "24": 1795095633,
-        "25": 1795125256
+        "25": 1795125256,
+        "26": 1795302767
       },
       "professions": {
         "Cooking": 225,
@@ -5987,12 +5988,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1272,
+          "raw": 1322,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3647,
+          "raw": 3766,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6002,37 +6003,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1272,
+          "raw": 1322,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1272,
+          "raw": 1322,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4341,
+          "raw": 4460,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1272,
+          "raw": 1322,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2445,
+          "raw": 2545,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 1835,
+          "raw": 2310,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11918,
+          "raw": 12037,
           "tier": 5
         }
       },
@@ -6040,17 +6041,17 @@
       "stats": {
         "critters": 35,
         "deaths": 46,
-        "drinks": 76,
+        "drinks": 88,
         "flights": 73,
-        "food": 88,
-        "health_potions": 13,
+        "food": 98,
+        "health_potions": 14,
         "hearths": 59,
-        "killing_blows": 859,
-        "mana_potions": 30,
-        "mobs": 2904,
-        "quests": 153
+        "killing_blows": 971,
+        "mana_potions": 31,
+        "mobs": 3056,
+        "quests": 162
       },
-      "xp": 18952
+      "xp": 19557
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -6077,7 +6078,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795270934000,
+      "last_login": 1795302418000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -25555,7 +25556,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795301668,
+  "saved_at": 1795302772,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
