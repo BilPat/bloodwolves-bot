@@ -12615,6 +12615,11 @@
           "count": 2,
           "instance": "Uldaman"
         },
+        "6143": {
+          "boss": "Princess Theradras",
+          "count": 1,
+          "instance": "Maraudon"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -12649,6 +12654,14 @@
           "name": "Archaedic Stone of the Falcon",
           "quality": "RARE"
         },
+        "17749": {
+          "name": "Phytoskin Spaulders",
+          "quality": "RARE"
+        },
+        "19159": {
+          "name": "Woven Ivy Necklace",
+          "quality": "RARE"
+        },
         "19508": {
           "name": "Branded Leather Bracers",
           "quality": "RARE"
@@ -12678,22 +12691,23 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 47,
+      "ilvl": 50,
       "last_explored": "Un'Goro Crater",
-      "last_login": 1795273029000,
-      "level": 50,
+      "last_login": 1795297250000,
+      "level": 52,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
         "47": 1795012854,
         "49": 1795048587,
-        "50": 1795259608
+        "50": 1795259608,
+        "52": 1795298123
       },
       "professions": {
         "Alchemy": 243,
         "Cooking": 300,
-        "First Aid": 236,
-        "Fishing": 159,
+        "First Aid": 243,
+        "Fishing": 165,
         "Herbalism": 300
       },
       "race": "Tauren",
@@ -12791,6 +12805,10 @@
           {
             "id": 6000,
             "name": "Greater Mana Potion"
+          },
+          {
+            "id": 4004,
+            "name": "Free Action Potion"
           },
           {
             "id": 6006,
@@ -13105,6 +13123,10 @@
             "name": "Simple Poultice"
           },
           {
+            "id": 5768,
+            "name": "Heavy Mageweave Bandage"
+          },
+          {
             "id": 1838,
             "name": "Linen Bandage"
           },
@@ -13168,13 +13190,13 @@
           "tier": 4
         },
         "Cenarion Circle": {
-          "name": "Neutral",
-          "raw": 2960,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3260,
+          "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12865,
+          "raw": 13027,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -13184,7 +13206,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1900,
+          "raw": 2200,
           "tier": 3
         },
         "Everlook": {
@@ -13199,7 +13221,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 15253,
+          "raw": 15453,
           "tier": 5
         },
         "Powderfuse": {
@@ -13213,32 +13235,37 @@
           "tier": 4
         },
         "Thunder Bluff": {
-          "name": "Honored",
-          "raw": 20600,
-          "tier": 5
+          "name": "Revered",
+          "raw": 21062,
+          "tier": 6
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13560,
+          "raw": 14022,
           "tier": 5
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 101,
-        "deaths": 41,
-        "drinks": 160,
-        "flights": 208,
-        "food": 229,
+        "critters": 115,
+        "deaths": 43,
+        "drinks": 181,
+        "flights": 216,
+        "food": 241,
         "health_potions": 79,
-        "hearths": 48,
+        "hearths": 50,
         "honorable_kills": 1,
-        "killing_blows": 4476,
-        "mana_potions": 6,
-        "mobs": 7935,
-        "quests": 640
+        "killing_blows": 4683,
+        "mana_potions": 8,
+        "mobs": 8579,
+        "quests": 663
       },
-      "xp": 102172
+      "xp": 42278
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -22901,6 +22928,23 @@
           "level": 30
         }
       },
+      "eu:krakmor-ci%C3%B3rdan": {
+        "c": {
+          "name": "Krakmor",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Ciórdan"
+        },
+        "lines": [
+          "Gegenstandsstufe **50**",
+          "🗝️ **[Maraudon](https://www.wowhead.com/forever/de/search?q=Maraudon)** zum ersten Mal abgeschlossen",
+          "🤝 **Respektvoll** bei Donnerfels"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 52
+        }
+      },
       "eu:maniac-menacepuppy": {
         "c": {
           "name": "Maniac",
@@ -22988,6 +23032,7 @@
     "Attack Power Vs Humanoids": "Angriffskraft gegen Humanoide",
     "Attack Power Vs Undead": "Angriffskraft gegen Untote",
     "Aurora Bracers": "Auroraarmschienen",
+    "Authority": "Autorität",
     "Average quests completed per day": "Durchschnittlich abgeschlossene Quests pro Tag",
     "Axe": "Axt",
     "Axe of Orgrimmar": "Axt von Orgrimmar",
@@ -23210,6 +23255,7 @@
     "Crescent Staff": "Mondsichelstab",
     "Criminal's Pauldrons": "Schulterstücke des Verbrechers",
     "Critical Mass": "Kritische Masse",
+    "Critical Strike": "Kritischer Trefferwert",
     "Critters killed": "Kleintiere getötet",
     "Crossbow": "Armbrust",
     "Cruelty": "Grausamkeit",
@@ -23437,6 +23483,7 @@
     "Footpads of the Fang": "Fußpolster des Giftzahns",
     "Forceful Medium Armor Kit": "Kraftvolles mittleres Rüstungsset",
     "Forest Leather Gloves": "Waldlederhandschuhe",
+    "Forest Troll Leggings": "Waldtrollgamaschen",
     "Forsaken Dagger": "Dolch der Verlassenen",
     "Forsaken Greataxe": "Großaxt des Verlassenen",
     "Forsaken Weapons": "Waffen der Verlassenen",
@@ -23539,6 +23586,7 @@
     "Heavy Woolen Gloves": "Schwere Wollhandschuhe",
     "Heavy Woolen Pants": "Schwere Wollhose",
     "Held In Off-hand": "In Schildhand geführt",
+    "Heraldic Belt": "Heraldischer Gürtel",
     "Herbalism Skill": "Kräuterkundefertigkeit",
     "Hidden Belt": "Versteckter Gürtel",
     "Hidden Boots": "Versteckte Stiefel",
@@ -23630,6 +23678,7 @@
     "Items disenchanted": "Entzauberte Gegenstände",
     "Ivy Cuffs": "Efeu-Manschetten",
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
+    "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Jumanza Grips": "Jumanza Handschutz",
     "Jungle Boots": "Dschungel-Stiefel",
@@ -23734,6 +23783,7 @@
     "Most Alliance factions at Exalted": "Meiste Allianzfraktionen auf Ehrfürchtig",
     "Most Horde factions at Exalted": "Meiste Hordefraktionen auf Ehrfürchtig",
     "Most factions at Honored or higher": "Höchste Anzahl Fraktionen auf Wohlwollend oder höher",
+    "Most factions at Revered or higher": "Höchste Anzahl Fraktionen auf Respektvoll oder höher",
     "Mount Speed": "Reittiertempo",
     "Mounts owned": "Reittiere besessen",
     "Mutant Scale Breastplate": "Mutantenschuppenbrustplatte",
@@ -23799,6 +23849,7 @@
     "Pathfinding": "Orientierung",
     "Patterned Bronze Bracers": "Gemusterte bronzene Armschienen",
     "Physical": "Körperlich",
+    "Phytoskin Spaulders": "Phytohaut-Schiftung",
     "Pioneer Boots": "Pionierstiefel",
     "Pioneer Bracers": "Pionierarmschienen",
     "Pioneer Gloves": "Pionierhandschuhe",
@@ -23890,6 +23941,7 @@
     "Reticulated Bone Gauntlets": "Genetzte Knochenstulpen",
     "Retribution": "Vergeltung",
     "Revelosh's Spaulders of the Eagle": "Reveloshs Schiftung des Adlers",
+    "Revered": "Respektvoll",
     "Reverence": "Andacht",
     "Revived by druids": "Von Druiden wiederbelebt",
     "Ribbed Breastplate": "Rippenbrustplatte",
@@ -23924,6 +23976,7 @@
     "Rugged Mail Vest": "Unverwüstliche Panzerweste",
     "Rugged Trapper's Shirt": "Unverwüstliches Fallenstellerhemd",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
+    "Rune of the Guard Captain": "Rune des Wachbefehlshabers",
     "Runed Copper Belt": "Runenverzierter Kupfergürtel",
     "Runed Copper Bracers": "Runenverzierte Kupferarmschienen",
     "Runed Copper Breastplate": "Runenverzierte Kupferbrustplatte",
@@ -24069,12 +24122,14 @@
     "Spirit returned to body by shamans": "Wiederbelebungen durch Schamanen",
     "Spiritual Focus": "Spiritueller Fokus",
     "Sporid Cape": "Sporen-Cape",
+    "Sprightring Helm": "Rüstringhelm",
     "Staff": "Stab",
     "Staff of Orgrimmar": "Stab von Orgrimmar",
     "Staff of Westfall": "Stab von Westfall",
     "Stamina": "Ausdauer",
     "Stamped Trousers": "Bedruckte Beinkleider",
     "Stinging Viper": "Stechviper",
+    "Stolen Power": "Gestohlene Kraft",
     "Stomping Boots": "Stampfer-Stiefel",
     "Stonecloth Bindings": "Steinstoffbindungen",
     "Stonefist Girdle": "Steinfaustgurt",
@@ -24286,6 +24341,7 @@
     "Worn Leather Bracers": "Abgenutzte Lederarmschienen",
     "Worn Leather Vest": "Abgenutzte Lederweste",
     "Wound": "Wunde",
+    "Woven Ivy Necklace": "Gewobene Efeuhalskette",
     "Wrack": "Zermürben",
     "Wrangler's Leggings of the Tiger": "Zänkergamaschen des Tigers",
     "Wrist": "Handgelenke",
@@ -25278,7 +25334,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795297147,
+  "saved_at": 1795298124,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
