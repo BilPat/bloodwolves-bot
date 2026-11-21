@@ -23445,6 +23445,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 38,
+        "name": "Thalia",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Mondrabe"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 49,
         "name": "Krakmor",
         "rank": 3,
@@ -23490,7 +23499,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 45,
+        "level": 46,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -23661,7 +23670,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Elric",
         "rank": 3,
         "region": "eu",
@@ -23796,7 +23805,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 31,
         "name": "Lazy",
         "rank": 3,
         "region": "eu",
@@ -23927,22 +23936,13 @@
         "rank": 1,
         "region": "eu",
         "surname": "Frostmage"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 38,
-        "name": "Thalia",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Mondrabe"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795245284,
+  "saved_at": 1795245948,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
