@@ -696,6 +696,519 @@
       },
       "xp": 3281
     },
+    "eu:anna-graufuss": {
+      "achievements": {
+        "62006": "Novice Shaman",
+        "728": "Explore Durotar"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/215/7847127-avatar.jpg",
+      "best_item": {
+        "id": 5356,
+        "ilvl": 27,
+        "name": "Branding Rod",
+        "quality": "UNCOMMON",
+        "slot": "Ranged"
+      },
+      "boss_kills": {
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        }
+      },
+      "class": "Priest",
+      "dungeons": {},
+      "first_seen": 1795289063,
+      "gear": {
+        "6465": {
+          "name": "Robe of the Moccasin",
+          "quality": "RARE"
+        },
+        "6505": {
+          "name": "Crescent Staff",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 17,
+      "last_explored": "Durotar",
+      "last_login": 1795267370000,
+      "level": 24,
+      "level_at": {
+        "24": 1795289063
+      },
+      "professions": {
+        "Cooking": 32,
+        "Enchanting": 130,
+        "First Aid": 83,
+        "Fishing": 1,
+        "Tailoring": 110
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 8616,
+            "name": "Crispy Bat Wing"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          }
+        ],
+        "Enchanting": [
+          {
+            "id": 4401,
+            "name": "Enchant Cloak - Lesser Fire Resistance"
+          },
+          {
+            "id": 4368,
+            "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 7422,
+            "name": "Enchant Shield - Lesser Spirit"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
+          },
+          {
+            "id": 7316,
+            "name": "Disenchant"
+          },
+          {
+            "id": 7425,
+            "name": "Enchant Bracer - Lesser Stamina"
+          },
+          {
+            "id": 4289,
+            "name": "Enchant Bracer - Inferior Stamina"
+          },
+          {
+            "id": 4291,
+            "name": "Runed Copper Rod"
+          },
+          {
+            "id": 7377,
+            "name": "Enchant Cloak - Lesser Protection"
+          },
+          {
+            "id": 7356,
+            "name": "Enchant Shield - Minor Stamina"
+          },
+          {
+            "id": 4297,
+            "name": "Enchant Chest - Minor Intellect"
+          },
+          {
+            "id": 8000,
+            "name": "Greater Magic Wand"
+          },
+          {
+            "id": 4300,
+            "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 4370,
+            "name": "Runed Silver Rod"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          },
+          {
+            "id": 4399,
+            "name": "Enchant Chest - Stamina"
+          },
+          {
+            "id": 4301,
+            "name": "Enchant Bracer - Minor Stamina"
+          },
+          {
+            "id": 4364,
+            "name": "Enchant Bracer - Minor Agility"
+          },
+          {
+            "id": 4402,
+            "name": "Enchant Boots - Minor Stamina"
+          },
+          {
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 4362,
+            "name": "Enchant Cloak - Minor Protection"
+          },
+          {
+            "id": 4367,
+            "name": "Enchant Weapon - Minor Striking"
+          },
+          {
+            "id": 54213,
+            "name": "Dust to Motes"
+          },
+          {
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
+          },
+          {
+            "id": 13137,
+            "name": "Minor Wizard Oil"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ],
+        "Tailoring": [
+          {
+            "id": 2387,
+            "name": "Heavy Woolen Pants"
+          },
+          {
+            "id": 2383,
+            "name": "Soft-soled Linen Boots"
+          },
+          {
+            "id": 3973,
+            "name": "Pearl-clasped Cloak"
+          },
+          {
+            "id": 2386,
+            "name": "Reinforced Woolen Shoulders"
+          },
+          {
+            "id": 2359,
+            "name": "Bolt of Linen Cloth"
+          },
+          {
+            "id": 2408,
+            "name": "Brown Linen Pants"
+          },
+          {
+            "id": 6578,
+            "name": "Simple Kilt"
+          },
+          {
+            "id": 2388,
+            "name": "Phoenix Pants"
+          },
+          {
+            "id": 2376,
+            "name": "Bolt of Silk Cloth"
+          },
+          {
+            "id": 4848,
+            "name": "Linen Belt"
+          },
+          {
+            "id": 2381,
+            "name": "Heavy Woolen Gloves"
+          },
+          {
+            "id": 55423,
+            "name": "Novice Arcanist's Sash"
+          },
+          {
+            "id": 2409,
+            "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 2367,
+            "name": "Reinforced Linen Cape"
+          },
+          {
+            "id": 2363,
+            "name": "Linen Boots"
+          },
+          {
+            "id": 2372,
+            "name": "Green Woolen Vest"
+          },
+          {
+            "id": 2369,
+            "name": "Green Linen Shirt"
+          },
+          {
+            "id": 2391,
+            "name": "Spidersilk Boots"
+          },
+          {
+            "id": 2380,
+            "name": "Handstitched Linen Britches"
+          },
+          {
+            "id": 2360,
+            "name": "Linen Cloak"
+          },
+          {
+            "id": 2373,
+            "name": "Woolen Boots"
+          },
+          {
+            "id": 2370,
+            "name": "Bolt of Woolen Cloth"
+          },
+          {
+            "id": 6577,
+            "name": "Simple Linen Boots"
+          },
+          {
+            "id": 4708,
+            "name": "Simple Dress"
+          },
+          {
+            "id": 4303,
+            "name": "White Linen Robe"
+          },
+          {
+            "id": 4001,
+            "name": "Linen Bag"
+          },
+          {
+            "id": 2365,
+            "name": "White Linen Shirt"
+          },
+          {
+            "id": 2375,
+            "name": "Gray Woolen Shirt"
+          },
+          {
+            "id": 4020,
+            "name": "Red Woolen Bag"
+          },
+          {
+            "id": 2366,
+            "name": "Blue Linen Shirt"
+          },
+          {
+            "id": 4308,
+            "name": "Blue Overalls"
+          },
+          {
+            "id": 55367,
+            "name": "Woolen Reagent Bag"
+          },
+          {
+            "id": 2364,
+            "name": "Red Linen Shirt"
+          },
+          {
+            "id": 4021,
+            "name": "Lesser Wizard's Robe"
+          },
+          {
+            "id": 2379,
+            "name": "Green Linen Bracers"
+          },
+          {
+            "id": 2368,
+            "name": "Barbaric Linen Vest"
+          },
+          {
+            "id": 4709,
+            "name": "White Woolen Dress"
+          },
+          {
+            "id": 2385,
+            "name": "Double-stitched Woolen Shoulders"
+          },
+          {
+            "id": 2389,
+            "name": "Gloves of Meditation"
+          },
+          {
+            "id": 55424,
+            "name": "Novice Ardent's Sash"
+          },
+          {
+            "id": 2384,
+            "name": "Red Woolen Boots"
+          },
+          {
+            "id": 55436,
+            "name": "Filigreed Shining Gown"
+          },
+          {
+            "id": 52648,
+            "name": "Faction Banner"
+          },
+          {
+            "id": 4302,
+            "name": "Brown Linen Robe"
+          },
+          {
+            "id": 2401,
+            "name": "Stylish Red Shirt"
+          },
+          {
+            "id": 2378,
+            "name": "Heavy Linen Gloves"
+          },
+          {
+            "id": 2371,
+            "name": "Woolen Cape"
+          },
+          {
+            "id": 4306,
+            "name": "Blue Linen Robe"
+          },
+          {
+            "id": 4002,
+            "name": "Woolen Bag"
+          },
+          {
+            "id": 2361,
+            "name": "Brown Linen Vest"
+          },
+          {
+            "id": 6576,
+            "name": "Simple Linen Pants"
+          },
+          {
+            "id": 4304,
+            "name": "Blue Linen Vest"
+          },
+          {
+            "id": 55366,
+            "name": "Linen Reagent Bag"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 1050,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 2190,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 4385,
+          "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 2190,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 2190,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 6417,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 2190,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Friendly",
+          "raw": 3880,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3856,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Honored",
+          "raw": 13641,
+          "tier": 5
+        }
+      },
+      "spec": "Discipline",
+      "stats": {
+        "critters": 8,
+        "deaths": 7,
+        "drinks": 61,
+        "flights": 30,
+        "food": 1,
+        "health_potions": 18,
+        "hearths": 10,
+        "killing_blows": 1167,
+        "mana_potions": 1,
+        "mobs": 1895,
+        "quests": 198
+      },
+      "xp": 14915
+    },
     "eu:archibald-white": {
       "achievements": {
         "728": "Explore Durotar"
@@ -4549,6 +5062,178 @@
       },
       "xp": 4968
     },
+    "eu:devastator-vane": {
+      "achievements": {
+        "728": "Explore Durotar"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/14/37527822-avatar.jpg",
+      "best_item": {
+        "id": 1748,
+        "ilvl": 22,
+        "name": "Linked Chain Bracers",
+        "quality": "POOR",
+        "slot": "Wrist"
+      },
+      "boss_kills": {
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        }
+      },
+      "class": "Warrior",
+      "dungeons": {},
+      "first_seen": 1795289063,
+      "gear": {},
+      "ilvl": 8,
+      "last_explored": "Durotar",
+      "last_login": 1795286337000,
+      "level": 18,
+      "level_at": {
+        "18": 1795289063
+      },
+      "professions": {
+        "Blacksmithing": 7,
+        "Cooking": 15,
+        "First Aid": 41,
+        "Mining": 22
+      },
+      "race": "Orc",
+      "raids": {},
+      "recipes": {
+        "Blacksmithing": [
+          {
+            "id": 1798,
+            "name": "Rough Weightstone"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 54212,
+            "name": "Copper Rod"
+          }
+        ],
+        "Cooking": [
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 1569,
+            "name": "Mining"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          }
+        ]
+      },
+      "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 1628,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 7861,
+          "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 1628,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 1628,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Honored",
+          "raw": 9898,
+          "tier": 5
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 1628,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Friendly",
+          "raw": 3156,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3822,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 1091,
+          "tier": 3
+        }
+      },
+      "spec": "Protection",
+      "stats": {
+        "critters": 14,
+        "deaths": 8,
+        "flights": 7,
+        "food": 6,
+        "health_potions": 3,
+        "killing_blows": 670,
+        "mobs": 1166,
+        "quests": 93
+      },
+      "xp": 10900
+    },
     "eu:efrye-frostheal": {
       "achievements": {
         "62000": "Novice Priest",
@@ -6818,6 +7503,175 @@
         "quests": 91
       },
       "xp": 3150
+    },
+    "eu:finn-graufuss": {
+      "achievements": {
+        "62006": "Novice Shaman",
+        "728": "Explore Durotar"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/48/117476144-avatar.jpg",
+      "best_item": {
+        "id": 11287,
+        "ilvl": 15,
+        "name": "Lesser Magic Wand",
+        "quality": "UNCOMMON",
+        "slot": "Ranged"
+      },
+      "boss_kills": {},
+      "class": "Warlock",
+      "dungeons": {},
+      "first_seen": 1795289063,
+      "gear": {},
+      "ilvl": 3,
+      "last_explored": "Durotar",
+      "last_login": 1795284467000,
+      "level": 12,
+      "level_at": {
+        "12": 1795289063
+      },
+      "professions": {
+        "Alchemy": 6,
+        "Cooking": 97,
+        "First Aid": 38,
+        "Fishing": 106,
+        "Herbalism": 32
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Alchemy": [
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
+          },
+          {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
+          }
+        ],
+        "Cooking": [
+          {
+            "id": 8616,
+            "name": "Crispy Bat Wing"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4345,
+            "name": "Fishing"
+          }
+        ],
+        "Herbalism": [
+          {
+            "id": 54114,
+            "name": "Herbalism"
+          },
+          {
+            "id": 56960,
+            "name": "Herbalism"
+          },
+          {
+            "id": 52642,
+            "name": "Incense Candle"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 650,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Neutral",
+          "raw": 2056,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Neutral",
+          "raw": 2056,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 556,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 7525,
+          "tier": 4
+        }
+      },
+      "spec": "Affliction",
+      "stats": {
+        "drinks": 1,
+        "food": 1,
+        "health_potions": 2,
+        "hearths": 1,
+        "killing_blows": 294,
+        "mobs": 341,
+        "quests": 52
+      },
+      "xp": 226
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -19557,7 +20411,7 @@
       },
       "ilvl": 23,
       "last_explored": "Wetlands",
-      "last_login": 1795223751000,
+      "last_login": 1795288383000,
       "level": 29,
       "level_at": {
         "29": 1795218860
@@ -19565,50 +20419,54 @@
       "professions": {
         "Cooking": 29,
         "Herbalism": 213,
-        "Skinning": 212
+        "Skinning": 215
       },
       "race": "High Order Skyborne",
       "raids": {},
       "recipes": {
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
           },
           {
             "id": 54504,
             "name": "Tasty Raptor Bites"
           },
           {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
             "id": 56881,
             "name": "Skywall Souffle"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
           }
         ],
         "Herbalism": [
+          {
+            "id": 54116,
+            "name": "Herbalism"
+          },
           {
             "id": 1419,
             "name": "Herbalism"
@@ -19618,22 +20476,18 @@
             "name": "Herbalism"
           },
           {
-            "id": 54116,
-            "name": "Herbalism"
-          },
-          {
             "id": 52642,
             "name": "Incense Candle"
           }
         ],
         "Skinning": [
           {
-            "id": 4768,
-            "name": "Skinning"
-          },
-          {
             "id": 52644,
             "name": "Camp Chair"
+          },
+          {
+            "id": 4768,
+            "name": "Skinning"
           }
         ]
       },
@@ -19646,11 +20500,6 @@
         "Azeroth Commerce Authority": {
           "name": "Neutral",
           "raw": 2000,
-          "tier": 3
-        },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -19707,18 +20556,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 12,
-        "deaths": 37,
-        "drinks": 5,
+        "deaths": 42,
+        "drinks": 9,
         "flights": 36,
-        "food": 8,
-        "health_potions": 18,
-        "hearths": 24,
-        "killing_blows": 1390,
+        "food": 10,
+        "health_potions": 20,
+        "hearths": 26,
+        "killing_blows": 1428,
         "mana_potions": 3,
-        "mobs": 2046,
+        "mobs": 2123,
         "quests": 261
       },
-      "xp": 20050
+      "xp": 29838
     },
     "us:devil-latterday": {
       "achievements": {
@@ -22291,6 +23140,8 @@
     "Bloodmaster's Ring": "Blutmeisterring",
     "Bloodsail Buccaneers": "Blutsegelbukaniere",
     "Bloodspattered Gloves of Magic": "Blutbespritzte Handschuhe der Magie",
+    "Bloodspattered Gloves of the Boar": "Blutbespritzte Handschuhe des Ebers",
+    "Bloodspattered Shield of Nature Protection": "Blutbespritzter Schild des Naturschutzes",
     "Bloodspiller": "Blutvergießer",
     "Bloodspine Staff": "Blutstachelstab",
     "Bloodsport Band": "Blutsportring",
@@ -22312,6 +23163,7 @@
     "Bow of Plunder": "Plünderbogen",
     "Brackwater Vest": "Brackwasserweste",
     "Branded Leather Bracers": "Gebrandmarkte Lederarmschienen",
+    "Branding Rod": "Brandzeichenrute",
     "Brass Scale Pants": "Messingschuppenhose",
     "Bravo's Armbands": "Bravos Armbänder",
     "Brawler Gloves": "Muskelprotzhandschuhe",
@@ -22480,6 +23332,8 @@
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
     "Direhammer Leggings": "Düsterhammergamaschen",
+    "Disciple's Gloves": "Jüngerhandschuhe",
+    "Discipline": "Disziplin",
     "Divine Fury": "Göttlicher Furor",
     "Divine Intellect": "Göttliche Weisheit",
     "Divine Strength": "Göttliche Stärke",
@@ -22642,6 +23496,7 @@
     "Forsaken Greataxe": "Großaxt des Verlassenen",
     "Forsaken Weapons": "Waffen der Verlassenen",
     "Foulfur Gloves": "Faulfellhandschuhe",
+    "Frayed Bracers": "Ausgefranste Armschienen",
     "Friendly": "Freundlich",
     "Frost Damage": "Frostschaden",
     "Frost Resistance": "Frostwiderstand",
@@ -22735,6 +23590,7 @@
     "Heavy Throwing Dagger": "Schwerer Wurfdolch",
     "Heavy Weightstone": "Schwerer Gewichtsstein",
     "Heavy Woolen Gloves": "Schwere Wollhandschuhe",
+    "Heavy Woolen Pants": "Schwere Wollhose",
     "Held In Off-hand": "In Schildhand geführt",
     "Herbalism Skill": "Kräuterkundefertigkeit",
     "Hidden Belt": "Versteckter Gürtel",
@@ -22796,6 +23652,7 @@
     "Improved Judgement": "Verbessertes Richturteil",
     "Improved Lightning Shield": "Verbesserter Blitzschlagschild",
     "Improved Pick Pocket and Distract 01": "Verbesserter Taschendiebstahl und Ablenken 01",
+    "Improved Power Word: Shield": "Verbessertes Machtwort: Schild",
     "Improved Rend": "Verbessertes Verwunden",
     "Improved Renew": "Verbesserte Erneuerung",
     "Improved Revenge": "Verbesserte Rache",
@@ -22868,6 +23725,7 @@
     "Lightheel Boots": "Leichtfußstiefel",
     "Lightning Reflexes": "Blitzartige Reflexe",
     "Lil Timmy's Peashooter": "Lil Timmys Blasrohr",
+    "Linked Chain Bracers": "Gekettelte Armschienen",
     "Living Spirit": "Geist des Lebens",
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
@@ -22913,6 +23771,7 @@
     "Mekgineer Thermaplugg kills (Gnomeregan)": "Siege über Robogenieur Thermadraht (Gnomeregan)",
     "Mental Dexterity": "Geistige Gewandtheit",
     "Mental Quickness": "Geistige Schnelligkeit",
+    "Mental Strength": "Mentale Stärke",
     "Mercenary Leggings": "Söldnergamaschen",
     "Minor Mana Oil": "Schwaches Manaöl",
     "Minor Wizard Oil": "Schwaches Zauberöl",
@@ -22985,6 +23844,7 @@
     "Patched Leather Gloves": "Geflickte Lederhandschuhe",
     "Patched Leather Shoulderpads": "Geflickte Lederschulterstücke",
     "Patchwing Pants": "Flickenflügelhose",
+    "Patchwork Armor": "Flickwerkrüstung",
     "Patchwork Belt": "Flickwerkgürtel",
     "Patchwork Gloves": "Flickwerkhandschuhe",
     "Patchwork Shoes": "Flickwerkschuhe",
@@ -23043,11 +23903,12 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
     "Raptorclaw Greaves": "Raptorenkrallenbeinschützer",
+    "Raptorscale Pants": "Raptorschuppenhose",
     "Rare": "Rar",
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
     "Rath'mael": "Rath'mael",
@@ -23087,10 +23948,13 @@
     "Rich Purple Silk Shirt": "Dunkellilanes Seidenhemd",
     "Ring 1": "Ring 2",
     "Ring of Iron Will": "Ring des eisernen Willens",
+    "Ring of Scorn": "Ring der Verachtung",
     "Ritual Belt of Stamina": "Ritueller Gürtel der Ausdauer",
+    "Ritual Belt of the Owl": "Ritueller Gürtel der Eule",
     "Riveted Gauntlets": "Nietenstulpen",
     "Roadwatcher's Confidence": "Selbstvertrauen des Wegwächters",
     "Robe of Evocation": "Robe der Hervorrufung",
+    "Robe of the Moccasin": "Robe der Mokassin",
     "Robes of Arugal": "Robe von Arugal",
     "Robes of the Disgraced Thane": "Robe des in Ungnade gefallenen Thans",
     "Rogue": "Schurke",
@@ -23192,6 +24056,7 @@
     "Shield Specialization": "Schild-Spezialisierung",
     "Shifting Power": "Machtverschiebung",
     "Shimmering Boots": "Schimmernde Stiefel",
+    "Shimmering Bracers of the Owl": "Schimmernde Armschienen der Eule",
     "Shimmering Cloak of Fiery Wrath": "Schimmernder Umhang des feurigen Zorns",
     "Shimmering Cloak of the Falcon": "Schimmernder Umhang des Falken",
     "Shining Silver Breastplate": "Leuchtende silberne Brustplatte",
@@ -23317,6 +24182,7 @@
     "Thrice-Stitched Flesh": "Dreifach genähtes Fleisch",
     "Thrown": "Wurfwaffe",
     "Thug Shirt": "Rohlingshemd",
+    "Thun'grim's Axe": "Thun'grims Axt",
     "Thunderbrow Ring": "Ring der Donnerbraue",
     "Thundering Strikes": "Donnernde Stöße",
     "Tiger Hide Boots": "Tigerbalg-Stiefel",
@@ -23363,6 +24229,7 @@
     "Twilight Barrier": "Twilightbarriere",
     "Twilight Focus": "Zwielichtfokus",
     "Twilight Lord Girdle": "Twilightfürstgurt",
+    "Twin Disciplines": "Zwillingsdisziplinen",
     "Two-Hand": "Zweihändig",
     "Two-Handed Weapon Specialization": "Zweihandwaffen-Spezialisierung",
     "Unbridled Wrath": "Entfesselter Zorn",
@@ -23412,6 +24279,7 @@
     "Wand": "Zauberstab",
     "Wand Specialization": "Zauberstab-Spezialisierung",
     "Wand of Decay": "Zauberstab des Verfalls",
+    "War Paint Anklewraps": "Kriegsbemalungsknöchelwickel",
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
     "Ward of the Vale": "Schutzschild des Tales",
@@ -23453,6 +24321,8 @@
     "Wolfmaster Cape": "Wolfmeister Cape",
     "Wolfsbane": "Wolfsbann",
     "Wooden Mallet": "Hölzerner Schlaghammer",
+    "Woolen Boots": "Wollstiefel",
+    "Woolen Cape": "Wollcape",
     "Worgbinder's Treads": "Treter des Worgbinders",
     "Worgenbane": "Worgenbann",
     "Worgenbane Talisman": "Worgenbann-Talisman",
@@ -23561,6 +24431,12 @@
         "3130": "Veteran Adventurer's Loyal Companion"
       }
     },
+    "eu:anna-graufuss": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
     "eu:archibald-white": {
       "mounts": {}
     },
@@ -23606,6 +24482,9 @@
         "3130": "Veteran Adventurer's Loyal Companion"
       }
     },
+    "eu:devastator-vane": {
+      "mounts": {}
+    },
     "eu:efrye-frostheal": {
       "mounts": {}
     },
@@ -23625,6 +24504,12 @@
       }
     },
     "eu:erna-sturmtanz": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
+    "eu:finn-graufuss": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
@@ -23847,6 +24732,7 @@
     "members": {
       "aldric-crowood": "Aldric Crowood",
       "alto-belli": "Alto Belli",
+      "anna-graufuss": "Anna Graufuss",
       "archibald-white": "Archibald White",
       "aru-tai": "Aru Tai",
       "barbariana-hunter": "Barbariana Hunter",
@@ -23857,11 +24743,13 @@
       "boreas-donnerrufer": "Boreas Donnerrufer",
       "christopher-kuhlumbus": "Christopher Kuhlumbus",
       "damien-thoorn": "Damien Thoorn",
+      "devastator-vane": "Devastator Vane",
       "efrye-frostheal": "Efrye Frostheal",
       "efrye-frostmage": "Efrye Frostmage",
       "ellena-lederriemen": "Ellena Lederriemen",
       "elric-wolfsclan": "Elric Wolfsclan",
       "eluna-sia": "Eluna Sia",
+      "finn-graufuss": "Finn Graufuss",
       "fred-feuersturm": "Fred Feuersturm",
       "freya-graufuss": "Freya Graufuss",
       "garakosh-redwalker": "Garakosh Redwalker",
@@ -23915,7 +24803,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 39,
+        "level": 40,
         "name": "Thalia",
         "rank": 4,
         "region": "eu",
@@ -23924,7 +24812,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 50,
+        "level": 51,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -24016,7 +24904,7 @@
         "guild": true,
         "level": 46,
         "name": "Blut",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Leiche"
       },
@@ -24061,7 +24949,7 @@
         "guild": true,
         "level": 28,
         "name": "Zulka",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Seelenfluch"
       },
@@ -24106,7 +24994,7 @@
         "guild": true,
         "level": 35,
         "name": "Fred",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Feuersturm"
       },
@@ -24133,7 +25021,7 @@
         "guild": true,
         "level": 25,
         "name": "Milly",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Silverwood"
       },
@@ -24169,7 +25057,7 @@
         "guild": true,
         "level": 24,
         "name": "Mimisiku",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Meatshield"
       },
@@ -24284,7 +25172,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Kamah",
         "rank": 3,
         "region": "eu",
@@ -24304,7 +25192,7 @@
         "guild": true,
         "level": 37,
         "name": "Keta",
-        "rank": 4,
+        "rank": 3,
         "region": "eu",
         "surname": "Fäse"
       },
@@ -24406,13 +25294,40 @@
         "rank": 1,
         "region": "eu",
         "surname": "Frostmage"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 12,
+        "name": "Finn",
+        "rank": 1,
+        "region": "eu",
+        "surname": "Graufuss"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 18,
+        "name": "Devastator",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Vane"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 24,
+        "name": "Anna",
+        "rank": 1,
+        "region": "eu",
+        "surname": "Graufuss"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795288335,
+  "saved_at": 1795289065,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -24471,6 +25386,47 @@
           "quests": 183
         },
         "xp": 24739
+      },
+      "eu:anna-graufuss": {
+        "achievements": 2,
+        "clears": {
+          "Wailing Caverns": 1
+        },
+        "epics": [],
+        "level": 24,
+        "professions": {
+          "Cooking": 32,
+          "Enchanting": 130,
+          "First Aid": 83,
+          "Fishing": 1,
+          "Tailoring": 110
+        },
+        "rep": {
+          "Argent Dawn": 1050,
+          "Booty Bay": 2190,
+          "Darkspear Trolls": 4385,
+          "Everlook": 2190,
+          "Gadgetzan": 2190,
+          "Orgrimmar": 6417,
+          "Powderfuse": 2190,
+          "Ratchet": 3880,
+          "Thunder Bluff": 3856,
+          "Undercity": 13641
+        },
+        "stats": {
+          "critters": 8,
+          "deaths": 7,
+          "drinks": 61,
+          "flights": 30,
+          "food": 1,
+          "health_potions": 18,
+          "hearths": 10,
+          "killing_blows": 1167,
+          "mana_potions": 1,
+          "mobs": 1895,
+          "quests": 198
+        },
+        "xp": 14915
       },
       "eu:archibald-white": {
         "achievements": 1,
@@ -24892,6 +25848,42 @@
         },
         "xp": 592
       },
+      "eu:devastator-vane": {
+        "achievements": 1,
+        "clears": {
+          "Wailing Caverns": 1
+        },
+        "epics": [],
+        "level": 18,
+        "professions": {
+          "Blacksmithing": 7,
+          "Cooking": 15,
+          "First Aid": 41,
+          "Mining": 22
+        },
+        "rep": {
+          "Booty Bay": 1628,
+          "Darkspear Trolls": 7861,
+          "Everlook": 1628,
+          "Gadgetzan": 1628,
+          "Orgrimmar": 9898,
+          "Powderfuse": 1628,
+          "Ratchet": 3156,
+          "Thunder Bluff": 3822,
+          "Undercity": 1091
+        },
+        "stats": {
+          "critters": 14,
+          "deaths": 8,
+          "flights": 7,
+          "food": 6,
+          "health_potions": 3,
+          "killing_blows": 670,
+          "mobs": 1166,
+          "quests": 93
+        },
+        "xp": 10900
+      },
       "eu:efrye-frostheal": {
         "achievements": 2,
         "clears": {
@@ -25067,6 +26059,16 @@
         "xp": 3789
       },
       "eu:erna-sturmtanz": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
+      },
+      "eu:finn-graufuss": {
         "achievements": 0,
         "clears": {},
         "epics": [],
