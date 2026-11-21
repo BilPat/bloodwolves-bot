@@ -4557,11 +4557,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/228/14176740-avatar.jpg",
       "best_item": {
-        "id": 6414,
-        "ilvl": 29,
-        "name": "Seal of Sylvanas",
+        "id": 253985,
+        "ilvl": 30,
+        "name": "Filigreed Shining Circlet",
         "quality": "RARE",
-        "slot": "Ring 2"
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -4597,6 +4597,10 @@
           "name": "Gnarled Necromancer's Staff",
           "quality": "RARE"
         },
+        "253985": {
+          "name": "Filigreed Shining Circlet",
+          "quality": "RARE"
+        },
         "271207": {
           "name": "Rotmender's Leggings",
           "quality": "RARE"
@@ -4626,9 +4630,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795267966000,
+      "last_login": 1795268380000,
       "level": 25,
       "level_at": {
         "22": 1794866470,
@@ -5359,7 +5363,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795268027000,
+      "last_login": 1795268410000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -11100,11 +11104,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/7/6087943-avatar.jpg",
       "best_item": {
-        "id": 15467,
-        "ilvl": 31,
-        "name": "Inventor's League Ring",
-        "quality": "UNCOMMON",
-        "slot": "Ring 2"
+        "id": 4197,
+        "ilvl": 36,
+        "name": "Berylline Pads",
+        "quality": "RARE",
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "15027": {
@@ -11121,6 +11125,11 @@
           "boss": "Aku'mai",
           "count": 1,
           "instance": "Blackfathom Deeps"
+        },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
         }
       },
       "class": "Mage",
@@ -11133,6 +11142,10 @@
         },
         "273088": {
           "name": "Snake Eye Kaleidoscope",
+          "quality": "RARE"
+        },
+        "4197": {
+          "name": "Berylline Pads",
           "quality": "RARE"
         },
         "6449": {
@@ -11152,18 +11165,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 24,
       "last_explored": "Durotar",
-      "last_login": 1795261607000,
-      "level": 29,
+      "last_login": 1795269062000,
+      "level": 30,
       "level_at": {
         "27": 1794866470,
         "28": 1795022064,
-        "29": 1795100112
+        "29": 1795100112,
+        "30": 1795269322
       },
       "professions": {
         "Cooking": 27,
-        "Enchanting": 52,
+        "Enchanting": 54,
         "Fishing": 11,
         "Tailoring": 118
       },
@@ -11379,12 +11393,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1922,
+          "raw": 2072,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9985,
+          "raw": 10035,
           "tier": 5
         },
         "Earthen Ring": {
@@ -11394,37 +11408,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1922,
+          "raw": 2072,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1922,
+          "raw": 2072,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13053,
+          "raw": 13103,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1922,
+          "raw": 2072,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3745,
+          "raw": 4045,
           "tier": 4
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8805,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9005,
+          "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3258,
+          "raw": 3308,
           "tier": 4
         }
       },
@@ -11432,17 +11446,17 @@
       "stats": {
         "critters": 24,
         "deaths": 12,
-        "drinks": 607,
-        "flights": 60,
-        "food": 210,
+        "drinks": 625,
+        "flights": 63,
+        "food": 212,
         "health_potions": 3,
         "hearths": 23,
-        "killing_blows": 1366,
+        "killing_blows": 1408,
         "mana_potions": 4,
-        "mobs": 2516,
-        "quests": 190
+        "mobs": 2715,
+        "quests": 193
       },
-      "xp": 14460
+      "xp": 5100
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -21799,6 +21813,22 @@
           "level": 45
         }
       },
+      "eu:khaladin-ronen": {
+        "c": {
+          "name": "Khaladin",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Ronen"
+        },
+        "lines": [
+          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
+          "🤝 **Wohlwollend** bei Donnerfels"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 30
+        }
+      },
       "eu:krakmor-ci%C3%B3rdan": {
         "c": {
           "name": "Krakmor",
@@ -22325,6 +22355,7 @@
     "Feral Swiftness": "Schnelligkeit der Wildnis",
     "Ferocity": "Wildheit",
     "Fighter Broadsword of the Elder": "Kämpferbreitschwert des Ältesten",
+    "Filigreed Shining Circlet": "Filigraner glänzender Reif",
     "Fine Leather Belt": "Feiner Ledergürtel",
     "Fine Leather Tunic": "Feine Ledertunika",
     "Fine Scimitar": "Feiner Krummsäbel",
@@ -22729,6 +22760,7 @@
     "Precision": "Präzision",
     "Predatory Discipline": "Disziplin des Raubtiers",
     "Predatory Strikes": "Raubtierschläge",
+    "Presence of Mind": "Geistesgegenwart",
     "Priest": "Priester",
     "Priestess Cloak": "Umhang der Priesterin",
     "Primal Boots": "Urzeitliche Stiefel",
@@ -22984,6 +23016,7 @@
     "Stamped Trousers": "Bedruckte Beinkleider",
     "Stinging Viper": "Stechviper",
     "Stomping Boots": "Stampfer-Stiefel",
+    "Stonecloth Bindings": "Steinstoffbindungen",
     "Stonefist Girdle": "Steinfaustgurt",
     "Stonemason Trousers": "Steinmetz-Beinkleider",
     "Stonewood Hammer": "Steinholzhammer",
@@ -23247,7 +23280,8 @@
         "eu:garm-winterhoof",
         "us:pwanage-ownage",
         "eu:alto-belli",
-        "eu:lazy-quinn"
+        "eu:lazy-quinn",
+        "eu:khaladin-ronen"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -24130,7 +24164,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795268369,
+  "saved_at": 1795269324,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
