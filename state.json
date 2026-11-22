@@ -1888,20 +1888,21 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 4,
+      "ilvl": 5,
       "last_explored": "Durotar",
-      "last_login": 1795337817000,
-      "level": 14,
+      "last_login": 1795346922000,
+      "level": 16,
       "level_at": {
         "13": 1794866470,
-        "14": 1794928566
+        "14": 1794928566,
+        "16": 1795348502
       },
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
-        "Fishing": 72,
-        "Mining": 68,
-        "Skinning": 115
+        "Fishing": 76,
+        "Mining": 74,
+        "Skinning": 120
       },
       "race": "Troll",
       "raids": {},
@@ -1989,7 +1990,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7732,
+          "raw": 7913,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2009,7 +2010,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7457,
+          "raw": 8107,
           "tier": 4
         },
         "Powderfuse": {
@@ -2024,29 +2025,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3468,
+          "raw": 3725,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 868,
+          "raw": 1050,
           "tier": 3
         }
       },
       "spec": "Marksmanship",
       "stats": {
-        "critters": 6,
+        "critters": 8,
         "deaths": 5,
         "drinks": 1,
-        "flights": 7,
-        "food": 11,
-        "health_potions": 3,
+        "flights": 8,
+        "food": 15,
+        "health_potions": 4,
         "hearths": 7,
-        "killing_blows": 526,
-        "mobs": 563,
-        "quests": 65
+        "killing_blows": 650,
+        "mobs": 704,
+        "quests": 72
       },
-      "xp": 11010
+      "xp": 8778
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -12860,7 +12861,7 @@
       },
       "ilvl": 51,
       "last_explored": "Un'Goro Crater",
-      "last_login": 1795315656000,
+      "last_login": 1795348299000,
       "level": 52,
       "level_at": {
         "45": 1794866470,
@@ -12976,6 +12977,10 @@
           {
             "id": 4004,
             "name": "Free Action Potion"
+          },
+          {
+            "id": 6002,
+            "name": "Magic Resistance Potion"
           },
           {
             "id": 6006,
@@ -13363,7 +13368,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 13208,
+          "raw": 13283,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -13381,11 +13386,6 @@
           "raw": 5774,
           "tier": 4
         },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Gadgetzan": {
           "name": "Friendly",
           "raw": 7239,
@@ -13393,7 +13393,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 16178,
+          "raw": 16478,
           "tier": 5
         },
         "Powderfuse": {
@@ -13408,12 +13408,12 @@
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 21243,
+          "raw": 21318,
           "tier": 6
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14203,
+          "raw": 14278,
           "tier": 5
         }
       },
@@ -13422,17 +13422,17 @@
         "critters": 115,
         "deaths": 47,
         "drinks": 190,
-        "flights": 224,
+        "flights": 229,
         "food": 246,
         "health_potions": 80,
         "hearths": 52,
         "honorable_kills": 1,
-        "killing_blows": 4689,
+        "killing_blows": 4690,
         "mana_potions": 8,
-        "mobs": 8807,
-        "quests": 676
+        "mobs": 8808,
+        "quests": 679
       },
-      "xp": 151158
+      "xp": 158420
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -22402,7 +22402,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795326639000,
+      "last_login": 1795347143000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -22957,11 +22957,6 @@
           "name": "Friendly",
           "raw": 8411,
           "tier": 4
-        },
-        "The League of Arathor": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Protection",
@@ -22969,7 +22964,7 @@
         "critters": 157,
         "deaths": 22,
         "drinks": 2,
-        "flights": 95,
+        "flights": 96,
         "food": 129,
         "health_potions": 32,
         "hearths": 54,
@@ -23579,6 +23574,20 @@
         "snap": {
           "class": "Shaman",
           "level": 28
+        }
+      },
+      "eu:barbariana-hunter": {
+        "c": {
+          "name": "Barbariana",
+          "region": "eu",
+          "surname": "Hunter"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 75"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 16
         }
       },
       "eu:blut-leiche": {
@@ -24554,6 +24563,7 @@
     "Improved Shadow Bolt": "Verbesserter Schattenblitz",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
     "Improved Sprint": "Verbessertes Sprinten",
+    "Improved Stings": "Verbesserte Stiche und Bisse",
     "Improved Stormstrike": "Verbesserter Sturmschlag",
     "Improved Sunder Armor": "Verbessertes Rüstung zerreißen",
     "Improved Thunder Clap": "Verbesserter Donnerknall",
@@ -24764,6 +24774,7 @@
     "Plains Hunter Wristguards": "Handgelenksschützer des Ebenenjägers",
     "Plate": "Platte",
     "Player vs. Player": "Spieler gegen Spieler",
+    "Pointed Axe": "Spitze Axt",
     "Poison": "Gift",
     "Polearm": "Stangenwaffe",
     "Ponderous Orb": "Schwerfällige Kugel",
@@ -26277,7 +26288,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795346713,
+  "saved_at": 1795348504,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
