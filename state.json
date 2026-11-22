@@ -12663,11 +12663,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 11193,
-        "ilvl": 57,
-        "name": "Blazewind Breastplate",
-        "quality": "UNCOMMON",
-        "slot": "Chest"
+        "id": 279833,
+        "ilvl": 55,
+        "name": "Courier's Clasp",
+        "quality": "RARE",
+        "slot": "Neck"
       },
       "boss_kills": {
         "1092": {
@@ -12740,6 +12740,11 @@
           "count": 1,
           "instance": "City of Dalaran"
         },
+        "63575": {
+          "boss": "Blazeroar",
+          "count": 2,
+          "instance": "Alcaz Prison"
+        },
         "63589": {
           "boss": "Lyn the Ignored",
           "count": 1,
@@ -12759,6 +12764,10 @@
           "name": "Archaedic Stone of the Falcon",
           "quality": "RARE"
         },
+        "17743": {
+          "name": "Resurgence Rod",
+          "quality": "RARE"
+        },
         "17749": {
           "name": "Phytoskin Spaulders",
           "quality": "RARE"
@@ -12775,6 +12784,10 @@
           "name": "Dreamer's Chestguard",
           "quality": "RARE"
         },
+        "270081": {
+          "name": "Purified Ring",
+          "quality": "RARE"
+        },
         "273045": {
           "name": "Drape of Shifting Energy",
           "quality": "RARE"
@@ -12783,12 +12796,24 @@
           "name": "Bloodsport Band",
           "quality": "RARE"
         },
+        "276744": {
+          "name": "Zarla's Snack Pouch",
+          "quality": "RARE"
+        },
         "279480": {
           "name": "Bigger Rock on Bigger Stick",
           "quality": "RARE"
         },
+        "279833": {
+          "name": "Courier's Clasp",
+          "quality": "RARE"
+        },
         "9416": {
           "name": "Grimlok's Charge",
+          "quality": "RARE"
+        },
+        "9534": {
+          "name": "Engineer's Guild Headpiece",
           "quality": "RARE"
         },
         "9624": {
@@ -12796,9 +12821,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 50,
+      "ilvl": 51,
       "last_explored": "Un'Goro Crater",
-      "last_login": 1795297250000,
+      "last_login": 1795315656000,
       "level": 52,
       "level_at": {
         "45": 1794866470,
@@ -12811,8 +12836,8 @@
       "professions": {
         "Alchemy": 243,
         "Cooking": 300,
-        "First Aid": 243,
-        "Fishing": 165,
+        "First Aid": 251,
+        "Fishing": 175,
         "Herbalism": 300
       },
       "race": "Tauren",
@@ -13301,7 +13326,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 13027,
+          "raw": 13208,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -13319,6 +13344,11 @@
           "raw": 5774,
           "tier": 4
         },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Gadgetzan": {
           "name": "Friendly",
           "raw": 7239,
@@ -13326,7 +13356,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 15453,
+          "raw": 16178,
           "tier": 5
         },
         "Powderfuse": {
@@ -13341,36 +13371,31 @@
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 21062,
+          "raw": 21243,
           "tier": 6
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14022,
+          "raw": 14203,
           "tier": 5
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
-      "spec": "Feral Combat",
+      "spec": "Restoration",
       "stats": {
         "critters": 115,
-        "deaths": 43,
-        "drinks": 181,
-        "flights": 216,
-        "food": 241,
-        "health_potions": 79,
-        "hearths": 50,
+        "deaths": 47,
+        "drinks": 190,
+        "flights": 224,
+        "food": 246,
+        "health_potions": 80,
+        "hearths": 52,
         "honorable_kills": 1,
-        "killing_blows": 4683,
+        "killing_blows": 4689,
         "mana_potions": 8,
-        "mobs": 8579,
-        "quests": 663
+        "mobs": 8807,
+        "quests": 676
       },
-      "xp": 42278
+      "xp": 151158
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -14766,6 +14791,277 @@
         "quests": 201
       },
       "xp": 27865
+    },
+    "eu:lockendotter-bonechrusher": {
+      "achievements": {
+        "62006": "Novice Shaman",
+        "62007": "Experienced Shaman",
+        "62018": "Journeyman Enchanter",
+        "62024": "Journeyman Leatherworker",
+        "62028": "Journeyman Tailor",
+        "728": "Explore Durotar",
+        "846": "Explore Thousand Needles"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/212/4846292-avatar.jpg",
+      "best_item": {
+        "id": 253887,
+        "ilvl": 15,
+        "name": "Novice Ardent's Sash",
+        "quality": "RARE",
+        "slot": "Waist"
+      },
+      "boss_kills": {},
+      "class": "Warlock",
+      "dungeons": {},
+      "first_seen": 1795316059,
+      "gear": {
+        "253887": {
+          "name": "Novice Ardent's Sash",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 5,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795315928000,
+      "level": 10,
+      "level_at": {
+        "10": 1795316059
+      },
+      "professions": {
+        "Cooking": 2,
+        "Enchanting": 150,
+        "Tailoring": 150
+      },
+      "race": "Troll",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          }
+        ],
+        "Enchanting": [
+          {
+            "id": 4368,
+            "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
+          },
+          {
+            "id": 7316,
+            "name": "Disenchant"
+          },
+          {
+            "id": 4289,
+            "name": "Enchant Bracer - Inferior Stamina"
+          },
+          {
+            "id": 4291,
+            "name": "Runed Copper Rod"
+          },
+          {
+            "id": 4297,
+            "name": "Enchant Chest - Minor Intellect"
+          },
+          {
+            "id": 4300,
+            "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 4370,
+            "name": "Runed Silver Rod"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          },
+          {
+            "id": 7357,
+            "name": "Enchant 2H Weapon - Lesser Spirit"
+          },
+          {
+            "id": 4399,
+            "name": "Enchant Chest - Stamina"
+          },
+          {
+            "id": 4301,
+            "name": "Enchant Bracer - Minor Stamina"
+          },
+          {
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 4362,
+            "name": "Enchant Cloak - Minor Protection"
+          },
+          {
+            "id": 54213,
+            "name": "Dust to Motes"
+          },
+          {
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
+          },
+          {
+            "id": 13137,
+            "name": "Minor Wizard Oil"
+          },
+          {
+            "id": 4369,
+            "name": "Enchant 2H Weapon - Lesser Intellect"
+          }
+        ],
+        "Tailoring": [
+          {
+            "id": 2359,
+            "name": "Bolt of Linen Cloth"
+          },
+          {
+            "id": 2408,
+            "name": "Brown Linen Pants"
+          },
+          {
+            "id": 2376,
+            "name": "Bolt of Silk Cloth"
+          },
+          {
+            "id": 2381,
+            "name": "Heavy Woolen Gloves"
+          },
+          {
+            "id": 2409,
+            "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 2367,
+            "name": "Reinforced Linen Cape"
+          },
+          {
+            "id": 2360,
+            "name": "Linen Cloak"
+          },
+          {
+            "id": 2373,
+            "name": "Woolen Boots"
+          },
+          {
+            "id": 2370,
+            "name": "Bolt of Woolen Cloth"
+          },
+          {
+            "id": 4001,
+            "name": "Linen Bag"
+          },
+          {
+            "id": 4850,
+            "name": "Azure Silk Hood"
+          },
+          {
+            "id": 4020,
+            "name": "Red Woolen Bag"
+          },
+          {
+            "id": 55367,
+            "name": "Woolen Reagent Bag"
+          },
+          {
+            "id": 4021,
+            "name": "Lesser Wizard's Robe"
+          },
+          {
+            "id": 4003,
+            "name": "Small Silk Pack"
+          },
+          {
+            "id": 55483,
+            "name": "Fiery Slippers"
+          },
+          {
+            "id": 2385,
+            "name": "Double-stitched Woolen Shoulders"
+          },
+          {
+            "id": 55424,
+            "name": "Novice Ardent's Sash"
+          },
+          {
+            "id": 52648,
+            "name": "Faction Banner"
+          },
+          {
+            "id": 2378,
+            "name": "Heavy Linen Gloves"
+          },
+          {
+            "id": 4002,
+            "name": "Woolen Bag"
+          },
+          {
+            "id": 6576,
+            "name": "Simple Linen Pants"
+          }
+        ]
+      },
+      "reputations": {
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 6720,
+          "tier": 4
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 6070,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3150,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 550,
+          "tier": 3
+        }
+      },
+      "spec": "Demonology",
+      "stats": {
+        "food": 1,
+        "health_potions": 2,
+        "hearths": 1,
+        "killing_blows": 191,
+        "mobs": 197,
+        "quests": 38
+      },
+      "xp": 2366
     },
     "eu:lognaar-leafnon": {
       "achievements": {
@@ -23286,7 +23582,8 @@
         "lines": [
           "Gegenstandsstufe **50**",
           "🗝️ **[Maraudon](https://www.wowhead.com/forever/de/search?q=Maraudon)** zum ersten Mal abgeschlossen",
-          "🤝 **Respektvoll** bei Donnerfels"
+          "🤝 **Respektvoll** bei Donnerfels",
+          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)"
         ],
         "snap": {
           "class": "Druid",
@@ -23562,6 +23859,7 @@
     "Bronze Shortsword": "Bronzenes Kurzschwert",
     "Bronze Warhammer": "Bronzener Kriegshammer",
     "Bronzed Shoulderguards": "Talmischulterschutz",
+    "Brown Linen Pants": "Braune Leinenhose",
     "Brown Linen Robe": "Braune Leinenrobe",
     "Brown Linen Shirt": "Braunes Leinenhemd",
     "Buccaneer's Bracers": "Bukanier-Armschienen",
@@ -23619,6 +23917,7 @@
     "Civinad Robes": "Civinad-Roben",
     "Clasped Belt": "Schnallengürtel",
     "Clever Shapeshifter": "Gerissener Gestaltwandler",
+    "Cloak of the Cult": "Umhang des Kults",
     "Clobrok's Block Rock": "Clobroks Brockenfels",
     "Cloth": "Stoff",
     "Cobalt Legguards": "Kobaltblaue Beinschützer",
@@ -23643,6 +23942,7 @@
     "Cooking Recipes known": "Bekannte Kochrezepte",
     "Cooking skill": "Kochfertigkeit",
     "Coup de Grace": "Gnadenstoß",
+    "Courier's Clasp": "Schnallengürtel des Kuriers",
     "Crafted Light Shot": "Gefertigtes leichtes Geschoss",
     "Creature type killed the most": "Am häufigsten getöteter Kreaturtyp",
     "Creatures": "Kreaturen",
@@ -23719,6 +24019,7 @@
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
     "Direhammer Leggings": "Düsterhammergamaschen",
+    "Dirt-trodden Boots": "Schmutzstarrende Stiefel",
     "Disciple's Boots": "Jüngerstiefel",
     "Disciple's Bracers": "Jüngerarmschienen",
     "Disciple's Gloves": "Jüngerhandschuhe",
@@ -23888,6 +24189,7 @@
     "Forsaken Weapons": "Waffen der Verlassenen",
     "Foulfur Gloves": "Faulfellhandschuhe",
     "Frayed Bracers": "Ausgefranste Armschienen",
+    "Frayed Gloves": "Ausgefranste Handschuhe",
     "Friendly": "Freundlich",
     "Frost Damage": "Frostschaden",
     "Frost Resistance": "Frostwiderstand",
@@ -23935,6 +24237,7 @@
     "Green Iron Bracers": "Grüne Eisenarmschienen",
     "Green Leather Armor": "Grüne Lederrüstung",
     "Green Leather Belt": "Grüner Ledergürtel",
+    "Greenleaf Handwraps": "Grünblatthandlappen",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
     "Greenweave Leggings of the Sorcerer": "Grünzwirngamaschen des Zauberers",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
@@ -23978,6 +24281,7 @@
     "Heavehammer": "Wuchthammer",
     "Heavy Armor Kit": "Schweres Rüstungsset",
     "Heavy Bronze Mace": "Schwerer bronzener Streitkolben",
+    "Heavy Cord Bracers": "Schwere Kordel-Armschienen",
     "Heavy Linen Gloves": "Schwere Leinenhandschuhe",
     "Heavy Sharpening Stone": "Schwerer Wetzstein",
     "Heavy Shot": "Schweres Geschoss",
@@ -24044,10 +24348,13 @@
     "Improved Gouge": "Verbesserter Solarplexus",
     "Improved Healing": "Verbesserte Heilung",
     "Improved Heroic Strike": "Verbesserter heldenhafter Stoß",
+    "Improved Imp": "Verbesserter Wichtel",
     "Improved Judgement": "Verbessertes Richturteil",
     "Improved Lightning Shield": "Verbesserter Blitzschlagschild",
     "Improved Pick Pocket and Distract 01": "Verbesserter Taschendiebstahl und Ablenken 01",
     "Improved Power Word: Shield": "Verbessertes Machtwort: Schild",
+    "Improved Regrowth": "Verbessertes Nachwachsen",
+    "Improved Rejuvenation": "Verbesserte Verjüngung",
     "Improved Rend": "Verbessertes Verwunden",
     "Improved Renew": "Verbesserte Erneuerung",
     "Improved Revenge": "Verbesserte Rache",
@@ -24148,6 +24455,7 @@
     "Magram Clan Centaur": "Magramklan",
     "Mail": "Schwere Rüstung",
     "Main Hand": "Waffenhand",
+    "Makeshift Belt": "Behelfsmäßiger Gürtel",
     "Makeshift Stormcaller": "Behelfsmäßiger Sturmrufer",
     "Male": "Männlich",
     "Malevolence": "Böswilligkeit",
@@ -24160,6 +24468,7 @@
     "Marauder's Bracers of the Beast": "Marodeursarmschienen der Bestie",
     "Mark of the Pack Leader": "Mal des Rudelführers",
     "Marksmanship": "Treffsicherheit",
+    "Marshdweller's Pants": "Hose des Sumpfbewohners",
     "Master Demonologist": "Meister der Dämonologie",
     "Master Hunter's Wand": "Zauberstab des Meisterjägers",
     "Master of Defense": "Meister der Verteidigung",
@@ -24302,6 +24611,7 @@
     "Quests completed": "Quests abgeschlossen",
     "Quilboar Blaster": "Stacheleber-Blaster",
     "Quillord Mail Leggings": "Panzergamaschen des Stachelfürsten",
+    "Rageclaw Shoulder Pads of the Elder": "Zornprankenschultern des Ältesten",
     "Ragefire Chasm": "Flammenschlund",
     "Ragged Leather Belt": "Struppiger Ledergürtel",
     "Ragged Leather Boots": "Struppige Lederstiefel",
@@ -24342,6 +24652,7 @@
     "Reputation": "Ruf",
     "Resistance Breaker Spaulder": "Schiftung des Widerstandsbrechers",
     "Restoration": "Wiederherstellung",
+    "Resurgence Rod": "Rute der Wiederauferstehung",
     "Resurrected by priests": "Wiederbelebungen durch Priester",
     "Resurrected by soulstones": "Wiederbelebungen durch Seelensteine",
     "Resurrection": "Wiederbelebung",
@@ -24502,6 +24813,7 @@
     "Snake Hoop": "Natternreifen",
     "Social": "Geselligkeit",
     "Soft Willow Cape": "Weiches Weidencape",
+    "Soft Wool Vest": "Weiche Wollweste",
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
     "Solid Gold Band": "Solides Goldband",
     "Solid Shot": "Robustes Geschoss",
@@ -24511,9 +24823,11 @@
     "Soul Siphon": "Seelenentzug",
     "South Seas Shroud": "Schleier der südlichen Meere",
     "Southsea Head Bucket": "Südmeertopfhelm",
+    "Southsea Mojo Boots": "Südmeermojostiefel",
     "Spare Part Bindings": "Ersatzteilbindungen",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
     "Spell Damage": "Zauberschaden",
+    "Spell Damage Vs Humanoids": "Zauberschaden gegen Humanoide",
     "Spell Damage Vs Undead": "Zauberschaden gegen Untote",
     "Spell Healing": "Zauberheilung",
     "Spell Piercing": "Zauberdurchdringung",
@@ -24628,6 +24942,7 @@
     "Toughened Leather Gloves": "Gekräftigte Lederhandschuhe",
     "Toughness": "Zähigkeit",
     "Toxic Sporidium": "Toxisches Sporidium",
+    "Tranquil Spirit": "Gelassener Geist",
     "Transformative Cocoon": "Transformativer Kokon",
     "Trapper's Leather Pants": "Lederhose des Fallenstellers",
     "Trapper's Shirt": "Fallenstellerhemd",
@@ -24724,6 +25039,7 @@
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
+    "Wild Growth": "Wildwuchs",
     "Wildhammer Clan": "Wildhammerklan",
     "Wildkeeper Leggings": "Wildhüter-Gamaschen",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
@@ -24739,6 +25055,7 @@
     "Wolfmaster Cape": "Wolfmeister Cape",
     "Wolfsbane": "Wolfsbann",
     "Wooden Mallet": "Hölzerner Schlaghammer",
+    "Woodseed Hoop": "Ring der Waldsaat",
     "Woolen Boots": "Wollstiefel",
     "Woolen Cape": "Wollcape",
     "Worgbinder's Treads": "Treter des Worgbinders",
@@ -24759,6 +25076,8 @@
     "Wrangler's Leggings of the Tiger": "Zänkergamaschen des Tigers",
     "Wrist": "Handgelenke",
     "Yeti Fur Cloak": "Yetifell-Umhang",
+    "Zarla's Snack Pouch": "Zarlas Knabberbeutel",
+    "Zealot's Robe": "Zelotenrobe",
     "Zhovur Axe": "Zhovur-Axt",
     "Zircon Band of Spirit": "Zirkonband der Willenskraft",
     "Zircon Band of the Whale": "Zirkonband des Wals",
@@ -25019,6 +25338,12 @@
     },
     "eu:liquider-nasenb%c3%a4r": {
       "mounts": {}
+    },
+    "eu:lockendotter-bonechrusher": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
     },
     "eu:lognaar-leafnon": {
       "mounts": {}
@@ -25751,7 +26076,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795315197,
+  "saved_at": 1795316061,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -27148,6 +27473,16 @@
           "quests": 201
         },
         "xp": 27865
+      },
+      "eu:lockendotter-bonechrusher": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
       },
       "eu:lognaar-leafnon": {
         "achievements": 1,
