@@ -1890,7 +1890,7 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": "Durotar",
-      "last_login": 1795303457000,
+      "last_login": 1795337242000,
       "level": 14,
       "level_at": {
         "13": 1794866470,
@@ -4322,7 +4322,7 @@
       },
       "ilvl": 12,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795309091000,
+      "last_login": 1795337001000,
       "level": 22,
       "level_at": {
         "20": 1794866470,
@@ -4535,12 +4535,12 @@
         "food": 6,
         "health_potions": 4,
         "hearths": 5,
-        "killing_blows": 870,
-        "mana_potions": 10,
-        "mobs": 1477,
+        "killing_blows": 895,
+        "mana_potions": 11,
+        "mobs": 1502,
         "quests": 163
       },
-      "xp": 16464
+      "xp": 20946
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {},
@@ -20887,7 +20887,7 @@
       },
       "ilvl": 24,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795287928000,
+      "last_login": 1795336758000,
       "level": 28,
       "level_at": {
         "21": 1794866470,
@@ -20901,7 +20901,7 @@
       },
       "professions": {
         "Alchemy": 70,
-        "Herbalism": 92
+        "Herbalism": 93
       },
       "race": "Undead",
       "raids": {},
@@ -21042,12 +21042,12 @@
         "food": 237,
         "health_potions": 11,
         "hearths": 27,
-        "killing_blows": 1578,
+        "killing_blows": 1580,
         "mana_potions": 20,
-        "mobs": 2667,
+        "mobs": 2669,
         "quests": 169
       },
-      "xp": 29492
+      "xp": 30163
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -26212,7 +26212,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795336802,
+  "saved_at": 1795337690,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
