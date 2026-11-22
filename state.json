@@ -21270,21 +21270,27 @@
     },
     "us:devil-latterday": {
       "achievements": {
+        "776": "Explore Elwynn Forest",
         "842": "Explore Teldrassil"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
       "best_item": {
-        "id": 281927,
-        "ilvl": 27,
-        "name": "Boulderheart Band",
-        "quality": "UNCOMMON",
-        "slot": "Ring 1"
+        "id": 273843,
+        "ilvl": 28,
+        "name": "Fallenroot Longbow",
+        "quality": "RARE",
+        "slot": "Ranged"
       },
       "boss_kills": {
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
           "instance": "Ragefire Chasm"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -21313,26 +21319,31 @@
           "name": "Meathook Slicer",
           "quality": "RARE"
         },
+        "273843": {
+          "name": "Fallenroot Longbow",
+          "quality": "RARE"
+        },
         "286977": {
           "name": "Sword of the Fallen",
           "quality": "RARE"
         }
       },
       "ilvl": 14,
-      "last_explored": "Teldrassil",
-      "last_login": 1795241344000,
-      "level": 22,
+      "last_explored": "Elwynn Forest",
+      "last_login": 1795329374000,
+      "level": 23,
       "level_at": {
         "18": 1795149590,
         "20": 1795151747,
-        "22": 1795242093
+        "22": 1795242093,
+        "23": 1795329766
       },
       "professions": {
-        "Cooking": 83,
-        "First Aid": 116,
+        "Cooking": 90,
+        "First Aid": 130,
         "Fishing": 21,
-        "Leatherworking": 70,
-        "Skinning": 143
+        "Leatherworking": 80,
+        "Skinning": 157
       },
       "race": "Night Elf",
       "raids": {},
@@ -21345,6 +21356,10 @@
           {
             "id": 1543,
             "name": "Crab Cake"
+          },
+          {
+            "id": 1873,
+            "name": "Murloc Fin Soup"
           },
           {
             "id": 52640,
@@ -21441,6 +21456,10 @@
             "name": "Linen Bandage"
           },
           {
+            "id": 55743,
+            "name": "Woolen Tourniquet"
+          },
+          {
             "id": 1841,
             "name": "Heavy Wool Bandage"
           }
@@ -21449,9 +21468,17 @@
           {
             "id": 4344,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Leatherworking": [
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
           {
             "id": 1356,
             "name": "Light Armor Kit"
@@ -21465,12 +21492,24 @@
             "name": "Handstitched Leather Belt"
           },
           {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
             "id": 55207,
             "name": "Black Whelp Slippers"
           },
           {
             "id": 2172,
             "name": "Fine Leather Belt"
+          },
+          {
+            "id": 4589,
+            "name": "Moonglow Vest"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
           },
           {
             "id": 1362,
@@ -21495,6 +21534,10 @@
           {
             "id": 1363,
             "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
           },
           {
             "id": 1708,
@@ -21525,6 +21568,10 @@
             "name": "Moonglow Boots"
           },
           {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
             "id": 58812,
             "name": "Light Leather Reagent Bag"
           },
@@ -21535,6 +21582,10 @@
           {
             "id": 4990,
             "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4994,
+            "name": "Black Whelp Cloak"
           },
           {
             "id": 1353,
@@ -21549,6 +21600,14 @@
             "name": "Handstitched Leather Pants"
           },
           {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 4158,
+            "name": "Fine Leather Pants"
+          },
+          {
             "id": 4988,
             "name": "Handstitched Leather Bracers"
           },
@@ -21559,6 +21618,10 @@
           {
             "id": 2164,
             "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 13087,
+            "name": "Black Whelp Tunic"
           }
         ],
         "Skinning": [
@@ -21573,14 +21636,19 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 350,
+          "tier": 3
+        },
         "Azeroth Commerce Authority": {
           "name": "Neutral",
-          "raw": 0,
+          "raw": 2000,
           "tier": 3
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 13330,
+          "raw": 13701,
           "tier": 5
         },
         "Gadgetzan": {
@@ -21590,12 +21658,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 4957,
+          "raw": 5103,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 5095,
+          "raw": 5241,
           "tier": 4
         },
         "Silverwing Sentinels": {
@@ -21605,36 +21673,26 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 5307,
+          "raw": 5817,
           "tier": 4
-        },
-        "The League of Arathor": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
-        "Theramore Expeditionary Force": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 69,
-        "deaths": 23,
-        "drinks": 4,
-        "flights": 13,
-        "food": 26,
+        "critters": 77,
+        "deaths": 30,
+        "drinks": 5,
+        "flights": 17,
+        "food": 31,
         "health_potions": 8,
-        "hearths": 6,
+        "hearths": 7,
         "honorable_kills": 104,
-        "killing_blows": 1572,
+        "killing_blows": 1774,
         "mana_potions": 1,
-        "mobs": 1718,
-        "quests": 148
+        "mobs": 2081,
+        "quests": 162
       },
-      "xp": 7779
+      "xp": 19622
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -23669,6 +23727,22 @@
           "level": 28
         }
       },
+      "us:devil-latterday": {
+        "c": {
+          "name": "devil",
+          "region": "us",
+          "surname": "latterday"
+        },
+        "lines": [
+          "🛠️ **Lederverarbeitung** auf 75",
+          "🛠️ **Kürschnerei** auf 150",
+          "🎖️ [Erkundet Wald von Elwynn](https://www.wowhead.com/forever/de/achievement=776)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 23
+        }
+      },
       "us:steel-appeal": {
         "c": {
           "name": "steel",
@@ -24142,6 +24216,7 @@
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
     "Fade": "Verblassen",
+    "Fallenroot Longbow": "Langbogen der Leidbringer",
     "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
     "Feathered Arrow": "Gefiederter Pfeil",
@@ -24505,6 +24580,7 @@
     "Mental Quickness": "Geistige Schnelligkeit",
     "Mental Strength": "Mentale Stärke",
     "Mercenary Leggings": "Söldnergamaschen",
+    "Militant Shortsword of Nature Protection": "Militantes Kurzschwert des Naturschutzes",
     "Minor Mana Oil": "Schwaches Manaöl",
     "Minor Wizard Oil": "Schwaches Zauberöl",
     "Mirage Mirror": "Illusionsspiegel",
@@ -26102,7 +26178,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795328564,
+  "saved_at": 1795329767,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
