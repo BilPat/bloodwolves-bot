@@ -8284,11 +8284,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/15/12989711-avatar.jpg",
       "best_item": {
-        "id": 7712,
-        "ilvl": 39,
-        "name": "Mantle of Doan",
+        "id": 279883,
+        "ilvl": 42,
+        "name": "Mutinous Cuffs",
         "quality": "UNCOMMON",
-        "slot": "Shoulders"
+        "slot": "Wrist"
       },
       "boss_kills": {
         "1092": {
@@ -8396,8 +8396,8 @@
       },
       "ilvl": 31,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795290427000,
-      "level": 36,
+      "last_login": 1795389381000,
+      "level": 37,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
@@ -8407,12 +8407,13 @@
         "33": 1795099180,
         "34": 1795159072,
         "35": 1795259608,
-        "36": 1795290873
+        "36": 1795290873,
+        "37": 1795389891
       },
       "professions": {
         "Cooking": 223,
         "Enchanting": 150,
-        "Fishing": 215,
+        "Fishing": 216,
         "Tailoring": 150
       },
       "race": "Undead",
@@ -8944,12 +8945,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1105,
+          "raw": 1455,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5211,
+          "raw": 5386,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -8959,61 +8960,61 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 750,
+          "raw": 1050,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 915,
+          "raw": 1215,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 915,
+          "raw": 1215,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5248,
+          "raw": 5386,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 915,
+          "raw": 1165,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1140,
+          "raw": 1440,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4686,
+          "raw": 4748,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16923,
+          "raw": 16986,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 54,
-        "deaths": 17,
-        "drinks": 699,
-        "flights": 51,
-        "food": 241,
-        "health_potions": 24,
-        "hearths": 19,
+        "critters": 75,
+        "deaths": 23,
+        "drinks": 766,
+        "flights": 54,
+        "food": 247,
+        "health_potions": 25,
+        "hearths": 21,
         "honorable_kills": 4,
-        "killing_blows": 2014,
+        "killing_blows": 2082,
         "mana_potions": 11,
-        "mobs": 4717,
-        "quests": 260
+        "mobs": 5059,
+        "quests": 265
       },
-      "xp": 866
+      "xp": 8102
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -25318,6 +25319,7 @@
     "Finscale Soles": "Flossenschuppensohlen",
     "Fire": "Feuer",
     "Fire Damage": "Feuerschaden",
+    "Fire Power": "Feuermacht",
     "Fire Resistance": "Feuerwiderstand",
     "Fireball": "Feuerball",
     "Firebelch": "Feuerrülps",
@@ -27366,7 +27368,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795389238,
+  "saved_at": 1795389892,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
