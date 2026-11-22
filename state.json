@@ -19108,7 +19108,7 @@
       },
       "ilvl": 23,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795363822000,
+      "last_login": 1795369525000,
       "level": 31,
       "level_at": {
         "25": 1794866470,
@@ -19362,7 +19362,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6795,
+          "raw": 6845,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -19387,7 +19387,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8782,
+          "raw": 8832,
           "tier": 4
         },
         "Powderfuse": {
@@ -19402,12 +19402,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13781,
+          "raw": 13831,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4138,
+          "raw": 4338,
           "tier": 4
         }
       },
@@ -19420,11 +19420,11 @@
         "food": 37,
         "health_potions": 6,
         "hearths": 30,
-        "killing_blows": 1388,
-        "mobs": 2570,
-        "quests": 227
+        "killing_blows": 1461,
+        "mobs": 2669,
+        "quests": 229
       },
-      "xp": 8481
+      "xp": 22848
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -26983,7 +26983,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795369207,
+  "saved_at": 1795370118,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
