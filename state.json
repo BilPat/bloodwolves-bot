@@ -12405,7 +12405,7 @@
       },
       "ilvl": 26,
       "last_explored": "Durotar",
-      "last_login": 1795310082000,
+      "last_login": 1795361441000,
       "level": 31,
       "level_at": {
         "27": 1794866470,
@@ -12635,14 +12635,9 @@
           "raw": 2135,
           "tier": 3
         },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10260,
+          "raw": 10285,
           "tier": 5
         },
         "Earthen Ring": {
@@ -12662,7 +12657,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13328,
+          "raw": 13428,
           "tier": 5
         },
         "Powderfuse": {
@@ -12677,30 +12672,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9455,
+          "raw": 9480,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3458,
+          "raw": 3483,
           "tier": 4
         }
       },
       "spec": "Arcane",
       "stats": {
-        "critters": 24,
+        "critters": 25,
         "deaths": 12,
-        "drinks": 672,
+        "drinks": 690,
         "flights": 67,
-        "food": 240,
+        "food": 253,
         "health_potions": 3,
         "hearths": 26,
-        "killing_blows": 1521,
+        "killing_blows": 1695,
         "mana_potions": 4,
-        "mobs": 2876,
-        "quests": 208
+        "mobs": 3214,
+        "quests": 209
       },
-      "xp": 13629
+      "xp": 35617
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -14889,7 +14884,7 @@
       },
       "ilvl": 5,
       "last_explored": "Thousand Needles",
-      "last_login": 1795356661000,
+      "last_login": 1795361901000,
       "level": 10,
       "level_at": {
         "10": 1795316059
@@ -25084,6 +25079,7 @@
     "Shirt": "Hemd",
     "Shoulder": "Schulter",
     "Shoulders": "Schultern",
+    "Shredder Operating Gloves": "Schredderbedienungshandschuhe",
     "Shredding Attacks": "Schreddernde Angriffe",
     "Signet of the Zhevra": "Siegel der Zhevras",
     "Silk Headband": "Seidenes Stirnband",
@@ -26386,7 +26382,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795361091,
+  "saved_at": 1795361993,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
