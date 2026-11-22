@@ -3298,8 +3298,10 @@
     },
     "eu:blut-leiche": {
       "achievements": {
+        "62003": "Novice Rogue",
         "62009": "Novice Warlock",
         "62010": "Experienced Warlock",
+        "62012": "Journeyman Alchemist",
         "62018": "Journeyman Enchanter",
         "62019": "Expert Enchanter",
         "62028": "Journeyman Tailor",
@@ -3326,7 +3328,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 1,
+          "count": 2,
           "instance": "Zul'Farrak"
         },
         "15028": {
@@ -3366,6 +3368,10 @@
       "gear": {
         "10019": {
           "name": "Dreamweave Gloves",
+          "quality": "RARE"
+        },
+        "18082": {
+          "name": "Zum'rah's Vexing Cane",
           "quality": "RARE"
         },
         "2277": {
@@ -3431,7 +3437,7 @@
       },
       "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795300298000,
+      "last_login": 1795359753000,
       "level": 47,
       "level_at": {
         "42": 1794866470,
@@ -4000,17 +4006,17 @@
       "stats": {
         "critters": 99,
         "deaths": 13,
-        "drinks": 84,
-        "flights": 94,
+        "drinks": 85,
+        "flights": 95,
         "food": 88,
         "health_potions": 30,
-        "hearths": 43,
-        "killing_blows": 5128,
+        "hearths": 44,
+        "killing_blows": 5215,
         "mana_potions": 2,
-        "mobs": 8067,
+        "mobs": 8378,
         "quests": 469
       },
-      "xp": 36553
+      "xp": 65173
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -9095,9 +9101,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 22,
       "last_explored": "Thousand Needles",
-      "last_login": 1795343292000,
+      "last_login": 1795360343000,
       "level": 33,
       "level_at": {
         "27": 1794866470,
@@ -9111,9 +9117,9 @@
       "professions": {
         "Cooking": 225,
         "First Aid": 20,
-        "Fishing": 183,
+        "Fishing": 184,
         "Leatherworking": 151,
-        "Skinning": 240
+        "Skinning": 245
       },
       "race": "Tauren",
       "raids": {},
@@ -9612,19 +9618,19 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 46,
-        "deaths": 40,
+        "deaths": 41,
         "drinks": 56,
-        "flights": 52,
-        "food": 154,
-        "health_potions": 27,
-        "hearths": 30,
+        "flights": 53,
+        "food": 159,
+        "health_potions": 28,
+        "hearths": 31,
         "honorable_kills": 68,
-        "killing_blows": 2081,
+        "killing_blows": 2141,
         "mana_potions": 1,
-        "mobs": 2658,
-        "quests": 257
+        "mobs": 2718,
+        "quests": 263
       },
-      "xp": 11274
+      "xp": 35056
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -23649,7 +23655,9 @@
         },
         "lines": [
           "Gegenstandsstufe **40**",
-          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen"
+          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
+          "🎖️ [Novice Rogue](https://www.wowhead.com/forever/de/achievement=62003)",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
         ],
         "snap": {
           "class": "Warlock",
@@ -25310,6 +25318,7 @@
     "War Paint Anklewraps": "Kriegsbemalungsknöchelwickel",
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
+    "Ward of Zum'rah": "Zauberschutz von Zum'rah",
     "Ward of the Vale": "Schutzschild des Tales",
     "Warden's Leather Belt": "Ledergürtel des Aufsehers",
     "Warder's Belt": "Gürtel der Wacht",
@@ -25376,7 +25385,8 @@
     "Zhovur Axe": "Zhovur-Axt",
     "Zircon Band of Spirit": "Zirkonband der Willenskraft",
     "Zircon Band of the Whale": "Zirkonband des Wals",
-    "Zombie Skin Boots": "Zombiehaut-Stiefel"
+    "Zombie Skin Boots": "Zombiehaut-Stiefel",
+    "Zum'rah's Vexing Cane": "Zum'rahs Hexerstab"
   },
   "group": {
     "firsts": {
@@ -26376,7 +26386,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795359309,
+  "saved_at": 1795360408,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
