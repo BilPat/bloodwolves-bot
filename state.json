@@ -1604,6 +1604,443 @@
       },
       "xp": 265
     },
+    "eu:aristides-soulreaper": {
+      "achievements": {
+        "62000": "Novice Priest",
+        "769": "Explore Silverpine Forest",
+        "776": "Explore Elwynn Forest",
+        "780": "Explore Redridge Mountains"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/190/789694-avatar.jpg",
+      "best_item": {
+        "id": 281673,
+        "ilvl": 28,
+        "name": "Loop of Sacrifice",
+        "quality": "UNCOMMON",
+        "slot": "Ring 1"
+      },
+      "boss_kills": {},
+      "class": "Paladin",
+      "dungeons": {},
+      "first_seen": 1795383606,
+      "gear": {
+        "12994": {
+          "name": "Thorbia's Gauntlets",
+          "quality": "RARE"
+        },
+        "250528": {
+          "name": "Veteran's Silvered Chain Helm",
+          "quality": "RARE"
+        },
+        "250620": {
+          "name": "Gemmed Copper Boots",
+          "quality": "RARE"
+        },
+        "286977": {
+          "name": "Sword of the Fallen",
+          "quality": "RARE"
+        },
+        "286981": {
+          "name": "Death Bindings",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 19,
+      "last_explored": "Redridge Mountains",
+      "last_login": 1795349358000,
+      "level": 23,
+      "level_at": {
+        "23": 1795383606
+      },
+      "professions": {
+        "Blacksmithing": 130,
+        "Cooking": 3,
+        "First Aid": 81,
+        "Mining": 137
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Blacksmithing": [
+          {
+            "id": 1632,
+            "name": "Copper Chain Belt"
+          },
+          {
+            "id": 5340,
+            "name": "Bronze Greatsword"
+          },
+          {
+            "id": 4285,
+            "name": "Heavy Copper Maul"
+          },
+          {
+            "id": 11183,
+            "name": "Silver Skeleton Key"
+          },
+          {
+            "id": 1639,
+            "name": "Rough Bronze Leggings"
+          },
+          {
+            "id": 1640,
+            "name": "Rough Bronze Cuirass"
+          },
+          {
+            "id": 1653,
+            "name": "Bronze Shortsword"
+          },
+          {
+            "id": 54692,
+            "name": "Gemmed Copper Boots"
+          },
+          {
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
+          },
+          {
+            "id": 1798,
+            "name": "Rough Weightstone"
+          },
+          {
+            "id": 54694,
+            "name": "Glowing Copper Boots"
+          },
+          {
+            "id": 1642,
+            "name": "Patterned Bronze Bracers"
+          },
+          {
+            "id": 1645,
+            "name": "Shining Silver Breastplate"
+          },
+          {
+            "id": 1853,
+            "name": "Heavy Bronze Mace"
+          },
+          {
+            "id": 1633,
+            "name": "Copper Chain Pants"
+          },
+          {
+            "id": 4389,
+            "name": "Rough Bronze Boots"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1864,
+            "name": "Silvered Bronze Boots"
+          },
+          {
+            "id": 1652,
+            "name": "Copper Shortsword"
+          },
+          {
+            "id": 1799,
+            "name": "Heavy Weightstone"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1650,
+            "name": "Bronze Axe"
+          },
+          {
+            "id": 1865,
+            "name": "Silvered Bronze Gauntlets"
+          },
+          {
+            "id": 58811,
+            "name": "Rough Copper Chain Boots"
+          },
+          {
+            "id": 1862,
+            "name": "Rough Bronze Shoulders"
+          },
+          {
+            "id": 1644,
+            "name": "Heavy Sharpening Stone"
+          },
+          {
+            "id": 1855,
+            "name": "Copper Chain Boots"
+          },
+          {
+            "id": 1868,
+            "name": "Heavy Grinding Stone"
+          },
+          {
+            "id": 11184,
+            "name": "Golden Skeleton Key"
+          },
+          {
+            "id": 1856,
+            "name": "Rough Grinding Stone"
+          },
+          {
+            "id": 5339,
+            "name": "Bronze Warhammer"
+          },
+          {
+            "id": 1649,
+            "name": "Bronze Mace"
+          },
+          {
+            "id": 4910,
+            "name": "Copper Dagger"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 1637,
+            "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1984,
+            "name": "Big Bronze Knife"
+          },
+          {
+            "id": 54693,
+            "name": "Strange Copper Boots"
+          },
+          {
+            "id": 4847,
+            "name": "Iron Buckle"
+          },
+          {
+            "id": 3972,
+            "name": "Pearl-handled Dagger"
+          },
+          {
+            "id": 7836,
+            "name": "Golden Rod"
+          },
+          {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 1858,
+            "name": "Runed Copper Gauntlets"
+          },
+          {
+            "id": 1635,
+            "name": "Runed Copper Bracers"
+          },
+          {
+            "id": 54740,
+            "name": "Veteran's Silvered Chain Helm"
+          },
+          {
+            "id": 5341,
+            "name": "Bronze Battle Axe"
+          },
+          {
+            "id": 5338,
+            "name": "Copper Claymore"
+          },
+          {
+            "id": 1851,
+            "name": "Thick War Axe"
+          },
+          {
+            "id": 1850,
+            "name": "Copper Battle Axe"
+          },
+          {
+            "id": 1800,
+            "name": "Coarse Weightstone"
+          },
+          {
+            "id": 1646,
+            "name": "Copper Mace"
+          },
+          {
+            "id": 54212,
+            "name": "Copper Rod"
+          },
+          {
+            "id": 1859,
+            "name": "Runed Copper Pants"
+          },
+          {
+            "id": 1849,
+            "name": "Heavy Copper Broadsword"
+          },
+          {
+            "id": 1651,
+            "name": "Copper Axe"
+          },
+          {
+            "id": 4390,
+            "name": "Silver Rod"
+          }
+        ],
+        "Cooking": [
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 1570,
+            "name": "Mining"
+          },
+          {
+            "id": 1847,
+            "name": "Smelt Iron"
+          },
+          {
+            "id": 1600,
+            "name": "Smelt Bronze"
+          },
+          {
+            "id": 2036,
+            "name": "Mining"
+          },
+          {
+            "id": 1848,
+            "name": "Smelt Tin"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          },
+          {
+            "id": 1599,
+            "name": "Smelt Silver"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 1050,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 575,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 3875,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 575,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 575,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 5581,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 575,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 650,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 2588,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Honored",
+          "raw": 14165,
+          "tier": 5
+        }
+      },
+      "spec": "Retribution",
+      "stats": {
+        "deaths": 11,
+        "drinks": 10,
+        "flights": 23,
+        "food": 8,
+        "health_potions": 9,
+        "hearths": 17,
+        "killing_blows": 1533,
+        "mobs": 1664,
+        "quests": 177
+      },
+      "xp": 8614
+    },
     "eu:aru-tai": {
       "achievements": {
         "62006": "Novice Shaman",
@@ -15029,7 +15466,7 @@
       },
       "ilvl": 5,
       "last_explored": "Thousand Needles",
-      "last_login": 1795367480000,
+      "last_login": 1795383094000,
       "level": 10,
       "level_at": {
         "10": 1795316059
@@ -16194,11 +16631,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/87/13237079-avatar.jpg",
       "best_item": {
-        "id": 250528,
-        "ilvl": 25,
-        "name": "Veteran's Silvered Chain Helm",
-        "quality": "RARE",
-        "slot": "Head"
+        "id": 7419,
+        "ilvl": 30,
+        "name": "Phalanx Cloak of the Hierophant",
+        "quality": "UNCOMMON",
+        "slot": "Back"
       },
       "boss_kills": {
         "15027": {
@@ -16233,21 +16670,22 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 19,
       "last_explored": null,
-      "last_login": 1795370670000,
-      "level": 26,
+      "last_login": 1795383217000,
+      "level": 27,
       "level_at": {
         "24": 1794866470,
         "25": 1795124372,
-        "26": 1795371435
+        "26": 1795371435,
+        "27": 1795383606
       },
       "professions": {
         "Blacksmithing": 107,
         "Cooking": 34,
         "First Aid": 54,
         "Fishing": 23,
-        "Mining": 118
+        "Mining": 119
       },
       "race": "Undead",
       "raids": {},
@@ -16551,12 +16989,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1009,
+          "raw": 1109,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3963,
+          "raw": 4120,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -16566,37 +17004,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1009,
+          "raw": 1109,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1009,
+          "raw": 1109,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6251,
+          "raw": 6445,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1009,
+          "raw": 1109,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1518,
+          "raw": 1718,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3686,
+          "raw": 4323,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9330,
+          "raw": 9486,
           "tier": 5
         }
       },
@@ -16604,17 +17042,17 @@
       "stats": {
         "critters": 43,
         "deaths": 20,
-        "drinks": 22,
-        "flights": 53,
+        "drinks": 26,
+        "flights": 57,
         "food": 14,
         "health_potions": 10,
-        "hearths": 29,
-        "killing_blows": 1665,
+        "hearths": 30,
+        "killing_blows": 1746,
         "mana_potions": 1,
-        "mobs": 2272,
-        "quests": 136
+        "mobs": 2381,
+        "quests": 149
       },
-      "xp": 2884
+      "xp": 5124
     },
     "eu:mimisiku-meatshield": {
       "achievements": {
@@ -24606,6 +25044,7 @@
     "Conviction": "Überzeugung",
     "Cooking Recipes known": "Bekannte Kochrezepte",
     "Cooking skill": "Kochfertigkeit",
+    "Coral Band of the Boar": "Korallenband des Ebers",
     "Coup de Grace": "Gnadenstoß",
     "Courier's Clasp": "Schnallengürtel des Kuriers",
     "Crafted Light Shot": "Gefertigtes leichtes Geschoss",
@@ -24861,6 +25300,7 @@
     "Forest Leather Gloves": "Waldlederhandschuhe",
     "Forest Leather Mantle": "Waldledermantel",
     "Forest Troll Leggings": "Waldtrollgamaschen",
+    "Forsaken Bastard Sword": "Bastardschwert der Verlassenen",
     "Forsaken Dagger": "Dolch der Verlassenen",
     "Forsaken Greataxe": "Großaxt des Verlassenen",
     "Forsaken Weapons": "Waffen der Verlassenen",
@@ -24926,6 +25366,7 @@
     "Grizzled Pelt": "Ergrauter Pelz",
     "Grizzly Gloves": "Grizzly-Handschuhe",
     "Grizzly Pants of Intellect": "Grizzly-Hose der Intelligenz",
+    "Grunt's Belt of the Boar": "Grunzergürtel des Ebers",
     "Grunt's Handwraps of the Boar": "Grunzerhandlappen des Ebers",
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
     "Guild Tabard": "Gildenwappenrock",
@@ -24974,9 +25415,11 @@
     "Herbalism Skill": "Kräuterkundefertigkeit",
     "Hidden Belt": "Versteckter Gürtel",
     "Hidden Boots": "Versteckte Stiefel",
+    "Hidden Bracers": "Versteckte Armschienen",
     "Hidden Cloak": "Versteckter Umhang",
     "Hidden Helm": "Versteckter Helm",
     "Hidden Shirt": "Verstecktes Hemd",
+    "Hidden Shoulder": "Versteckte Schulter",
     "High Inquisitor Whitemane": "Flammenwirker Koegler",
     "High Inquisitor Whitemane kills (Scarlet Monastery)": "Siege über Flammenwirker Koegler (Scharlachrote Hallen)",
     "High Order": "Der Hohe Orden",
@@ -25261,6 +25704,7 @@
     "Patchwork Shoes": "Flickwerkschuhe",
     "Pathfinding": "Orientierung",
     "Patterned Bronze Bracers": "Gemusterte bronzene Armschienen",
+    "Phalanx Cloak of the Hierophant": "Phalanx-Umhang des Hierophanten",
     "Physical": "Körperlich",
     "Phytoskin Spaulders": "Phytohaut-Schiftung",
     "Pioneer Boots": "Pionierstiefel",
@@ -25317,6 +25761,7 @@
     "Ragged Leather Boots": "Struppige Lederstiefel",
     "Ragged Leather Vest": "Struppige Lederweste",
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
+    "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
     "Ranged": "Distanzwaffe",
@@ -25377,6 +25822,7 @@
     "Robe of the Moccasin": "Robe der Mokassin",
     "Robes of Arugal": "Robe von Arugal",
     "Robes of the Disgraced Thane": "Robe des in Ungnade gefallenen Thans",
+    "Robust Cloak of Strength": "Robuster Umhang der Stärke",
     "Rogue": "Schurke",
     "Rotgrip Mantle": "Faulschnappers Mantel",
     "Rotmender's Garb": "Gewand des Fäulnisheilers",
@@ -25414,6 +25860,7 @@
     "Salvaged Wooden Tower Shield": "Geborgener Holzturmschild",
     "Sanctified Judgement": "Gesegnetes Richturteil",
     "Sandrunner Wristguards": "Sandläuferhandgelenksschützer",
+    "Sandspire Gloves": "Sandspitzen-Handschuhe",
     "Sanguine Sandals": "Blutbadsandalen",
     "Satchel of Potions": "Tränketasche",
     "Satyrskin Cloak": "Satyrnhaut-Umhang",
@@ -25583,6 +26030,7 @@
     "Strongly Scented Hood": "Intensiv duftende Kapuze",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Stygian Bone Amulet": "Stygisches Knochenamulett",
+    "Stylish Red Shirt": "Modisches rotes Hemd",
     "Subterranean Cape": "Unterirdisches Cape",
     "Subtlety": "Feingefühl",
     "Summon Felsteed": "Teufelsross beschwören",
@@ -25624,6 +26072,7 @@
     "Thick Armor Kit": "Dickes Rüstungsset",
     "Thick Hide": "Dickes Fell",
     "Thief's Blade": "Diebesklinge",
+    "Thorbia's Gauntlets": "Thorbias' Stulpen",
     "Thorium Brotherhood": "Thoriumbruderschaft",
     "Thornwoven Shield": "Dornengewobener Schild",
     "Thra's Friendship Bracelet": "Thras Freundschaftsband",
@@ -25734,6 +26183,7 @@
     "Wand Specialization": "Zauberstab-Spezialisierung",
     "Wand of Decay": "Zauberstab des Verfalls",
     "War Paint Anklewraps": "Kriegsbemalungsknöchelwickel",
+    "War Paint Chestpiece": "Kriegsbemalungsbrustharnisch",
     "War Paint Cloak": "Kriegsbemalungsumhang",
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
@@ -25922,6 +26372,11 @@
     },
     "eu:archibald-white": {
       "mounts": {}
+    },
+    "eu:aristides-soulreaper": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw"
+      }
     },
     "eu:aru-tai": {
       "mounts": {
@@ -26238,6 +26693,7 @@
       "alto-belli": "Alto Belli",
       "anna-graufuss": "Anna Graufuss",
       "archibald-white": "Archibald White",
+      "aristides-soulreaper": "Aristides Soulreaper",
       "aru-tai": "Aru Tai",
       "barbariana-hunter": "Barbariana Hunter",
       "baumora-axiom": "Baumora Axiom",
@@ -26398,7 +26854,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 47,
+        "level": 48,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -26407,7 +26863,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 47,
+        "level": 48,
         "name": "Blut",
         "rank": 3,
         "region": "eu",
@@ -26416,7 +26872,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 28,
+        "level": 29,
         "name": "Blck",
         "rank": 3,
         "region": "eu",
@@ -26488,7 +26944,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Thalgrim",
         "rank": 3,
         "region": "eu",
@@ -26533,7 +26989,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Milly",
         "rank": 3,
         "region": "eu",
@@ -26578,7 +27034,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 15,
+        "level": 17,
         "name": "Mia",
         "rank": 1,
         "region": "eu",
@@ -26605,7 +27061,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Garm",
         "rank": 3,
         "region": "eu",
@@ -26623,7 +27079,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Maniac",
         "rank": 3,
         "region": "eu",
@@ -26749,7 +27205,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 20,
+        "level": 21,
         "name": "Eluna",
         "rank": 4,
         "region": "eu",
@@ -26803,7 +27259,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 10,
+        "level": 11,
         "name": "Aldric",
         "rank": 4,
         "region": "eu",
@@ -26830,18 +27286,27 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Quantino",
         "rank": 4,
         "region": "eu",
         "surname": "Pralino"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 23,
+        "name": "Aristides",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Soulreaper"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795381985,
+  "saved_at": 1795383609,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -26995,6 +27460,43 @@
           "quests": 121
         },
         "xp": 265
+      },
+      "eu:aristides-soulreaper": {
+        "achievements": 4,
+        "clears": {},
+        "epics": [],
+        "level": 23,
+        "professions": {
+          "Blacksmithing": 130,
+          "Cooking": 3,
+          "First Aid": 81,
+          "Mining": 137
+        },
+        "rep": {
+          "Argent Dawn": 1050,
+          "Booty Bay": 575,
+          "Darkspear Trolls": 3875,
+          "Durotar Supply and Logistics": 2000,
+          "Everlook": 575,
+          "Gadgetzan": 575,
+          "Orgrimmar": 5581,
+          "Powderfuse": 575,
+          "Ratchet": 650,
+          "Thunder Bluff": 2588,
+          "Undercity": 14165
+        },
+        "stats": {
+          "deaths": 11,
+          "drinks": 10,
+          "flights": 23,
+          "food": 8,
+          "health_potions": 9,
+          "hearths": 17,
+          "killing_blows": 1533,
+          "mobs": 1664,
+          "quests": 177
+        },
+        "xp": 8614
       },
       "eu:aru-tai": {
         "achievements": 3,
