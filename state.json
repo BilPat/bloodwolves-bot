@@ -12712,6 +12712,7 @@
         "750": "Explore The Barrens",
         "765": "Explore Badlands",
         "773": "Explore The Hinterlands",
+        "782": "Explore Swamp of Sorrows",
         "802": "Explore Westfall",
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains",
@@ -12880,16 +12881,17 @@
         }
       },
       "ilvl": 51,
-      "last_explored": "Un'Goro Crater",
-      "last_login": 1795348299000,
-      "level": 52,
+      "last_explored": "Swamp of Sorrows",
+      "last_login": 1795353204000,
+      "level": 53,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
         "47": 1795012854,
         "49": 1795048587,
         "50": 1795259608,
-        "52": 1795298123
+        "52": 1795298123,
+        "53": 1795353919
       },
       "professions": {
         "Alchemy": 243,
@@ -13450,9 +13452,9 @@
         "killing_blows": 4690,
         "mana_potions": 8,
         "mobs": 8808,
-        "quests": 679
+        "quests": 682
       },
-      "xp": 158420
+      "xp": 1676
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -23770,11 +23772,12 @@
           "Gegenstandsstufe **50**",
           "🗝️ **[Maraudon](https://www.wowhead.com/forever/de/search?q=Maraudon)** zum ersten Mal abgeschlossen",
           "🤝 **Respektvoll** bei Donnerfels",
-          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)"
+          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)",
+          "🎖️ [Erkundet Sümpfe des Elends](https://www.wowhead.com/forever/de/achievement=782)"
         ],
         "snap": {
           "class": "Druid",
-          "level": 52
+          "level": 53
         }
       },
       "eu:kreuzaua-scoops": {
@@ -26352,7 +26355,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795353222,
+  "saved_at": 1795353921,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
