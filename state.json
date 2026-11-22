@@ -5437,7 +5437,7 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795311862000,
+      "last_login": 1795380847000,
       "level": 27,
       "level_at": {
         "22": 1794866470,
@@ -6080,12 +6080,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1422,
+          "raw": 1497,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3853,
+          "raw": 3993,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6095,37 +6095,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1422,
+          "raw": 1497,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1422,
+          "raw": 1497,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4547,
+          "raw": 4725,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1422,
+          "raw": 1497,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2745,
+          "raw": 2895,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2547,
+          "raw": 2620,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12237,
+          "raw": 12302,
           "tier": 5
         }
       },
@@ -6133,17 +6133,17 @@
       "stats": {
         "critters": 35,
         "deaths": 46,
-        "drinks": 100,
+        "drinks": 103,
         "flights": 79,
-        "food": 102,
+        "food": 107,
         "health_potions": 14,
         "hearths": 59,
-        "killing_blows": 1036,
+        "killing_blows": 1059,
         "mana_potions": 31,
-        "mobs": 3120,
-        "quests": 167
+        "mobs": 3160,
+        "quests": 171
       },
-      "xp": 1454
+      "xp": 10523
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -15976,30 +15976,31 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/64/14583104-avatar.jpg",
       "best_item": {
-        "id": 246265,
-        "ilvl": 14,
-        "name": "Salvaged Wooden Tower Shield",
+        "id": 15488,
+        "ilvl": 21,
+        "name": "Bloodspattered Surcoat of Frost Protection",
         "quality": "UNCOMMON",
-        "slot": "Off Hand"
+        "slot": "Chest"
       },
       "boss_kills": {},
       "class": "Paladin",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 4,
+      "ilvl": 6,
       "last_explored": "Durotar",
-      "last_login": 1795368459000,
-      "level": 15,
+      "last_login": 1795380078000,
+      "level": 17,
       "level_at": {
-        "15": 1794866470
+        "15": 1794866470,
+        "17": 1795380922
       },
       "professions": {
-        "Cooking": 20,
-        "Engineering": 5,
-        "First Aid": 71,
+        "Cooking": 90,
+        "Engineering": 51,
+        "First Aid": 77,
         "Fishing": 102,
-        "Mining": 14
+        "Mining": 36
       },
       "race": "Undead",
       "raids": {},
@@ -16010,12 +16011,36 @@
             "name": "Herb Baked Egg"
           },
           {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
             "id": 52640,
             "name": "Basic Campfire"
           },
           {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
             "id": 1536,
             "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 4353,
@@ -16032,6 +16057,10 @@
           {
             "id": 4354,
             "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
           }
         ],
         "Engineering": [
@@ -16040,12 +16069,36 @@
             "name": "Rough Blasting Powder"
           },
           {
+            "id": 52650,
+            "name": "Reagent Bot"
+          },
+          {
+            "id": 2420,
+            "name": "Rough Boomstick"
+          },
+          {
             "id": 2415,
             "name": "Crafted Light Shot"
           },
           {
+            "id": 2418,
+            "name": "Rough Copper Bomb"
+          },
+          {
             "id": 2414,
             "name": "Rough Dynamite"
+          },
+          {
+            "id": 2419,
+            "name": "Copper Tube"
+          },
+          {
+            "id": 2417,
+            "name": "Handful of Copper Bolts"
+          },
+          {
+            "id": 4294,
+            "name": "Arclight Spanner"
           }
         ],
         "First Aid": [
@@ -16088,6 +16141,10 @@
           {
             "id": 1569,
             "name": "Mining"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
           }
         ]
       },
@@ -16099,35 +16156,37 @@
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2212,
+          "raw": 2566,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Neutral",
-          "raw": 2212,
+          "raw": 2566,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 712,
+          "raw": 1066,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9535,
+          "raw": 11200,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "food": 1,
-        "health_potions": 6,
-        "hearths": 3,
-        "killing_blows": 457,
-        "mobs": 546,
-        "quests": 81
+        "drinks": 1,
+        "flights": 4,
+        "food": 6,
+        "health_potions": 11,
+        "hearths": 4,
+        "killing_blows": 587,
+        "mobs": 678,
+        "quests": 109
       },
-      "xp": 34
+      "xp": 2073
     },
     "eu:milly-silverwood": {
       "achievements": {
@@ -20310,7 +20369,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795355765000,
+      "last_login": 1795379929000,
       "level": 40,
       "level_at": {
         "38": 1795221303,
@@ -20865,7 +20924,7 @@
         "mobs": 6096,
         "quests": 444
       },
-      "xp": 34361
+      "xp": 55241
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -22979,7 +23038,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 2,
+          "count": 3,
           "instance": "Blackfathom Deeps"
         },
         "63570": {
@@ -23065,11 +23124,12 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795373307000,
-      "level": 32,
+      "last_login": 1795380759000,
+      "level": 33,
       "level_at": {
         "31": 1794965196,
-        "32": 1795061895
+        "32": 1795061895,
+        "33": 1795380922
       },
       "professions": {
         "Blacksmithing": 169,
@@ -23631,15 +23691,15 @@
         "critters": 157,
         "deaths": 22,
         "drinks": 2,
-        "flights": 100,
-        "food": 132,
+        "flights": 102,
+        "food": 134,
         "health_potions": 32,
-        "hearths": 56,
-        "killing_blows": 2215,
-        "mobs": 4316,
+        "hearths": 57,
+        "killing_blows": 2245,
+        "mobs": 4490,
         "quests": 283
       },
-      "xp": 51067
+      "xp": 609
     },
     "us:whizz-aard": {
       "achievements": {
@@ -24238,7 +24298,24 @@
     ]
   },
   "daily_digest": {
-    "items": {},
+    "items": {
+      "eu:mia-graufuss": {
+        "c": {
+          "name": "Mia",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Graufuss"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 75",
+          "🛠️ **Erste Hilfe** auf 75"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 17
+        }
+      }
+    },
     "last": "2026-11-22"
   },
   "de_names": {
@@ -24402,6 +24479,7 @@
     "Bloodspattered Gloves of Magic": "Blutbespritzte Handschuhe der Magie",
     "Bloodspattered Gloves of the Boar": "Blutbespritzte Handschuhe des Ebers",
     "Bloodspattered Shield of Nature Protection": "Blutbespritzter Schild des Naturschutzes",
+    "Bloodspattered Surcoat of Frost Protection": "Blutbespritzter Übermantel des Frostschutzes",
     "Bloodspiller": "Blutvergießer",
     "Bloodspine Staff": "Blutstachelstab",
     "Bloodsport Band": "Blutsportring",
@@ -25241,7 +25319,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -26763,7 +26841,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795380048,
+  "saved_at": 1795380923,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
