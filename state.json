@@ -11784,10 +11784,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 33,
+      "ilvl": 32,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795299351000,
-      "level": 38,
+      "last_login": 1795340342000,
+      "level": 39,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -11801,14 +11801,15 @@
         "35": 1795170310,
         "36": 1795189148,
         "37": 1795267528,
-        "38": 1795299898
+        "38": 1795299898,
+        "39": 1795341242
       },
       "professions": {
-        "Cooking": 178,
+        "Cooking": 200,
         "First Aid": 204,
         "Fishing": 12,
         "Leatherworking": 152,
-        "Skinning": 246
+        "Skinning": 251
       },
       "race": "Undead",
       "raids": {},
@@ -11841,6 +11842,10 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 11997,
+            "name": "Spider Sausage"
           },
           {
             "id": 4359,
@@ -12208,17 +12213,17 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1241,
+          "raw": 1431,
           "tier": 3
         },
         "Darkspear Raiders": {
           "name": "Neutral",
-          "raw": 60,
+          "raw": 110,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6431,
+          "raw": 6433,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -12233,37 +12238,42 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1241,
+          "raw": 1431,
+          "tier": 3
+        },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1241,
+          "raw": 1431,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8138,
+          "raw": 8148,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1241,
+          "raw": 1621,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1982,
+          "raw": 2172,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5618,
+          "raw": 5621,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16646,
+          "raw": 16648,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -12275,18 +12285,18 @@
       "spec": "Combat",
       "stats": {
         "critters": 78,
-        "deaths": 30,
-        "drinks": 38,
-        "flights": 56,
-        "food": 247,
-        "health_potions": 32,
-        "hearths": 20,
-        "honorable_kills": 147,
-        "killing_blows": 2837,
-        "mobs": 4675,
-        "quests": 290
+        "deaths": 39,
+        "drinks": 39,
+        "flights": 57,
+        "food": 257,
+        "health_potions": 35,
+        "hearths": 21,
+        "honorable_kills": 183,
+        "killing_blows": 2972,
+        "mobs": 4816,
+        "quests": 297
       },
-      "xp": 39626
+      "xp": 7549
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -20895,8 +20905,8 @@
       },
       "ilvl": 24,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795336758000,
-      "level": 28,
+      "last_login": 1795341088000,
+      "level": 29,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
@@ -20905,7 +20915,8 @@
         "25": 1795079821,
         "26": 1795110929,
         "27": 1795180559,
-        "28": 1795189148
+        "28": 1795189148,
+        "29": 1795341242
       },
       "professions": {
         "Alchemy": 70,
@@ -20992,7 +21003,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4255,
+          "raw": 4511,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -21017,7 +21028,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4536,
+          "raw": 4736,
           "tier": 4
         },
         "Powderfuse": {
@@ -21032,30 +21043,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3317,
+          "raw": 3498,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13880,
+          "raw": 13986,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 54,
-        "deaths": 14,
-        "drinks": 982,
-        "flights": 25,
-        "food": 237,
+        "deaths": 15,
+        "drinks": 1009,
+        "flights": 27,
+        "food": 244,
         "health_potions": 11,
         "hearths": 27,
-        "killing_blows": 1580,
-        "mana_potions": 20,
-        "mobs": 2669,
-        "quests": 169
+        "killing_blows": 1618,
+        "mana_potions": 21,
+        "mobs": 2711,
+        "quests": 175
       },
-      "xp": 30163
+      "xp": 4918
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -24124,6 +24135,7 @@
     "Darkmoon Faire": "Dunkelmond-Jahrmarkt",
     "Darkspear Islands Honorable Kills": "Ehrenhafte Siege auf den Darkspear-Inseln",
     "Darkspear Islands Killing Blows": "Todesstöße auf den Darkspear-Inseln",
+    "Darkspear Islands battles": "Schlachten auf den Darkspear-Inseln",
     "Darkspear Raiders": "Darkspear-Räuber",
     "Darkspear Trolls": "Darkspear",
     "Deadly Aspects": "Tödliche Aspekte",
@@ -24638,6 +24650,7 @@
     "Mental Strength": "Mentale Stärke",
     "Mercenary Leggings": "Söldnergamaschen",
     "Militant Shortsword of Nature Protection": "Militantes Kurzschwert des Naturschutzes",
+    "Mind-numbing Poison": "Gedankenbenebelndes Gift",
     "Minor Mana Oil": "Schwaches Manaöl",
     "Minor Wizard Oil": "Schwaches Zauberöl",
     "Mirage Mirror": "Illusionsspiegel",
@@ -26236,7 +26249,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795340350,
+  "saved_at": 1795341243,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
