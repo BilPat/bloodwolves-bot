@@ -9658,6 +9658,11 @@
           "count": 1,
           "instance": "Scarlet Monastery"
         },
+        "1094": {
+          "boss": "Chief Ukorz Sandscalp",
+          "count": 1,
+          "instance": "Zul'Farrak"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -9700,6 +9705,10 @@
       "gear": {
         "10330": {
           "name": "Scarlet Leggings",
+          "quality": "RARE"
+        },
+        "13071": {
+          "name": "Plated Fist of Hakoo",
           "quality": "RARE"
         },
         "250497": {
@@ -9755,10 +9764,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 43,
+      "ilvl": 44,
       "last_explored": "Thousand Needles",
-      "last_login": 1795350779000,
-      "level": 46,
+      "last_login": 1795363892000,
+      "level": 47,
       "level_at": {
         "40": 1794866470,
         "41": 1795031689,
@@ -9766,7 +9775,8 @@
         "43": 1795194762,
         "44": 1795212804,
         "45": 1795258440,
-        "46": 1795344897
+        "46": 1795344897,
+        "47": 1795364128
       },
       "professions": {
         "Blacksmithing": 205,
@@ -10326,7 +10336,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -17400,
+          "raw": -22450,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -10336,13 +10346,13 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 7017,
+          "raw": 8064,
           "tier": 4
         },
         "Darkspear Trolls": {
-          "name": "Friendly",
-          "raw": 8871,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9271,
+          "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -10356,12 +10366,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5602,
+          "raw": 6144,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6354,
+          "raw": 6934,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -10376,46 +10386,46 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11430,
+          "raw": 11848,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6889,
+          "raw": 7432,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7099,
+          "raw": 7641,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8711,
+          "raw": 8942,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19790,
+          "raw": 19965,
           "tier": 5
         }
       },
-      "spec": "Holy",
+      "spec": "Retribution",
       "stats": {
         "critters": 106,
-        "deaths": 10,
-        "drinks": 92,
-        "flights": 73,
-        "food": 109,
-        "health_potions": 33,
-        "hearths": 30,
+        "deaths": 11,
+        "drinks": 111,
+        "flights": 77,
+        "food": 113,
+        "health_potions": 38,
+        "hearths": 31,
         "honorable_kills": 1,
-        "killing_blows": 3694,
+        "killing_blows": 3912,
         "mana_potions": 1,
-        "mobs": 6077,
-        "quests": 539
+        "mobs": 6534,
+        "quests": 554
       },
-      "xp": 21234
+      "xp": 232
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -14858,6 +14868,7 @@
         "62006": "Novice Shaman",
         "62007": "Experienced Shaman",
         "62012": "Journeyman Alchemist",
+        "62015": "Journeyman Blacksmith",
         "62018": "Journeyman Enchanter",
         "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
@@ -14884,7 +14895,7 @@
       },
       "ilvl": 5,
       "last_explored": "Thousand Needles",
-      "last_login": 1795361901000,
+      "last_login": 1795363287000,
       "level": 10,
       "level_at": {
         "10": 1795316059
@@ -18553,11 +18564,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/20/8976148-avatar.jpg",
       "best_item": {
-        "id": 270043,
-        "ilvl": 32,
-        "name": "Dreamer's Chestguard",
-        "quality": "RARE",
-        "slot": "Chest"
+        "id": 279846,
+        "ilvl": 36,
+        "name": "Larcenist's Belt",
+        "quality": "UNCOMMON",
+        "slot": "Waist"
       },
       "boss_kills": {
         "1092": {
@@ -18574,6 +18585,11 @@
           "boss": "Aku'mai",
           "count": 2,
           "instance": "Blackfathom Deeps"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Druid",
@@ -18586,6 +18602,10 @@
         },
         "270043": {
           "name": "Dreamer's Chestguard",
+          "quality": "RARE"
+        },
+        "273037": {
+          "name": "Felbough Arm",
           "quality": "RARE"
         },
         "273645": {
@@ -18617,23 +18637,24 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 23,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795351023000,
-      "level": 30,
+      "last_login": 1795363822000,
+      "level": 31,
       "level_at": {
         "25": 1794866470,
         "26": 1794994743,
         "27": 1795081184,
         "28": 1795113062,
         "29": 1795196609,
-        "30": 1795351260
+        "30": 1795351260,
+        "31": 1795364128
       },
       "professions": {
         "Alchemy": 186,
         "Cooking": 122,
         "Fishing": 75,
-        "Herbalism": 170
+        "Herbalism": 180
       },
       "race": "Tauren",
       "raids": {},
@@ -18664,12 +18685,20 @@
             "name": "Elixir of Agility"
           },
           {
+            "id": 1815,
+            "name": "Minor Magic Resistance Potion"
+          },
+          {
             "id": 1814,
             "name": "Elixir of Wisdom"
           },
           {
             "id": 1378,
             "name": "Elixir of Minor Strength"
+          },
+          {
+            "id": 4213,
+            "name": "Shadow Protection Potion"
           },
           {
             "id": 1379,
@@ -18864,7 +18893,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6745,
+          "raw": 6795,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -18889,7 +18918,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8657,
+          "raw": 8782,
           "tier": 4
         },
         "Powderfuse": {
@@ -18904,29 +18933,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13731,
+          "raw": 13781,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3863,
+          "raw": 4138,
           "tier": 4
         }
       },
-      "spec": "Restoration",
+      "spec": "Feral Combat",
       "stats": {
         "critters": 19,
-        "deaths": 24,
-        "drinks": 14,
-        "flights": 47,
-        "food": 32,
+        "deaths": 25,
+        "drinks": 15,
+        "flights": 51,
+        "food": 37,
         "health_potions": 6,
-        "hearths": 29,
-        "killing_blows": 1327,
-        "mobs": 2361,
-        "quests": 220
+        "hearths": 30,
+        "killing_blows": 1388,
+        "mobs": 2570,
+        "quests": 227
       },
-      "xp": 633
+      "xp": 8481
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -23721,6 +23750,21 @@
           "level": 26
         }
       },
+      "eu:garret-aschwind": {
+        "c": {
+          "name": "Garret",
+          "region": "eu",
+          "surname": "Aschwind"
+        },
+        "lines": [
+          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
+          "🤝 **Wohlwollend** bei Darkspear"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 47
+        }
+      },
       "eu:h%C3%A4uptling-blutmacht": {
         "c": {
           "name": "Häuptling",
@@ -23826,7 +23870,8 @@
           "surname": "Bonechrusher"
         },
         "lines": [
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
+          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
         ],
         "snap": {
           "class": "Warlock",
@@ -23876,6 +23921,21 @@
         "snap": {
           "class": "Shaman",
           "level": 18
+        }
+      },
+      "eu:redbully-badbully": {
+        "c": {
+          "name": "Redbully",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Badbully"
+        },
+        "lines": [
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 31
         }
       },
       "eu:thalgrim-tirisfal": {
@@ -24410,6 +24470,7 @@
     "Feet": "Füße",
     "Fel Concentration": "Teufelskonzentration",
     "Fel Vitality": "Teuflische Vitalität",
+    "Felbough Arm": "Teufelsastwaffe",
     "Feline Mantle": "Felinen-Mantel",
     "Female": "Weiblich",
     "Fenrus' Hide": "Fenrus' Balg",
@@ -24860,6 +24921,7 @@
     "Pioneer Gloves": "Pionierhandschuhe",
     "Plains Hunter Wristguards": "Handgelenksschützer des Ebenenjägers",
     "Plate": "Platte",
+    "Plated Fist of Hakoo": "Plattenfaust von Hakoo",
     "Player vs. Player": "Spieler gegen Spieler",
     "Pointed Axe": "Spitze Axt",
     "Poison": "Gift",
@@ -25114,6 +25176,7 @@
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
     "Solid Gold Band": "Solides Goldband",
     "Solid Shot": "Robustes Geschoss",
+    "Solid Weightstone": "Robuster Gewichtsstein",
     "Sorcerer Collar": "Zaubererhalsband",
     "Soul Harvest": "Seelenernte",
     "Soul Link": "Seelenverbindung",
@@ -26382,7 +26445,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795361993,
+  "saved_at": 1795364129,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
