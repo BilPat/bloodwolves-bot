@@ -4261,6 +4261,8 @@
     "eu:boreas-donnerrufer": {
       "achievements": {
         "61997": "Novice Paladin",
+        "62015": "Journeyman Blacksmith",
+        "62031": "Novice Spelunker",
         "769": "Explore Silverpine Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/55/3483447-avatar.jpg",
@@ -4309,9 +4311,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 11,
+      "ilvl": 12,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795204589000,
+      "last_login": 1795309091000,
       "level": 22,
       "level_at": {
         "20": 1794866470,
@@ -4320,35 +4322,27 @@
       "professions": {
         "Alchemy": 147,
         "Cooking": 3,
-        "Herbalism": 143
+        "Herbalism": 145
       },
       "race": "Windshaper Skyborne",
       "raids": {},
       "recipes": {
         "Alchemy": [
           {
-            "id": 2907,
-            "name": "Minor Discolored Healing Potion"
+            "id": 54454,
+            "name": "Magenta Dye"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
+          },
+          {
+            "id": 4393,
+            "name": "Blackmouth Oil"
           },
           {
             "id": 1814,
             "name": "Elixir of Wisdom"
-          },
-          {
-            "id": 1816,
-            "name": "Lesser Mana Potion"
-          },
-          {
-            "id": 1819,
-            "name": "Lesser Troll's Blood Elixir"
-          },
-          {
-            "id": 1820,
-            "name": "Elixir of Lesser Defense"
-          },
-          {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
           },
           {
             "id": 1378,
@@ -4359,67 +4353,67 @@
             "name": "Minor Mana Potion"
           },
           {
-            "id": 1380,
-            "name": "Minor Rejuvenation Potion"
-          },
-          {
-            "id": 1382,
-            "name": "Elixir of Minor Fortitude"
-          },
-          {
-            "id": 4393,
-            "name": "Blackmouth Oil"
-          },
-          {
-            "id": 4394,
-            "name": "Fire Oil"
-          },
-          {
-            "id": 4395,
-            "name": "Swim Speed Potion"
-          },
-          {
-            "id": 4176,
-            "name": "Draught of Water Breathing"
+            "id": 1816,
+            "name": "Lesser Mana Potion"
           },
           {
             "id": 4178,
             "name": "Elixir of Minor Defense"
           },
           {
-            "id": 52646,
-            "name": "Mana Well"
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
           },
           {
-            "id": 54453,
-            "name": "Cerulean Dye"
+            "id": 1380,
+            "name": "Minor Rejuvenation Potion"
           },
           {
-            "id": 54454,
-            "name": "Magenta Dye"
+            "id": 2907,
+            "name": "Minor Discolored Healing Potion"
           },
           {
-            "id": 54456,
-            "name": "Sulfuric Acid"
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
+          },
+          {
+            "id": 1382,
+            "name": "Elixir of Minor Fortitude"
           },
           {
             "id": 54210,
             "name": "Minor Arcane Elixir"
           },
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
+            "id": 54456,
+            "name": "Sulfuric Acid"
+          },
+          {
+            "id": 4394,
+            "name": "Fire Oil"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 4176,
+            "name": "Draught of Water Breathing"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           }
         ],
         "Cooking": [
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
           {
             "id": 4786,
             "name": "Herb Baked Egg"
@@ -4427,19 +4421,27 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "Herbalism": [
+          {
+            "id": 54116,
+            "name": "Herbalism"
+          },
           {
             "id": 1419,
             "name": "Herbalism"
           },
           {
             "id": 2041,
-            "name": "Herbalism"
-          },
-          {
-            "id": 54116,
             "name": "Herbalism"
           },
           {
@@ -4456,7 +4458,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3145,
+          "raw": 3182,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4486,7 +4488,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3613,
+          "raw": 3763,
           "tier": 4
         },
         "Powderfuse": {
@@ -4501,12 +4503,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4777,
+          "raw": 4815,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3653,
+          "raw": 3691,
           "tier": 4
         },
         "Windshapers": {
@@ -4520,16 +4522,16 @@
         "critters": 17,
         "deaths": 7,
         "drinks": 9,
-        "flights": 11,
+        "flights": 12,
         "food": 6,
         "health_potions": 4,
         "hearths": 5,
-        "killing_blows": 857,
+        "killing_blows": 870,
         "mana_potions": 10,
-        "mobs": 1464,
-        "quests": 160
+        "mobs": 1477,
+        "quests": 163
       },
-      "xp": 13193
+      "xp": 16464
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {},
@@ -23117,6 +23119,21 @@
           "level": 47
         }
       },
+      "eu:boreas-donnerrufer": {
+        "c": {
+          "name": "Boreas",
+          "region": "eu",
+          "surname": "Donnerrufer"
+        },
+        "lines": [
+          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)",
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 22
+        }
+      },
       "eu:elric-wolfsclan": {
         "c": {
           "name": "Elric",
@@ -25661,7 +25678,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795309106,
+  "saved_at": 1795310151,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
