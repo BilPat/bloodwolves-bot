@@ -5373,14 +5373,15 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795311216000,
-      "level": 26,
+      "last_login": 1795311862000,
+      "level": 27,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
         "24": 1795095633,
         "25": 1795125256,
-        "26": 1795302767
+        "26": 1795302767,
+        "27": 1795312451
       },
       "professions": {
         "Cooking": 225,
@@ -6015,7 +6016,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1322,
+          "raw": 1422,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -6030,12 +6031,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1322,
+          "raw": 1422,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1322,
+          "raw": 1422,
           "tier": 3
         },
         "Orgrimmar": {
@@ -6045,12 +6046,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1322,
+          "raw": 1422,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2545,
+          "raw": 2745,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -6069,16 +6070,16 @@
         "critters": 35,
         "deaths": 46,
         "drinks": 100,
-        "flights": 77,
+        "flights": 79,
         "food": 102,
         "health_potions": 14,
         "hearths": 59,
         "killing_blows": 1036,
         "mana_potions": 31,
         "mobs": 3120,
-        "quests": 165
+        "quests": 167
       },
-      "xp": 35879
+      "xp": 1454
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -7021,7 +7022,7 @@
       },
       "ilvl": 13,
       "last_explored": "Durotar",
-      "last_login": 1794864207000,
+      "last_login": 1795311871000,
       "level": 20,
       "level_at": {
         "20": 1794866470
@@ -7038,50 +7039,50 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
           },
           {
             "id": 54504,
             "name": "Tasty Raptor Bites"
           },
           {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
             "id": 56881,
             "name": "Skywall Souffle"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "First Aid": [
           {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
-          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -7092,112 +7093,80 @@
         ],
         "Leatherworking": [
           {
-            "id": 4420,
-            "name": "Deviate Scale Cloak"
-          },
-          {
-            "id": 1353,
-            "name": "Handstitched Leather Boots"
-          },
-          {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
-          },
-          {
             "id": 1356,
             "name": "Light Armor Kit"
-          },
-          {
-            "id": 1360,
-            "name": "Fine Leather Cloak"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 1363,
-            "name": "Embossed Leather Boots"
-          },
-          {
-            "id": 1364,
-            "name": "Embossed Leather Cloak"
-          },
-          {
-            "id": 1367,
-            "name": "Medium Armor Kit"
-          },
-          {
-            "id": 1369,
-            "name": "Gray Leather Boots"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
-          },
-          {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
-          },
-          {
-            "id": 2164,
-            "name": "Embossed Leather Gloves"
-          },
-          {
-            "id": 2167,
-            "name": "Embossed Leather Pants"
-          },
-          {
-            "id": 2170,
-            "name": "Fine Leather Tunic"
-          },
-          {
-            "id": 2171,
-            "name": "Hillman's Leather Vest"
-          },
-          {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
-            "id": 4988,
-            "name": "Handstitched Leather Bracers"
           },
           {
             "id": 4989,
             "name": "Light Leather Quiver"
           },
           {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
           },
           {
-            "id": 4992,
-            "name": "Light Leather Bracers"
+            "id": 11756,
+            "name": "Medium Leather"
           },
           {
-            "id": 4993,
-            "name": "Light Leather Pants"
+            "id": 55207,
+            "name": "Black Whelp Slippers"
           },
           {
             "id": 2172,
             "name": "Fine Leather Belt"
           },
           {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
             "id": 2195,
             "name": "Cured Light Hide"
           },
           {
-            "id": 2196,
-            "name": "Cured Medium Hide"
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
           },
           {
             "id": 3343,
             "name": "Kodo Hide Bag"
           },
           {
-            "id": 11756,
-            "name": "Medium Leather"
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 2171,
+            "name": "Hillman's Leather Vest"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
           },
           {
             "id": 4156,
@@ -7212,16 +7181,48 @@
             "name": "Moonglow Boots"
           },
           {
-            "id": 55205,
-            "name": "Murloc Scale Shoes"
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
           },
           {
             "id": 55206,
             "name": "Dark Leather Boots"
           },
           {
-            "id": 55207,
-            "name": "Black Whelp Slippers"
+            "id": 4420,
+            "name": "Deviate Scale Cloak"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
           }
         ],
         "Skinning": [
@@ -7238,7 +7239,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 625,
+          "raw": 803,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -7253,12 +7254,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 625,
+          "raw": 803,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 625,
+          "raw": 803,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -7273,12 +7274,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 625,
+          "raw": 803,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 750,
+          "raw": 1106,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -7301,17 +7302,16 @@
       "stats": {
         "critters": 27,
         "deaths": 2,
-        "flights": 19,
+        "flights": 20,
         "food": 3,
         "health_potions": 3,
         "hearths": 1,
-        "killing_blows": 963,
+        "killing_blows": 1005,
         "mana_potions": 2,
-        "mobs": 1336,
-        "need_rolls": 7,
-        "quests": 131
+        "mobs": 1379,
+        "quests": 134
       },
-      "xp": 3789
+      "xp": 10727
     },
     "eu:erna-sturmtanz": {
       "achievements": {
@@ -21956,7 +21956,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795310819000,
+      "last_login": 1795311854000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -25685,7 +25685,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795311801,
+  "saved_at": 1795312453,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
