@@ -12827,11 +12827,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 279833,
-        "ilvl": 55,
-        "name": "Courier's Clasp",
-        "quality": "RARE",
-        "slot": "Neck"
+        "id": 10455,
+        "ilvl": 60,
+        "name": "Chained Essence of Eranikus",
+        "quality": "UNCOMMON",
+        "slot": "Trinket 2"
       },
       "boss_kills": {
         "1092": {
@@ -12889,6 +12889,11 @@
           "count": 1,
           "instance": "Maraudon"
         },
+        "6144": {
+          "boss": "Shade of Eranikus",
+          "count": 1,
+          "instance": "Sunken Temple"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -12944,6 +12949,10 @@
           "name": "Branded Leather Bracers",
           "quality": "RARE"
         },
+        "22274": {
+          "name": "Grizzled Pelt",
+          "quality": "RARE"
+        },
         "270043": {
           "name": "Dreamer's Chestguard",
           "quality": "RARE"
@@ -12958,6 +12967,10 @@
         },
         "275044": {
           "name": "Bloodsport Band",
+          "quality": "RARE"
+        },
+        "276732": {
+          "name": "Alcaz Willcrusher",
           "quality": "RARE"
         },
         "276744": {
@@ -12985,9 +12998,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 51,
+      "ilvl": 52,
       "last_explored": "Swamp of Sorrows",
-      "last_login": 1795353204000,
+      "last_login": 1795376827000,
       "level": 53,
       "level_at": {
         "45": 1794866470,
@@ -12999,9 +13012,9 @@
         "53": 1795353919
       },
       "professions": {
-        "Alchemy": 243,
+        "Alchemy": 254,
         "Cooking": 300,
-        "First Aid": 251,
+        "First Aid": 258,
         "Fishing": 175,
         "Herbalism": 300
       },
@@ -13092,6 +13105,10 @@
           {
             "id": 2909,
             "name": "Lesser Stoneshield Potion"
+          },
+          {
+            "id": 6016,
+            "name": "Ghost Dye"
           },
           {
             "id": 6009,
@@ -13544,22 +13561,22 @@
           "tier": 5
         }
       },
-      "spec": "Restoration",
+      "spec": "Feral Combat",
       "stats": {
-        "critters": 115,
-        "deaths": 47,
-        "drinks": 190,
-        "flights": 229,
-        "food": 246,
+        "critters": 143,
+        "deaths": 48,
+        "drinks": 194,
+        "flights": 233,
+        "food": 247,
         "health_potions": 80,
-        "hearths": 52,
+        "hearths": 54,
         "honorable_kills": 1,
-        "killing_blows": 4690,
+        "killing_blows": 4722,
         "mana_potions": 8,
-        "mobs": 8808,
-        "quests": 682
+        "mobs": 9199,
+        "quests": 694
       },
-      "xp": 1676
+      "xp": 105003
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -24401,7 +24418,8 @@
           "🗝️ **[Maraudon](https://www.wowhead.com/forever/de/search?q=Maraudon)** zum ersten Mal abgeschlossen",
           "🤝 **Respektvoll** bei Donnerfels",
           "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)",
-          "🎖️ [Erkundet Sümpfe des Elends](https://www.wowhead.com/forever/de/achievement=782)"
+          "🎖️ [Erkundet Sümpfe des Elends](https://www.wowhead.com/forever/de/achievement=782)",
+          "🗝️ **[Versunkener Tempel](https://www.wowhead.com/forever/de/search?q=Versunkener%20Tempel)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Druid",
@@ -24625,6 +24643,7 @@
     "Aku'mai": "Aku'mai",
     "Aku'mai kills (Blackfathom Deeps)": "Siege über Aku'mai (Blackfathom-Tiefe)",
     "Alcaz Prison": "Das Gefängnis von Alcaz",
+    "Alcaz Willcrusher": "Willensbrecher von Alcaz",
     "Alchemy Recipes learned": "Erlernte Alchemierezepte",
     "Algae Fists": "Algenfäuste",
     "Alliance": "Allianz",
@@ -24849,6 +24868,7 @@
     "Cerulean Ring of the Sorcerer": "Himmelblauer Ring des Zauberers",
     "Cerulean Talisman of Agility": "Himmelblauer Talisman der Beweglichkeit",
     "Chain of the Scarlet Crusade": "Kettenrüstung des Scharlachroten Kreuzzugs",
+    "Chained Essence of Eranikus": "Gebundene Essenz des Eranikus",
     "Champion of the Light": "Champion des Lichts",
     "Chanting Blade": "Singende Klinge",
     "Character": "Charakter",
@@ -24870,6 +24890,7 @@
     "Cloak of the Cult": "Umhang des Kults",
     "Clobrok's Block Rock": "Clobroks Brockenfels",
     "Cloth": "Stoff",
+    "Cloud of Chained Essence": "Wolke der angeketteten Essenz",
     "Cobalt Legguards": "Kobaltblaue Beinschützer",
     "Cobrahn's Grasp": "Kobrahns Griff",
     "Cold Blood": "Kaltblütigkeit",
@@ -25209,6 +25230,7 @@
     "Grimtoll Wristguards": "Handgelenksschutz des dunklen Tributs",
     "Grip of Fear": "Griff der Angst",
     "Grizzled Boots": "Ergraute Stiefel",
+    "Grizzled Pelt": "Ergrauter Pelz",
     "Grizzly Gloves": "Grizzly-Handschuhe",
     "Grizzly Pants of Intellect": "Grizzly-Hose der Intelligenz",
     "Grunt's Handwraps of the Boar": "Grunzerhandlappen des Ebers",
@@ -25737,6 +25759,8 @@
     "Serrated Knife": "Sägemesser",
     "Setup": "Reinlegen",
     "Sewing Gloves": "Näh-Handschuhe",
+    "Shade of Eranikus": "Eranikus' Schemen",
+    "Shade of Eranikus kills (Sunken Temple)": "Siege über Eranikus' Schemen (Versunkener Tempel)",
     "Shade of the Archmage": "den Schemen des Erzmagiers",
     "Shade of the Archmage Kills (City of Dalaran)": "Siege über den Schemen des Erzmagiers (Dalaran)",
     "Shadecaster's Leggings": "Gamaschen des Düsterzauberers",
@@ -25868,6 +25892,7 @@
     "Summon Warhorse": "Schlachtross beschwören",
     "Summoner's Wand": "Zauberstab des Beschwörers",
     "Summons accepted": "Beschwörungen angenommen",
+    "Sunken Temple": "Versunkener Tempel",
     "Superior Bracers of the Bandit": "Überragende Armschienen des Banditen",
     "Superior Shoulders of the Beast": "Überragende Schultern der Bestie",
     "Superior Shoulders of the Monkey": "Überragende Schultern des Affen",
@@ -26111,6 +26136,9 @@
         "Ruins of Lordaeron": "eu:krakmor-ci%C3%B3rdan",
         "Scarlet Monastery: Cathedral": "eu:krakmor-ci%C3%B3rdan",
         "Shadowfang Keep": "eu:krakmor-ci%C3%B3rdan",
+        "Sunken Temple": [
+          "eu:krakmor-ci%C3%B3rdan"
+        ],
         "The Deadmines": "eu:vlad-impalar",
         "The Stockade": "us:steel-appeal",
         "Uldaman": [
@@ -26124,7 +26152,16 @@
       },
       "raid": {}
     },
-    "firsts_pending": {},
+    "firsts_pending": {
+      "dungeon|Sunken Temple": {
+        "keys": [
+          "eu:krakmor-ci%C3%B3rdan"
+        ],
+        "kind": "dungeon",
+        "since": 1795377259,
+        "what": "Sunken Temple"
+      }
+    },
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -27104,7 +27141,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795376375,
+  "saved_at": 1795377260,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
