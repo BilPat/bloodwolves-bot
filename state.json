@@ -7612,9 +7612,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/48/117476144-avatar.jpg",
       "best_item": {
-        "id": 11287,
-        "ilvl": 15,
-        "name": "Lesser Magic Wand",
+        "id": 11288,
+        "ilvl": 23,
+        "name": "Greater Magic Wand",
         "quality": "UNCOMMON",
         "slot": "Ranged"
       },
@@ -7623,9 +7623,9 @@
       "dungeons": {},
       "first_seen": 1795289063,
       "gear": {},
-      "ilvl": 3,
+      "ilvl": 4,
       "last_explored": "Durotar",
-      "last_login": 1795366244000,
+      "last_login": 1795368390000,
       "level": 14,
       "level_at": {
         "12": 1795289063,
@@ -7637,7 +7637,7 @@
         "Cooking": 97,
         "First Aid": 45,
         "Fishing": 106,
-        "Herbalism": 53
+        "Herbalism": 54
       },
       "race": "Undead",
       "raids": {},
@@ -7765,37 +7765,38 @@
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2096,
+          "raw": 2123,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Neutral",
-          "raw": 2096,
+          "raw": 2123,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 596,
+          "raw": 623,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9145,
+          "raw": 9430,
           "tier": 5
         }
       },
       "spec": "Affliction",
       "stats": {
+        "deaths": 1,
         "drinks": 1,
-        "flights": 1,
+        "flights": 2,
         "food": 2,
         "health_potions": 2,
-        "hearths": 2,
-        "killing_blows": 389,
-        "mobs": 453,
-        "quests": 77
+        "hearths": 3,
+        "killing_blows": 418,
+        "mobs": 482,
+        "quests": 82
       },
-      "xp": 913
+      "xp": 5393
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -15867,6 +15868,8 @@
     },
     "eu:mia-graufuss": {
       "achievements": {
+        "62000": "Novice Priest",
+        "62006": "Novice Shaman",
         "728": "Explore Durotar"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/64/14583104-avatar.jpg",
@@ -15884,7 +15887,7 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": "Durotar",
-      "last_login": 1794579330000,
+      "last_login": 1795368459000,
       "level": 15,
       "level_at": {
         "15": 1794866470
@@ -15957,22 +15960,22 @@
             "name": "Minor Healing Potion"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
-          {
             "id": 52641,
             "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
           {
-            "id": 4345,
-            "name": "Fishing"
-          },
-          {
             "id": 52639,
             "name": "Fish Bowl"
+          },
+          {
+            "id": 4345,
+            "name": "Fishing"
           }
         ],
         "Mining": [
@@ -17740,6 +17743,433 @@
         "quests": 83
       },
       "xp": 14293
+    },
+    "eu:quantino-pralino": {
+      "achievements": {
+        "61502": "Novice Druid",
+        "61997": "Novice Paladin",
+        "736": "Explore Mulgore",
+        "847": "Explore Stonetalon Mountains",
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/141/82963597-avatar.jpg",
+      "best_item": {
+        "id": 252512,
+        "ilvl": 30,
+        "name": "Brawler's Leather Helm",
+        "quality": "RARE",
+        "slot": "Head"
+      },
+      "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
+        }
+      },
+      "class": "Druid",
+      "dungeons": {},
+      "first_seen": 1795369205,
+      "gear": {
+        "10411": {
+          "name": "Footpads of the Fang",
+          "quality": "RARE"
+        },
+        "252450": {
+          "name": "Defender's Leather Tunic",
+          "quality": "RARE"
+        },
+        "252512": {
+          "name": "Brawler's Leather Helm",
+          "quality": "RARE"
+        },
+        "270018": {
+          "name": "Hammerbone",
+          "quality": "RARE"
+        },
+        "270032": {
+          "name": "Cultist's Armguards",
+          "quality": "RARE"
+        },
+        "273647": {
+          "name": "Worgpelt Leggings",
+          "quality": "RARE"
+        },
+        "4253": {
+          "name": "Toughened Leather Gloves",
+          "quality": "RARE"
+        },
+        "6321": {
+          "name": "Silverlaine's Family Seal",
+          "quality": "RARE"
+        },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 21,
+      "last_explored": "Stonetalon Mountains",
+      "last_login": 1795294918000,
+      "level": 28,
+      "level_at": {
+        "28": 1795369205
+      },
+      "professions": {
+        "Cooking": 1,
+        "Fishing": 9,
+        "Leatherworking": 127,
+        "Skinning": 176
+      },
+      "race": "Tauren",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2197,
+            "name": "Cured Heavy Hide"
+          },
+          {
+            "id": 2179,
+            "name": "Toughened Leather Gloves"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 5048,
+            "name": "Heavy Leather Ammo Pouch"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 3343,
+            "name": "Kodo Hide Bag"
+          },
+          {
+            "id": 55154,
+            "name": "Brawler's Leather Helm"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 2177,
+            "name": "Hillman's Shoulders"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 4419,
+            "name": "Deviate Scale Belt"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
+            "id": 2168,
+            "name": "Hillman's Cloak"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 2173,
+            "name": "Hillman's Leather Gloves"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 5047,
+            "name": "Heavy Quiver"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 11757,
+            "name": "Heavy Leather"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 2199,
+            "name": "Heavy Armor Kit"
+          },
+          {
+            "id": 55161,
+            "name": "Defender's Leather Tunic"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 4421,
+            "name": "Deviate Scale Gloves"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
+            "id": 4420,
+            "name": "Deviate Scale Cloak"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          },
+          {
+            "id": 4768,
+            "name": "Skinning"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 400,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 1945,
+          "tier": 3
+        },
+        "Cenarion Circle": {
+          "name": "Neutral",
+          "raw": 2960,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 6543,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 400,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 1945,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 1945,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 8913,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 1945,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Friendly",
+          "raw": 3391,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Honored",
+          "raw": 13623,
+          "tier": 5
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 3568,
+          "tier": 4
+        }
+      },
+      "spec": "Feral Combat",
+      "stats": {
+        "critters": 35,
+        "deaths": 11,
+        "drinks": 4,
+        "flights": 45,
+        "health_potions": 8,
+        "hearths": 7,
+        "honorable_kills": 1,
+        "killing_blows": 1591,
+        "mana_potions": 2,
+        "mobs": 2287,
+        "quests": 224
+      },
+      "xp": 38725
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -23949,6 +24379,24 @@
           "level": 21
         }
       },
+      "eu:mia-graufuss": {
+        "c": {
+          "name": "Mia",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Graufuss"
+        },
+        "lines": [
+          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)",
+          "Neues Reittier: **[Himmelblaue Rudelkralle](https://www.wowhead.com/forever/de/search?q=Himmelblaue%20Rudelkralle)**",
+          "Neues Reittier: **[Treuer Gefährte des Abenteuerveteranen](https://www.wowhead.com/forever/de/search?q=Treuer%20Gef%C3%A4hrte%20des%20Abenteuerveteranen)**"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 15
+        }
+      },
       "eu:mimisiku-meatshield": {
         "c": {
           "name": "Mimisiku",
@@ -24240,6 +24688,7 @@
     "Brawler Gloves": "Muskelprotzhandschuhe",
     "Brawler's Harness": "Muskelprotzharnisch",
     "Brawler's Leather Belt": "Ledergürtel des Grubenkämpfers",
+    "Brawler's Leather Helm": "Lederhelm des Grubenkämpfers",
     "Brawler's Leather Hood": "Lederkapuze des Grubenkämpfers",
     "Brawler's Leather Tunic": "Ledertunika des Grubenkämpfers",
     "Bright Cloak": "Heller Umhang",
@@ -24390,6 +24839,7 @@
     "Defender Cloak of Shadow Wrath": "Verteidigerumhang des Schattenzorns",
     "Defender Gauntlets of the Tiger": "Verteidigerstulpen des Tigers",
     "Defender's Leather Hood": "Lederkapuze des Verteidigers",
+    "Defender's Leather Tunic": "Ledertunika des Verteidigers",
     "Defense": "Verteidigung",
     "Defiance": "Trotz",
     "Defias Jailbreakers": "Ausbrecher der Defias",
@@ -24451,6 +24901,7 @@
     "Dusty Belt": "Staubiger Gürtel",
     "Dusty Mail Boots": "Verstaubte Panzerstiefel",
     "Earth's Grasp": "Griff der Erde",
+    "Earthen Leather Shoulders": "Irdene Lederschultern",
     "Earthen Ring": "Der Irdene Ring",
     "Edward's Knife": "Edwards Messer",
     "Edwin VanCleef": "Edwin van Cleef",
@@ -24658,6 +25109,7 @@
     "Hack and Slash": "Niedermetzeln",
     "Hall of Thanes": "Halle der Thanen",
     "Hamhock's Cleaver": "Hamhocks Spaltbeil",
+    "Hammerbone": "Hammerknochen",
     "Hand of Righteousness": "Hand der Rechtschaffenheit",
     "Hands": "Hände",
     "Handstitched Leather Belt": "Handgenähter Ledergürtel",
@@ -24944,6 +25396,7 @@
     "Nogg's Gold Ring": "Noggs Goldring",
     "Nomad Gloves": "Reisehandschuhe",
     "Nomad Trousers": "Reisebeinkleider",
+    "Notched Shortsword of the Owl": "Schartiges Kurzschwert der Eule",
     "Novice Arcanist's Sash": "Schärpe des Novizenarkanisten",
     "Novice Ardent's Sash": "Schärpe des inbrünstigen Novizen",
     "Number of hugs": "Anzahl an Umarmungen",
@@ -25034,7 +25487,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -25270,6 +25723,7 @@
     "Spiritual Focus": "Spiritueller Fokus",
     "Sporid Cape": "Sporen-Cape",
     "Sprightring Helm": "Rüstringhelm",
+    "Spritekin Cloak": "Grimmlingumhang",
     "Staff": "Stab",
     "Staff of Orgrimmar": "Stab von Orgrimmar",
     "Staff of Westfall": "Stab von Westfall",
@@ -25488,6 +25942,7 @@
     "Worgbinder's Treads": "Treter des Worgbinders",
     "Worgenbane": "Worgenbann",
     "Worgenbane Talisman": "Worgenbann-Talisman",
+    "Worgpelt Leggings": "Worgpelzgamaschen",
     "World": "Welt",
     "World Honorable Kills": "Weltweite ehrenhafte Siege",
     "World Killing Blows": "Todesstöße weltweit",
@@ -25785,7 +26240,10 @@
       "mounts": {}
     },
     "eu:mia-graufuss": {
-      "mounts": {}
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
     },
     "eu:milly-silverwood": {
       "mounts": {
@@ -25818,6 +26276,12 @@
       }
     },
     "eu:pantherra-wolf": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
+    "eu:quantino-pralino": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
@@ -25961,6 +26425,7 @@
       "pandora-snow": "Pandora Snow",
       "pantherra-wolf": "Pantherra Wolf",
       "prophet-eierfred": "Prophet Eierfred",
+      "quantino-pralino": "Quantino Pralino",
       "ragnar-lodhoof": "Ragnar Lodhoof",
       "rausmit-deviechers": "Rausmit Deviechers",
       "redbully-badbully": "Redbully Badbully",
@@ -26039,7 +26504,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 48,
+        "level": 49,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -26075,7 +26540,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 46,
+        "level": 47,
         "name": "Garret",
         "rank": 4,
         "region": "eu",
@@ -26120,7 +26585,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Redbully",
         "rank": 1,
         "region": "eu",
@@ -26210,7 +26675,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Milly",
         "rank": 3,
         "region": "eu",
@@ -26300,7 +26765,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 23,
         "name": "Maniac",
         "rank": 3,
         "region": "eu",
@@ -26327,7 +26792,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Christopher",
         "rank": 4,
         "region": "eu",
@@ -26363,7 +26828,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Kamah",
         "rank": 3,
         "region": "eu",
@@ -26417,7 +26882,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 18,
+        "level": 19,
         "name": "Ogmar",
         "rank": 3,
         "region": "eu",
@@ -26498,18 +26963,27 @@
       {
         "class": null,
         "guild": true,
-        "level": 13,
+        "level": 14,
         "name": "Finn",
         "rank": 1,
         "region": "eu",
         "surname": "Graufuss"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 31,
+        "name": "Quantino",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Pralino"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795368331,
+  "saved_at": 1795369207,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -28270,6 +28744,51 @@
           "quests": 74
         },
         "xp": 6361
+      },
+      "eu:quantino-pralino": {
+        "achievements": 5,
+        "clears": {
+          "Blackfathom Deeps": 1,
+          "Shadowfang Keep": 1,
+          "Wailing Caverns": 1
+        },
+        "epics": [],
+        "level": 28,
+        "professions": {
+          "Cooking": 1,
+          "Fishing": 9,
+          "Leatherworking": 127,
+          "Skinning": 176
+        },
+        "rep": {
+          "Argent Dawn": 400,
+          "Booty Bay": 1945,
+          "Cenarion Circle": 2960,
+          "Darkspear Trolls": 6543,
+          "Durotar Supply and Logistics": 2000,
+          "Earthen Ring": 400,
+          "Everlook": 1945,
+          "Gadgetzan": 1945,
+          "Orgrimmar": 8913,
+          "Powderfuse": 1945,
+          "Ratchet": 3391,
+          "Thunder Bluff": 13623,
+          "Undercity": 3568
+        },
+        "stats": {
+          "critters": 35,
+          "deaths": 11,
+          "drinks": 4,
+          "flights": 45,
+          "health_potions": 8,
+          "hearths": 7,
+          "honorable_kills": 1,
+          "killing_blows": 1591,
+          "mana_potions": 2,
+          "mobs": 2287,
+          "quests": 224
+        },
+        "xp": 38725
       },
       "eu:ragnar-lodhoof": {
         "achievements": 2,
