@@ -4,28 +4,29 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/37/90175525-avatar.jpg",
       "best_item": {
-        "id": 5957,
-        "ilvl": 10,
-        "name": "Handstitched Leather Vest",
+        "id": 282064,
+        "ilvl": 12,
+        "name": "Tim's Lost Rib",
         "quality": "UNCOMMON",
-        "slot": "Chest"
+        "slot": "Main Hand"
       },
       "boss_kills": {},
       "class": "Rogue",
       "dungeons": {},
       "first_seen": 1795121683,
       "gear": {},
-      "ilvl": 2,
+      "ilvl": 3,
       "last_explored": null,
-      "last_login": 1795209712000,
-      "level": 10,
+      "last_login": 1795374419000,
+      "level": 11,
       "level_at": {
-        "10": 1795121683
+        "10": 1795121683,
+        "11": 1795374757
       },
       "professions": {
-        "Cooking": 10,
-        "First Aid": 35,
-        "Leatherworking": 38,
+        "Cooking": 13,
+        "First Aid": 52,
+        "Leatherworking": 42,
         "Skinning": 82
       },
       "race": "Undead",
@@ -33,37 +34,77 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
           },
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "First Aid": [
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Leatherworking": [
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
           {
             "id": 1353,
             "name": "Handstitched Leather Boots"
@@ -73,40 +114,8 @@
             "name": "Handstitched Leather Pants"
           },
           {
-            "id": 1356,
-            "name": "Light Armor Kit"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
-          },
-          {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
-          },
-          {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
             "id": 4988,
             "name": "Handstitched Leather Bracers"
-          },
-          {
-            "id": 2195,
-            "name": "Cured Light Hide"
-          },
-          {
-            "id": 4156,
-            "name": "Handstitched Leather Vest"
-          },
-          {
-            "id": 52647,
-            "name": "Camp Tent"
           },
           {
             "id": 55206,
@@ -127,7 +136,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 650,
+          "raw": 1050,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -147,20 +156,21 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6710,
+          "raw": 7085,
           "tier": 4
         }
       },
-      "spec": "Combat",
+      "spec": "Assassination",
       "stats": {
         "deaths": 3,
-        "food": 4,
-        "health_potions": 3,
-        "killing_blows": 271,
-        "mobs": 279,
-        "quests": 40
+        "food": 5,
+        "health_potions": 4,
+        "hearths": 1,
+        "killing_blows": 299,
+        "mobs": 316,
+        "quests": 47
       },
-      "xp": 5167
+      "xp": 2792
     },
     "eu:alto-belli": {
       "achievements": {
@@ -9105,6 +9115,10 @@
           "name": "Leggings of the Fang",
           "quality": "RARE"
         },
+        "271766": {
+          "name": "Heavehammer",
+          "quality": "RARE"
+        },
         "4253": {
           "name": "Toughened Leather Gloves",
           "quality": "RARE"
@@ -9122,10 +9136,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 26,
       "last_explored": "Thousand Needles",
-      "last_login": 1795360343000,
-      "level": 33,
+      "last_login": 1795373281000,
+      "level": 34,
       "level_at": {
         "27": 1794866470,
         "28": 1794950735,
@@ -9133,7 +9147,8 @@
         "30": 1795112290,
         "31": 1795254887,
         "32": 1795300796,
-        "33": 1795343973
+        "33": 1795343973,
+        "34": 1795374757
       },
       "professions": {
         "Cooking": 225,
@@ -9582,7 +9597,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6541,
+          "raw": 6666,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9592,7 +9607,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 100,
+          "raw": 450,
           "tier": 3
         },
         "Everlook": {
@@ -9606,9 +9621,9 @@
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8798,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9123,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
@@ -9622,36 +9637,41 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 14295,
+          "raw": 14645,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5872,
+          "raw": 5997,
           "tier": 4
         },
         "Warsong Outriders": {
           "name": "Neutral",
           "raw": 355,
           "tier": 3
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 46,
-        "deaths": 41,
-        "drinks": 56,
-        "flights": 53,
-        "food": 159,
-        "health_potions": 28,
-        "hearths": 31,
+        "critters": 49,
+        "deaths": 42,
+        "drinks": 63,
+        "flights": 57,
+        "food": 163,
+        "health_potions": 30,
+        "hearths": 33,
         "honorable_kills": 68,
-        "killing_blows": 2141,
+        "killing_blows": 2248,
         "mana_potions": 1,
-        "mobs": 2718,
-        "quests": 263
+        "mobs": 2893,
+        "quests": 276
       },
-      "xp": 35056
+      "xp": 27432
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -10778,22 +10798,23 @@
       },
       "ilvl": 45,
       "last_explored": "The Hinterlands",
-      "last_login": 1795342256000,
-      "level": 48,
+      "last_login": 1795373616000,
+      "level": 49,
       "level_at": {
         "42": 1794866470,
         "44": 1794878167,
         "45": 1794950735,
         "46": 1795224302,
         "47": 1795273985,
-        "48": 1795315195
+        "48": 1795315195,
+        "49": 1795374757
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
-        "Fishing": 209,
-        "Mining": 194,
-        "Skinning": 227
+        "Fishing": 210,
+        "Mining": 197,
+        "Skinning": 240
       },
       "race": "Tauren",
       "raids": {},
@@ -10866,12 +10887,24 @@
             "name": "Mining"
           },
           {
+            "id": 5387,
+            "name": "Smelt Mithril"
+          },
+          {
+            "id": 1846,
+            "name": "Smelt Gold"
+          },
+          {
             "id": 1848,
             "name": "Smelt Tin"
           },
           {
             "id": 52643,
             "name": "Lodestone"
+          },
+          {
+            "id": 2037,
+            "name": "Smelt Steel"
           },
           {
             "id": 1599,
@@ -10892,7 +10925,7 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -18525,
+          "raw": -19775,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -10902,12 +10935,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 7415,
+          "raw": 7665,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12255,
+          "raw": 12530,
           "tier": 5
         },
         "Earthen Ring": {
@@ -10917,37 +10950,37 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5968,
+          "raw": 6093,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6838,
+          "raw": 6963,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 15421,
+          "raw": 15621,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 7128,
+          "raw": 7253,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7660,
+          "raw": 7785,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 20726,
+          "raw": 20851,
           "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 10626,
+          "raw": 10901,
           "tier": 5
         }
       },
@@ -10956,15 +10989,15 @@
         "critters": 102,
         "deaths": 79,
         "drinks": 2,
-        "flights": 107,
-        "food": 179,
-        "health_potions": 132,
-        "hearths": 29,
-        "killing_blows": 4013,
-        "mobs": 6997,
-        "quests": 589
+        "flights": 111,
+        "food": 180,
+        "health_potions": 133,
+        "hearths": 30,
+        "killing_blows": 4072,
+        "mobs": 7057,
+        "quests": 604
       },
-      "xp": 124346
+      "xp": 58518
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -15371,11 +15404,11 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/198/18282182-avatar.jpg",
       "best_item": {
-        "id": 281673,
-        "ilvl": 28,
-        "name": "Loop of Sacrifice",
-        "quality": "UNCOMMON",
-        "slot": "Ring 2"
+        "id": 3732,
+        "ilvl": 30,
+        "name": "Hooded Cowl",
+        "quality": "COMMON",
+        "slot": "Head"
       },
       "boss_kills": {
         "63571": {
@@ -15397,10 +15430,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 17,
+      "ilvl": 19,
       "last_explored": null,
-      "last_login": 1795365337000,
-      "level": 23,
+      "last_login": 1795373385000,
+      "level": 24,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005,
@@ -15409,14 +15442,15 @@
         "19": 1795088356,
         "20": 1795197315,
         "21": 1795204443,
-        "23": 1795365593
+        "23": 1795365593,
+        "24": 1795374757
       },
       "professions": {
         "Cooking": 55,
         "Engineering": 58,
         "First Aid": 55,
         "Fishing": 20,
-        "Mining": 123
+        "Mining": 127
       },
       "race": "Tauren",
       "raids": {},
@@ -15545,7 +15579,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4306,
+          "raw": 4581,
           "tier": 4
         },
         "Everlook": {
@@ -15560,7 +15594,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4718,
+          "raw": 4993,
           "tier": 4
         },
         "Powderfuse": {
@@ -15574,13 +15608,13 @@
           "tier": 3
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8653,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9041,
+          "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7365,
+          "raw": 8352,
           "tier": 4
         }
       },
@@ -15588,17 +15622,17 @@
       "stats": {
         "critters": 1,
         "deaths": 5,
-        "drinks": 7,
+        "drinks": 10,
         "flights": 10,
-        "food": 20,
-        "health_potions": 7,
-        "hearths": 21,
-        "killing_blows": 1114,
+        "food": 26,
+        "health_potions": 8,
+        "hearths": 23,
+        "killing_blows": 1239,
         "mana_potions": 4,
-        "mobs": 1834,
-        "quests": 161
+        "mobs": 2184,
+        "quests": 172
       },
-      "xp": 3524
+      "xp": 19902
     },
     "eu:maul-worf": {
       "achievements": {
@@ -19146,7 +19180,7 @@
       },
       "ilvl": 23,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795369525000,
+      "last_login": 1795373790000,
       "level": 31,
       "level_at": {
         "25": 1794866470,
@@ -19161,7 +19195,7 @@
         "Alchemy": 186,
         "Cooking": 122,
         "Fishing": 75,
-        "Herbalism": 180
+        "Herbalism": 181
       },
       "race": "Tauren",
       "raids": {},
@@ -19400,7 +19434,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6845,
+          "raw": 6895,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -19425,7 +19459,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8832,
+          "raw": 8882,
           "tier": 4
         },
         "Powderfuse": {
@@ -19440,29 +19474,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13831,
+          "raw": 13881,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4338,
+          "raw": 4538,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 19,
-        "deaths": 25,
+        "deaths": 26,
         "drinks": 15,
         "flights": 51,
         "food": 37,
         "health_potions": 6,
-        "hearths": 30,
-        "killing_blows": 1461,
-        "mobs": 2669,
-        "quests": 229
+        "hearths": 31,
+        "killing_blows": 1526,
+        "mobs": 2735,
+        "quests": 231
       },
-      "xp": 22848
+      "xp": 31872
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -22989,7 +23023,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795371922000,
+      "last_login": 1795373307000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -24274,6 +24308,21 @@
           "level": 26
         }
       },
+      "eu:garm-winterhoof": {
+        "c": {
+          "name": "Garm",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Winterhoof"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Orgrimmar"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 34
+        }
+      },
       "eu:garret-aschwind": {
         "c": {
           "name": "Garret",
@@ -24412,11 +24461,12 @@
           "surname": "Menacepuppy"
         },
         "lines": [
-          "🛠️ **Bergbau** auf 75"
+          "🛠️ **Bergbau** auf 75",
+          "🤝 **Wohlwollend** bei Donnerfels"
         ],
         "snap": {
           "class": "Hunter",
-          "level": 21
+          "level": 24
         }
       },
       "eu:mia-graufuss": {
@@ -24586,6 +24636,7 @@
     "Ancestral Knowledge": "Wissen der Ahnen",
     "Ancestral Tunic": "Vorfahren-Tunika",
     "Ancient Heirloom": "Uraltes Erbstück",
+    "Anger Management": "Aggressionskontrolle",
     "Anticipation": "Vorahnung",
     "Apothecary Gloves": "Apotheker-Handschuhe",
     "Apprentice Sash": "Lehrlingsschärpe",
@@ -24604,6 +24655,7 @@
     "Archaedas": "Archaedas",
     "Archaedas kills (Uldaman)": "Siege über Archaedas (Uldaman)",
     "Archaedic Stone of the Falcon": "Archaedischer Stein des Falken",
+    "Archer's Bracers of the Falcon": "Bogenschützen-Armschienen des Falken",
     "Archery Training Gloves": "Ausbildungshandschuhe zum Bogenschießen",
     "Archmage Arugal": "Erzmagier Arugal",
     "Archmage Arugal kills (Shadowfang Keep)": "Siege über Erzmagier Arugal (Burg Schattenfang)",
@@ -24719,6 +24771,7 @@
     "Bloodspiller": "Blutvergießer",
     "Bloodspine Staff": "Blutstachelstab",
     "Bloodsport Band": "Blutsportring",
+    "Bloodthrill": "Rausch des Blutes",
     "Bloom": "Blüte",
     "Blump Family Fishing Pole": "Angel der Familie Blump",
     "Blush Ember Ring": "Rotglutring",
@@ -24891,6 +24944,7 @@
     "Decimation": "Dezimierung",
     "Deckhand's Shirt": "Deckmatrosenhemd",
     "Deep Fathom Ring": "Deepfathom-Ring",
+    "Deep Wounds": "Tiefe Wunden",
     "Defender Cloak of Shadow Wrath": "Verteidigerumhang des Schattenzorns",
     "Defender Gauntlets of the Tiger": "Verteidigerstulpen des Tigers",
     "Defender's Leather Hood": "Lederkapuze des Verteidigers",
@@ -25248,6 +25302,7 @@
     "Idol of Shifting Tides": "Götze der wandelnden Gezeiten",
     "Ignite": "Entzünden",
     "Impact": "Einschlag",
+    "Impale": "Durchbohren",
     "Improved Aspect of the Monkey": "Verbesserter Aspekt des Affen",
     "Improved Bane of Agony": "Verbessertes Omen der Pein",
     "Improved Bloodrage": "Verbesserter Blutrausch",
@@ -25264,6 +25319,7 @@
     "Improved Imp": "Verbesserter Wichtel",
     "Improved Judgement": "Verbessertes Richturteil",
     "Improved Lightning Shield": "Verbesserter Blitzschlagschild",
+    "Improved Overpower": "Verbessertes Überwältigen",
     "Improved Pick Pocket and Distract 01": "Verbesserter Taschendiebstahl und Ablenken 01",
     "Improved Power Word: Shield": "Verbessertes Machtwort: Schild",
     "Improved Regrowth": "Verbessertes Nachwachsen",
@@ -25278,11 +25334,13 @@
     "Improved Scorch": "Verbessertes Versengen",
     "Improved Seals": "Verbesserte Siegel",
     "Improved Shadow Bolt": "Verbesserter Schattenblitz",
+    "Improved Slam": "Verbessertes Zerschmettern",
     "Improved Slice and Dice": "Verbessertes Zerhäckseln",
     "Improved Sprint": "Verbessertes Sprinten",
     "Improved Stings": "Verbesserte Stiche und Bisse",
     "Improved Stormstrike": "Verbesserter Sturmschlag",
     "Improved Sunder Armor": "Verbessertes Rüstung zerreißen",
+    "Improved Tactical Mastery": "Verbesserter Taktiker",
     "Improved Thunder Clap": "Verbesserter Donnerknall",
     "Improved Wrath": "Verbesserter Zorn",
     "Incineration": "Verbrennung",
@@ -25348,6 +25406,7 @@
     "Lightheel Boots": "Leichtfußstiefel",
     "Lightning Reflexes": "Blitzartige Reflexe",
     "Lil Timmy's Peashooter": "Lil Timmys Blasrohr",
+    "Lingering Rage": "Schwelende Wut",
     "Linked Chain Bracers": "Gekettelte Armschienen",
     "Living Spirit": "Geist des Lebens",
     "Long Silken Cloak": "Langer Seidenumhang",
@@ -25413,6 +25472,7 @@
     "Moonglow": "Mondschein",
     "Moonsilver Blade": "Mondsilberklinge",
     "Moonstone Wand": "Mondsteinzauberstab",
+    "Mortal Strike": "Tödlicher Stoß",
     "Most Alliance factions at Exalted": "Meiste Allianzfraktionen auf Ehrfürchtig",
     "Most Horde factions at Exalted": "Meiste Hordefraktionen auf Ehrfürchtig",
     "Most factions at Honored or higher": "Höchste Anzahl Fraktionen auf Wohlwollend oder höher",
@@ -25474,6 +25534,7 @@
     "Overlord's Vambraces of Stamina": "Oberherrenunterarmschienen der Ausdauer",
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
     "Pandemic": "Pandemie",
+    "Panther Armor": "Panther-Rüstung",
     "Patched Leather Boots": "Geflickte Lederstiefel",
     "Patched Leather Gloves": "Geflickte Lederhandschuhe",
     "Patched Leather Shoulderpads": "Geflickte Lederschulterstücke",
@@ -25542,7 +25603,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -25642,6 +25703,7 @@
     "Savage Fury": "Ungezähmte Wut",
     "Savage Trodders": "Wilde Treter",
     "Savannah Bracers": "Savannenarmschienen",
+    "Scaled Cloak of the Bandit": "Schuppenumhang des Banditen",
     "Scaled Leather Headband": "Lederschuppenstirnband",
     "Scarlet Belt": "Scharlachroter Gürtel",
     "Scarlet Boots": "Scharlachrote Stiefel",
@@ -25757,6 +25819,7 @@
     "Southsea Head Bucket": "Südmeertopfhelm",
     "Southsea Mojo Boots": "Südmeermojostiefel",
     "Spare Part Bindings": "Ersatzteilbindungen",
+    "Spearing Strike": "Aufspießender Stoß",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
     "Spell Damage": "Zauberschaden",
     "Spell Damage Vs Humanoids": "Zauberschaden gegen Humanoide",
@@ -25811,6 +25874,7 @@
     "Suppression": "Unterdrückung",
     "Sustaining Ring": "Erhaltender Ring",
     "Swashbuckler Sash": "Schwadroneursschärpe",
+    "Sweeping Strikes": "Weitreichende Stöße",
     "Swift Judgement": "Schnelles Richturteil",
     "Swiftmend": "Rasche Heilung",
     "Swinetusk Shank": "Keilerhauer",
@@ -25972,6 +26036,7 @@
     "Weapon": "Waffe",
     "Weapon Expertise": "Waffenexperte",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
+    "Weaponmaster": "Waffenmeister",
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
@@ -27039,7 +27104,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795372798,
+  "saved_at": 1795374758,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
