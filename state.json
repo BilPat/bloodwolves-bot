@@ -21041,11 +21041,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/218/29133018-avatar.jpg",
       "best_item": {
-        "id": 281305,
-        "ilvl": 31,
-        "name": "Excavation Cloak",
+        "id": 4052,
+        "ilvl": 35,
+        "name": "Insignia Cap",
         "quality": "UNCOMMON",
-        "slot": "Back"
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -21107,9 +21107,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 26,
       "last_explored": "Wetlands",
-      "last_login": 1795295199000,
+      "last_login": 1795324455000,
       "level": 30,
       "level_at": {
         "29": 1795218860,
@@ -21208,7 +21208,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7175,
+          "raw": 7177,
           "tier": 4
         },
         "Gadgetzan": {
@@ -21218,7 +21218,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5055,
+          "raw": 5057,
           "tier": 4
         },
         "High Order": {
@@ -21228,7 +21228,7 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7018,
+          "raw": 7021,
           "tier": 4
         },
         "Kirin Tor": {
@@ -21243,13 +21243,8 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 6786,
+          "raw": 6796,
           "tier": 4
-        },
-        "The League of Arathor": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Wildhammer Clan": {
           "name": "Neutral",
@@ -21269,9 +21264,9 @@
         "killing_blows": 1452,
         "mana_potions": 3,
         "mobs": 2147,
-        "quests": 266
+        "quests": 267
       },
-      "xp": 2501
+      "xp": 2581
     },
     "us:devil-latterday": {
       "achievements": {
@@ -24374,8 +24369,10 @@
     "Incineration": "Verbrennung",
     "Indoctrinated Choker": "Halsreif des Indoktrinierten",
     "Infantry Gauntlets": "Infanteriestulpen",
+    "Infiltrator Gloves of the Falcon": "Spitzelhandschuhe des Falken",
     "Inscribed Leather Boots": "Gravierte Lederstiefel",
     "Insect Swarm": "Insektenschwarm",
+    "Insignia Cap": "Insignien-Kappe",
     "Instant Poison": "Sofort wirkendes Gift",
     "Instant Poison II": "Sofort wirkendes Gift II",
     "Instant Poison III": "Sofort wirkendes Gift III",
@@ -26079,7 +26076,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795324538,
+  "saved_at": 1795325135,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
