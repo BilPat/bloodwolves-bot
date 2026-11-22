@@ -4613,7 +4613,7 @@
       },
       "ilvl": 16,
       "last_explored": null,
-      "last_login": 1795364711000,
+      "last_login": 1795367113000,
       "level": 24,
       "level_at": {
         "21": 1794866470,
@@ -4623,7 +4623,7 @@
       },
       "professions": {
         "Cooking": 96,
-        "First Aid": 100,
+        "First Aid": 114,
         "Fishing": 28,
         "Leatherworking": 111,
         "Skinning": 174
@@ -4635,6 +4635,10 @@
           {
             "id": 4786,
             "name": "Herb Baked Egg"
+          },
+          {
+            "id": 3931,
+            "name": "Dig Rat Stew"
           },
           {
             "id": 1543,
@@ -4705,6 +4709,10 @@
           {
             "id": 52641,
             "name": "First Aid Kit"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
           },
           {
             "id": 1840,
@@ -4938,7 +4946,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4910,
+          "raw": 4947,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4958,7 +4966,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7411,
+          "raw": 7561,
           "tier": 4
         },
         "Powderfuse": {
@@ -4973,30 +4981,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11665,
+          "raw": 11702,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2478,
+          "raw": 2516,
           "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 19,
-        "deaths": 5,
+        "deaths": 6,
         "drinks": 63,
-        "flights": 25,
-        "food": 82,
+        "flights": 26,
+        "food": 83,
         "health_potions": 29,
-        "hearths": 23,
-        "killing_blows": 1123,
+        "hearths": 24,
+        "killing_blows": 1128,
         "mana_potions": 7,
-        "mobs": 1402,
-        "quests": 168
+        "mobs": 1406,
+        "quests": 170
       },
-      "xp": 8291
+      "xp": 14033
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -14142,7 +14150,7 @@
         },
         "6139": {
           "boss": "Charlga Razorflank",
-          "count": 1,
+          "count": 2,
           "instance": "Razorfen Kraul"
         },
         "63571": {
@@ -14228,14 +14236,18 @@
           "name": "Seedcloud Buckler",
           "quality": "RARE"
         },
+        "6690": {
+          "name": "Ferine Leggings",
+          "quality": "RARE"
+        },
         "7753": {
           "name": "Bloodspiller",
           "quality": "RARE"
         }
       },
-      "ilvl": 30,
+      "ilvl": 31,
       "last_explored": "Durotar",
-      "last_login": 1795265381000,
+      "last_login": 1795367212000,
       "level": 33,
       "level_at": {
         "24": 1794866470,
@@ -14629,7 +14641,7 @@
             "name": "Camp Chair"
           },
           {
-            "id": 4768,
+            "id": 5746,
             "name": "Skinning"
           }
         ]
@@ -14701,16 +14713,16 @@
         "critters": 28,
         "deaths": 38,
         "drinks": 31,
-        "flights": 43,
+        "flights": 44,
         "food": 21,
         "health_potions": 43,
-        "hearths": 22,
-        "killing_blows": 1882,
+        "hearths": 23,
+        "killing_blows": 1919,
         "mana_potions": 12,
-        "mobs": 3423,
+        "mobs": 3564,
         "quests": 238
       },
-      "xp": 27579
+      "xp": 38567
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -23156,6 +23168,14 @@
           "name": "Cursed Murloc Eye",
           "quality": "RARE"
         },
+        "281312": {
+          "name": "Fallen Dragon's Scepter",
+          "quality": "RARE"
+        },
+        "281321": {
+          "name": "Giantstone Medallion",
+          "quality": "RARE"
+        },
         "4320": {
           "name": "Spidersilk Boots",
           "quality": "RARE"
@@ -23165,9 +23185,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 23,
       "last_explored": "Wetlands",
-      "last_login": 1795325666000,
+      "last_login": 1795367104000,
       "level": 30,
       "level_at": {
         "28": 1794965196,
@@ -23176,7 +23196,7 @@
       },
       "professions": {
         "Cooking": 65,
-        "Enchanting": 173,
+        "Enchanting": 174,
         "First Aid": 80,
         "Tailoring": 130
       },
@@ -23229,6 +23249,10 @@
           {
             "id": 4368,
             "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 7456,
+            "name": "Enchant Bracer - Lesser Strength"
           },
           {
             "id": 7500,
@@ -23606,7 +23630,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 8546,
+          "raw": 8571,
           "tier": 4
         },
         "Everlook": {
@@ -23621,12 +23645,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6013,
+          "raw": 6038,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8090,
+          "raw": 8115,
           "tier": 4
         },
         "Powderfuse": {
@@ -23641,25 +23665,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 14303,
+          "raw": 14403,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 68,
-        "deaths": 64,
-        "drinks": 695,
-        "flights": 47,
-        "food": 131,
+        "critters": 69,
+        "deaths": 67,
+        "drinks": 713,
+        "flights": 48,
+        "food": 132,
         "health_potions": 48,
-        "hearths": 25,
-        "killing_blows": 1671,
+        "hearths": 26,
+        "killing_blows": 1677,
         "mana_potions": 14,
-        "mobs": 3260,
-        "quests": 276
+        "mobs": 3317,
+        "quests": 279
       },
-      "xp": 15897
+      "xp": 30547
     }
   },
   "craft_board": {
@@ -24497,6 +24521,7 @@
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
     "Fade": "Verblassen",
+    "Fallen Dragon's Scepter": "Szepter des gefallenen Drachen",
     "Fallenroot Longbow": "Langbogen der Leidbringer",
     "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
@@ -24514,6 +24539,7 @@
     "Feral Cord of the Tiger": "Wild-Kordel des Tigers",
     "Feral Instinct": "Instinkt der Wildnis",
     "Feral Swiftness": "Schnelligkeit der Wildnis",
+    "Ferine Leggings": "Ferinen-Gamaschen",
     "Ferocity": "Wildheit",
     "Fighter Broadsword of the Elder": "Kämpferbreitschwert des Ältesten",
     "Filigreed Shining Circlet": "Filigraner glänzender Reif",
@@ -24586,6 +24612,7 @@
     "Gemmed Copper Boots": "Edelsteinbesetzte Kupferstiefel",
     "Ghastly Trousers": "Garstige Beinkleider",
     "Ghostly Mantle": "Geisterhafter Mantel",
+    "Giantstone Medallion": "Riesensteinmedallion",
     "Gift of Nature": "Geschenk der Natur",
     "Glimmering Mail Girdle": "Gleißender Panzergurt",
     "Glinteye Slippers": "Glanzaugenpantoffeln",
@@ -25554,8 +25581,8 @@
     }
   },
   "group_board": {
-    "last": "2026-11-21",
-    "message_id": "1573748174743671028"
+    "last": "2026-11-22",
+    "message_id": "1574110330781442100"
   },
   "officer_board": {
     "message_ids": [
@@ -26482,7 +26509,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795366452,
+  "saved_at": 1795367548,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
