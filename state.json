@@ -9731,7 +9731,7 @@
       },
       "ilvl": 43,
       "last_explored": "Thousand Needles",
-      "last_login": 1795344489000,
+      "last_login": 1795350779000,
       "level": 46,
       "level_at": {
         "40": 1794866470,
@@ -18594,14 +18594,15 @@
       },
       "ilvl": 21,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795274494000,
-      "level": 29,
+      "last_login": 1795351023000,
+      "level": 30,
       "level_at": {
         "25": 1794866470,
         "26": 1794994743,
         "27": 1795081184,
         "28": 1795113062,
-        "29": 1795196609
+        "29": 1795196609,
+        "30": 1795351260
       },
       "professions": {
         "Alchemy": 186,
@@ -18838,7 +18839,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6607,
+          "raw": 6745,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -18863,7 +18864,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8520,
+          "raw": 8657,
           "tier": 4
         },
         "Powderfuse": {
@@ -18878,29 +18879,29 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13181,
+          "raw": 13731,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3726,
+          "raw": 3863,
           "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
         "critters": 19,
-        "deaths": 23,
+        "deaths": 24,
         "drinks": 14,
         "flights": 47,
         "food": 32,
         "health_potions": 6,
-        "hearths": 28,
-        "killing_blows": 1311,
-        "mobs": 2311,
-        "quests": 214
+        "hearths": 29,
+        "killing_blows": 1327,
+        "mobs": 2361,
+        "quests": 220
       },
-      "xp": 27121
+      "xp": 633
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -25386,7 +25387,8 @@
         "eu:khaladin-ronen",
         "eu:kamah-suhtrah",
         "us:aeri-moonglow",
-        "us:whizz-aard"
+        "us:whizz-aard",
+        "eu:redbully-badbully"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -26327,7 +26329,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795350732,
+  "saved_at": 1795351265,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
