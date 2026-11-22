@@ -255,6 +255,10 @@
           "name": "Furs of the Earthen Ring",
           "quality": "RARE"
         },
+        "273028": {
+          "name": "Reliquary Mantle",
+          "quality": "RARE"
+        },
         "273088": {
           "name": "Snake Eye Kaleidoscope",
           "quality": "RARE"
@@ -286,7 +290,7 @@
       },
       "ilvl": 28,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795307047000,
+      "last_login": 1795385386000,
       "level": 31,
       "level_at": {
         "26": 1794866470,
@@ -299,7 +303,7 @@
       "professions": {
         "Blacksmithing": 152,
         "Cooking": 12,
-        "Mining": 156
+        "Mining": 167
       },
       "race": "Undead",
       "raids": {},
@@ -691,20 +695,20 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 51,
-        "deaths": 18,
-        "drinks": 43,
-        "flights": 46,
+        "critters": 56,
+        "deaths": 23,
+        "drinks": 44,
+        "flights": 48,
         "food": 7,
         "health_potions": 19,
-        "hearths": 19,
-        "honorable_kills": 5,
-        "killing_blows": 1912,
+        "hearths": 20,
+        "honorable_kills": 6,
+        "killing_blows": 1991,
         "mana_potions": 3,
-        "mobs": 4074,
+        "mobs": 4249,
         "quests": 233
       },
-      "xp": 31259
+      "xp": 47407
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -2337,7 +2341,7 @@
       "gear": {},
       "ilvl": 5,
       "last_explored": "Durotar",
-      "last_login": 1795346922000,
+      "last_login": 1795384554000,
       "level": 16,
       "level_at": {
         "13": 1794866470,
@@ -27306,7 +27310,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795384501,
+  "saved_at": 1795385586,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
