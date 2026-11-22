@@ -6170,7 +6170,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795375922000,
+      "last_login": 1795380997000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -21839,7 +21839,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 1,
+          "count": 2,
           "instance": "Blackfathom Deeps"
         },
         "63573": {
@@ -21883,7 +21883,7 @@
       },
       "ilvl": 26,
       "last_explored": "Wetlands",
-      "last_login": 1795338814000,
+      "last_login": 1795381035000,
       "level": 30,
       "level_at": {
         "29": 1795218860,
@@ -22031,16 +22031,16 @@
         "critters": 12,
         "deaths": 43,
         "drinks": 9,
-        "flights": 39,
-        "food": 10,
+        "flights": 40,
+        "food": 11,
         "health_potions": 21,
         "hearths": 27,
-        "killing_blows": 1452,
+        "killing_blows": 1534,
         "mana_potions": 3,
-        "mobs": 2147,
+        "mobs": 2330,
         "quests": 267
       },
-      "xp": 2581
+      "xp": 11616
     },
     "us:devil-latterday": {
       "achievements": {
@@ -23124,7 +23124,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795380759000,
+      "last_login": 1795381170000,
       "level": 33,
       "level_at": {
         "31": 1794965196,
@@ -23694,7 +23694,7 @@
         "flights": 102,
         "food": 134,
         "health_potions": 32,
-        "hearths": 57,
+        "hearths": 58,
         "killing_blows": 2245,
         "mobs": 4490,
         "quests": 283
@@ -25319,7 +25319,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -26841,7 +26841,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795380923,
+  "saved_at": 1795381985,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
