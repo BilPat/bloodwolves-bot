@@ -5880,7 +5880,7 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795380847000,
+      "last_login": 1795390536000,
       "level": 27,
       "level_at": {
         "22": 1794866470,
@@ -5894,7 +5894,7 @@
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 232,
+        "Herbalism": 235,
         "Tailoring": 203
       },
       "race": "Undead",
@@ -6523,7 +6523,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1497,
+          "raw": 1547,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -6538,12 +6538,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1497,
+          "raw": 1547,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1497,
+          "raw": 1547,
           "tier": 3
         },
         "Orgrimmar": {
@@ -6553,12 +6553,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1497,
+          "raw": 1547,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2895,
+          "raw": 2995,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -6575,18 +6575,18 @@
       "spec": "Holy",
       "stats": {
         "critters": 35,
-        "deaths": 46,
-        "drinks": 103,
+        "deaths": 47,
+        "drinks": 107,
         "flights": 79,
-        "food": 107,
+        "food": 117,
         "health_potions": 14,
         "hearths": 59,
-        "killing_blows": 1059,
-        "mana_potions": 31,
-        "mobs": 3160,
-        "quests": 171
+        "killing_blows": 1113,
+        "mana_potions": 32,
+        "mobs": 3218,
+        "quests": 172
       },
-      "xp": 10523
+      "xp": 24603
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -7537,11 +7537,12 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795378391000,
-      "level": 21,
+      "last_login": 1795390086000,
+      "level": 22,
       "level_at": {
         "20": 1794866470,
-        "21": 1795378504
+        "21": 1795378504,
+        "22": 1795390772
       },
       "professions": {
         "Cooking": 33,
@@ -7759,12 +7760,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1081,
+          "raw": 1293,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2787,
+          "raw": 2796,
           "tier": 3
         },
         "Earthen Ring": {
@@ -7774,12 +7775,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1081,
+          "raw": 1293,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1081,
+          "raw": 1293,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -7789,27 +7790,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4287,
+          "raw": 4296,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1081,
+          "raw": 1293,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1662,
+          "raw": 2086,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4506,
+          "raw": 4541,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1531,
+          "raw": 1540,
           "tier": 3
         },
         "Windshapers": {
@@ -7820,19 +7821,19 @@
       },
       "spec": "Marksmanship",
       "stats": {
-        "critters": 44,
+        "critters": 51,
         "deaths": 3,
         "drinks": 3,
-        "flights": 20,
+        "flights": 23,
         "food": 4,
         "health_potions": 3,
         "hearths": 1,
-        "killing_blows": 1161,
+        "killing_blows": 1209,
         "mana_potions": 2,
-        "mobs": 1665,
-        "quests": 141
+        "mobs": 1706,
+        "quests": 148
       },
-      "xp": 17341
+      "xp": 445
     },
     "eu:erna-sturmtanz": {
       "achievements": {
@@ -11261,7 +11262,7 @@
       },
       "ilvl": 45,
       "last_explored": "The Hinterlands",
-      "last_login": 1795373616000,
+      "last_login": 1795390066000,
       "level": 49,
       "level_at": {
         "42": 1794866470,
@@ -11455,7 +11456,7 @@
         "flights": 111,
         "food": 180,
         "health_potions": 133,
-        "hearths": 30,
+        "hearths": 31,
         "killing_blows": 4072,
         "mobs": 7057,
         "quests": 604
@@ -27368,7 +27369,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795389892,
+  "saved_at": 1795390772,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
