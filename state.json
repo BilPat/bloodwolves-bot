@@ -14856,6 +14856,7 @@
       "achievements": {
         "62006": "Novice Shaman",
         "62007": "Experienced Shaman",
+        "62012": "Journeyman Alchemist",
         "62018": "Journeyman Enchanter",
         "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
@@ -14882,7 +14883,7 @@
       },
       "ilvl": 5,
       "last_explored": "Thousand Needles",
-      "last_login": 1795351951000,
+      "last_login": 1795356661000,
       "level": 10,
       "level_at": {
         "10": 1795316059
@@ -17798,7 +17799,7 @@
       },
       "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1795355032000,
+      "last_login": 1795355906000,
       "level": 33,
       "level_at": {
         "31": 1794866470,
@@ -19696,7 +19697,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795337735000,
+      "last_login": 1795355765000,
       "level": 40,
       "level_at": {
         "38": 1795221303,
@@ -19706,7 +19707,7 @@
         "Cooking": 169,
         "First Aid": 34,
         "Fishing": 136,
-        "Leatherworking": 165,
+        "Leatherworking": 166,
         "Skinning": 266
       },
       "race": "Windshaper Skyborne",
@@ -20239,19 +20240,19 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 42,
-        "deaths": 17,
-        "drinks": 19,
-        "flights": 129,
-        "food": 96,
-        "health_potions": 14,
+        "critters": 58,
+        "deaths": 19,
+        "drinks": 23,
+        "flights": 133,
+        "food": 98,
+        "health_potions": 16,
         "hearths": 37,
-        "killing_blows": 3664,
-        "mana_potions": 2,
-        "mobs": 5670,
+        "killing_blows": 3753,
+        "mana_potions": 3,
+        "mobs": 6013,
         "quests": 439
       },
-      "xp": 134
+      "xp": 34361
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -23814,6 +23815,21 @@
           "level": 22
         }
       },
+      "eu:lockendotter-bonechrusher": {
+        "c": {
+          "name": "Lockendotter",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Bonechrusher"
+        },
+        "lines": [
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 10
+        }
+      },
       "eu:maniac-menacepuppy": {
         "c": {
           "name": "Maniac",
@@ -26360,7 +26376,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795355716,
+  "saved_at": 1795356831,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
