@@ -1684,9 +1684,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795331561000,
+      "last_login": 1795333001000,
       "level": 28,
       "level_at": {
         "23": 1794866470,
@@ -14831,7 +14831,7 @@
       },
       "ilvl": 5,
       "last_explored": "Thousand Needles",
-      "last_login": 1795316088000,
+      "last_login": 1795333942000,
       "level": 10,
       "level_at": {
         "10": 1795316059
@@ -26203,7 +26203,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795332335,
+  "saved_at": 1795334071,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
