@@ -5373,7 +5373,7 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795301910000,
+      "last_login": 1795311216000,
       "level": 26,
       "level_at": {
         "22": 1794866470,
@@ -6020,7 +6020,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3766,
+          "raw": 3853,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6040,7 +6040,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4460,
+          "raw": 4547,
           "tier": 4
         },
         "Powderfuse": {
@@ -6055,12 +6055,12 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2310,
+          "raw": 2547,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12037,
+          "raw": 12237,
           "tier": 5
         }
       },
@@ -6068,17 +6068,17 @@
       "stats": {
         "critters": 35,
         "deaths": 46,
-        "drinks": 88,
-        "flights": 73,
-        "food": 98,
+        "drinks": 100,
+        "flights": 77,
+        "food": 102,
         "health_potions": 14,
         "hearths": 59,
-        "killing_blows": 971,
+        "killing_blows": 1036,
         "mana_potions": 31,
-        "mobs": 3056,
-        "quests": 162
+        "mobs": 3120,
+        "quests": 165
       },
-      "xp": 19557
+      "xp": 35879
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -6105,7 +6105,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795302418000,
+      "last_login": 1795311351000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -21956,7 +21956,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795305621000,
+      "last_login": 1795310819000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -21966,7 +21966,7 @@
         "Blacksmithing": 169,
         "Cooking": 220,
         "First Aid": 170,
-        "Fishing": 117,
+        "Fishing": 121,
         "Mining": 226
       },
       "race": "Night Elf",
@@ -22518,15 +22518,15 @@
         "critters": 157,
         "deaths": 20,
         "drinks": 2,
-        "flights": 91,
-        "food": 118,
+        "flights": 92,
+        "food": 119,
         "health_potions": 30,
-        "hearths": 50,
+        "hearths": 51,
         "killing_blows": 2196,
-        "mobs": 4291,
+        "mobs": 4293,
         "quests": 273
       },
-      "xp": 18033
+      "xp": 18278
     },
     "us:whizz-aard": {
       "achievements": {
@@ -25685,7 +25685,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795310686,
+  "saved_at": 1795311801,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
