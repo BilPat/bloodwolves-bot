@@ -19277,23 +19277,24 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 23,
       "last_explored": null,
-      "last_login": 1795293423000,
-      "level": 28,
+      "last_login": 1795352117000,
+      "level": 29,
       "level_at": {
         "23": 1794866470,
         "24": 1794928566,
         "26": 1795004429,
         "27": 1795032935,
-        "28": 1795270445
+        "28": 1795270445,
+        "29": 1795353217
       },
       "professions": {
         "Blacksmithing": 115,
         "Cooking": 23,
         "First Aid": 63,
         "Fishing": 50,
-        "Mining": 154
+        "Mining": 158
       },
       "race": "Undead",
       "raids": {},
@@ -19502,7 +19503,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5753,
+          "raw": 5972,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -19527,7 +19528,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7235,
+          "raw": 7453,
           "tier": 4
         },
         "Powderfuse": {
@@ -19542,12 +19543,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3868,
+          "raw": 4743,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11022,
+          "raw": 11241,
           "tier": 5
         }
       },
@@ -19560,12 +19561,12 @@
         "food": 7,
         "health_potions": 8,
         "hearths": 22,
-        "killing_blows": 1344,
+        "killing_blows": 1380,
         "mana_potions": 3,
-        "mobs": 2893,
-        "quests": 171
+        "mobs": 2958,
+        "quests": 180
       },
-      "xp": 27620
+      "xp": 13935
     },
     "eu:thalia-mondrabe": {
       "achievements": {
@@ -26351,7 +26352,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795352081,
+  "saved_at": 1795353222,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
