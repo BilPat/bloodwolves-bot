@@ -1301,7 +1301,7 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795123182000,
+      "last_login": 1795386477000,
       "level": 22,
       "level_at": {
         "21": 1794866470,
@@ -1317,42 +1317,30 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
           },
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "Enchanting": [
           {
-            "id": 7999,
-            "name": "Lesser Magic Wand"
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
           },
           {
-            "id": 8000,
-            "name": "Greater Magic Wand"
-          },
-          {
-            "id": 4352,
-            "name": "Enchant Chest - Lesser Stamina"
-          },
-          {
-            "id": 4360,
-            "name": "Enchant Bracer - Minor Spirit"
-          },
-          {
-            "id": 4362,
-            "name": "Enchant Cloak - Minor Protection"
+            "id": 52649,
+            "name": "Enchanted Lute"
           },
           {
             "id": 7316,
@@ -1363,90 +1351,134 @@
             "name": "Enchant Bracer - Inferior Stamina"
           },
           {
-            "id": 4290,
-            "name": "Enchant Chest - Inferior Stamina"
-          },
-          {
             "id": 4291,
             "name": "Runed Copper Rod"
           },
           {
-            "id": 4292,
-            "name": "Enchant Chest - Minor Absorption"
-          },
-          {
-            "id": 4293,
-            "name": "Enchant Bracer - Minor Deflect"
+            "id": 8000,
+            "name": "Greater Magic Wand"
           },
           {
             "id": 4300,
             "name": "Enchant Cloak - Minor Resistance"
           },
           {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          },
+          {
+            "id": 4360,
+            "name": "Enchant Bracer - Minor Spirit"
+          },
+          {
             "id": 4301,
             "name": "Enchant Bracer - Minor Stamina"
           },
           {
-            "id": 52649,
-            "name": "Enchanted Lute"
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 4362,
+            "name": "Enchant Cloak - Minor Protection"
           },
           {
             "id": 54213,
             "name": "Dust to Motes"
           },
           {
-            "id": 54214,
-            "name": "Novice's Practice Wand"
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
           }
         ],
         "Tailoring": [
           {
-            "id": 6577,
-            "name": "Simple Linen Boots"
+            "id": 2387,
+            "name": "Heavy Woolen Pants"
           },
           {
-            "id": 6578,
-            "name": "Simple Kilt"
+            "id": 2383,
+            "name": "Soft-soled Linen Boots"
           },
           {
-            "id": 55423,
-            "name": "Novice Arcanist's Sash"
-          },
-          {
-            "id": 6576,
-            "name": "Simple Linen Pants"
-          },
-          {
-            "id": 2408,
-            "name": "Brown Linen Pants"
-          },
-          {
-            "id": 2409,
-            "name": "Brown Linen Shirt"
-          },
-          {
-            "id": 4848,
-            "name": "Linen Belt"
+            "id": 3973,
+            "name": "Pearl-clasped Cloak"
           },
           {
             "id": 2359,
             "name": "Bolt of Linen Cloth"
           },
           {
-            "id": 2360,
-            "name": "Linen Cloak"
+            "id": 2408,
+            "name": "Brown Linen Pants"
           },
           {
-            "id": 2361,
-            "name": "Brown Linen Vest"
+            "id": 6578,
+            "name": "Simple Kilt"
+          },
+          {
+            "id": 4848,
+            "name": "Linen Belt"
+          },
+          {
+            "id": 2381,
+            "name": "Heavy Woolen Gloves"
+          },
+          {
+            "id": 55423,
+            "name": "Novice Arcanist's Sash"
+          },
+          {
+            "id": 2409,
+            "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 2367,
+            "name": "Reinforced Linen Cape"
           },
           {
             "id": 2363,
             "name": "Linen Boots"
           },
           {
-            "id": 2364,
-            "name": "Red Linen Shirt"
+            "id": 2380,
+            "name": "Handstitched Linen Britches"
+          },
+          {
+            "id": 2360,
+            "name": "Linen Cloak"
+          },
+          {
+            "id": 2373,
+            "name": "Woolen Boots"
+          },
+          {
+            "id": 2370,
+            "name": "Bolt of Woolen Cloth"
+          },
+          {
+            "id": 6577,
+            "name": "Simple Linen Boots"
+          },
+          {
+            "id": 4708,
+            "name": "Simple Dress"
+          },
+          {
+            "id": 4303,
+            "name": "White Linen Robe"
+          },
+          {
+            "id": 4001,
+            "name": "Linen Bag"
           },
           {
             "id": 2365,
@@ -1457,88 +1489,56 @@
             "name": "Blue Linen Shirt"
           },
           {
-            "id": 2367,
-            "name": "Reinforced Linen Cape"
+            "id": 2364,
+            "name": "Red Linen Shirt"
           },
           {
             "id": 2368,
             "name": "Barbaric Linen Vest"
           },
           {
-            "id": 2370,
-            "name": "Bolt of Woolen Cloth"
-          },
-          {
-            "id": 2371,
-            "name": "Woolen Cape"
-          },
-          {
-            "id": 2373,
-            "name": "Woolen Boots"
-          },
-          {
-            "id": 2378,
-            "name": "Heavy Linen Gloves"
-          },
-          {
-            "id": 2380,
-            "name": "Handstitched Linen Britches"
-          },
-          {
-            "id": 2381,
-            "name": "Heavy Woolen Gloves"
-          },
-          {
-            "id": 2383,
-            "name": "Soft-soled Linen Boots"
-          },
-          {
-            "id": 2384,
-            "name": "Red Woolen Boots"
+            "id": 4709,
+            "name": "White Woolen Dress"
           },
           {
             "id": 2385,
             "name": "Double-stitched Woolen Shoulders"
           },
           {
-            "id": 2387,
-            "name": "Heavy Woolen Pants"
+            "id": 2384,
+            "name": "Red Woolen Boots"
           },
           {
-            "id": 3973,
-            "name": "Pearl-clasped Cloak"
-          },
-          {
-            "id": 4001,
-            "name": "Linen Bag"
-          },
-          {
-            "id": 4002,
-            "name": "Woolen Bag"
-          },
-          {
-            "id": 4708,
-            "name": "Simple Dress"
-          },
-          {
-            "id": 4709,
-            "name": "White Woolen Dress"
-          },
-          {
-            "id": 4302,
-            "name": "Brown Linen Robe"
-          },
-          {
-            "id": 4303,
-            "name": "White Linen Robe"
+            "id": 55436,
+            "name": "Filigreed Shining Gown"
           },
           {
             "id": 52648,
             "name": "Faction Banner"
           },
           {
-            "id": 55436,
-            "name": "Filigreed Shining Gown"
+            "id": 4302,
+            "name": "Brown Linen Robe"
+          },
+          {
+            "id": 2378,
+            "name": "Heavy Linen Gloves"
+          },
+          {
+            "id": 2371,
+            "name": "Woolen Cape"
+          },
+          {
+            "id": 4002,
+            "name": "Woolen Bag"
+          },
+          {
+            "id": 2361,
+            "name": "Brown Linen Vest"
+          },
+          {
+            "id": 6576,
+            "name": "Simple Linen Pants"
           },
           {
             "id": 55366,
@@ -1595,18 +1595,18 @@
       },
       "spec": "Affliction",
       "stats": {
-        "critters": 15,
-        "deaths": 25,
+        "critters": 16,
+        "deaths": 27,
         "drinks": 1,
-        "flights": 14,
+        "flights": 15,
         "food": 8,
-        "health_potions": 22,
+        "health_potions": 23,
         "hearths": 7,
-        "killing_blows": 877,
-        "mobs": 1252,
-        "quests": 121
+        "killing_blows": 916,
+        "mobs": 1286,
+        "quests": 123
       },
-      "xp": 265
+      "xp": 7727
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -10956,7 +10956,7 @@
       },
       "ilvl": 7,
       "last_explored": null,
-      "last_login": 1795127668000,
+      "last_login": 1795387063000,
       "level": 13,
       "level_at": {
         "10": 1795018583,
@@ -10972,86 +10972,62 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
             "id": 4786,
             "name": "Herb Baked Egg"
           },
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "Leatherworking": [
           {
-            "id": 1353,
-            "name": "Handstitched Leather Boots"
-          },
-          {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
-          },
-          {
             "id": 1356,
             "name": "Light Armor Kit"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 1363,
-            "name": "Embossed Leather Boots"
-          },
-          {
-            "id": 1364,
-            "name": "Embossed Leather Cloak"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
-          },
-          {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
-          },
-          {
-            "id": 2164,
-            "name": "Embossed Leather Gloves"
-          },
-          {
-            "id": 2167,
-            "name": "Embossed Leather Pants"
-          },
-          {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
-            "id": 4988,
-            "name": "Handstitched Leather Bracers"
           },
           {
             "id": 4989,
             "name": "Light Leather Quiver"
           },
           {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
           },
           {
-            "id": 4992,
-            "name": "Light Leather Bracers"
+            "id": 1362,
+            "name": "Embossed Leather Vest"
           },
           {
             "id": 2195,
             "name": "Cured Light Hide"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
           },
           {
             "id": 4156,
@@ -11062,12 +11038,36 @@
             "name": "Camp Tent"
           },
           {
+            "id": 58812,
+            "name": "Light Leather Reagent Bag"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
             "id": 55206,
             "name": "Dark Leather Boots"
           },
           {
-            "id": 58812,
-            "name": "Light Leather Reagent Bag"
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
           }
         ],
         "Skinning": [
@@ -25768,7 +25768,7 @@
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -27310,7 +27310,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795386288,
+  "saved_at": 1795387158,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
