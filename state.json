@@ -12312,20 +12312,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 24,
+      "ilvl": 26,
       "last_explored": "Durotar",
-      "last_login": 1795296477000,
-      "level": 30,
+      "last_login": 1795310082000,
+      "level": 31,
       "level_at": {
         "27": 1794866470,
         "28": 1795022064,
         "29": 1795100112,
-        "30": 1795269322
+        "30": 1795269322,
+        "31": 1795310685
       },
       "professions": {
         "Cooking": 27,
         "Enchanting": 54,
-        "Fishing": 11,
+        "Fishing": 13,
         "Tailoring": 118
       },
       "race": "Orc",
@@ -12540,52 +12541,57 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2072,
+          "raw": 2135,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10035,
+          "raw": 10260,
           "tier": 5
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 850,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2072,
+          "raw": 2135,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2072,
+          "raw": 2135,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13103,
+          "raw": 13328,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2072,
+          "raw": 2135,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4045,
+          "raw": 4170,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9005,
+          "raw": 9455,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3308,
+          "raw": 3458,
           "tier": 4
         }
       },
@@ -12593,17 +12599,17 @@
       "stats": {
         "critters": 24,
         "deaths": 12,
-        "drinks": 659,
-        "flights": 63,
-        "food": 235,
+        "drinks": 672,
+        "flights": 67,
+        "food": 240,
         "health_potions": 3,
-        "hearths": 25,
-        "killing_blows": 1471,
+        "hearths": 26,
+        "killing_blows": 1521,
         "mana_potions": 4,
-        "mobs": 2811,
-        "quests": 196
+        "mobs": 2876,
+        "quests": 208
       },
-      "xp": 32138
+      "xp": 13629
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -23342,6 +23348,7 @@
     "Arcane Concentration": "Arkane Konzentration",
     "Arcane Impact": "Arkaner Einschlag",
     "Arcane Meditation": "Arkane Meditation",
+    "Arcane Mind": "Arkaner Geist",
     "Arcane Resistance": "Arkanwiderstand",
     "Arcane Wrath": "Arkaner Zorn",
     "Arced War Axe": "Gekrümmte Kriegsaxt",
@@ -25678,7 +25685,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795310151,
+  "saved_at": 1795310686,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
