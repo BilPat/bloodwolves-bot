@@ -9076,22 +9076,23 @@
       },
       "ilvl": 21,
       "last_explored": "Thousand Needles",
-      "last_login": 1795337709000,
-      "level": 32,
+      "last_login": 1795343292000,
+      "level": 33,
       "level_at": {
         "27": 1794866470,
         "28": 1794950735,
         "29": 1795025807,
         "30": 1795112290,
         "31": 1795254887,
-        "32": 1795300796
+        "32": 1795300796,
+        "33": 1795343973
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 20,
         "Fishing": 183,
         "Leatherworking": 151,
-        "Skinning": 237
+        "Skinning": 240
       },
       "race": "Tauren",
       "raids": {},
@@ -9108,6 +9109,10 @@
           {
             "id": 54504,
             "name": "Tasty Raptor Bites"
+          },
+          {
+            "id": 8624,
+            "name": "Heavy Kodo Stew"
           },
           {
             "id": 1543,
@@ -9529,7 +9534,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6491,
+          "raw": 6541,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9554,7 +9559,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8598,
+          "raw": 8798,
           "tier": 4
         },
         "Powderfuse": {
@@ -9569,12 +9574,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 14245,
+          "raw": 14295,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5822,
+          "raw": 5872,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -9589,16 +9594,16 @@
         "deaths": 40,
         "drinks": 56,
         "flights": 52,
-        "food": 151,
+        "food": 154,
         "health_potions": 27,
-        "hearths": 29,
+        "hearths": 30,
         "honorable_kills": 68,
-        "killing_blows": 2034,
+        "killing_blows": 2081,
         "mana_potions": 1,
-        "mobs": 2611,
-        "quests": 255
+        "mobs": 2658,
+        "quests": 257
       },
-      "xp": 49392
+      "xp": 11274
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -26249,7 +26254,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795343116,
+  "saved_at": 1795343975,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
