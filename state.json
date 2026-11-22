@@ -4613,75 +4613,76 @@
       },
       "ilvl": 16,
       "last_explored": null,
-      "last_login": 1795172966000,
-      "level": 23,
+      "last_login": 1795364711000,
+      "level": 24,
       "level_at": {
         "21": 1794866470,
         "22": 1794947955,
-        "23": 1795106395
+        "23": 1795106395,
+        "24": 1795365593
       },
       "professions": {
         "Cooking": 96,
         "First Aid": 100,
         "Fishing": 28,
         "Leatherworking": 111,
-        "Skinning": 170
+        "Skinning": 174
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
         "Cooking": [
           {
-            "id": 13344,
-            "name": "Smoked Sagefish"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
+            "id": 4786,
+            "name": "Herb Baked Egg"
           },
           {
             "id": 1543,
             "name": "Crab Cake"
           },
           {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
+            "id": 52640,
+            "name": "Basic Campfire"
           },
           {
             "id": 4355,
             "name": "Longjaw Mud Snapper"
           },
           {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
             "id": 4391,
             "name": "Rainbow Fin Albacore"
           },
           {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
             "id": 3964,
             "name": "Boiled Clams"
-          },
-          {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
           }
         ],
         "First Aid": [
@@ -4690,32 +4691,32 @@
             "name": "Anti-Venom"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
-          },
-          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 1840,
-            "name": "Wool Bandage"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
           },
           {
             "id": 54192,
             "name": "Lesser Healing Potion"
           },
           {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
+          },
+          {
             "id": 55747,
             "name": "Simple Poultice"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -4730,202 +4731,202 @@
         ],
         "Leatherworking": [
           {
-            "id": 4419,
-            "name": "Deviate Scale Belt"
-          },
-          {
-            "id": 4420,
-            "name": "Deviate Scale Cloak"
-          },
-          {
-            "id": 4421,
-            "name": "Deviate Scale Gloves"
-          },
-          {
-            "id": 1353,
-            "name": "Handstitched Leather Boots"
-          },
-          {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
           },
           {
             "id": 1356,
             "name": "Light Armor Kit"
           },
           {
-            "id": 1360,
-            "name": "Fine Leather Cloak"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 1363,
-            "name": "Embossed Leather Boots"
-          },
-          {
-            "id": 1364,
-            "name": "Embossed Leather Cloak"
-          },
-          {
-            "id": 1367,
-            "name": "Medium Armor Kit"
-          },
-          {
-            "id": 1368,
-            "name": "Toughened Leather Armor"
-          },
-          {
-            "id": 1369,
-            "name": "Gray Leather Boots"
-          },
-          {
-            "id": 1370,
-            "name": "Dark Leather Cloak"
-          },
-          {
-            "id": 1371,
-            "name": "Dark Leather Tunic"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
+            "id": 4989,
+            "name": "Light Leather Quiver"
           },
           {
             "id": 2162,
             "name": "Handstitched Leather Belt"
           },
           {
-            "id": 2164,
-            "name": "Embossed Leather Gloves"
+            "id": 11756,
+            "name": "Medium Leather"
           },
           {
-            "id": 2167,
-            "name": "Embossed Leather Pants"
+            "id": 1370,
+            "name": "Dark Leather Cloak"
           },
           {
-            "id": 2170,
-            "name": "Fine Leather Tunic"
+            "id": 55207,
+            "name": "Black Whelp Slippers"
           },
           {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
-            "id": 4988,
-            "name": "Handstitched Leather Bracers"
-          },
-          {
-            "id": 4989,
-            "name": "Light Leather Quiver"
-          },
-          {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
-          },
-          {
-            "id": 4992,
-            "name": "Light Leather Bracers"
-          },
-          {
-            "id": 4993,
-            "name": "Light Leather Pants"
-          },
-          {
-            "id": 4996,
-            "name": "Nimble Leather Gloves"
-          },
-          {
-            "id": 5026,
-            "name": "Fletcher's Gloves"
+            "id": 1371,
+            "name": "Dark Leather Tunic"
           },
           {
             "id": 2172,
             "name": "Fine Leather Belt"
           },
           {
-            "id": 2175,
-            "name": "Dark Leather Belt"
-          },
-          {
-            "id": 2177,
-            "name": "Hillman's Shoulders"
-          },
-          {
             "id": 2179,
             "name": "Toughened Leather Gloves"
-          },
-          {
-            "id": 2195,
-            "name": "Cured Light Hide"
-          },
-          {
-            "id": 2196,
-            "name": "Cured Medium Hide"
-          },
-          {
-            "id": 3343,
-            "name": "Kodo Hide Bag"
-          },
-          {
-            "id": 11756,
-            "name": "Medium Leather"
-          },
-          {
-            "id": 4156,
-            "name": "Handstitched Leather Vest"
-          },
-          {
-            "id": 4159,
-            "name": "Dark Leather Pants"
-          },
-          {
-            "id": 52647,
-            "name": "Camp Tent"
-          },
-          {
-            "id": 55184,
-            "name": "Forceful Medium Armor Kit"
           },
           {
             "id": 55185,
             "name": "Mystic Medium Armor Kit"
           },
           {
-            "id": 55191,
-            "name": "Brawler's Leather Gloves"
+            "id": 1362,
+            "name": "Embossed Leather Vest"
           },
           {
-            "id": 55203,
-            "name": "Brawler's Leather Belt"
-          },
-          {
-            "id": 55204,
-            "name": "Moonglow Boots"
+            "id": 2195,
+            "name": "Cured Light Hide"
           },
           {
             "id": 55205,
             "name": "Murloc Scale Shoes"
           },
           {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 3343,
+            "name": "Kodo Hide Bag"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 2177,
+            "name": "Hillman's Shoulders"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 4419,
+            "name": "Deviate Scale Belt"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 55203,
+            "name": "Brawler's Leather Belt"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55191,
+            "name": "Brawler's Leather Gloves"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 4421,
+            "name": "Deviate Scale Gloves"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
             "id": 55206,
             "name": "Dark Leather Boots"
           },
           {
-            "id": 55207,
-            "name": "Black Whelp Slippers"
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
+            "id": 4420,
+            "name": "Deviate Scale Cloak"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
           }
         ],
         "Skinning": [
           {
-            "id": 4768,
-            "name": "Skinning"
-          },
-          {
             "id": 52644,
             "name": "Camp Chair"
+          },
+          {
+            "id": 4768,
+            "name": "Skinning"
           }
         ]
       },
@@ -4937,7 +4938,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4885,
+          "raw": 4910,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4957,7 +4958,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7386,
+          "raw": 7411,
           "tier": 4
         },
         "Powderfuse": {
@@ -4972,30 +4973,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11565,
+          "raw": 11665,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2453,
+          "raw": 2478,
           "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 11,
+        "critters": 19,
         "deaths": 5,
         "drinks": 63,
         "flights": 25,
-        "food": 80,
-        "health_potions": 28,
+        "food": 82,
+        "health_potions": 29,
         "hearths": 23,
-        "killing_blows": 1069,
-        "mana_potions": 5,
-        "mobs": 1347,
-        "quests": 167
+        "killing_blows": 1123,
+        "mana_potions": 7,
+        "mobs": 1402,
+        "quests": 168
       },
-      "xp": 27137
+      "xp": 8291
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -11684,11 +11685,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 6802,
+        "id": 10823,
         "ilvl": 44,
-        "name": "Sword of Omen",
+        "name": "Vanquisher's Sword",
         "quality": "RARE",
-        "slot": "Off Hand"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "1092": {
@@ -11721,6 +11722,11 @@
           "count": 1,
           "instance": "Razorfen Kraul"
         },
+        "6141": {
+          "boss": "Amnennar the Coldbringer",
+          "count": 1,
+          "instance": "Razorfen Downs"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 1,
@@ -11746,6 +11752,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10823": {
+          "name": "Vanquisher's Sword",
+          "quality": "RARE"
+        },
         "1292": {
           "name": "Butcher's Cleaver",
           "quality": "RARE"
@@ -11790,6 +11800,10 @@
           "name": "Quilboar Blaster",
           "quality": "RARE"
         },
+        "274385": {
+          "name": "Abomination Chain",
+          "quality": "RARE"
+        },
         "274599": {
           "name": "Oathbound Bracers",
           "quality": "RARE"
@@ -11831,9 +11845,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 32,
+      "ilvl": 36,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795340342000,
+      "last_login": 1795364696000,
       "level": 39,
       "level_at": {
         "25": 1794866470,
@@ -11937,6 +11951,10 @@
           {
             "id": 3927,
             "name": "Scorpid Surprise"
+          },
+          {
+            "id": 7181,
+            "name": "Goldthorn Tea"
           },
           {
             "id": 4353,
@@ -12265,12 +12283,12 @@
         },
         "Darkspear Raiders": {
           "name": "Neutral",
-          "raw": 110,
+          "raw": 170,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6433,
+          "raw": 6471,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -12300,7 +12318,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8148,
+          "raw": 8186,
           "tier": 4
         },
         "Powderfuse": {
@@ -12315,12 +12333,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5621,
+          "raw": 5658,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16648,
+          "raw": 16798,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -12331,19 +12349,19 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 78,
-        "deaths": 39,
-        "drinks": 39,
-        "flights": 57,
-        "food": 257,
+        "critters": 99,
+        "deaths": 46,
+        "drinks": 42,
+        "flights": 58,
+        "food": 264,
         "health_potions": 35,
-        "hearths": 21,
-        "honorable_kills": 183,
-        "killing_blows": 2972,
-        "mobs": 4816,
-        "quests": 297
+        "hearths": 22,
+        "honorable_kills": 245,
+        "killing_blows": 3076,
+        "mobs": 5140,
+        "quests": 302
       },
-      "xp": 7549
+      "xp": 64267
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -15332,10 +15350,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 14,
+      "ilvl": 17,
       "last_explored": null,
-      "last_login": 1795293273000,
-      "level": 21,
+      "last_login": 1795365337000,
+      "level": 23,
       "level_at": {
         "14": 1794866470,
         "15": 1794912005,
@@ -15343,14 +15361,15 @@
         "18": 1795033546,
         "19": 1795088356,
         "20": 1795197315,
-        "21": 1795204443
+        "21": 1795204443,
+        "23": 1795365593
       },
       "professions": {
         "Cooking": 55,
-        "Engineering": 57,
+        "Engineering": 58,
         "First Aid": 55,
         "Fishing": 20,
-        "Mining": 122
+        "Mining": 123
       },
       "race": "Tauren",
       "raids": {},
@@ -15479,7 +15498,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4162,
+          "raw": 4306,
           "tier": 4
         },
         "Everlook": {
@@ -15494,7 +15513,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4462,
+          "raw": 4718,
           "tier": 4
         },
         "Powderfuse": {
@@ -15509,29 +15528,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8510,
+          "raw": 8653,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6902,
+          "raw": 7365,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
+        "critters": 1,
         "deaths": 5,
-        "drinks": 2,
-        "flights": 9,
-        "food": 14,
+        "drinks": 7,
+        "flights": 10,
+        "food": 20,
         "health_potions": 7,
-        "hearths": 19,
-        "killing_blows": 985,
+        "hearths": 21,
+        "killing_blows": 1114,
         "mana_potions": 4,
-        "mobs": 1430,
-        "quests": 155
+        "mobs": 1834,
+        "quests": 161
       },
-      "xp": 18127
+      "xp": 3524
     },
     "eu:maul-worf": {
       "achievements": {
@@ -22367,11 +22387,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 270050,
-        "ilvl": 34,
-        "name": "Fury Ring",
-        "quality": "UNCOMMON",
-        "slot": "Ring 2"
+        "id": 273028,
+        "ilvl": 33,
+        "name": "Reliquary Mantle",
+        "quality": "RARE",
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -22455,6 +22475,10 @@
           "name": "Shining Silver Breastplate",
           "quality": "RARE"
         },
+        "2933": {
+          "name": "Seal of Wrynn",
+          "quality": "RARE"
+        },
         "6087": {
           "name": "Chausses of Westfall",
           "quality": "RARE"
@@ -22478,7 +22502,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795354926000,
+      "last_login": 1795364987000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -22995,7 +23019,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16656,
+          "raw": 16737,
           "tier": 5
         },
         "Everlook": {
@@ -23010,12 +23034,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6560,
+          "raw": 6641,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7971,
+          "raw": 8052,
           "tier": 4
         },
         "Kirin Tor": {
@@ -23035,7 +23059,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8511,
+          "raw": 8836,
           "tier": 4
         }
       },
@@ -23044,15 +23068,15 @@
         "critters": 157,
         "deaths": 22,
         "drinks": 2,
-        "flights": 97,
-        "food": 131,
+        "flights": 100,
+        "food": 132,
         "health_potions": 32,
-        "hearths": 55,
-        "killing_blows": 2213,
-        "mobs": 4314,
-        "quests": 276
+        "hearths": 56,
+        "killing_blows": 2215,
+        "mobs": 4316,
+        "quests": 283
       },
-      "xp": 30891
+      "xp": 51067
     },
     "us:whizz-aard": {
       "achievements": {
@@ -23806,11 +23830,12 @@
         },
         "lines": [
           "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Alteracgebirge](https://www.wowhead.com/forever/de/achievement=760)"
+          "🎖️ [Erkundet Alteracgebirge](https://www.wowhead.com/forever/de/achievement=760)",
+          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Rogue",
-          "level": 38
+          "level": 39
         }
       },
       "eu:krakmor-ci%C3%B3rdan": {
@@ -24003,6 +24028,7 @@
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
+    "Abomination Chain": "Monstrositätenkette",
     "Aboriginal Cape": "Ureinwohnercape",
     "Accelerant": "Beschleuniger",
     "Acidproof Cloak": "Säurefester Umhang",
@@ -24525,6 +24551,7 @@
     "Footpads of the Fang": "Fußpolster des Giftzahns",
     "Forceful Medium Armor Kit": "Kraftvolles mittleres Rüstungsset",
     "Forest Leather Gloves": "Waldlederhandschuhe",
+    "Forest Leather Mantle": "Waldledermantel",
     "Forest Troll Leggings": "Waldtrollgamaschen",
     "Forsaken Dagger": "Dolch der Verlassenen",
     "Forsaken Greataxe": "Großaxt des Verlassenen",
@@ -24983,6 +25010,7 @@
     "Rath'mael": "Rath'mael",
     "Rath'mael Kills (Ruins of Lordaeron)": "Siege über Rath'mael (Ruinen von Lordaeron)",
     "Ravasaur Trainers": "Ravasaurusausbilder",
+    "Rawhide Boots": "Rohlederstiefel",
     "Razorfen Downs": "Hügel von Razorfen",
     "Razorfen Kraul": "Kral von Razorfen",
     "Razormaw Shorts": "Scharfzahnshorts",
@@ -25088,6 +25116,7 @@
     "Scroll of Imbue Striking": "Schriftrolle der Durchdringung: Schlagen",
     "Seal of Command": "Siegel des Befehls",
     "Seal of Sylvanas": "Siegel von Sylvanas",
+    "Seal of Wrynn": "Siegel von Wrynn",
     "Searing Wound": "Sengende Wunde",
     "Secondary Skills": "Sekundäre Fertigkeiten",
     "Secondary skills at maximum skill": "Sekundäre Fertigkeiten auf maximaler Stufe",
@@ -26445,7 +26474,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795364692,
+  "saved_at": 1795365595,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
