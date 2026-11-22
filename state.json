@@ -7067,7 +7067,7 @@
         },
         "15028": {
           "boss": "Mutanus the Devourer",
-          "count": 1,
+          "count": 2,
           "instance": "Wailing Caverns"
         }
       },
@@ -7075,6 +7075,10 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10411": {
+          "name": "Footpads of the Fang",
+          "quality": "RARE"
+        },
         "10412": {
           "name": "Belt of the Fang",
           "quality": "RARE"
@@ -7082,21 +7086,26 @@
         "252425": {
           "name": "Dark Leather Boots",
           "quality": "RARE"
+        },
+        "273088": {
+          "name": "Snake Eye Kaleidoscope",
+          "quality": "RARE"
         }
       },
-      "ilvl": 13,
+      "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795311871000,
-      "level": 20,
+      "last_login": 1795378391000,
+      "level": 21,
       "level_at": {
-        "20": 1794866470
+        "20": 1794866470,
+        "21": 1795378504
       },
       "professions": {
         "Cooking": 33,
-        "First Aid": 85,
+        "First Aid": 89,
         "Fishing": 4,
-        "Leatherworking": 82,
-        "Skinning": 148
+        "Leatherworking": 97,
+        "Skinning": 150
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -7241,6 +7250,10 @@
             "name": "Camp Tent"
           },
           {
+            "id": 4026,
+            "name": "Murloc Scale Belt"
+          },
+          {
             "id": 55204,
             "name": "Moonglow Boots"
           },
@@ -7303,12 +7316,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 803,
+          "raw": 1081,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2762,
+          "raw": 2787,
           "tier": 3
         },
         "Earthen Ring": {
@@ -7318,12 +7331,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 803,
+          "raw": 1081,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 803,
+          "raw": 1081,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -7333,27 +7346,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4262,
+          "raw": 4287,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 803,
+          "raw": 1081,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1106,
+          "raw": 1662,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4406,
+          "raw": 4506,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1506,
+          "raw": 1531,
           "tier": 3
         },
         "Windshapers": {
@@ -7364,18 +7377,19 @@
       },
       "spec": "Marksmanship",
       "stats": {
-        "critters": 27,
-        "deaths": 2,
+        "critters": 44,
+        "deaths": 3,
+        "drinks": 3,
         "flights": 20,
-        "food": 3,
+        "food": 4,
         "health_potions": 3,
         "hearths": 1,
-        "killing_blows": 1005,
+        "killing_blows": 1161,
         "mana_potions": 2,
-        "mobs": 1379,
-        "quests": 134
+        "mobs": 1665,
+        "quests": 141
       },
-      "xp": 10727
+      "xp": 17341
     },
     "eu:erna-sturmtanz": {
       "achievements": {
@@ -9807,8 +9821,8 @@
       },
       "ilvl": 44,
       "last_explored": "Thousand Needles",
-      "last_login": 1795363892000,
-      "level": 47,
+      "last_login": 1795378435000,
+      "level": 48,
       "level_at": {
         "40": 1794866470,
         "41": 1795031689,
@@ -9817,13 +9831,14 @@
         "44": 1795212804,
         "45": 1795258440,
         "46": 1795344897,
-        "47": 1795364128
+        "47": 1795364128,
+        "48": 1795378504
       },
       "professions": {
         "Blacksmithing": 205,
         "Cooking": 250,
         "First Aid": 225,
-        "Mining": 222
+        "Mining": 230
       },
       "race": "Undead",
       "raids": {},
@@ -10302,6 +10317,10 @@
             "name": "Wool Bandage"
           },
           {
+            "id": 54195,
+            "name": "Superior Healing Potion"
+          },
+          {
             "id": 4414,
             "name": "Silk Bandage"
           },
@@ -10377,7 +10396,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -22450,
+          "raw": -22500,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -10387,12 +10406,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 8064,
+          "raw": 8424,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9271,
+          "raw": 9827,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -10407,12 +10426,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 6144,
+          "raw": 6499,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6934,
+          "raw": 7589,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -10427,27 +10446,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11848,
+          "raw": 12998,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 7432,
+          "raw": 7787,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7641,
+          "raw": 8046,
           "tier": 4
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8942,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9686,
+          "tier": 5
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19965,
+          "raw": 20490,
           "tier": 5
         }
       },
@@ -10455,18 +10474,18 @@
       "stats": {
         "critters": 106,
         "deaths": 11,
-        "drinks": 111,
-        "flights": 77,
-        "food": 113,
+        "drinks": 116,
+        "flights": 86,
+        "food": 117,
         "health_potions": 38,
         "hearths": 31,
         "honorable_kills": 1,
-        "killing_blows": 3912,
+        "killing_blows": 4163,
         "mana_potions": 1,
-        "mobs": 6534,
-        "quests": 554
+        "mobs": 6792,
+        "quests": 587
       },
-      "xp": 232
+      "xp": 39000
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -21556,9 +21575,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 24,
+      "ilvl": 25,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795341088000,
+      "last_login": 1795377224000,
       "level": 29,
       "level_at": {
         "21": 1794866470,
@@ -21646,7 +21665,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 650,
+          "raw": 850,
           "tier": 3
         },
         "Booty Bay": {
@@ -21656,7 +21675,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4511,
+          "raw": 4517,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -21681,7 +21700,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4736,
+          "raw": 4742,
           "tier": 4
         },
         "Powderfuse": {
@@ -21696,30 +21715,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3498,
+          "raw": 3723,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13986,
+          "raw": 13992,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 54,
-        "deaths": 15,
-        "drinks": 1009,
-        "flights": 27,
-        "food": 244,
-        "health_potions": 11,
-        "hearths": 27,
-        "killing_blows": 1618,
-        "mana_potions": 21,
-        "mobs": 2711,
-        "quests": 175
+        "deaths": 16,
+        "drinks": 1041,
+        "flights": 29,
+        "food": 260,
+        "health_potions": 12,
+        "hearths": 28,
+        "killing_blows": 1642,
+        "mana_potions": 22,
+        "mobs": 2771,
+        "quests": 179
       },
-      "xp": 4918
+      "xp": 25042
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -24213,420 +24232,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:aru-tai": {
-        "c": {
-          "name": "Aru",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Tai"
-        },
-        "lines": [
-          "🛠️ **Alchemie** auf 150",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 28
-        }
-      },
-      "eu:barbariana-hunter": {
-        "c": {
-          "name": "Barbariana",
-          "region": "eu",
-          "surname": "Hunter"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 75"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 16
-        }
-      },
-      "eu:blut-leiche": {
-        "c": {
-          "name": "Blut",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Leiche"
-        },
-        "lines": [
-          "Gegenstandsstufe **40**",
-          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
-          "🎖️ [Novice Rogue](https://www.wowhead.com/forever/de/achievement=62003)",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 47
-        }
-      },
-      "eu:boreas-donnerrufer": {
-        "c": {
-          "name": "Boreas",
-          "region": "eu",
-          "surname": "Donnerrufer"
-        },
-        "lines": [
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 22
-        }
-      },
-      "eu:elric-wolfsclan": {
-        "c": {
-          "name": "Elric",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Wolfsclan"
-        },
-        "lines": [
-          "🎖️ [Novice Warrior](https://www.wowhead.com/forever/de/achievement=61499)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 25
-        }
-      },
-      "eu:finn-graufuss": {
-        "c": {
-          "name": "Finn",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
-          "🤝 **Wohlwollend** bei Unterstadt"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 14
-        }
-      },
-      "eu:freya-graufuss": {
-        "c": {
-          "name": "Freya",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
-          "Neues Reittier: **[Himmelblaue Rudelkralle](https://www.wowhead.com/forever/de/search?q=Himmelblaue%20Rudelkralle)**",
-          "Neues Reittier: **[Treuer Gefährte des Abenteuerveteranen](https://www.wowhead.com/forever/de/search?q=Treuer%20Gef%C3%A4hrte%20des%20Abenteuerveteranen)**"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 26
-        }
-      },
-      "eu:garm-winterhoof": {
-        "c": {
-          "name": "Garm",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Winterhoof"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 34
-        }
-      },
-      "eu:garret-aschwind": {
-        "c": {
-          "name": "Garret",
-          "region": "eu",
-          "surname": "Aschwind"
-        },
-        "lines": [
-          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen",
-          "🤝 **Wohlwollend** bei Darkspear"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 47
-        }
-      },
-      "eu:h%C3%A4uptling-blutmacht": {
-        "c": {
-          "name": "Häuptling",
-          "rank_name": "Gildenmeister",
-          "region": "eu",
-          "surname": "Blutmacht"
-        },
-        "lines": [
-          "🎖️ [Erkundet Hinterland](https://www.wowhead.com/forever/de/achievement=773)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 48
-        }
-      },
-      "eu:kamah-suhtrah": {
-        "c": {
-          "name": "Kamah",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Suhtrah"
-        },
-        "lines": [
-          "🛠️ **Schmiedekunst** auf 75",
-          "🛠️ **Bergbau** auf 75",
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
-          "🗝️ **[Blackfathom-Tiefe](https://www.wowhead.com/forever/de/search?q=Blackfathom-Tiefe)** zum ersten Mal abgeschlossen",
-          "🤝 **Wohlwollend** bei Darkspear"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 31
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
-          "🎖️ [Erkundet Alteracgebirge](https://www.wowhead.com/forever/de/achievement=760)",
-          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 39
-        }
-      },
-      "eu:krakmor-ci%C3%B3rdan": {
-        "c": {
-          "name": "Krakmor",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ciórdan"
-        },
-        "lines": [
-          "Gegenstandsstufe **50**",
-          "🗝️ **[Maraudon](https://www.wowhead.com/forever/de/search?q=Maraudon)** zum ersten Mal abgeschlossen",
-          "🤝 **Respektvoll** bei Donnerfels",
-          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)",
-          "🎖️ [Erkundet Sümpfe des Elends](https://www.wowhead.com/forever/de/achievement=782)",
-          "🗝️ **[Versunkener Tempel](https://www.wowhead.com/forever/de/search?q=Versunkener%20Tempel)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 53
-        }
-      },
-      "eu:kreuzaua-scoops": {
-        "c": {
-          "name": "Kreuzaua",
-          "region": "eu",
-          "surname": "Scoops"
-        },
-        "lines": [
-          "🎖️ [Erkundet Mulgore](https://www.wowhead.com/forever/de/achievement=736)",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 24
-        }
-      },
-      "eu:lagertha-graufuss": {
-        "c": {
-          "name": "Lagertha",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 22
-        }
-      },
-      "eu:lockendotter-bonechrusher": {
-        "c": {
-          "name": "Lockendotter",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Bonechrusher"
-        },
-        "lines": [
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
-          "🎖️ [Journeyman Blacksmith](https://www.wowhead.com/forever/de/achievement=62015)"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 10
-        }
-      },
-      "eu:maniac-menacepuppy": {
-        "c": {
-          "name": "Maniac",
-          "region": "eu",
-          "surname": "Menacepuppy"
-        },
-        "lines": [
-          "🛠️ **Bergbau** auf 75",
-          "🤝 **Wohlwollend** bei Donnerfels"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 24
-        }
-      },
-      "eu:mia-graufuss": {
-        "c": {
-          "name": "Mia",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)",
-          "Neues Reittier: **[Himmelblaue Rudelkralle](https://www.wowhead.com/forever/de/search?q=Himmelblaue%20Rudelkralle)**",
-          "Neues Reittier: **[Treuer Gefährte des Abenteuerveteranen](https://www.wowhead.com/forever/de/search?q=Treuer%20Gef%C3%A4hrte%20des%20Abenteuerveteranen)**"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 15
-        }
-      },
-      "eu:mimisiku-meatshield": {
-        "c": {
-          "name": "Mimisiku",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Meatshield"
-        },
-        "lines": [
-          "🛠️ **Schmiedekunst** auf 75",
-          "🎖️ [Novice Warrior](https://www.wowhead.com/forever/de/achievement=61499)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 25
-        }
-      },
-      "eu:ogmar-donnerhammer": {
-        "c": {
-          "name": "Ogmar",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Donnerhammer"
-        },
-        "lines": [
-          "📜 Neuer Beruf: **Angeln**"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 18
-        }
-      },
-      "eu:quantino-pralino": {
-        "c": {
-          "name": "Quantino",
-          "region": "eu",
-          "surname": "Pralino"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 31
-        }
-      },
-      "eu:redbully-badbully": {
-        "c": {
-          "name": "Redbully",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Badbully"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 31
-        }
-      },
-      "eu:thalgrim-tirisfal": {
-        "c": {
-          "name": "Thalgrim",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Tirisfal"
-        },
-        "lines": [
-          "🛠️ **Bergbau** auf 150"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 28
-        }
-      },
-      "eu:thalia-mondrabe": {
-        "c": {
-          "name": "Thalia",
-          "region": "eu",
-          "surname": "Mondrabe"
-        },
-        "lines": [
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 40
-        }
-      },
-      "us:devil-latterday": {
-        "c": {
-          "name": "devil",
-          "region": "us",
-          "surname": "latterday"
-        },
-        "lines": [
-          "🛠️ **Lederverarbeitung** auf 75",
-          "🛠️ **Kürschnerei** auf 150",
-          "🎖️ [Erkundet Wald von Elwynn](https://www.wowhead.com/forever/de/achievement=776)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 23
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 150",
-          "🛠️ **Kochkunst** auf 225"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 32
-        }
-      }
-    },
-    "last": "2026-11-21"
+    "items": {},
+    "last": "2026-11-22"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -24710,6 +24317,7 @@
     "Bandit Bracers of the Owl": "Banditen-Armschienen der Eule",
     "Bandit Cinch of the Boar": "Banditen-Sattelgurt des Ebers",
     "Bandit Gloves of Intellect": "Banditen-Handschuhe der Intelligenz",
+    "Bandit Pants of the Monkey": "Banditen-Hose des Affen",
     "Bands of Serra'kis": "Bänder von Serra'kis",
     "Bandsaw Wristbands": "Bandsägen-Gelenkbänder",
     "Bane": "Dunkle Macht",
@@ -24784,6 +24392,7 @@
     "Bloodied Chestwraps": "Blutige Brustwickel",
     "Bloodmaster's Ring": "Blutmeisterring",
     "Bloodsail Buccaneers": "Blutsegelbukaniere",
+    "Bloodsnout Striker": "Blutschnauzenschläger",
     "Bloodspattered Gloves of Magic": "Blutbespritzte Handschuhe der Magie",
     "Bloodspattered Gloves of the Boar": "Blutbespritzte Handschuhe des Ebers",
     "Bloodspattered Shield of Nature Protection": "Blutbespritzter Schild des Naturschutzes",
@@ -25713,6 +25322,7 @@
     "Rusty Hatchet": "Rostiges Kriegsbeil",
     "Ruthlessness": "Skrupellosigkeit",
     "Sacred Arbiter": "Heiliger Richter",
+    "Sacred Band": "Heiliges Band",
     "Sacred Duty": "Heilige Pflicht",
     "Sacrificial Sword": "Opferschwert",
     "Saltseer's Helm": "Helm des Salzsehers",
@@ -25781,10 +25391,12 @@
     "Shen'dorei Skyseer's Boots": "Stiefel des Shen'dorei-Himmelsdeuters",
     "Shen'dorei Skyseer's Cloak": "Umhang des Shen'dorei-Himmelsdeuters",
     "Shen'dorei Skyseer's Gloves": "Handschuhe des Shen'dorei-Himmelsdeuters",
+    "Shen'dorei Skyseer's Helm": "Helm des Shen'dorei-Himmelsdeuters",
     "Shen'dorei Skyseer's Leggings": "Gamaschen des Shen'dorei-Himmelsdeuters",
     "Shen'dorei Skyseer's Pauldrons": "Schulterstücke des Shen'dorei-Himmelsdeuters",
     "Shen'dorei Skyseer's Robe": "Robe des Shen'dorei-Himmelsdeuters",
     "Shen'dorei Skyseer's Vest": "Weste des Shen'dorei-Himmelsdeuters",
+    "Shen'dorei Tabard": "Wappenrock der Shen'dorei",
     "Shield": "Schild",
     "Shield Slam": "Schildschlag",
     "Shield Specialization": "Schild-Spezialisierung",
@@ -26037,6 +25649,7 @@
     "Wand Specialization": "Zauberstab-Spezialisierung",
     "Wand of Decay": "Zauberstab des Verfalls",
     "War Paint Anklewraps": "Kriegsbemalungsknöchelwickel",
+    "War Paint Cloak": "Kriegsbemalungsumhang",
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
     "Ward of Zum'rah": "Zauberschutz von Zum'rah",
@@ -26063,6 +25676,7 @@
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
     "Weaponmaster": "Waffenmeister",
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
+    "Whelpscale Necklace": "Welpenschuppenhalskette",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
     "Wild Growth": "Wildwuchs",
@@ -27141,7 +26755,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795377260,
+  "saved_at": 1795378506,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
