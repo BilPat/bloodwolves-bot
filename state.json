@@ -1597,6 +1597,7 @@
     "eu:aru-tai": {
       "achievements": {
         "62006": "Novice Shaman",
+        "62012": "Journeyman Alchemist",
         "728": "Explore Durotar"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/101/11425125-avatar.jpg",
@@ -1683,9 +1684,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 23,
       "last_explored": "Durotar",
-      "last_login": 1795293397000,
+      "last_login": 1795331561000,
       "level": 28,
       "level_at": {
         "23": 1794866470,
@@ -1695,9 +1696,9 @@
         "28": 1795292738
       },
       "professions": {
-        "Alchemy": 125,
+        "Alchemy": 165,
         "Fishing": 18,
-        "Herbalism": 128
+        "Herbalism": 129
       },
       "race": "Orc",
       "raids": {},
@@ -1740,6 +1741,10 @@
             "name": "Minor Rejuvenation Potion"
           },
           {
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
+          },
+          {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
           },
@@ -1750,6 +1755,10 @@
           {
             "id": 54456,
             "name": "Sulfuric Acid"
+          },
+          {
+            "id": 4394,
+            "name": "Fire Oil"
           },
           {
             "id": 1832,
@@ -1797,12 +1806,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1336,
+          "raw": 1348,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7591,
+          "raw": 7710,
           "tier": 4
         },
         "Earthen Ring": {
@@ -1812,55 +1821,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1336,
+          "raw": 1348,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1336,
+          "raw": 1348,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9853,
+          "raw": 9972,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1336,
+          "raw": 1348,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2172,
+          "raw": 2197,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6706,
+          "raw": 7231,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5628,
+          "raw": 5747,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 32,
-        "deaths": 19,
+        "deaths": 20,
         "drinks": 17,
-        "flights": 52,
+        "flights": 53,
         "food": 10,
         "health_potions": 8,
-        "hearths": 23,
-        "killing_blows": 1362,
+        "hearths": 24,
+        "killing_blows": 1373,
         "mana_potions": 30,
-        "mobs": 2601,
-        "quests": 170
+        "mobs": 2614,
+        "quests": 177
       },
-      "xp": 22309
+      "xp": 36580
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -23509,6 +23518,22 @@
   },
   "daily_digest": {
     "items": {
+      "eu:aru-tai": {
+        "c": {
+          "name": "Aru",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Tai"
+        },
+        "lines": [
+          "🛠️ **Alchemie** auf 150",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 28
+        }
+      },
       "eu:blut-leiche": {
         "c": {
           "name": "Blut",
@@ -26178,7 +26203,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795330473,
+  "saved_at": 1795331714,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
