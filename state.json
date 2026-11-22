@@ -274,9 +274,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 27,
+      "ilvl": 28,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795264581000,
+      "last_login": 1795307047000,
       "level": 31,
       "level_at": {
         "26": 1794866470,
@@ -289,7 +289,7 @@
       "professions": {
         "Blacksmithing": 152,
         "Cooking": 12,
-        "Mining": 153
+        "Mining": 156
       },
       "race": "Undead",
       "raids": {},
@@ -630,7 +630,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5282,
+          "raw": 5413,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -655,7 +655,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5545,
+          "raw": 5751,
           "tier": 4
         },
         "Powderfuse": {
@@ -670,31 +670,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4271,
+          "raw": 4402,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 17582,
+          "raw": 18032,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 51,
-        "deaths": 17,
-        "drinks": 42,
-        "flights": 44,
-        "food": 6,
+        "deaths": 18,
+        "drinks": 43,
+        "flights": 46,
+        "food": 7,
         "health_potions": 19,
         "hearths": 19,
         "honorable_kills": 5,
-        "killing_blows": 1853,
+        "killing_blows": 1912,
         "mana_potions": 3,
-        "mobs": 4017,
-        "quests": 227
+        "mobs": 4074,
+        "quests": 233
       },
-      "xp": 3281
+      "xp": 31259
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -732,18 +732,19 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795304009000,
-      "level": 25,
+      "last_login": 1795306849000,
+      "level": 26,
       "level_at": {
         "24": 1795289063,
-        "25": 1795292020
+        "25": 1795292020,
+        "26": 1795307877
       },
       "professions": {
         "Cooking": 32,
         "Enchanting": 135,
         "First Aid": 83,
         "Fishing": 1,
-        "Tailoring": 121
+        "Tailoring": 125
       },
       "race": "Undead",
       "raids": {},
@@ -870,6 +871,10 @@
           {
             "id": 4364,
             "name": "Enchant Bracer - Minor Agility"
+          },
+          {
+            "id": 4404,
+            "name": "Enchant Boots - Minor Agility"
           },
           {
             "id": 4402,
@@ -1078,6 +1083,10 @@
             "name": "Green Linen Bracers"
           },
           {
+            "id": 4003,
+            "name": "Small Silk Pack"
+          },
+          {
             "id": 4311,
             "name": "Greater Adept's Robe"
           },
@@ -1112,6 +1121,10 @@
           {
             "id": 52648,
             "name": "Faction Banner"
+          },
+          {
+            "id": 2395,
+            "name": "Azure Silk Vest"
           },
           {
             "id": 4302,
@@ -1168,7 +1181,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4803,
+          "raw": 4860,
           "tier": 4
         },
         "Everlook": {
@@ -1183,7 +1196,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7042,
+          "raw": 7098,
           "tier": 4
         },
         "Powderfuse": {
@@ -1198,12 +1211,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4625,
+          "raw": 4756,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14285,
+          "raw": 14435,
           "tier": 5
         }
       },
@@ -1212,16 +1225,16 @@
         "critters": 11,
         "deaths": 8,
         "drinks": 71,
-        "flights": 34,
+        "flights": 35,
         "food": 1,
         "health_potions": 19,
-        "hearths": 12,
-        "killing_blows": 1340,
+        "hearths": 13,
+        "killing_blows": 1353,
         "mana_potions": 2,
-        "mobs": 2161,
-        "quests": 219
+        "mobs": 2174,
+        "quests": 223
       },
-      "xp": 29374
+      "xp": 36
     },
     "eu:archibald-white": {
       "achievements": {
@@ -8492,7 +8505,7 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1795304386000,
+      "last_login": 1795306620000,
       "level": 26,
       "level_at": {
         "26": 1794866470
@@ -21935,7 +21948,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795283903000,
+      "last_login": 1795305621000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -21945,7 +21958,7 @@
         "Blacksmithing": 169,
         "Cooking": 220,
         "First Aid": 170,
-        "Fishing": 102,
+        "Fishing": 117,
         "Mining": 226
       },
       "race": "Night Elf",
@@ -22498,14 +22511,14 @@
         "deaths": 20,
         "drinks": 2,
         "flights": 91,
-        "food": 116,
+        "food": 118,
         "health_potions": 30,
         "hearths": 50,
-        "killing_blows": 2185,
-        "mobs": 4280,
+        "killing_blows": 2196,
+        "mobs": 4291,
         "quests": 273
       },
-      "xp": 14543
+      "xp": 18033
     },
     "us:whizz-aard": {
       "achievements": {
@@ -24071,6 +24084,7 @@
     "Medium Armor Kit": "Mittleres Rüstungsset",
     "Mekgineer Thermaplugg": "Robogenieur Thermadraht",
     "Mekgineer Thermaplugg kills (Gnomeregan)": "Siege über Robogenieur Thermadraht (Gnomeregan)",
+    "Mental Agility": "Mentale Beweglichkeit",
     "Mental Dexterity": "Geistige Gewandtheit",
     "Mental Quickness": "Geistige Schnelligkeit",
     "Mental Strength": "Mentale Stärke",
@@ -25647,7 +25661,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795305304,
+  "saved_at": 1795307878,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
