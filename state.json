@@ -7578,19 +7578,20 @@
       "dungeons": {},
       "first_seen": 1795289063,
       "gear": {},
-      "ilvl": 2,
+      "ilvl": 3,
       "last_explored": "Durotar",
-      "last_login": 1795304091000,
-      "level": 12,
+      "last_login": 1795313438000,
+      "level": 13,
       "level_at": {
-        "12": 1795289063
+        "12": 1795289063,
+        "13": 1795314038
       },
       "professions": {
-        "Alchemy": 6,
+        "Alchemy": 20,
         "Cooking": 97,
-        "First Aid": 38,
+        "First Aid": 45,
         "Fishing": 106,
-        "Herbalism": 32
+        "Herbalism": 46
       },
       "race": "Undead",
       "raids": {},
@@ -7601,12 +7602,24 @@
             "name": "Elixir of Minor Force"
           },
           {
+            "id": 1378,
+            "name": "Elixir of Minor Strength"
+          },
+          {
             "id": 4178,
             "name": "Elixir of Minor Defense"
           },
           {
             "id": 54210,
             "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           }
         ],
         "Cooking": [
@@ -7631,8 +7644,16 @@
             "name": "Coyote Steak"
           },
           {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
             "id": 1536,
             "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 4353,
@@ -7693,7 +7714,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 650,
+          "raw": 1050,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -7713,21 +7734,21 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7525,
+          "raw": 8835,
           "tier": 4
         }
       },
       "spec": "Affliction",
       "stats": {
         "drinks": 1,
-        "food": 1,
+        "food": 2,
         "health_potions": 2,
-        "hearths": 1,
-        "killing_blows": 294,
-        "mobs": 341,
-        "quests": 52
+        "hearths": 2,
+        "killing_blows": 371,
+        "mobs": 435,
+        "quests": 71
       },
-      "xp": 226
+      "xp": 7382
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -23340,6 +23361,7 @@
     "Ancient Heirloom": "Uraltes Erbstück",
     "Anticipation": "Vorahnung",
     "Apothecary Gloves": "Apotheker-Handschuhe",
+    "Apprentice Sash": "Lehrlingsschärpe",
     "Apprentice's Shirt": "Lehrlingshemd",
     "Aquadynamic Fish Lens": "Aquadynamische Fischlinse",
     "Aquarius Belt": "Wassermann-Gürtel",
@@ -23662,6 +23684,8 @@
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
     "Direhammer Leggings": "Düsterhammergamaschen",
+    "Disciple's Boots": "Jüngerstiefel",
+    "Disciple's Bracers": "Jüngerarmschienen",
     "Disciple's Gloves": "Jüngerhandschuhe",
     "Discipline": "Disziplin",
     "Divine Fury": "Göttlicher Furor",
@@ -24021,6 +24045,7 @@
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
     "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
+    "Journeyman's Vest": "Gesellenweste",
     "Jumanza Grips": "Jumanza Handschutz",
     "Jungle Boots": "Dschungel-Stiefel",
     "Justicar's Belt": "Gürtel des Rechtsprechers",
@@ -24539,6 +24564,7 @@
     "Tiger Hide Boots": "Tigerbalg-Stiefel",
     "Tiger Hunter Gloves": "Tigerjäger-Handschuhe",
     "Tigerbane": "Tigerbann",
+    "Tim's Lost Rib": "Tims verlorene Rippe",
     "Times camped": "Ruhezeiten im Lager",
     "Torture": "Folter",
     "Torturing Poker": "Quälerschüreisen",
@@ -25685,7 +25711,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795312453,
+  "saved_at": 1795314041,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
