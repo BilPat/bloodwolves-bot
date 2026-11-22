@@ -10708,9 +10708,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 47,
+      "ilvl": 45,
       "last_explored": "The Hinterlands",
-      "last_login": 1795314976000,
+      "last_login": 1795342256000,
       "level": 48,
       "level_at": {
         "42": 1794866470,
@@ -10892,11 +10892,11 @@
         "food": 179,
         "health_potions": 132,
         "hearths": 29,
-        "killing_blows": 4006,
-        "mobs": 6990,
+        "killing_blows": 4013,
+        "mobs": 6997,
         "quests": 589
       },
-      "xp": 120864
+      "xp": 124346
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -26249,7 +26249,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795341243,
+  "saved_at": 1795342449,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
