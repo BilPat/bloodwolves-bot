@@ -18900,6 +18900,11 @@
           "count": 2,
           "instance": "Ragefire Chasm"
         },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -18919,6 +18924,10 @@
           "name": "Blackened Defias Belt",
           "quality": "RARE"
         },
+        "10410": {
+          "name": "Leggings of the Fang",
+          "quality": "RARE"
+        },
         "285292": {
           "name": "Dull Sawblade",
           "quality": "RARE"
@@ -18928,9 +18937,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 12,
+      "ilvl": 13,
       "last_explored": "Mulgore",
-      "last_login": 1795340072000,
+      "last_login": 1795346101000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -18940,8 +18949,8 @@
         "Cooking": 76,
         "First Aid": 80,
         "Fishing": 78,
-        "Mining": 50,
-        "Skinning": 100
+        "Mining": 53,
+        "Skinning": 141
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -19125,17 +19134,17 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 4,
+        "critters": 8,
         "deaths": 12,
         "flights": 13,
-        "food": 18,
+        "food": 20,
         "health_potions": 12,
         "hearths": 9,
-        "killing_blows": 1131,
-        "mobs": 1630,
+        "killing_blows": 1180,
+        "mobs": 1898,
         "quests": 194
       },
-      "xp": 12939
+      "xp": 29007
     },
     "eu:thalgrim-tirisfal": {
       "achievements": {
@@ -26268,7 +26277,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795345965,
+  "saved_at": 1795346713,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
