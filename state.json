@@ -9609,11 +9609,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/6238556-avatar.jpg",
       "best_item": {
-        "id": 275009,
-        "ilvl": 47,
-        "name": "Emblem of Slamming",
-        "quality": "RARE",
-        "slot": "Trinket 2"
+        "id": 4130,
+        "ilvl": 50,
+        "name": "Smotts' Compass",
+        "quality": "UNCOMMON",
+        "slot": "Trinket 1"
       },
       "boss_kills": {
         "1092": {
@@ -9723,9 +9723,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 43,
+      "ilvl": 44,
       "last_explored": "Thousand Needles",
-      "last_login": 1795258149000,
+      "last_login": 1795339201000,
       "level": 45,
       "level_at": {
         "40": 1794866470,
@@ -9739,7 +9739,7 @@
         "Blacksmithing": 205,
         "Cooking": 250,
         "First Aid": 225,
-        "Mining": 218
+        "Mining": 222
       },
       "race": "Undead",
       "raids": {},
@@ -9768,6 +9768,10 @@
           {
             "id": 4285,
             "name": "Heavy Copper Maul"
+          },
+          {
+            "id": 5345,
+            "name": "Big Black Mace"
           },
           {
             "id": 11183,
@@ -10285,7 +10289,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -15200,
+          "raw": -17400,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -10295,7 +10299,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5677,
+          "raw": 6117,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -10315,12 +10319,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4482,
+          "raw": 4702,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 4494,
+          "raw": 4714,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -10340,12 +10344,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5609,
+          "raw": 5829,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5979,
+          "raw": 6199,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -10363,18 +10367,18 @@
       "stats": {
         "critters": 106,
         "deaths": 10,
-        "drinks": 90,
-        "flights": 72,
-        "food": 107,
-        "health_potions": 32,
+        "drinks": 92,
+        "flights": 73,
+        "food": 108,
+        "health_potions": 33,
         "hearths": 29,
         "honorable_kills": 1,
-        "killing_blows": 3593,
+        "killing_blows": 3629,
         "mana_potions": 1,
-        "mobs": 5878,
-        "quests": 518
+        "mobs": 5926,
+        "quests": 525
       },
-      "xp": 41145
+      "xp": 85534
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -18906,7 +18910,7 @@
       },
       "ilvl": 12,
       "last_explored": "Mulgore",
-      "last_login": 1795331726000,
+      "last_login": 1795340072000,
       "level": 23,
       "level_at": {
         "22": 1794866470,
@@ -19106,9 +19110,9 @@
         "flights": 13,
         "food": 18,
         "health_potions": 12,
-        "hearths": 8,
-        "killing_blows": 1130,
-        "mobs": 1629,
+        "hearths": 9,
+        "killing_blows": 1131,
+        "mobs": 1630,
         "quests": 194
       },
       "xp": 12939
@@ -24172,6 +24176,7 @@
     "Divine Fury": "Göttlicher Furor",
     "Divine Intellect": "Göttliche Weisheit",
     "Divine Strength": "Göttliche Stärke",
+    "Dodge": "Ausweichen",
     "Dog Training Gloves": "Handschuhe zur Hundeausbildung",
     "Dokebi Bracers": "Dokebi-Armschienen",
     "Double-Stitched Woolen Shoulders": "Doppelt genähte Wollschultern",
@@ -24959,6 +24964,7 @@
     "Small Throwing Knife": "Kleines Wurfmesser",
     "Smelting Recipes learned": "Erlernte Verhüttungsmethoden",
     "Smith's Trousers": "Hose des Schmieds",
+    "Smotts' Compass": "Smotts' Kompass",
     "Snake Eye Kaleidoscope": "Schlangenaugenkaleidoskop",
     "Snake Hoop": "Natternreifen",
     "Social": "Geselligkeit",
@@ -25751,7 +25757,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 5,
+        "level": 10,
         "name": "Lockendotter",
         "rank": 3,
         "region": "eu",
@@ -25778,7 +25784,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Khaladin",
         "rank": 3,
         "region": "eu",
@@ -25828,6 +25834,15 @@
         "rank": 3,
         "region": "eu",
         "surname": "Muli"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 26,
+        "name": "Anna",
+        "rank": 1,
+        "region": "eu",
+        "surname": "Graufuss"
       },
       {
         "class": null,
@@ -25949,7 +25964,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -26093,11 +26108,20 @@
       {
         "class": null,
         "guild": true,
-        "level": 38,
+        "level": 39,
         "name": "Keta",
         "rank": 3,
         "region": "eu",
         "surname": "Fäse"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 18,
+        "name": "Devastator",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Vane"
       },
       {
         "class": null,
@@ -26111,7 +26135,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 14,
+        "level": 15,
         "name": "Barbariana",
         "rank": 4,
         "region": "eu",
@@ -26201,26 +26225,8 @@
       {
         "class": null,
         "guild": true,
-        "level": 12,
+        "level": 13,
         "name": "Finn",
-        "rank": 1,
-        "region": "eu",
-        "surname": "Graufuss"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 18,
-        "name": "Devastator",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Vane"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 25,
-        "name": "Anna",
         "rank": 1,
         "region": "eu",
         "surname": "Graufuss"
@@ -26230,7 +26236,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795338932,
+  "saved_at": 1795340350,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
