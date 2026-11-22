@@ -22293,7 +22293,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795311854000,
+      "last_login": 1795318578000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -22303,7 +22303,7 @@
         "Blacksmithing": 169,
         "Cooking": 220,
         "First Aid": 170,
-        "Fishing": 121,
+        "Fishing": 146,
         "Mining": 226
       },
       "race": "Night Elf",
@@ -22729,12 +22729,12 @@
         ],
         "Fishing": [
           {
-            "id": 52639,
-            "name": "Fish Bowl"
+            "id": 4346,
+            "name": "Fishing"
           },
           {
-            "id": 4345,
-            "name": "Fishing"
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Mining": [
@@ -22853,17 +22853,17 @@
       "spec": "Protection",
       "stats": {
         "critters": 157,
-        "deaths": 20,
+        "deaths": 21,
         "drinks": 2,
-        "flights": 92,
-        "food": 119,
-        "health_potions": 30,
-        "hearths": 51,
-        "killing_blows": 2196,
-        "mobs": 4293,
+        "flights": 93,
+        "food": 123,
+        "health_potions": 31,
+        "hearths": 52,
+        "killing_blows": 2206,
+        "mobs": 4307,
         "quests": 273
       },
-      "xp": 18278
+      "xp": 20629
     },
     "us:whizz-aard": {
       "achievements": {
@@ -26076,7 +26076,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795318191,
+  "saved_at": 1795318784,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
