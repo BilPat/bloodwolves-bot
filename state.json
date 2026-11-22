@@ -2897,11 +2897,15 @@
         "6414": {
           "name": "Seal of Sylvanas",
           "quality": "RARE"
+        },
+        "7001": {
+          "name": "Gravestone Scepter",
+          "quality": "RARE"
         }
       },
       "ilvl": 22,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795134900000,
+      "last_login": 1795351531000,
       "level": 28,
       "level_at": {
         "25": 1794884198,
@@ -2924,8 +2928,12 @@
             "name": "Crispy Bat Wing"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           },
           {
             "id": 1536,
@@ -2936,42 +2944,22 @@
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           }
         ],
         "Enchanting": [
           {
-            "id": 7999,
-            "name": "Lesser Magic Wand"
-          },
-          {
-            "id": 8000,
-            "name": "Greater Magic Wand"
-          },
-          {
-            "id": 13137,
-            "name": "Minor Wizard Oil"
-          },
-          {
-            "id": 4352,
-            "name": "Enchant Chest - Lesser Stamina"
-          },
-          {
-            "id": 4362,
-            "name": "Enchant Cloak - Minor Protection"
-          },
-          {
-            "id": 4364,
-            "name": "Enchant Bracer - Minor Agility"
-          },
-          {
             "id": 54401,
             "name": "Enchant Bracer - Minor Intellect"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
           },
           {
             "id": 7316,
@@ -2982,58 +2970,74 @@
             "name": "Enchant Bracer - Inferior Stamina"
           },
           {
-            "id": 4290,
-            "name": "Enchant Chest - Inferior Stamina"
-          },
-          {
             "id": 4291,
             "name": "Runed Copper Rod"
-          },
-          {
-            "id": 4292,
-            "name": "Enchant Chest - Minor Absorption"
-          },
-          {
-            "id": 4293,
-            "name": "Enchant Bracer - Minor Deflect"
           },
           {
             "id": 4297,
             "name": "Enchant Chest - Minor Intellect"
           },
           {
+            "id": 8000,
+            "name": "Greater Magic Wand"
+          },
+          {
             "id": 4300,
             "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
           },
           {
             "id": 4301,
             "name": "Enchant Bracer - Minor Stamina"
           },
           {
-            "id": 52649,
-            "name": "Enchanted Lute"
+            "id": 4364,
+            "name": "Enchant Bracer - Minor Agility"
+          },
+          {
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 4362,
+            "name": "Enchant Cloak - Minor Protection"
           },
           {
             "id": 54213,
             "name": "Dust to Motes"
           },
           {
-            "id": 54214,
-            "name": "Novice's Practice Wand"
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
+          },
+          {
+            "id": 13137,
+            "name": "Minor Wizard Oil"
           }
         ],
         "First Aid": [
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -3044,108 +3048,8 @@
         ],
         "Tailoring": [
           {
-            "id": 6577,
-            "name": "Simple Linen Boots"
-          },
-          {
-            "id": 6578,
-            "name": "Simple Kilt"
-          },
-          {
-            "id": 55423,
-            "name": "Novice Arcanist's Sash"
-          },
-          {
-            "id": 6576,
-            "name": "Simple Linen Pants"
-          },
-          {
-            "id": 2408,
-            "name": "Brown Linen Pants"
-          },
-          {
-            "id": 2409,
-            "name": "Brown Linen Shirt"
-          },
-          {
-            "id": 4848,
-            "name": "Linen Belt"
-          },
-          {
-            "id": 2359,
-            "name": "Bolt of Linen Cloth"
-          },
-          {
-            "id": 2360,
-            "name": "Linen Cloak"
-          },
-          {
-            "id": 2361,
-            "name": "Brown Linen Vest"
-          },
-          {
-            "id": 2363,
-            "name": "Linen Boots"
-          },
-          {
-            "id": 2364,
-            "name": "Red Linen Shirt"
-          },
-          {
-            "id": 2365,
-            "name": "White Linen Shirt"
-          },
-          {
-            "id": 2366,
-            "name": "Blue Linen Shirt"
-          },
-          {
-            "id": 2367,
-            "name": "Reinforced Linen Cape"
-          },
-          {
-            "id": 2368,
-            "name": "Barbaric Linen Vest"
-          },
-          {
-            "id": 2369,
-            "name": "Green Linen Shirt"
-          },
-          {
-            "id": 2370,
-            "name": "Bolt of Woolen Cloth"
-          },
-          {
-            "id": 2371,
-            "name": "Woolen Cape"
-          },
-          {
-            "id": 2372,
-            "name": "Green Woolen Vest"
-          },
-          {
-            "id": 2373,
-            "name": "Woolen Boots"
-          },
-          {
-            "id": 2375,
-            "name": "Gray Woolen Shirt"
-          },
-          {
-            "id": 2378,
-            "name": "Heavy Linen Gloves"
-          },
-          {
-            "id": 2379,
-            "name": "Green Linen Bracers"
-          },
-          {
-            "id": 2380,
-            "name": "Handstitched Linen Britches"
-          },
-          {
-            "id": 2381,
-            "name": "Heavy Woolen Gloves"
+            "id": 2387,
+            "name": "Heavy Woolen Pants"
           },
           {
             "id": 2383,
@@ -3156,51 +3060,167 @@
             "name": "Pearl-clasped Cloak"
           },
           {
-            "id": 4001,
-            "name": "Linen Bag"
+            "id": 2359,
+            "name": "Bolt of Linen Cloth"
           },
           {
-            "id": 4002,
-            "name": "Woolen Bag"
+            "id": 2408,
+            "name": "Brown Linen Pants"
+          },
+          {
+            "id": 6578,
+            "name": "Simple Kilt"
+          },
+          {
+            "id": 4848,
+            "name": "Linen Belt"
+          },
+          {
+            "id": 2381,
+            "name": "Heavy Woolen Gloves"
+          },
+          {
+            "id": 55423,
+            "name": "Novice Arcanist's Sash"
+          },
+          {
+            "id": 2409,
+            "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 2367,
+            "name": "Reinforced Linen Cape"
+          },
+          {
+            "id": 2363,
+            "name": "Linen Boots"
+          },
+          {
+            "id": 2372,
+            "name": "Green Woolen Vest"
+          },
+          {
+            "id": 2369,
+            "name": "Green Linen Shirt"
+          },
+          {
+            "id": 2380,
+            "name": "Handstitched Linen Britches"
+          },
+          {
+            "id": 2360,
+            "name": "Linen Cloak"
+          },
+          {
+            "id": 2373,
+            "name": "Woolen Boots"
+          },
+          {
+            "id": 2370,
+            "name": "Bolt of Woolen Cloth"
+          },
+          {
+            "id": 6577,
+            "name": "Simple Linen Boots"
           },
           {
             "id": 4708,
             "name": "Simple Dress"
           },
           {
-            "id": 4302,
-            "name": "Brown Linen Robe"
-          },
-          {
             "id": 4303,
             "name": "White Linen Robe"
+          },
+          {
+            "id": 4001,
+            "name": "Linen Bag"
+          },
+          {
+            "id": 2365,
+            "name": "White Linen Shirt"
+          },
+          {
+            "id": 2375,
+            "name": "Gray Woolen Shirt"
+          },
+          {
+            "id": 2366,
+            "name": "Blue Linen Shirt"
           },
           {
             "id": 4308,
             "name": "Blue Overalls"
           },
           {
-            "id": 52648,
-            "name": "Faction Banner"
+            "id": 55367,
+            "name": "Woolen Reagent Bag"
+          },
+          {
+            "id": 2364,
+            "name": "Red Linen Shirt"
+          },
+          {
+            "id": 2379,
+            "name": "Green Linen Bracers"
+          },
+          {
+            "id": 2368,
+            "name": "Barbaric Linen Vest"
+          },
+          {
+            "id": 4709,
+            "name": "White Woolen Dress"
+          },
+          {
+            "id": 2385,
+            "name": "Double-stitched Woolen Shoulders"
           },
           {
             "id": 55424,
             "name": "Novice Ardent's Sash"
           },
           {
-            "id": 55366,
-            "name": "Linen Reagent Bag"
+            "id": 52648,
+            "name": "Faction Banner"
           },
           {
-            "id": 55367,
-            "name": "Woolen Reagent Bag"
+            "id": 4302,
+            "name": "Brown Linen Robe"
+          },
+          {
+            "id": 2401,
+            "name": "Stylish Red Shirt"
+          },
+          {
+            "id": 2378,
+            "name": "Heavy Linen Gloves"
+          },
+          {
+            "id": 2371,
+            "name": "Woolen Cape"
+          },
+          {
+            "id": 4002,
+            "name": "Woolen Bag"
+          },
+          {
+            "id": 2361,
+            "name": "Brown Linen Vest"
+          },
+          {
+            "id": 6576,
+            "name": "Simple Linen Pants"
+          },
+          {
+            "id": 55366,
+            "name": "Linen Reagent Bag"
           }
         ]
       },
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 1050,
+          "raw": 1250,
           "tier": 3
         },
         "Booty Bay": {
@@ -3210,7 +3230,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4595,
+          "raw": 4657,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3235,7 +3255,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4688,
+          "raw": 4751,
           "tier": 4
         },
         "Powderfuse": {
@@ -3250,12 +3270,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3458,
+          "raw": 3721,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15201,
+          "raw": 15451,
           "tier": 5
         }
       },
@@ -3264,17 +3284,17 @@
         "critters": 59,
         "deaths": 17,
         "drinks": 65,
-        "flights": 23,
-        "food": 46,
-        "health_potions": 10,
-        "hearths": 23,
+        "flights": 25,
+        "food": 47,
+        "health_potions": 12,
+        "hearths": 25,
         "honorable_kills": 5,
-        "killing_blows": 1106,
+        "killing_blows": 1139,
         "mana_potions": 15,
-        "mobs": 3572,
-        "quests": 186
+        "mobs": 3666,
+        "quests": 189
       },
-      "xp": 5298
+      "xp": 36255
     },
     "eu:blut-leiche": {
       "achievements": {
@@ -13436,6 +13456,7 @@
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
+        "62012": "Journeyman Alchemist",
         "728": "Explore Durotar",
         "736": "Explore Mulgore"
       },
@@ -13491,7 +13512,7 @@
       },
       "ilvl": 14,
       "last_explored": "Mulgore",
-      "last_login": 1795300929000,
+      "last_login": 1795351410000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -14859,7 +14880,7 @@
       },
       "ilvl": 5,
       "last_explored": "Thousand Needles",
-      "last_login": 1795333942000,
+      "last_login": 1795351951000,
       "level": 10,
       "level_at": {
         "10": 1795316059
@@ -23762,7 +23783,8 @@
           "surname": "Scoops"
         },
         "lines": [
-          "🎖️ [Erkundet Mulgore](https://www.wowhead.com/forever/de/achievement=736)"
+          "🎖️ [Erkundet Mulgore](https://www.wowhead.com/forever/de/achievement=736)",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
         ],
         "snap": {
           "class": "Rogue",
@@ -26329,7 +26351,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795351265,
+  "saved_at": 1795352081,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
