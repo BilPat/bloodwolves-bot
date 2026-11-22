@@ -732,7 +732,7 @@
       },
       "ilvl": 20,
       "last_explored": "Durotar",
-      "last_login": 1795306849000,
+      "last_login": 1795366285000,
       "level": 26,
       "level_at": {
         "24": 1795289063,
@@ -3437,7 +3437,7 @@
       },
       "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795359753000,
+      "last_login": 1795366148000,
       "level": 47,
       "level_at": {
         "42": 1794866470,
@@ -3928,7 +3928,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -17350,
+          "raw": -21525,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -3938,12 +3938,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 6158,
+          "raw": 7036,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8117,
+          "raw": 8480,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3958,12 +3958,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4895,
+          "raw": 5355,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 5520,
+          "raw": 5980,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3978,27 +3978,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9718,
+          "raw": 10043,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5888,
+          "raw": 6390,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 6260,
+          "raw": 6720,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7532,
+          "raw": 7670,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19951,
+          "raw": 20088,
           "tier": 5
         }
       },
@@ -4006,17 +4006,17 @@
       "stats": {
         "critters": 99,
         "deaths": 13,
-        "drinks": 85,
-        "flights": 95,
-        "food": 88,
+        "drinks": 87,
+        "flights": 99,
+        "food": 90,
         "health_potions": 30,
-        "hearths": 44,
-        "killing_blows": 5215,
+        "hearths": 45,
+        "killing_blows": 5267,
         "mana_potions": 2,
-        "mobs": 8378,
-        "quests": 469
+        "mobs": 8488,
+        "quests": 478
       },
-      "xp": 65173
+      "xp": 113333
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -7617,18 +7617,19 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Durotar",
-      "last_login": 1795313438000,
-      "level": 13,
+      "last_login": 1795366244000,
+      "level": 14,
       "level_at": {
         "12": 1795289063,
-        "13": 1795314038
+        "13": 1795314038,
+        "14": 1795366451
       },
       "professions": {
         "Alchemy": 20,
         "Cooking": 97,
         "First Aid": 45,
         "Fishing": 106,
-        "Herbalism": 46
+        "Herbalism": 53
       },
       "race": "Undead",
       "raids": {},
@@ -7756,36 +7757,37 @@
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2056,
+          "raw": 2096,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Neutral",
-          "raw": 2056,
+          "raw": 2096,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 556,
+          "raw": 596,
           "tier": 3
         },
         "Undercity": {
-          "name": "Friendly",
-          "raw": 8835,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9145,
+          "tier": 5
         }
       },
       "spec": "Affliction",
       "stats": {
         "drinks": 1,
+        "flights": 1,
         "food": 2,
         "health_potions": 2,
         "hearths": 2,
-        "killing_blows": 371,
-        "mobs": 435,
-        "quests": 71
+        "killing_blows": 389,
+        "mobs": 453,
+        "quests": 77
       },
-      "xp": 7382
+      "xp": 913
     },
     "eu:fred-feuersturm": {
       "achievements": {
@@ -16951,22 +16953,23 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 8,
+      "ilvl": 10,
       "last_explored": "Durotar",
-      "last_login": 1795350691000,
-      "level": 18,
+      "last_login": 1795365585000,
+      "level": 19,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
         "17": 1795256711,
-        "18": 1795301667
+        "18": 1795301667,
+        "19": 1795366451
       },
       "professions": {
         "Cooking": 64,
         "First Aid": 46,
         "Fishing": 78,
         "Leatherworking": 39,
-        "Skinning": 112
+        "Skinning": 113
       },
       "race": "Orc",
       "raids": {},
@@ -16975,6 +16978,10 @@
           {
             "id": 4786,
             "name": "Herb Baked Egg"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           },
           {
             "id": 52640,
@@ -17102,7 +17109,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7617,
+          "raw": 7698,
           "tier": 4
         },
         "Everlook": {
@@ -17117,7 +17124,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10048,
+          "raw": 10298,
           "tier": 5
         },
         "Powderfuse": {
@@ -17132,12 +17139,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4053,
+          "raw": 4210,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1247,
+          "raw": 1328,
           "tier": 3
         }
       },
@@ -17147,14 +17154,14 @@
         "deaths": 7,
         "drinks": 8,
         "flights": 14,
-        "food": 7,
-        "health_potions": 9,
+        "food": 14,
+        "health_potions": 10,
         "hearths": 6,
-        "killing_blows": 772,
-        "mobs": 857,
-        "quests": 105
+        "killing_blows": 807,
+        "mobs": 892,
+        "quests": 109
       },
-      "xp": 16988
+      "xp": 7761
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -23750,11 +23757,12 @@
           "surname": "Graufuss"
         },
         "lines": [
-          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)"
+          "🎖️ [Novice Priest](https://www.wowhead.com/forever/de/achievement=62000)",
+          "🤝 **Wohlwollend** bei Unterstadt"
         ],
         "snap": {
           "class": "Warlock",
-          "level": 12
+          "level": 14
         }
       },
       "eu:freya-graufuss": {
@@ -26474,7 +26482,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795365595,
+  "saved_at": 1795366452,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
