@@ -16884,20 +16884,20 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/52935260-avatar.jpg",
       "best_item": {
-        "id": 5311,
-        "ilvl": 21,
-        "name": "Buckled Boots",
+        "id": 3198,
+        "ilvl": 23,
+        "name": "Battering Hammer of the Owl",
         "quality": "UNCOMMON",
-        "slot": "Feet"
+        "slot": "Main Hand"
       },
       "boss_kills": {},
       "class": "Shaman",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 7,
+      "ilvl": 8,
       "last_explored": "Durotar",
-      "last_login": 1795300846000,
+      "last_login": 1795350691000,
       "level": 18,
       "level_at": {
         "15": 1794866470,
@@ -16906,10 +16906,11 @@
         "18": 1795301667
       },
       "professions": {
-        "Cooking": 1,
+        "Cooking": 64,
         "First Aid": 46,
+        "Fishing": 78,
         "Leatherworking": 39,
-        "Skinning": 100
+        "Skinning": 112
       },
       "race": "Orc",
       "raids": {},
@@ -16924,12 +16925,28 @@
             "name": "Basic Campfire"
           },
           {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
             "id": 1537,
             "name": "Roasted Boar Meat"
           },
           {
             "id": 1535,
             "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
           }
         ],
         "First Aid": [
@@ -16938,10 +16955,24 @@
             "name": "Linen Bandage"
           }
         ],
+        "Fishing": [
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
+          },
+          {
+            "id": 4345,
+            "name": "Fishing"
+          }
+        ],
         "Leatherworking": [
           {
             "id": 1356,
             "name": "Light Armor Kit"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
           },
           {
             "id": 2162,
@@ -16980,6 +17011,10 @@
             "name": "Camp Tent"
           },
           {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
             "id": 1353,
             "name": "Handstitched Leather Boots"
           },
@@ -17006,79 +17041,64 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1740,
+          "raw": 1827,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7592,
+          "raw": 7617,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1740,
-          "tier": 3
-        },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 1827,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1740,
+          "raw": 1827,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10023,
+          "raw": 10048,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1740,
+          "raw": 1827,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3380,
+          "raw": 3555,
           "tier": 4
-        },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3953,
+          "raw": 4053,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1222,
-          "tier": 3
-        },
-        "Warsong Outriders": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 1247,
           "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 28,
-        "deaths": 5,
+        "deaths": 7,
         "drinks": 8,
-        "flights": 11,
-        "food": 4,
-        "health_potions": 7,
+        "flights": 14,
+        "food": 7,
+        "health_potions": 9,
         "hearths": 6,
-        "killing_blows": 705,
-        "mobs": 782,
-        "quests": 101
+        "killing_blows": 772,
+        "mobs": 857,
+        "quests": 105
       },
-      "xp": 3690
+      "xp": 16988
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -23793,6 +23813,21 @@
           "level": 25
         }
       },
+      "eu:ogmar-donnerhammer": {
+        "c": {
+          "name": "Ogmar",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Donnerhammer"
+        },
+        "lines": [
+          "📜 Neuer Beruf: **Angeln**"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 18
+        }
+      },
       "eu:thalgrim-tirisfal": {
         "c": {
           "name": "Thalgrim",
@@ -23946,6 +23981,7 @@
     "Barkshell Tunic": "Rindenhüllentunika",
     "Battered Cloak": "Ramponierter Umhang",
     "Battered Leather Pants": "Ramponierte Lederhose",
+    "Battering Hammer of the Owl": "Beulenhammer der Eule",
     "Battle Spaulders": "Kampfschiftung",
     "Battleforge Girdle of the Tiger": "Schlachtschmiedegurt des Tigers",
     "Battleground Honorable Kills": "Ehrenhafte Siege auf Schlachtfeldern",
@@ -24932,6 +24968,7 @@
     "Scarlet Leggings": "Scharlachrote Gamaschen",
     "Scarlet Monastery": "Scharlachrotes Kloster",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
+    "Scouting Spaulders": "Späherschiftung",
     "Scoutmaster's Eyepatch": "Augenklappe des Spähmeisters",
     "Scroll of Imbue Baleflame": "Schriftrolle der Durchdringung: Unheilsflamme",
     "Scroll of Imbue Flame": "Schriftrolle der Durchdringung: Flamme",
@@ -25186,7 +25223,9 @@
     "Veiled Grips": "Verhüllter Handschutz",
     "Vengeance": "Rache",
     "Venomshroud Armguards": "Giftschleierarmschützer",
+    "Veteran Adventurer's Belt": "Gürtel des erfahrenen Abenteurers",
     "Veteran Adventurer's Boots": "Stiefel des erfahrenen Abenteurers",
+    "Veteran Adventurer's Bracer": "Armschienen des erfahrenen Abenteurers",
     "Veteran Adventurer's Chestpiece": "Brustharnisch des erfahrenen Abenteurers",
     "Veteran Adventurer's Cloak": "Umhang des erfahrenen Abenteurers",
     "Veteran Adventurer's Gloves": "Handschuhe des erfahrenen Abenteurers",
@@ -26288,7 +26327,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795349981,
+  "saved_at": 1795350732,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
