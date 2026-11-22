@@ -3437,14 +3437,15 @@
       },
       "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795366148000,
-      "level": 47,
+      "last_login": 1795371581000,
+      "level": 48,
       "level_at": {
         "42": 1794866470,
         "43": 1795032935,
         "45": 1795127142,
         "46": 1795210769,
-        "47": 1795300796
+        "47": 1795300796,
+        "48": 1795372085
       },
       "professions": {
         "Cooking": 225,
@@ -3627,6 +3628,10 @@
             "name": "Greater Magic Wand"
           },
           {
+            "id": 13139,
+            "name": "Lesser Wizard Oil"
+          },
+          {
             "id": 4292,
             "name": "Enchant Chest - Minor Absorption"
           },
@@ -3753,6 +3758,10 @@
           {
             "id": 2383,
             "name": "Soft-soled Linen Boots"
+          },
+          {
+            "id": 13811,
+            "name": "Enchanted Mageweave Pouch"
           },
           {
             "id": 3973,
@@ -3938,7 +3947,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 7036,
+          "raw": 7448,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -3958,12 +3967,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5355,
+          "raw": 5768,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 5980,
+          "raw": 6755,
           "tier": 4
         },
         "Gelkis Clan Centaur": {
@@ -3983,12 +3992,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6390,
+          "raw": 6853,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 6720,
+          "raw": 7133,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -4007,16 +4016,16 @@
         "critters": 99,
         "deaths": 13,
         "drinks": 87,
-        "flights": 99,
+        "flights": 101,
         "food": 90,
         "health_potions": 30,
-        "hearths": 45,
-        "killing_blows": 5267,
+        "hearths": 46,
+        "killing_blows": 5371,
         "mana_potions": 2,
-        "mobs": 8488,
-        "quests": 478
+        "mobs": 8590,
+        "quests": 482
       },
-      "xp": 113333
+      "xp": 18352
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -17778,11 +17787,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/141/82963597-avatar.jpg",
       "best_item": {
-        "id": 252512,
-        "ilvl": 30,
-        "name": "Brawler's Leather Helm",
+        "id": 271766,
+        "ilvl": 33,
+        "name": "Heavehammer",
         "quality": "RARE",
-        "slot": "Head"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "1092": {
@@ -17830,6 +17839,10 @@
           "name": "Cultist's Armguards",
           "quality": "RARE"
         },
+        "271766": {
+          "name": "Heavehammer",
+          "quality": "RARE"
+        },
         "273647": {
           "name": "Worgpelt Leggings",
           "quality": "RARE"
@@ -17847,18 +17860,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 24,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795294918000,
-      "level": 28,
+      "last_login": 1795371616000,
+      "level": 31,
       "level_at": {
-        "28": 1795369205
+        "28": 1795369205,
+        "31": 1795372085
       },
       "professions": {
         "Cooking": 1,
         "Fishing": 9,
         "Leatherworking": 127,
-        "Skinning": 176
+        "Skinning": 200
       },
       "race": "Tauren",
       "raids": {},
@@ -18130,7 +18144,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6543,
+          "raw": 7287,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -18140,7 +18154,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 750,
           "tier": 3
         },
         "Everlook": {
@@ -18154,9 +18168,9 @@
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8913,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9845,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
@@ -18170,30 +18184,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13623,
+          "raw": 15005,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3568,
+          "raw": 5718,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 35,
-        "deaths": 11,
-        "drinks": 4,
-        "flights": 45,
-        "health_potions": 8,
-        "hearths": 7,
+        "critters": 44,
+        "deaths": 19,
+        "drinks": 8,
+        "flights": 53,
+        "health_potions": 12,
+        "hearths": 10,
         "honorable_kills": 1,
-        "killing_blows": 1591,
+        "killing_blows": 2001,
         "mana_potions": 2,
-        "mobs": 2287,
-        "quests": 224
+        "mobs": 2842,
+        "quests": 260
       },
-      "xp": 38725
+      "xp": 26048
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -22975,7 +22989,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795364987000,
+      "last_login": 1795371922000,
       "level": 32,
       "level_at": {
         "31": 1794965196,
@@ -24454,6 +24468,20 @@
           "level": 18
         }
       },
+      "eu:quantino-pralino": {
+        "c": {
+          "name": "Quantino",
+          "region": "eu",
+          "surname": "Pralino"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Orgrimmar"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 31
+        }
+      },
       "eu:redbully-badbully": {
         "c": {
           "name": "Redbully",
@@ -24541,6 +24569,7 @@
     "Acolyte's Robe": "Akolythenrobe",
     "Adept's Cloak": "Adepten-Umhang",
     "Affliction": "Gebrechen",
+    "Aftermath": "Nachwirkung",
     "Agility": "Beweglichkeit",
     "Airy Windseeker's Shirt": "Luftiges Hemd des Windsuchers",
     "Aku'mai": "Aku'mai",
@@ -26049,7 +26078,8 @@
         "eu:kamah-suhtrah",
         "us:aeri-moonglow",
         "us:whizz-aard",
-        "eu:redbully-badbully"
+        "eu:redbully-badbully",
+        "eu:quantino-pralino"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -27009,7 +27039,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795371438,
+  "saved_at": 1795372087,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
