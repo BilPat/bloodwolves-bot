@@ -9076,7 +9076,7 @@
       },
       "ilvl": 21,
       "last_explored": "Thousand Needles",
-      "last_login": 1795332275000,
+      "last_login": 1795336255000,
       "level": 32,
       "level_at": {
         "27": 1794866470,
@@ -9172,6 +9172,10 @@
           {
             "id": 4391,
             "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 2499,
+            "name": "Barbecued Buzzard Wing"
           },
           {
             "id": 4353,
@@ -9525,7 +9529,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6347,
+          "raw": 6453,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9550,7 +9554,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8511,
+          "raw": 8561,
           "tier": 4
         },
         "Powderfuse": {
@@ -9563,14 +9567,19 @@
           "raw": 2967,
           "tier": 3
         },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 14176,
+          "raw": 14207,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5641,
+          "raw": 5672,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -9582,19 +9591,19 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 46,
-        "deaths": 39,
+        "deaths": 40,
         "drinks": 56,
         "flights": 51,
-        "food": 147,
+        "food": 150,
         "health_potions": 27,
         "hearths": 29,
         "honorable_kills": 68,
-        "killing_blows": 2002,
+        "killing_blows": 2021,
         "mana_potions": 1,
-        "mobs": 2579,
-        "quests": 252
+        "mobs": 2598,
+        "quests": 254
       },
-      "xp": 35746
+      "xp": 43607
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -26203,7 +26212,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795336158,
+  "saved_at": 1795336802,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
