@@ -23562,7 +23562,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795381170000,
+      "last_login": 1795384233000,
       "level": 33,
       "level_at": {
         "31": 1794965196,
@@ -23572,7 +23572,7 @@
       "professions": {
         "Blacksmithing": 169,
         "Cooking": 225,
-        "First Aid": 170,
+        "First Aid": 180,
         "Fishing": 205,
         "Mining": 229
       },
@@ -24070,7 +24070,7 @@
         },
         "Azeroth Commerce Authority": {
           "name": "Neutral",
-          "raw": 2075,
+          "raw": 2150,
           "tier": 3
         },
         "Booty Bay": {
@@ -24127,15 +24127,15 @@
       "spec": "Protection",
       "stats": {
         "critters": 157,
-        "deaths": 22,
+        "deaths": 23,
         "drinks": 2,
-        "flights": 102,
+        "flights": 103,
         "food": 134,
         "health_potions": 32,
         "hearths": 58,
         "killing_blows": 2245,
         "mobs": 4490,
-        "quests": 283
+        "quests": 284
       },
       "xp": 609
     },
@@ -27306,7 +27306,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795383609,
+  "saved_at": 1795384501,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
