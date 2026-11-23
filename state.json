@@ -2662,6 +2662,10 @@
           "name": "Desertwalker Cane",
           "quality": "RARE"
         },
+        "13111": {
+          "name": "Sandals of the Insurgent",
+          "quality": "RARE"
+        },
         "17732": {
           "name": "Rotgrip Mantle",
           "quality": "RARE"
@@ -2735,10 +2739,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 46,
+      "ilvl": 48,
       "last_explored": "Thousand Needles",
-      "last_login": 1795433796000,
-      "level": 50,
+      "last_login": 1795455662000,
+      "level": 51,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -2748,13 +2752,14 @@
         "47": 1795035267,
         "48": 1795129993,
         "49": 1795202759,
-        "50": 1795434000
+        "50": 1795434000,
+        "51": 1795456456
       },
       "professions": {
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 285
+        "Skinning": 292
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -3219,12 +3224,12 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 1635,
           "tier": 3
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -7750,
+          "raw": -9750,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -3234,7 +3239,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4331,
+          "raw": 4891,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -3244,22 +3249,22 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6492,
+          "raw": 7193,
           "tier": 4
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 2150,
+          "raw": 2450,
           "tier": 3
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4131,
+          "raw": 4491,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 5423,
+          "raw": 5943,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -3269,27 +3274,32 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7212,
+          "raw": 8585,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5078,
+          "raw": 5438,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5022,
+          "raw": 5382,
           "tier": 4
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8966,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9817,
+          "tier": 5
+        },
+        "Timbermaw Hold": {
+          "name": "Hostile",
+          "raw": -3400,
+          "tier": 1
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6657,
+          "raw": 8041,
           "tier": 4
         },
         "Windshapers": {
@@ -3300,19 +3310,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 180,
-        "deaths": 40,
-        "drinks": 699,
-        "flights": 86,
-        "food": 159,
-        "health_potions": 46,
-        "hearths": 31,
-        "killing_blows": 3090,
-        "mana_potions": 23,
-        "mobs": 13162,
-        "quests": 437
+        "critters": 181,
+        "deaths": 42,
+        "drinks": 706,
+        "flights": 92,
+        "food": 163,
+        "health_potions": 47,
+        "hearths": 34,
+        "killing_blows": 3206,
+        "mana_potions": 25,
+        "mobs": 13467,
+        "quests": 481
       },
-      "xp": 11498
+      "xp": 115718
     },
     "eu:blck-jck": {
       "achievements": {
@@ -5121,7 +5131,9 @@
       "xp": 22960
     },
     "eu:christopher-kuhlumbus": {
-      "achievements": {},
+      "achievements": {
+        "62006": "Novice Shaman"
+      },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/116/18969204-avatar.jpg",
       "best_item": {
         "id": 5355,
@@ -5162,22 +5174,23 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 19,
       "last_explored": null,
-      "last_login": 1795379508000,
-      "level": 24,
+      "last_login": 1795455760000,
+      "level": 25,
       "level_at": {
         "21": 1794866470,
         "22": 1794947955,
         "23": 1795106395,
-        "24": 1795365593
+        "24": 1795365593,
+        "25": 1795456457
       },
       "professions": {
-        "Cooking": 96,
+        "Cooking": 97,
         "First Aid": 115,
         "Fishing": 28,
         "Leatherworking": 111,
-        "Skinning": 174
+        "Skinning": 175
       },
       "race": "Tauren",
       "raids": {},
@@ -5492,12 +5505,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2102,
+          "raw": 2452,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4997,
+          "raw": 5266,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5507,37 +5520,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2102,
+          "raw": 2452,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2102,
+          "raw": 2452,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7611,
+          "raw": 7805,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2102,
+          "raw": 2452,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3704,
+          "raw": 4404,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 11902,
+          "raw": 12152,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2566,
+          "raw": 2685,
           "tier": 3
         }
       },
@@ -5545,17 +5558,17 @@
       "stats": {
         "critters": 20,
         "deaths": 6,
-        "drinks": 63,
-        "flights": 27,
-        "food": 86,
+        "drinks": 66,
+        "flights": 29,
+        "food": 93,
         "health_potions": 29,
-        "hearths": 25,
-        "killing_blows": 1150,
+        "hearths": 27,
+        "killing_blows": 1275,
         "mana_potions": 7,
-        "mobs": 1429,
-        "quests": 172
+        "mobs": 1567,
+        "quests": 187
       },
-      "xp": 23097
+      "xp": 19940
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -25305,6 +25318,20 @@
           "level": 25
         }
       },
+      "eu:baumora-axiom": {
+        "c": {
+          "name": "Baumora",
+          "region": "eu",
+          "surname": "Axiom"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Donnerfels"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 51
+        }
+      },
       "eu:blck-jck": {
         "c": {
           "name": "Blck",
@@ -25318,6 +25345,20 @@
         "snap": {
           "class": "Priest",
           "level": 30
+        }
+      },
+      "eu:christopher-kuhlumbus": {
+        "c": {
+          "name": "Christopher",
+          "region": "eu",
+          "surname": "Kuhlumbus"
+        },
+        "lines": [
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 25
         }
       },
       "eu:fred-feuersturm": {
@@ -25529,6 +25570,7 @@
     "Archmage Arugal kills (Shadowfang Keep)": "Siege über Erzmagier Arugal (Burg Schattenfang)",
     "Arctic Buckler": "Arktischer Rundschild",
     "Argent Dawn": "Argentumdämmerung",
+    "Argent Dawn Commission": "Anstecknadel der Argentumdämmerung",
     "Armor": "Rüstung",
     "Armor of the Fang": "Rüstung des Giftzahns",
     "Arms": "Waffen",
@@ -26613,6 +26655,7 @@
     "Saltseer's Helm": "Helm des Salzsehers",
     "Salvaged Wooden Tower Shield": "Geborgener Holzturmschild",
     "Sanctified Judgement": "Gesegnetes Richturteil",
+    "Sandals of the Insurgent": "Sandalen des Aufrührers",
     "Sandrunner Wristguards": "Sandläuferhandgelenksschützer",
     "Sandspire Gloves": "Sandspitzen-Handschuhe",
     "Sanguine Sandals": "Blutbadsandalen",
@@ -28096,7 +28139,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795454744,
+  "saved_at": 1795456458,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
