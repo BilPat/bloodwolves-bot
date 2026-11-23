@@ -12518,7 +12518,7 @@
       },
       "ilvl": 35,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795456731000,
+      "last_login": 1795472487000,
       "level": 40,
       "level_at": {
         "25": 1794866470,
@@ -12540,7 +12540,7 @@
       "professions": {
         "Cooking": 225,
         "First Aid": 206,
-        "Fishing": 225,
+        "Fishing": 226,
         "Leatherworking": 156,
         "Skinning": 254
       },
@@ -12705,12 +12705,12 @@
         ],
         "Fishing": [
           {
-            "id": 4346,
-            "name": "Fishing"
-          },
-          {
             "id": 52639,
             "name": "Fish Bowl"
+          },
+          {
+            "id": 10242,
+            "name": "Fishing"
           }
         ],
         "Leatherworking": [
@@ -13055,16 +13055,16 @@
         "critters": 99,
         "deaths": 46,
         "drinks": 42,
-        "flights": 64,
-        "food": 269,
+        "flights": 69,
+        "food": 270,
         "health_potions": 35,
-        "hearths": 25,
+        "hearths": 26,
         "honorable_kills": 245,
         "killing_blows": 3187,
         "mobs": 5249,
-        "quests": 312
+        "quests": 314
       },
-      "xp": 32630
+      "xp": 39246
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -24023,11 +24023,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 6725,
-        "ilvl": 36,
-        "name": "Marbled Buckler",
+        "id": 9625,
+        "ilvl": 37,
+        "name": "Dual Reinforced Leggings",
         "quality": "RARE",
-        "slot": "Off Hand"
+        "slot": "Legs"
       },
       "boss_kills": {
         "1092": {
@@ -24059,6 +24059,11 @@
           "boss": "Charlga Razorflank",
           "count": 1,
           "instance": "Razorfen Kraul"
+        },
+        "6140": {
+          "boss": "Mekgineer Thermaplugg",
+          "count": 1,
+          "instance": "Gnomeregan"
         },
         "63570": {
           "boss": "Edwin VanCleef",
@@ -24155,17 +24160,26 @@
         "720": {
           "name": "Brawler Gloves",
           "quality": "RARE"
+        },
+        "9446": {
+          "name": "Electrocutioner Leg",
+          "quality": "RARE"
+        },
+        "9625": {
+          "name": "Dual Reinforced Leggings",
+          "quality": "RARE"
         }
       },
       "ilvl": 28,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795458826000,
-      "level": 34,
+      "last_login": 1795472113000,
+      "level": 35,
       "level_at": {
         "31": 1794965196,
         "32": 1795061895,
         "33": 1795380922,
-        "34": 1795419090
+        "34": 1795419090,
+        "35": 1795472783
       },
       "professions": {
         "Blacksmithing": 169,
@@ -24686,7 +24700,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17112,
+          "raw": 17262,
           "tier": 5
         },
         "Everlook": {
@@ -24701,12 +24715,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6903,
+          "raw": 7528,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8315,
+          "raw": 8465,
           "tier": 4
         },
         "Kirin Tor": {
@@ -24726,7 +24740,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9773,
+          "raw": 9998,
           "tier": 5
         }
       },
@@ -24735,16 +24749,16 @@
         "critters": 168,
         "deaths": 24,
         "drinks": 2,
-        "flights": 112,
-        "food": 144,
+        "flights": 113,
+        "food": 147,
         "health_potions": 36,
-        "hearths": 66,
+        "hearths": 67,
         "honorable_kills": 1,
-        "killing_blows": 2585,
-        "mobs": 5314,
-        "quests": 304
+        "killing_blows": 2663,
+        "mobs": 5696,
+        "quests": 312
       },
-      "xp": 47246
+      "xp": 24765
     },
     "us:whizz-aard": {
       "achievements": {
@@ -25389,6 +25403,20 @@
           "level": 35
         }
       },
+      "us:steel-appeal": {
+        "c": {
+          "name": "steel",
+          "region": "us",
+          "surname": "appeal"
+        },
+        "lines": [
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 35
+        }
+      },
       "us:whizz-aard": {
         "c": {
           "name": "whizz",
@@ -25817,6 +25845,7 @@
     "Dreamweave Gloves": "Traumzwirnhandschuhe",
     "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
     "Druid": "Druide",
+    "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
     "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
     "Duels lost": "Duelle verloren",
     "Duels won": "Duelle gewonnen",
@@ -25841,6 +25870,7 @@
     "Efficient Strikes": "Effiziente Schläge",
     "Elder's Bracers of the Elder": "Ältestenarmschienen des Ältesten",
     "Elder's Tunic": "Tunika des Ältesten",
+    "Electrocutioner Leg": "Elektrokutionatorbein",
     "Electrostatic Charge": "Elektrostatische Aufladung",
     "Elemental Alacrity": "Elementare Geschwindigkeit",
     "Elemental Combat": "Elementarkampf",
@@ -26249,6 +26279,7 @@
     "Light Leather Bracers": "Leichte Lederarmschienen",
     "Light Shot": "Leichtes Geschoss",
     "Lightheel Boots": "Leichtfußstiefel",
+    "Lightning Bolt": "Blitzschlag",
     "Lightning Reflexes": "Blitzartige Reflexe",
     "Lil Timmy's Peashooter": "Lil Timmys Blasrohr",
     "Lingering Rage": "Schwelende Wut",
@@ -28046,7 +28077,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795472028,
+  "saved_at": 1795472784,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
