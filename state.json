@@ -8436,6 +8436,10 @@
           "name": "Gnarled Necromancer's Staff",
           "quality": "RARE"
         },
+        "2565": {
+          "name": "Rod of Molten Fire",
+          "quality": "RARE"
+        },
         "271719": {
           "name": "Furs of the Earthen Ring",
           "quality": "RARE"
@@ -8479,11 +8483,15 @@
         "4320": {
           "name": "Spidersilk Boots",
           "quality": "RARE"
+        },
+        "7714": {
+          "name": "Hypnotic Blade",
+          "quality": "RARE"
         }
       },
-      "ilvl": 31,
+      "ilvl": 32,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795389381000,
+      "last_login": 1795446592000,
       "level": 37,
       "level_at": {
         "28": 1794866470,
@@ -8500,7 +8508,7 @@
       "professions": {
         "Cooking": 223,
         "Enchanting": 150,
-        "Fishing": 216,
+        "Fishing": 225,
         "Tailoring": 150
       },
       "race": "Undead",
@@ -9027,17 +9035,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -8375,
+          "raw": -9375,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1455,
+          "raw": 1660,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5386,
+          "raw": 5705,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9052,37 +9060,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1215,
+          "raw": 1317,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1215,
+          "raw": 1317,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5386,
+          "raw": 5536,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1165,
+          "raw": 1267,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1440,
+          "raw": 1542,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4748,
+          "raw": 4842,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16986,
+          "raw": 17080,
           "tier": 5
         }
       },
@@ -9090,18 +9098,18 @@
       "stats": {
         "critters": 75,
         "deaths": 23,
-        "drinks": 766,
-        "flights": 54,
-        "food": 247,
-        "health_potions": 25,
-        "hearths": 21,
+        "drinks": 794,
+        "flights": 56,
+        "food": 271,
+        "health_potions": 26,
+        "hearths": 22,
         "honorable_kills": 4,
-        "killing_blows": 2082,
+        "killing_blows": 2165,
         "mana_potions": 11,
-        "mobs": 5059,
-        "quests": 265
+        "mobs": 5139,
+        "quests": 272
       },
-      "xp": 8102
+      "xp": 42054
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -25286,6 +25294,20 @@
           "level": 30
         }
       },
+      "eu:fred-feuersturm": {
+        "c": {
+          "name": "Fred",
+          "region": "eu",
+          "surname": "Feuersturm"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 225"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 37
+        }
+      },
       "eu:h%C3%A4uptling-blutmacht": {
         "c": {
           "name": "Häuptling",
@@ -26147,6 +26169,7 @@
     "Hunting Gloves": "Jagdhandschuhe",
     "Hunting Tunic": "Jagdtunika",
     "Hydra Leather Legs": "Hydralederbeinlinge",
+    "Hypnotic Blade": "Hypnoseklinge",
     "Idol": "Götze",
     "Idol of Shifting Tides": "Götze der wandelnden Gezeiten",
     "Ignite": "Entzünden",
@@ -26520,6 +26543,7 @@
     "Robes of the Disgraced Thane": "Robe des in Ungnade gefallenen Thans",
     "Robust Cloak of Strength": "Robuster Umhang der Stärke",
     "Robust Leggings of the Physician": "Robuste Gamaschen des Heilers",
+    "Rod of Molten Fire": "Rute des flüssigen Feuers",
     "Rogue": "Schurke",
     "Rotgrip Mantle": "Faulschnappers Mantel",
     "Rotmender's Garb": "Gewand des Fäulnisheilers",
@@ -28038,7 +28062,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795445723,
+  "saved_at": 1795446951,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
