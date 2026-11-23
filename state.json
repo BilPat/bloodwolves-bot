@@ -27597,7 +27597,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 44,
+        "level": 45,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -27705,7 +27705,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -27993,7 +27993,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 29,
         "name": "Mamulo",
         "rank": 5,
         "region": "eu",
@@ -28004,7 +28004,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795443476,
+  "saved_at": 1795444117,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
