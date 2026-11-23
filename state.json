@@ -2553,11 +2553,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 17732,
-        "ilvl": 53,
-        "name": "Rotgrip Mantle",
+        "id": 276744,
+        "ilvl": 55,
+        "name": "Zarla's Snack Pouch",
         "quality": "RARE",
-        "slot": "Shoulders"
+        "slot": "Trinket 1"
       },
       "boss_kills": {
         "1092": {
@@ -2572,7 +2572,7 @@
         },
         "1094": {
           "boss": "Chief Ukorz Sandscalp",
-          "count": 9,
+          "count": 10,
           "instance": "Zul'Farrak"
         },
         "15027": {
@@ -2694,6 +2694,10 @@
           "name": "Bloodmaster's Ring",
           "quality": "RARE"
         },
+        "276744": {
+          "name": "Zarla's Snack Pouch",
+          "quality": "RARE"
+        },
         "6803": {
           "name": "Prophetic Cane",
           "quality": "RARE"
@@ -2723,10 +2727,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 45,
+      "ilvl": 46,
       "last_explored": "Thousand Needles",
-      "last_login": 1795379806000,
-      "level": 49,
+      "last_login": 1795433796000,
+      "level": 50,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -2735,13 +2739,14 @@
         "46": 1795017247,
         "47": 1795035267,
         "48": 1795129993,
-        "49": 1795202759
+        "49": 1795202759,
+        "50": 1795434000
       },
       "professions": {
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 284
+        "Skinning": 285
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -3221,7 +3226,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3586,
+          "raw": 4331,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -3241,12 +3246,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3386,
+          "raw": 4131,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3933,
+          "raw": 5423,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -3261,12 +3266,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 4333,
+          "raw": 5078,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4277,
+          "raw": 5022,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -3288,18 +3293,18 @@
       "spec": "Restoration",
       "stats": {
         "critters": 180,
-        "deaths": 39,
-        "drinks": 691,
-        "flights": 85,
-        "food": 157,
+        "deaths": 40,
+        "drinks": 699,
+        "flights": 86,
+        "food": 159,
         "health_potions": 46,
         "hearths": 31,
-        "killing_blows": 2985,
+        "killing_blows": 3090,
         "mana_potions": 23,
-        "mobs": 12688,
-        "quests": 432
+        "mobs": 13162,
+        "quests": 437
       },
-      "xp": 82176
+      "xp": 11498
     },
     "eu:blck-jck": {
       "achievements": {
@@ -26868,7 +26873,8 @@
         "eu:thalia-mondrabe"
       ],
       "50": [
-        "eu:krakmor-ci%C3%B3rdan"
+        "eu:krakmor-ci%C3%B3rdan",
+        "eu:baumora-axiom"
       ]
     }
   },
@@ -27860,7 +27866,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795433141,
+  "saved_at": 1795434001,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
