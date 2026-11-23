@@ -15404,14 +15404,19 @@
           "raw": 400,
           "tier": 3
         },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -7250,
+          "tier": 0
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1717,
+          "raw": 1904,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11816,
+          "raw": 12053,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -15426,37 +15431,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1717,
+          "raw": 1829,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1717,
+          "raw": 1829,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12703,
+          "raw": 12903,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1717,
+          "raw": 1829,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3334,
+          "raw": 3484,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8847,
+          "raw": 8935,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5652,
+          "raw": 5740,
           "tier": 4
         }
       },
@@ -15464,15 +15469,15 @@
       "stats": {
         "critters": 28,
         "deaths": 38,
-        "drinks": 31,
-        "flights": 46,
-        "food": 21,
+        "drinks": 32,
+        "flights": 47,
+        "food": 22,
         "health_potions": 44,
         "hearths": 23,
-        "killing_blows": 1920,
+        "killing_blows": 1954,
         "mana_potions": 12,
-        "mobs": 3565,
-        "quests": 241
+        "mobs": 3599,
+        "quests": 250
       },
       "xp": 48367
     },
@@ -27943,7 +27948,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795464938,
+  "saved_at": 1795465573,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
