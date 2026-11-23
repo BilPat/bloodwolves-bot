@@ -2373,20 +2373,20 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/95/51172703-avatar.jpg",
       "best_item": {
-        "id": 5314,
+        "id": 5351,
         "ilvl": 20,
-        "name": "Boar Hunter's Cape",
+        "name": "Bounty Hunter's Ring",
         "quality": "UNCOMMON",
-        "slot": "Back"
+        "slot": "Ring 2"
       },
       "boss_kills": {},
       "class": "Hunter",
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 6,
+      "ilvl": 7,
       "last_explored": "Durotar",
-      "last_login": 1795438221000,
+      "last_login": 1795452024000,
       "level": 17,
       "level_at": {
         "13": 1794866470,
@@ -2397,7 +2397,7 @@
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
-        "Fishing": 76,
+        "Fishing": 77,
         "Mining": 74,
         "Skinning": 122
       },
@@ -2482,12 +2482,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 600,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8076,
+          "raw": 8232,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2497,54 +2497,54 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 600,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 600,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8738,
+          "raw": 8988,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 600,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 550,
+          "raw": 700,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3906,
+          "raw": 3987,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1212,
+          "raw": 1293,
           "tier": 3
         }
       },
       "spec": "Marksmanship",
       "stats": {
         "critters": 8,
-        "deaths": 6,
+        "deaths": 7,
         "drinks": 1,
-        "flights": 11,
+        "flights": 12,
         "food": 15,
         "health_potions": 4,
         "hearths": 8,
-        "killing_blows": 700,
-        "mobs": 774,
-        "quests": 78
+        "killing_blows": 717,
+        "mobs": 795,
+        "quests": 83
       },
-      "xp": 7475
+      "xp": 16201
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -21096,11 +21096,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/102/500326-avatar.jpg",
       "best_item": {
-        "id": 4119,
-        "ilvl": 43,
-        "name": "Raptor Hunter Tunic",
+        "id": 279930,
+        "ilvl": 42,
+        "name": "Saltseer's Helm",
         "quality": "UNCOMMON",
-        "slot": "Chest"
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -21178,6 +21178,10 @@
           "name": "Worgenbane Talisman",
           "quality": "RARE"
         },
+        "274605": {
+          "name": "Briny Sash",
+          "quality": "RARE"
+        },
         "279844": {
           "name": "Striking Staff",
           "quality": "RARE"
@@ -21192,6 +21196,14 @@
         },
         "4253": {
           "name": "Toughened Leather Gloves",
+          "quality": "RARE"
+        },
+        "6318": {
+          "name": "Odo's Ley Staff",
+          "quality": "RARE"
+        },
+        "6324": {
+          "name": "Robes of Arugal",
           "quality": "RARE"
         },
         "6340": {
@@ -21209,7 +21221,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795416585000,
+      "last_login": 1795451710000,
       "level": 40,
       "level_at": {
         "38": 1795221303,
@@ -21676,12 +21688,12 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -10875,
+          "raw": -11625,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3635,
+          "raw": 3785,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -21706,12 +21718,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3065,
+          "raw": 3140,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3065,
+          "raw": 3140,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -21726,12 +21738,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3015,
+          "raw": 3090,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4810,
+          "raw": 4885,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -21750,21 +21762,21 @@
           "tier": 4
         }
       },
-      "spec": "Feral Combat",
+      "spec": "Restoration",
       "stats": {
         "critters": 58,
         "deaths": 19,
         "drinks": 24,
-        "flights": 135,
+        "flights": 136,
         "food": 98,
         "health_potions": 16,
         "hearths": 37,
         "killing_blows": 3765,
         "mana_potions": 3,
-        "mobs": 6106,
-        "quests": 444
+        "mobs": 6192,
+        "quests": 445
       },
-      "xp": 60893
+      "xp": 72354
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -25643,6 +25655,7 @@
     "Bonebinder's Signet": "Siegelring des Knochenbinders",
     "Bonerust Leggings": "Knochenrostgamaschen",
     "Bonus Armor": "Bonusrüstung",
+    "Boots of the Enchanter": "Stiefel des Verzauberers",
     "Boss Kills": "Boss-Kills",
     "Boulderheart Band": "Felsenherzband",
     "Bound Harness": "Gebundener Harnisch",
@@ -26047,6 +26060,7 @@
     "Gear": "Ausrüstung",
     "Gelkis Clan Centaur": "Gelkisklan",
     "Gemmed Copper Boots": "Edelsteinbesetzte Kupferstiefel",
+    "Gemmed Gloves": "Edelsteinbesetzte Handschuhe",
     "Ghastly Trousers": "Garstige Beinkleider",
     "Ghostly Mantle": "Geisterhafter Mantel",
     "Giantstone Medallion": "Riesensteinmedallion",
@@ -26093,6 +26107,7 @@
     "Grunt's Belt of the Boar": "Grunzergürtel des Ebers",
     "Grunt's Handwraps of the Boar": "Grunzerhandlappen des Ebers",
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
+    "Guardian Pants": "Wächterhose",
     "Guild Tabard": "Gildenwappenrock",
     "Gun": "Schusswaffe",
     "Hack and Slash": "Niedermetzeln",
@@ -26160,6 +26175,7 @@
     "Highest Mining skill": "Höchste Bergbaufertigkeit",
     "Highest Skinning skill": "Höchste Kürschnerfertigkeit",
     "Highest Tailoring skill": "Höchste Schneiderfertigkeit",
+    "Hillman's Cloak": "Umhang des Hügelwächters",
     "Hillman's Shoulders": "Schultern des Hügelwächters",
     "Hit": "Trefferwert",
     "Holy": "Heilig",
@@ -26352,6 +26368,7 @@
     "Mercenary Leggings": "Söldnergamaschen",
     "Militant Shortsword of Nature Protection": "Militantes Kurzschwert des Naturschutzes",
     "Mind-numbing Poison": "Gedankenbenebelndes Gift",
+    "Mindbender Loop": "Geistbeugerspirale",
     "Minor Mana Oil": "Schwaches Manaöl",
     "Minor Wizard Oil": "Schwaches Zauberöl",
     "Mirage Mirror": "Illusionsspiegel",
@@ -26379,6 +26396,7 @@
     "Mystic Thick Armor Kit": "Mystisches dickes Rüstungsset",
     "Mystic's Belt": "Mystikergürtel",
     "Mystic's Cape": "Mystikercape",
+    "Naga Priestess's Mantle": "Mantel der Nagapriesterin",
     "Natural Instinct": "Instinkt der Natur",
     "Nature Damage": "Naturschaden",
     "Nature Resistance": "Naturwiderstand",
@@ -26958,6 +26976,7 @@
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
     "Weaponmaster": "Waffenmeister",
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
+    "Welken Ring": "Welkenring",
     "Whelpscale Necklace": "Welpenschuppenhalskette",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
@@ -28077,7 +28096,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795451256,
+  "saved_at": 1795452071,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
