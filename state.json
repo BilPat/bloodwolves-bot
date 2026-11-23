@@ -22570,7 +22570,7 @@
       },
       "ilvl": 25,
       "last_explored": "Thousand Needles",
-      "last_login": 1795435288000,
+      "last_login": 1795463288000,
       "level": 30,
       "level_at": {
         "21": 1794866470,
@@ -22664,7 +22664,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 687,
+          "raw": 737,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -22684,12 +22684,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 687,
+          "raw": 737,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 687,
+          "raw": 737,
           "tier": 3
         },
         "Orgrimmar": {
@@ -22699,12 +22699,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 687,
+          "raw": 737,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 875,
+          "raw": 975,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -22722,17 +22722,17 @@
       "stats": {
         "critters": 54,
         "deaths": 18,
-        "drinks": 1139,
+        "drinks": 1181,
         "flights": 29,
-        "food": 311,
+        "food": 329,
         "health_potions": 12,
         "hearths": 30,
-        "killing_blows": 1751,
+        "killing_blows": 1792,
         "mana_potions": 26,
-        "mobs": 2920,
-        "quests": 189
+        "mobs": 2962,
+        "quests": 193
       },
-      "xp": 25554
+      "xp": 42867
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -28195,7 +28195,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795462827,
+  "saved_at": 1795463731,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
