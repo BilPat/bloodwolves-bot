@@ -22574,16 +22574,17 @@
     },
     "us:devil-latterday": {
       "achievements": {
+        "61989": "Novice Hunter",
         "776": "Explore Elwynn Forest",
         "842": "Explore Teldrassil"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
       "best_item": {
-        "id": 273843,
-        "ilvl": 28,
-        "name": "Fallenroot Longbow",
+        "id": 273026,
+        "ilvl": 31,
+        "name": "Garb of Florid Feathers",
         "quality": "RARE",
-        "slot": "Ranged"
+        "slot": "Chest"
       },
       "boss_kills": {
         "15027": {
@@ -22593,7 +22594,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 1,
+          "count": 2,
           "instance": "Blackfathom Deeps"
         },
         "63571": {
@@ -22615,12 +22616,20 @@
           "name": "Dark Leather Boots",
           "quality": "RARE"
         },
+        "270032": {
+          "name": "Cultist's Armguards",
+          "quality": "RARE"
+        },
         "270231": {
           "name": "Flamefist Grips",
           "quality": "RARE"
         },
         "271204": {
           "name": "Meathook Slicer",
+          "quality": "RARE"
+        },
+        "273026": {
+          "name": "Garb of Florid Feathers",
           "quality": "RARE"
         },
         "273843": {
@@ -22632,22 +22641,23 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 14,
+      "ilvl": 21,
       "last_explored": "Elwynn Forest",
-      "last_login": 1795329374000,
-      "level": 23,
+      "last_login": 1795398069000,
+      "level": 27,
       "level_at": {
         "18": 1795149590,
         "20": 1795151747,
         "22": 1795242093,
-        "23": 1795329766
+        "23": 1795329766,
+        "27": 1795398202
       },
       "professions": {
-        "Cooking": 90,
-        "First Aid": 130,
-        "Fishing": 21,
+        "Cooking": 96,
+        "First Aid": 145,
+        "Fishing": 40,
         "Leatherworking": 80,
-        "Skinning": 157
+        "Skinning": 183
       },
       "race": "Night Elf",
       "raids": {},
@@ -22664,6 +22674,10 @@
           {
             "id": 1873,
             "name": "Murloc Fin Soup"
+          },
+          {
+            "id": 1674,
+            "name": "Beer Basted Boar Ribs"
           },
           {
             "id": 52640,
@@ -22692,6 +22706,10 @@
           {
             "id": 1536,
             "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 3930,
@@ -22942,7 +22960,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 350,
+          "raw": 700,
           "tier": 3
         },
         "Azeroth Commerce Authority": {
@@ -22950,9 +22968,14 @@
           "raw": 2000,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Darnassus": {
           "name": "Honored",
-          "raw": 13701,
+          "raw": 14726,
           "tier": 5
         },
         "Gadgetzan": {
@@ -22962,12 +22985,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5103,
+          "raw": 5460,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 5241,
+          "raw": 5860,
           "tier": 4
         },
         "Silverwing Sentinels": {
@@ -22977,26 +23000,26 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 5817,
+          "raw": 6398,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 77,
-        "deaths": 30,
-        "drinks": 5,
-        "flights": 17,
-        "food": 31,
+        "critters": 92,
+        "deaths": 31,
+        "drinks": 6,
+        "flights": 21,
+        "food": 37,
         "health_potions": 8,
-        "hearths": 7,
-        "honorable_kills": 104,
-        "killing_blows": 1774,
+        "hearths": 8,
+        "honorable_kills": 108,
+        "killing_blows": 1948,
         "mana_potions": 1,
-        "mobs": 2081,
-        "quests": 162
+        "mobs": 2572,
+        "quests": 192
       },
-      "xp": 19622
+      "xp": 3504
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -23654,7 +23677,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795397083000,
+      "last_login": 1795397927000,
       "level": 33,
       "level_at": {
         "31": 1794965196,
@@ -24906,6 +24929,20 @@
           "class": "Paladin",
           "level": 44
         }
+      },
+      "us:devil-latterday": {
+        "c": {
+          "name": "devil",
+          "region": "us",
+          "surname": "latterday"
+        },
+        "lines": [
+          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 27
+        }
       }
     },
     "last": "2026-11-22"
@@ -25008,6 +25045,7 @@
     "Battered Cloak": "Ramponierter Umhang",
     "Battered Leather Pants": "Ramponierte Lederhose",
     "Battering Hammer of the Owl": "Beulenhammer der Eule",
+    "Battle Knife of the Whale": "Kampfmesser des Wals",
     "Battle Spaulders": "Kampfschiftung",
     "Battleforge Boots of the Falcon": "Schlachtschmiedestiefel des Falken",
     "Battleforge Girdle of the Monkey": "Schlachtschmiedegurt des Affen",
@@ -25938,6 +25976,7 @@
     "Rath'mael Kills (Ruins of Lordaeron)": "Siege über Rath'mael (Ruinen von Lordaeron)",
     "Ravasaur Trainers": "Ravasaurusausbilder",
     "Rawhide Boots": "Rohlederstiefel",
+    "Razor Arrow": "Schneidenpfeil",
     "Razorfen Downs": "Hügel von Razorfen",
     "Razorfen Kraul": "Kral von Razorfen",
     "Razormaw Shorts": "Scharfzahnshorts",
@@ -26041,6 +26080,7 @@
     "Scarlet Monastery": "Scharlachrotes Kloster",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
     "Scouting Spaulders": "Späherschiftung",
+    "Scouting Trousers of the Tiger": "Späherhose des Tigers",
     "Scoutmaster's Eyepatch": "Augenklappe des Spähmeisters",
     "Scroll of Imbue Baleflame": "Schriftrolle der Durchdringung: Unheilsflamme",
     "Scroll of Imbue Flame": "Schriftrolle der Durchdringung: Flamme",
@@ -26198,6 +26238,7 @@
     "Subterranean Cape": "Unterirdisches Cape",
     "Subtlety": "Feingefühl",
     "Summon Felsteed": "Teufelsross beschwören",
+    "Summon Hawk": "Falke beschwören",
     "Summon Warhorse": "Schlachtross beschwören",
     "Summoner's Wand": "Zauberstab des Beschwörers",
     "Summons accepted": "Beschwörungen angenommen",
@@ -26414,6 +26455,7 @@
     "Wound": "Wunde",
     "Woven Ivy Necklace": "Gewobene Efeuhalskette",
     "Wrack": "Zermürben",
+    "Wrangler's Belt of the Monkey": "Zänkergürtel des Affen",
     "Wrangler's Leggings of the Tiger": "Zänkergamaschen des Tigers",
     "Wrist": "Handgelenke",
     "Yeti Fur Cloak": "Yetifell-Umhang",
@@ -26886,6 +26928,7 @@
       "h%C3%A4uptling-blutmacht": "Häuptling Blutmacht",
       "howard-wolowitzard": "Howard Wolowitzard",
       "huli-muli": "Huli Muli",
+      "ignatius-glattsteyn": "Ignatius Glattsteyn",
       "kamah-suhtrah": "Kamah Suhtrah",
       "keta-f%C3%A4se": "Keta Fäse",
       "khaladin-ronen": "Khaladin Ronen",
@@ -26924,7 +26967,7 @@
         "guild": true,
         "level": 19,
         "name": "Pandora",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Snow"
       },
@@ -26933,14 +26976,14 @@
         "guild": true,
         "level": 40,
         "name": "Thalia",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Mondrabe"
       },
       {
         "class": null,
         "guild": true,
-        "level": 53,
+        "level": 54,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -26951,7 +26994,7 @@
         "guild": true,
         "level": 16,
         "name": "Pantherra",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Wolf"
       },
@@ -26960,7 +27003,7 @@
         "guild": true,
         "level": 31,
         "name": "Alto",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Belli"
       },
@@ -26969,7 +27012,7 @@
         "guild": true,
         "level": 22,
         "name": "Boreas",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Donnerrufer"
       },
@@ -26978,7 +27021,7 @@
         "guild": true,
         "level": 10,
         "name": "Lockendotter",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Bonechrusher"
       },
@@ -26996,16 +27039,16 @@
         "guild": true,
         "level": 49,
         "name": "Baumora",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Axiom"
       },
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Khaladin",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Ronen"
       },
@@ -27014,7 +27057,7 @@
         "guild": true,
         "level": 1,
         "name": "Seppi",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Sapbert"
       },
@@ -27023,7 +27066,7 @@
         "guild": true,
         "level": 48,
         "name": "Garret",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Aschwind"
       },
@@ -27032,16 +27075,16 @@
         "guild": true,
         "level": 48,
         "name": "Blut",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Leiche"
       },
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Blck",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Jck"
       },
@@ -27050,7 +27093,7 @@
         "guild": true,
         "level": 11,
         "name": "Huli",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Muli"
       },
@@ -27075,7 +27118,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 43,
+        "level": 44,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -27086,7 +27129,7 @@
         "guild": true,
         "level": 29,
         "name": "Zulka",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Seelenfluch"
       },
@@ -27095,7 +27138,7 @@
         "guild": true,
         "level": 20,
         "name": "Ellena",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Lederriemen"
       },
@@ -27104,7 +27147,7 @@
         "guild": true,
         "level": 28,
         "name": "Aru",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Tai"
       },
@@ -27113,7 +27156,7 @@
         "guild": true,
         "level": 30,
         "name": "Thalgrim",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Tirisfal"
       },
@@ -27122,25 +27165,25 @@
         "guild": true,
         "level": 23,
         "name": "Sorayha",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Avalon"
       },
       {
         "class": null,
         "guild": true,
-        "level": 36,
+        "level": 37,
         "name": "Fred",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Feuersturm"
       },
       {
         "class": null,
         "guild": true,
-        "level": 22,
+        "level": 24,
         "name": "Rausmit",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Deviechers"
       },
@@ -27149,7 +27192,7 @@
         "guild": true,
         "level": 33,
         "name": "Ragnar",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Lodhoof"
       },
@@ -27158,7 +27201,7 @@
         "guild": true,
         "level": 27,
         "name": "Milly",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Silverwood"
       },
@@ -27167,7 +27210,7 @@
         "guild": true,
         "level": 25,
         "name": "Elric",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Wolfsclan"
       },
@@ -27176,7 +27219,7 @@
         "guild": true,
         "level": 14,
         "name": "Howard",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Wolowitzard"
       },
@@ -27194,7 +27237,7 @@
         "guild": true,
         "level": 25,
         "name": "Mimisiku",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Meatshield"
       },
@@ -27212,7 +27255,7 @@
         "guild": true,
         "level": 29,
         "name": "Liquider",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Nasenbär"
       },
@@ -27230,7 +27273,7 @@
         "guild": true,
         "level": 34,
         "name": "Garm",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Winterhoof"
       },
@@ -27248,7 +27291,7 @@
         "guild": true,
         "level": 24,
         "name": "Maniac",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Menacepuppy"
       },
@@ -27257,7 +27300,7 @@
         "guild": true,
         "level": 13,
         "name": "Garakosh",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Redwalker"
       },
@@ -27266,7 +27309,7 @@
         "guild": true,
         "level": 21,
         "name": "Bon",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Tschorno"
       },
@@ -27275,7 +27318,7 @@
         "guild": true,
         "level": 24,
         "name": "Christopher",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Kuhlumbus"
       },
@@ -27284,7 +27327,7 @@
         "guild": true,
         "level": 24,
         "name": "Kreuzaua",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Scoops"
       },
@@ -27293,7 +27336,7 @@
         "guild": true,
         "level": 10,
         "name": "Nekrion",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Grabwächter"
       },
@@ -27302,7 +27345,7 @@
         "guild": true,
         "level": 33,
         "name": "Lazy",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Quinn"
       },
@@ -27311,7 +27354,7 @@
         "guild": true,
         "level": 31,
         "name": "Kamah",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Suhtrah"
       },
@@ -27320,7 +27363,7 @@
         "guild": true,
         "level": 8,
         "name": "Mento",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Zemento"
       },
@@ -27329,7 +27372,7 @@
         "guild": true,
         "level": 39,
         "name": "Keta",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Fäse"
       },
@@ -27338,7 +27381,7 @@
         "guild": true,
         "level": 18,
         "name": "Devastator",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Vane"
       },
@@ -27347,7 +27390,7 @@
         "guild": true,
         "level": 20,
         "name": "Damien",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Thoorn"
       },
@@ -27365,16 +27408,16 @@
         "guild": true,
         "level": 19,
         "name": "Ogmar",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Donnerhammer"
       },
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Eluna",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Sia"
       },
@@ -27392,7 +27435,7 @@
         "guild": true,
         "level": 13,
         "name": "Gaul",
-        "rank": 3,
+        "rank": 1,
         "region": "eu",
         "surname": "Jin"
       },
@@ -27401,7 +27444,7 @@
         "guild": true,
         "level": 6,
         "name": "Prophet",
-        "rank": 3,
+        "rank": 4,
         "region": "eu",
         "surname": "Eierfred"
       },
@@ -27410,7 +27453,7 @@
         "guild": true,
         "level": 6,
         "name": "Klabusta",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Beren"
       },
@@ -27419,7 +27462,7 @@
         "guild": true,
         "level": 5,
         "name": "Zelda",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Moon"
       },
@@ -27428,7 +27471,7 @@
         "guild": true,
         "level": 11,
         "name": "Aldric",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Crowood"
       },
@@ -27453,27 +27496,36 @@
       {
         "class": null,
         "guild": true,
-        "level": 32,
+        "level": 33,
         "name": "Quantino",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Pralino"
       },
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 25,
         "name": "Aristides",
-        "rank": 4,
+        "rank": 5,
         "region": "eu",
         "surname": "Soulreaper"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 7,
+        "name": "Ignatius",
+        "rank": 1,
+        "region": "eu",
+        "surname": "Glattsteyn"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795397278,
+  "saved_at": 1795398203,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
