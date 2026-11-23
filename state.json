@@ -16127,17 +16127,18 @@
       },
       "ilvl": 23,
       "last_explored": "Thousand Needles",
-      "last_login": 1795447888000,
-      "level": 29,
+      "last_login": 1795461978000,
+      "level": 30,
       "level_at": {
         "27": 1795430379,
         "28": 1795437784,
-        "29": 1795448457
+        "29": 1795448457,
+        "30": 1795462825
       },
       "professions": {
         "Cooking": 11,
         "Engineering": 12,
-        "Mining": 100
+        "Mining": 102
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -16208,14 +16209,9 @@
           "raw": 1810,
           "tier": 3
         },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5717,
+          "raw": 5973,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16240,7 +16236,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8012,
+          "raw": 8343,
           "tier": 4
         },
         "Powderfuse": {
@@ -16254,19 +16250,14 @@
           "tier": 4
         },
         "Thunder Bluff": {
-          "name": "Friendly",
-          "raw": 8813,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9763,
+          "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5897,
+          "raw": 6153,
           "tier": 4
-        },
-        "Warsong Outriders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Windshapers": {
           "name": "Friendly",
@@ -16277,18 +16268,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 56,
-        "drinks": 233,
-        "flights": 64,
-        "food": 223,
-        "health_potions": 28,
-        "hearths": 16,
-        "killing_blows": 2027,
-        "mana_potions": 39,
-        "mobs": 2503,
-        "quests": 256
+        "deaths": 58,
+        "drinks": 234,
+        "flights": 65,
+        "food": 224,
+        "health_potions": 29,
+        "hearths": 17,
+        "killing_blows": 2074,
+        "mana_potions": 42,
+        "mobs": 2579,
+        "quests": 268
       },
-      "xp": 42597
+      "xp": 33251
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -25448,6 +25439,20 @@
           "level": 55
         }
       },
+      "eu:mamulo-sham%C3%A4sich": {
+        "c": {
+          "name": "Mamulo",
+          "region": "eu",
+          "surname": "Shamäsich"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Donnerfels"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 30
+        }
+      },
       "eu:mia-graufuss": {
         "c": {
           "name": "Mia",
@@ -26403,6 +26408,7 @@
     "Linked Chain Bracers": "Gekettelte Armschienen",
     "Litany of Light": "Litanei des Lichts",
     "Living Spirit": "Geist des Lebens",
+    "Loamflake Bracers": "Lehmfarbene Armschienen",
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
     "Loose Chain Belt": "Lockerer Kettengürtel",
@@ -27186,7 +27192,8 @@
         "eu:quantino-pralino",
         "eu:thalgrim-tirisfal",
         "eu:blck-jck",
-        "eu:zulka-seelenfluch"
+        "eu:zulka-seelenfluch",
+        "eu:mamulo-sham%C3%A4sich"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -28188,7 +28195,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795461927,
+  "saved_at": 1795462827,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
