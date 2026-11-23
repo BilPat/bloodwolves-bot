@@ -14964,7 +14964,7 @@
       },
       "ilvl": 31,
       "last_explored": "Durotar",
-      "last_login": 1795367212000,
+      "last_login": 1795445428000,
       "level": 33,
       "level_at": {
         "24": 1794866470,
@@ -15376,7 +15376,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11797,
+          "raw": 11816,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -15401,7 +15401,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12685,
+          "raw": 12703,
           "tier": 5
         },
         "Powderfuse": {
@@ -15416,12 +15416,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8772,
+          "raw": 8847,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5633,
+          "raw": 5652,
           "tier": 4
         }
       },
@@ -15430,16 +15430,16 @@
         "critters": 28,
         "deaths": 38,
         "drinks": 31,
-        "flights": 44,
+        "flights": 46,
         "food": 21,
-        "health_potions": 43,
+        "health_potions": 44,
         "hearths": 23,
-        "killing_blows": 1919,
+        "killing_blows": 1920,
         "mana_potions": 12,
-        "mobs": 3564,
-        "quests": 238
+        "mobs": 3565,
+        "quests": 241
       },
-      "xp": 38567
+      "xp": 48367
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -23937,11 +23937,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 273028,
-        "ilvl": 33,
-        "name": "Reliquary Mantle",
+        "id": 6725,
+        "ilvl": 36,
+        "name": "Marbled Buckler",
         "quality": "RARE",
-        "slot": "Shoulders"
+        "slot": "Off Hand"
       },
       "boss_kills": {
         "1092": {
@@ -23968,6 +23968,11 @@
           "boss": "Aku'mai",
           "count": 3,
           "instance": "Blackfathom Deeps"
+        },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
         },
         "63570": {
           "boss": "Edwin VanCleef",
@@ -24017,6 +24022,10 @@
           "name": "Twilight Lord Girdle",
           "quality": "RARE"
         },
+        "274161": {
+          "name": "Quillord Mail Leggings",
+          "quality": "RARE"
+        },
         "285292": {
           "name": "Dull Sawblade",
           "quality": "RARE"
@@ -24041,6 +24050,18 @@
           "name": "Savage Trodders",
           "quality": "RARE"
         },
+        "6681": {
+          "name": "Thornspike",
+          "quality": "RARE"
+        },
+        "6725": {
+          "name": "Marbled Buckler",
+          "quality": "RARE"
+        },
+        "6972": {
+          "name": "Fire Hardened Hauberk",
+          "quality": "RARE"
+        },
         "7002": {
           "name": "Arctic Buckler",
           "quality": "RARE"
@@ -24052,7 +24073,7 @@
       },
       "ilvl": 27,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795418554000,
+      "last_login": 1795444853000,
       "level": 34,
       "level_at": {
         "31": 1794965196,
@@ -24570,7 +24591,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 793,
+          "raw": 943,
           "tier": 3
         },
         "Darnassus": {
@@ -24580,12 +24601,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 793,
+          "raw": 943,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 893,
+          "raw": 1043,
           "tier": 3
         },
         "Gnomeregan Exiles": {
@@ -24605,12 +24626,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 793,
+          "raw": 943,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1086,
+          "raw": 1386,
           "tier": 3
         },
         "Stormwind": {
@@ -24624,16 +24645,16 @@
         "critters": 167,
         "deaths": 23,
         "drinks": 2,
-        "flights": 105,
-        "food": 142,
+        "flights": 107,
+        "food": 143,
         "health_potions": 36,
-        "hearths": 62,
+        "hearths": 63,
         "honorable_kills": 1,
-        "killing_blows": 2533,
-        "mobs": 5106,
-        "quests": 294
+        "killing_blows": 2563,
+        "mobs": 5293,
+        "quests": 300
       },
-      "xp": 9368
+      "xp": 33314
     },
     "us:whizz-aard": {
       "achievements": {
@@ -25396,7 +25417,8 @@
         },
         "lines": [
           "🤝 **Wohlwollend** bei Stormwind",
-          "🎖️ [Erkundet Arathihochland](https://www.wowhead.com/forever/de/achievement=761)"
+          "🎖️ [Erkundet Arathihochland](https://www.wowhead.com/forever/de/achievement=761)",
+          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Warrior",
@@ -25923,6 +25945,7 @@
     "Finscale Soles": "Flossenschuppensohlen",
     "Fire": "Feuer",
     "Fire Damage": "Feuerschaden",
+    "Fire Hardened Hauberk": "Feuergehärtete Halsberge",
     "Fire Power": "Feuermacht",
     "Fire Resistance": "Feuerwiderstand",
     "Fireball": "Feuerball",
@@ -26270,6 +26293,7 @@
     "Mana-Warped Chain Shirt": "Manaverformtes Kettenhemd",
     "Mantle of Doan": "Mantel von Doan",
     "Marauder's Bracers of the Beast": "Marodeursarmschienen der Bestie",
+    "Marbled Buckler": "Marmorierter Rundschild",
     "Mark of the Pack Leader": "Mal des Rudelführers",
     "Marksmanship": "Treffsicherheit",
     "Marshdweller's Pants": "Hose des Sumpfbewohners",
@@ -26425,6 +26449,7 @@
     "Quests completed": "Quests abgeschlossen",
     "Quilboar Blaster": "Stacheleber-Blaster",
     "Quillord Mail Leggings": "Panzergamaschen des Stachelfürsten",
+    "Rage": "Wut",
     "Rageclaw Shoulder Pads of the Elder": "Zornprankenschultern des Ältesten",
     "Ragefire Chasm": "Flammenschlund",
     "Ragged Leather Belt": "Struppiger Ledergürtel",
@@ -26754,6 +26779,7 @@
     "Thief's Blade": "Diebesklinge",
     "Thorbia's Gauntlets": "Thorbias' Stulpen",
     "Thorium Brotherhood": "Thoriumbruderschaft",
+    "Thornspike": "Dornenstachel",
     "Thornwoven Shield": "Dornengewobener Schild",
     "Thra's Friendship Bracelet": "Thras Freundschaftsband",
     "Thrice-Stitched Flesh": "Dreifach genähtes Fleisch",
@@ -28012,7 +28038,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795444835,
+  "saved_at": 1795445723,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
