@@ -27605,7 +27605,7 @@
         "guild": true,
         "level": 25,
         "name": "Aristides",
-        "rank": 5,
+        "rank": 4,
         "region": "eu",
         "surname": "Soulreaper"
       },
@@ -27666,7 +27666,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 50,
+        "level": 51,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -27738,7 +27738,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Redbully",
         "rank": 1,
         "region": "eu",
@@ -27909,7 +27909,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Freya",
         "rank": 1,
         "region": "eu",
@@ -27945,7 +27945,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Christopher",
         "rank": 5,
         "region": "eu",
@@ -28143,7 +28143,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Mamulo",
         "rank": 5,
         "region": "eu",
@@ -28154,7 +28154,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795457894,
+  "saved_at": 1795458573,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
