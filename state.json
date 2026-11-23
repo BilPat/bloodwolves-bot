@@ -3979,7 +3979,7 @@
       },
       "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795379600000,
+      "last_login": 1795452694000,
       "level": 48,
       "level_at": {
         "42": 1794866470,
@@ -4558,16 +4558,16 @@
         "critters": 99,
         "deaths": 13,
         "drinks": 87,
-        "flights": 101,
+        "flights": 102,
         "food": 90,
         "health_potions": 30,
-        "hearths": 47,
-        "killing_blows": 5469,
+        "hearths": 48,
+        "killing_blows": 5508,
         "mana_potions": 2,
-        "mobs": 8685,
+        "mobs": 8732,
         "quests": 488
       },
-      "xp": 69065
+      "xp": 85968
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -10361,9 +10361,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 44,
+      "ilvl": 43,
       "last_explored": "Thousand Needles",
-      "last_login": 1795378435000,
+      "last_login": 1795452670000,
       "level": 48,
       "level_at": {
         "40": 1794866470,
@@ -10380,7 +10380,7 @@
         "Blacksmithing": 205,
         "Cooking": 250,
         "First Aid": 225,
-        "Mining": 230
+        "Mining": 231
       },
       "race": "Undead",
       "raids": {},
@@ -11016,18 +11016,18 @@
       "stats": {
         "critters": 106,
         "deaths": 11,
-        "drinks": 116,
+        "drinks": 117,
         "flights": 86,
-        "food": 117,
+        "food": 118,
         "health_potions": 38,
-        "hearths": 31,
+        "hearths": 32,
         "honorable_kills": 1,
-        "killing_blows": 4163,
+        "killing_blows": 4171,
         "mana_potions": 1,
-        "mobs": 6792,
-        "quests": 587
+        "mobs": 6811,
+        "quests": 589
       },
-      "xp": 39000
+      "xp": 56036
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -28096,7 +28096,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795452071,
+  "saved_at": 1795452915,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
