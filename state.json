@@ -3329,7 +3329,8 @@
         "62000": "Novice Priest",
         "62031": "Novice Spelunker",
         "736": "Explore Mulgore",
-        "769": "Explore Silverpine Forest"
+        "769": "Explore Silverpine Forest",
+        "772": "Explore Hillsbrad Foothills"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/251/6748923-avatar.jpg",
       "best_item": {
@@ -3420,9 +3421,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 25,
-      "last_explored": "Silverpine Forest",
-      "last_login": 1795399066000,
+      "ilvl": 26,
+      "last_explored": "Hillsbrad Foothills",
+      "last_login": 1795459191000,
       "level": 31,
       "level_at": {
         "25": 1794884198,
@@ -3436,7 +3437,7 @@
         "Enchanting": 86,
         "First Aid": 31,
         "Fishing": 1,
-        "Tailoring": 113
+        "Tailoring": 114
       },
       "race": "Undead",
       "raids": {},
@@ -3777,7 +3778,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5138,
+          "raw": 5232,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -3802,7 +3803,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5363,
+          "raw": 5457,
           "tier": 4
         },
         "Powderfuse": {
@@ -3817,36 +3818,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4352,
+          "raw": 4446,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16570,
+          "raw": 16945,
           "tier": 5
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Holy",
       "stats": {
-        "critters": 67,
-        "deaths": 27,
-        "drinks": 70,
-        "flights": 29,
-        "food": 62,
+        "critters": 68,
+        "deaths": 28,
+        "drinks": 73,
+        "flights": 30,
+        "food": 64,
         "health_potions": 16,
-        "hearths": 28,
+        "hearths": 30,
         "honorable_kills": 5,
-        "killing_blows": 1274,
+        "killing_blows": 1304,
         "mana_potions": 15,
-        "mobs": 4005,
-        "quests": 211
+        "mobs": 4072,
+        "quests": 216
       },
-      "xp": 1433
+      "xp": 23898
     },
     "eu:blut-leiche": {
       "achievements": {
@@ -25365,11 +25361,12 @@
           "surname": "Jck"
         },
         "lines": [
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)",
+          "🎖️ [Erkundet Vorgebirge des Hügellands](https://www.wowhead.com/forever/de/achievement=772)"
         ],
         "snap": {
           "class": "Priest",
-          "level": 30
+          "level": 31
         }
       },
       "eu:christopher-kuhlumbus": {
@@ -26698,6 +26695,7 @@
     "Ruthlessness": "Skrupellosigkeit",
     "Sacred Arbiter": "Heiliger Richter",
     "Sacred Band": "Heiliges Band",
+    "Sacred Burial Trousers": "Heilige Begräbnis-Beinkleider",
     "Sacred Duty": "Heilige Pflicht",
     "Sacrificial Sword": "Opferschwert",
     "Saltseer's Helm": "Helm des Salzsehers",
@@ -28187,7 +28185,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795459264,
+  "saved_at": 1795460136,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
