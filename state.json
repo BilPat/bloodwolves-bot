@@ -18789,11 +18789,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/141/82963597-avatar.jpg",
       "best_item": {
-        "id": 271766,
-        "ilvl": 33,
-        "name": "Heavehammer",
-        "quality": "RARE",
-        "slot": "Main Hand"
+        "id": 15154,
+        "ilvl": 38,
+        "name": "Nocturnal Sash of the Bandit",
+        "quality": "UNCOMMON",
+        "slot": "Waist"
       },
       "boss_kills": {
         "1092": {
@@ -18815,6 +18815,11 @@
           "boss": "Aku'mai",
           "count": 1,
           "instance": "Blackfathom Deeps"
+        },
+        "6139": {
+          "boss": "Charlga Razorflank",
+          "count": 1,
+          "instance": "Razorfen Kraul"
         }
       },
       "class": "Druid",
@@ -18862,20 +18867,21 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 28,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795388937000,
-      "level": 33,
+      "last_login": 1795471930000,
+      "level": 35,
       "level_at": {
         "28": 1795369205,
         "31": 1795372085,
-        "33": 1795389237
+        "33": 1795389237,
+        "35": 1795472026
       },
       "professions": {
-        "Cooking": 1,
+        "Cooking": 2,
         "Fishing": 9,
         "Leatherworking": 127,
-        "Skinning": 209
+        "Skinning": 221
       },
       "race": "Tauren",
       "raids": {},
@@ -19137,7 +19143,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1945,
+          "raw": 2030,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -19147,7 +19153,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7868,
+          "raw": 8225,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -19162,55 +19168,56 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1945,
+          "raw": 2025,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1945,
+          "raw": 2025,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10501,
+          "raw": 10932,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1945,
+          "raw": 2025,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3391,
+          "raw": 3546,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 16842,
+          "raw": 17473,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6712,
+          "raw": 7987,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 44,
-        "deaths": 21,
-        "drinks": 8,
-        "flights": 58,
-        "health_potions": 12,
-        "hearths": 12,
+        "critters": 47,
+        "deaths": 22,
+        "drinks": 9,
+        "flights": 60,
+        "food": 2,
+        "health_potions": 13,
+        "hearths": 14,
         "honorable_kills": 1,
-        "killing_blows": 2151,
-        "mana_potions": 2,
-        "mobs": 3021,
-        "quests": 291
+        "killing_blows": 2321,
+        "mana_potions": 3,
+        "mobs": 3494,
+        "quests": 310
       },
-      "xp": 6388
+      "xp": 348
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -25368,6 +25375,20 @@
           "level": 27
         }
       },
+      "eu:quantino-pralino": {
+        "c": {
+          "name": "Quantino",
+          "region": "eu",
+          "surname": "Pralino"
+        },
+        "lines": [
+          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 35
+        }
+      },
       "us:whizz-aard": {
         "c": {
           "name": "whizz",
@@ -25989,6 +26010,7 @@
     "Gloves of the Fang": "Handschuhe des Giftzahns",
     "Gloves of the Moon": "Handschuhe des Mondes",
     "Glowing Copper Boots": "Leuchtende Kupferstiefel",
+    "Glowing Green Talisman": "Leuchtender grüner Talisman",
     "Glowing Lizardscale Cloak": "Leuchtender Echsenschuppenumhang",
     "Gnarled Necromancer's Staff": "Knorriger Stab des Totenbeschwörers",
     "Gnoll Shackles": "Gnollfesseln",
@@ -26318,6 +26340,7 @@
     "Mystic's Cape": "Mystikercape",
     "Naga Priestess's Mantle": "Mantel der Nagapriesterin",
     "Natural Instinct": "Instinkt der Natur",
+    "Natural Reaction": "Natürliche Reaktion",
     "Nature Damage": "Naturschaden",
     "Nature Resistance": "Naturwiderstand",
     "Nature's Focus": "Naturfokus",
@@ -26337,6 +26360,7 @@
     "Nightskulker Ring": "Nachtschleicherring",
     "Nightsky Sash": "Nachthauchschärpe",
     "Nimble Leather Gloves": "Behände Lederhandschuhe",
+    "Nocturnal Sash of the Bandit": "Nächtliche Schärpe des Banditen",
     "Nogg's Gold Ring": "Noggs Goldring",
     "Nomad Gloves": "Reisehandschuhe",
     "Nomad Trousers": "Reisebeinkleider",
@@ -28022,7 +28046,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795470931,
+  "saved_at": 1795472028,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
