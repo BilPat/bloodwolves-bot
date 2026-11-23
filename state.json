@@ -13442,6 +13442,7 @@
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains",
         "851": "Explore Tanaris",
+        "853": "Explore Felwood",
         "854": "Explore Un'Goro Crater",
         "855": "Explore Moonglade"
       },
@@ -13619,9 +13620,9 @@
         }
       },
       "ilvl": 51,
-      "last_explored": "Swamp of Sorrows",
-      "last_login": 1795439122000,
-      "level": 54,
+      "last_explored": "Felwood",
+      "last_login": 1795460941000,
+      "level": 55,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
@@ -13630,7 +13631,8 @@
         "50": 1795259608,
         "52": 1795298123,
         "53": 1795353919,
-        "54": 1795396676
+        "54": 1795396676,
+        "55": 1795461145
       },
       "professions": {
         "Alchemy": 300,
@@ -14148,7 +14150,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 410,
           "tier": 3
         },
         "Bloodsail Buccaneers": {
@@ -14173,12 +14175,12 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 13473,
+          "raw": 13601,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 2250,
+          "raw": 2450,
           "tier": 3
         },
         "Earthen Ring": {
@@ -14198,7 +14200,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 17043,
+          "raw": 17096,
           "tier": 5
         },
         "Powderfuse": {
@@ -14213,36 +14215,36 @@
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 21516,
+          "raw": 21568,
           "tier": 6
         },
         "Timbermaw Hold": {
           "name": "Unfriendly",
-          "raw": -2910,
+          "raw": -2475,
           "tier": 2
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14656,
+          "raw": 14791,
           "tier": 5
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 143,
-        "deaths": 48,
-        "drinks": 202,
-        "flights": 245,
-        "food": 259,
-        "health_potions": 83,
-        "hearths": 57,
+        "deaths": 50,
+        "drinks": 206,
+        "flights": 249,
+        "food": 263,
+        "health_potions": 84,
+        "hearths": 59,
         "honorable_kills": 1,
-        "killing_blows": 4955,
-        "mana_potions": 9,
-        "mobs": 9447,
-        "quests": 724
+        "killing_blows": 5004,
+        "mana_potions": 10,
+        "mobs": 9499,
+        "quests": 738
       },
-      "xp": 123418
+      "xp": 1970
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -25438,11 +25440,12 @@
         "lines": [
           "🛠️ **Alchemie** auf 300",
           "🎖️ [Artisan Alchemist](https://www.wowhead.com/forever/de/achievement=62014)",
-          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
+          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)",
+          "🎖️ [Erkundet Teufelswald](https://www.wowhead.com/forever/de/achievement=853)"
         ],
         "snap": {
           "class": "Druid",
-          "level": 54
+          "level": 55
         }
       },
       "eu:mia-graufuss": {
@@ -28185,7 +28188,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795460136,
+  "saved_at": 1795461146,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
