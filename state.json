@@ -22428,6 +22428,14 @@
           "name": "Direhammer Leggings",
           "quality": "RARE"
         },
+        "271766": {
+          "name": "Heavehammer",
+          "quality": "RARE"
+        },
+        "273022": {
+          "name": "Supple Bellyskin Leggings",
+          "quality": "RARE"
+        },
         "273804": {
           "name": "Executioner Mantle",
           "quality": "RARE"
@@ -22444,23 +22452,32 @@
           "name": "Cursed Murloc Eye",
           "quality": "RARE"
         },
+        "281319": {
+          "name": "Golem War Cloak",
+          "quality": "RARE"
+        },
+        "282283": {
+          "name": "Malignant Root",
+          "quality": "RARE"
+        },
         "3230": {
           "name": "Black Wolf Bracers",
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 29,
       "last_explored": "Wetlands",
-      "last_login": 1795381035000,
-      "level": 30,
+      "last_login": 1795407368000,
+      "level": 31,
       "level_at": {
         "29": 1795218860,
-        "30": 1795295607
+        "30": 1795295607,
+        "31": 1795407566
       },
       "professions": {
         "Cooking": 29,
-        "Herbalism": 216,
-        "Skinning": 215
+        "Herbalism": 222,
+        "Skinning": 216
       },
       "race": "High Order Skyborne",
       "raids": {},
@@ -22543,6 +22560,11 @@
           "raw": 2000,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2885,
@@ -22550,7 +22572,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7177,
+          "raw": 7396,
           "tier": 4
         },
         "Gadgetzan": {
@@ -22560,7 +22582,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5057,
+          "raw": 5276,
           "tier": 4
         },
         "High Order": {
@@ -22570,7 +22592,7 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7021,
+          "raw": 7352,
           "tier": 4
         },
         "Kirin Tor": {
@@ -22583,9 +22605,14 @@
           "raw": 5700,
           "tier": 4
         },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 6796,
+          "raw": 7558,
           "tier": 4
         },
         "Wildhammer Clan": {
@@ -22596,19 +22623,19 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 12,
-        "deaths": 43,
-        "drinks": 9,
-        "flights": 40,
+        "critters": 18,
+        "deaths": 44,
+        "drinks": 13,
+        "flights": 46,
         "food": 11,
-        "health_potions": 21,
-        "hearths": 27,
-        "killing_blows": 1534,
-        "mana_potions": 3,
-        "mobs": 2330,
-        "quests": 267
+        "health_potions": 22,
+        "hearths": 29,
+        "killing_blows": 1656,
+        "mana_potions": 4,
+        "mobs": 2673,
+        "quests": 288
       },
-      "xp": 11616
+      "xp": 41298
     },
     "us:devil-latterday": {
       "achievements": {
@@ -25590,6 +25617,7 @@
     "Gnollhide Pants": "Gnollfellhose",
     "Gnomeregan Exiles": "Gnomeregangnome",
     "Golden Iron Destroyer": "Goldener Eisenzerstörer",
+    "Golem War Cloak": "Kriegsumhang des Golems",
     "Gore Drinker": "Blutgier",
     "Grassland Sash": "Graslandschärpe",
     "Grave Shroud": "Grabesschleier",
@@ -25847,6 +25875,7 @@
     "Male": "Männlich",
     "Malevolence": "Böswilligkeit",
     "Malice": "Tücke",
+    "Malignant Root": "Heimtückische Wurzel",
     "Mana Drain": "Manasauger",
     "Mana Regeneration per 5 sec": "Manaregeneration pro 5 Sek.",
     "Mana potions consumed": "Manatränke verbraucht",
@@ -26017,7 +26046,7 @@
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -26299,6 +26328,7 @@
     "Superior Bracers of the Bandit": "Überragende Armschienen des Banditen",
     "Superior Shoulders of the Beast": "Überragende Schultern der Bestie",
     "Superior Shoulders of the Monkey": "Überragende Schultern des Affen",
+    "Supple Bellyskin Leggings": "Weiche Bauchhautgamaschen",
     "Suppression": "Unterdrückung",
     "Sustaining Ring": "Erhaltender Ring",
     "Swashbuckler Sash": "Schwadroneursschärpe",
@@ -27578,7 +27608,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795406064,
+  "saved_at": 1795407567,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
