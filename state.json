@@ -23622,6 +23622,7 @@
         "62015": "Journeyman Blacksmith",
         "62021": "Journeyman Engineer",
         "62031": "Novice Spelunker",
+        "761": "Explore Arathi Highlands",
         "842": "Explore Teldrassil",
         "844": "Explore Darkshore"
       },
@@ -23741,20 +23742,21 @@
         }
       },
       "ilvl": 27,
-      "last_explored": "Darkshore",
-      "last_login": 1795403141000,
-      "level": 33,
+      "last_explored": "Arathi Highlands",
+      "last_login": 1795418554000,
+      "level": 34,
       "level_at": {
         "31": 1794965196,
         "32": 1795061895,
-        "33": 1795380922
+        "33": 1795380922,
+        "34": 1795419090
       },
       "professions": {
         "Blacksmithing": 169,
         "Cooking": 225,
-        "First Aid": 180,
+        "First Aid": 204,
         "Fishing": 207,
-        "Mining": 229
+        "Mining": 235
       },
       "race": "Night Elf",
       "raids": {},
@@ -24157,6 +24159,10 @@
             "name": "Healing Potion"
           },
           {
+            "id": 4415,
+            "name": "Heavy Silk Bandage"
+          },
+          {
             "id": 1840,
             "name": "Wool Bandage"
           },
@@ -24260,7 +24266,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16850,
+          "raw": 16962,
           "tier": 5
         },
         "Everlook": {
@@ -24275,12 +24281,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6753,
+          "raw": 6866,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8165,
+          "raw": 8277,
           "tier": 4
         },
         "Kirin Tor": {
@@ -24300,25 +24306,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9286,
+          "raw": 9736,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 166,
+        "critters": 167,
         "deaths": 23,
         "drinks": 2,
-        "flights": 104,
-        "food": 137,
-        "health_potions": 34,
-        "hearths": 61,
+        "flights": 105,
+        "food": 142,
+        "health_potions": 36,
+        "hearths": 62,
         "honorable_kills": 1,
-        "killing_blows": 2389,
-        "mobs": 4936,
-        "quests": 287
+        "killing_blows": 2533,
+        "mobs": 5106,
+        "quests": 294
       },
-      "xp": 19815
+      "xp": 9368
     },
     "us:whizz-aard": {
       "achievements": {
@@ -25017,11 +25023,12 @@
           "surname": "appeal"
         },
         "lines": [
-          "🤝 **Wohlwollend** bei Stormwind"
+          "🤝 **Wohlwollend** bei Stormwind",
+          "🎖️ [Erkundet Arathihochland](https://www.wowhead.com/forever/de/achievement=761)"
         ],
         "snap": {
           "class": "Warrior",
-          "level": 33
+          "level": 34
         }
       }
     },
@@ -25320,6 +25327,7 @@
     "Conviction": "Überzeugung",
     "Cooking Recipes known": "Bekannte Kochrezepte",
     "Cooking skill": "Kochfertigkeit",
+    "Copper Chain Belt": "Kupferner Kettengürtel",
     "Coral Band of the Boar": "Korallenband des Ebers",
     "Coup de Grace": "Gnadenstoß",
     "Courier's Clasp": "Schnallengürtel des Kuriers",
@@ -26253,6 +26261,7 @@
     "Slitherwrap Girdle": "Schlitterwickelgurt",
     "Small Throwing Knife": "Kleines Wurfmesser",
     "Smelting Recipes learned": "Erlernte Verhüttungsmethoden",
+    "Smite's Reaver": "Smites Häscher",
     "Smith's Trousers": "Hose des Schmieds",
     "Smotts' Compass": "Smotts' Kompass",
     "Snake Eye Kaleidoscope": "Schlangenaugenkaleidoskop",
@@ -26261,6 +26270,7 @@
     "Soft Willow Cape": "Weiches Weidencape",
     "Soft Wool Vest": "Weiche Wollweste",
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
+    "Soldier's Armor": "Soldatenrüstung",
     "Solid Gold Band": "Solides Goldband",
     "Solid Shot": "Robustes Geschoss",
     "Solid Weightstone": "Robuster Gewichtsstein",
@@ -26509,6 +26519,7 @@
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Gloves of the Whale": "Weidenhandschuhe des Wals",
     "Willow Pants of Intellect": "Weidenhose der Intelligenz",
+    "Windfelt Gloves": "Windfilzhandschuhe",
     "Windshaper Skyborne": "Himmelsgeborener der Windformer",
     "Windshapers": "Windformer",
     "Windsong Drape": "Windsongtuch",
@@ -27608,7 +27619,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795418399,
+  "saved_at": 1795419091,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
