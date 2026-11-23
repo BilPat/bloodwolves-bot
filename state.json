@@ -13394,6 +13394,7 @@
         "62012": "Journeyman Alchemist",
         "62013": "Expert Alchemist",
         "62014": "Artisan Alchemist",
+        "62018": "Journeyman Enchanter",
         "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
         "62029": "Expert Tailor",
@@ -13587,7 +13588,7 @@
       },
       "ilvl": 51,
       "last_explored": "Swamp of Sorrows",
-      "last_login": 1795435155000,
+      "last_login": 1795439122000,
       "level": 54,
       "level_at": {
         "45": 1794866470,
@@ -25292,7 +25293,8 @@
         },
         "lines": [
           "🛠️ **Alchemie** auf 300",
-          "🎖️ [Artisan Alchemist](https://www.wowhead.com/forever/de/achievement=62014)"
+          "🎖️ [Artisan Alchemist](https://www.wowhead.com/forever/de/achievement=62014)",
+          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
         ],
         "snap": {
           "class": "Druid",
@@ -27999,7 +28001,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795438475,
+  "saved_at": 1795439872,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
