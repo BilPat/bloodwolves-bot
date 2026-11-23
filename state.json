@@ -2182,19 +2182,20 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795333001000,
-      "level": 28,
+      "last_login": 1795463967000,
+      "level": 29,
       "level_at": {
         "23": 1794866470,
         "24": 1794940852,
         "26": 1795004429,
         "27": 1795196609,
-        "28": 1795292738
+        "28": 1795292738,
+        "29": 1795464936
       },
       "professions": {
         "Alchemy": 165,
         "Fishing": 18,
-        "Herbalism": 129
+        "Herbalism": 132
       },
       "race": "Orc",
       "raids": {},
@@ -2353,19 +2354,19 @@
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 32,
-        "deaths": 20,
+        "critters": 33,
+        "deaths": 21,
         "drinks": 17,
-        "flights": 53,
+        "flights": 55,
         "food": 10,
         "health_potions": 8,
         "hearths": 24,
-        "killing_blows": 1373,
+        "killing_blows": 1393,
         "mana_potions": 30,
-        "mobs": 2614,
-        "quests": 177
+        "mobs": 2657,
+        "quests": 178
       },
-      "xp": 36580
+      "xp": 685
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -20811,7 +20812,7 @@
       },
       "ilvl": 24,
       "last_explored": null,
-      "last_login": 1795379948000,
+      "last_login": 1795463973000,
       "level": 30,
       "level_at": {
         "23": 1794866470,
@@ -20827,7 +20828,7 @@
         "Cooking": 23,
         "First Aid": 63,
         "Fishing": 50,
-        "Mining": 160
+        "Mining": 161
       },
       "race": "Undead",
       "raids": {},
@@ -21083,28 +21084,23 @@
           "name": "Honored",
           "raw": 11428,
           "tier": 5
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Retribution",
       "stats": {
-        "critters": 31,
-        "deaths": 10,
+        "critters": 32,
+        "deaths": 11,
         "drinks": 12,
-        "flights": 43,
+        "flights": 45,
         "food": 7,
-        "health_potions": 8,
-        "hearths": 23,
-        "killing_blows": 1488,
+        "health_potions": 9,
+        "hearths": 24,
+        "killing_blows": 1512,
         "mana_potions": 3,
-        "mobs": 3067,
-        "quests": 191
+        "mobs": 3110,
+        "quests": 192
       },
-      "xp": 7220
+      "xp": 10887
     },
     "eu:thalia-mondrabe": {
       "achievements": {
@@ -25314,256 +25310,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:aristides-soulreaper": {
-        "c": {
-          "name": "Aristides",
-          "region": "eu",
-          "surname": "Soulreaper"
-        },
-        "lines": [
-          "📜 Neuer Beruf: **Angeln**",
-          "🎖️ [Erkundet Teldrassil](https://www.wowhead.com/forever/de/achievement=842)",
-          "🎖️ [Erkundet Mondlichtung](https://www.wowhead.com/forever/de/achievement=855)",
-          "🎖️ [Novice Paladin](https://www.wowhead.com/forever/de/achievement=61997)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 25
-        }
-      },
-      "eu:baumora-axiom": {
-        "c": {
-          "name": "Baumora",
-          "region": "eu",
-          "surname": "Axiom"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Donnerfels"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 51
-        }
-      },
-      "eu:blck-jck": {
-        "c": {
-          "name": "Blck",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Jck"
-        },
-        "lines": [
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)",
-          "🎖️ [Erkundet Vorgebirge des Hügellands](https://www.wowhead.com/forever/de/achievement=772)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 31
-        }
-      },
-      "eu:christopher-kuhlumbus": {
-        "c": {
-          "name": "Christopher",
-          "region": "eu",
-          "surname": "Kuhlumbus"
-        },
-        "lines": [
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 25
-        }
-      },
-      "eu:fred-feuersturm": {
-        "c": {
-          "name": "Fred",
-          "region": "eu",
-          "surname": "Feuersturm"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 225"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 37
-        }
-      },
-      "eu:h%C3%A4uptling-blutmacht": {
-        "c": {
-          "name": "Häuptling",
-          "rank_name": "Gildenmeister",
-          "region": "eu",
-          "surname": "Blutmacht"
-        },
-        "lines": [
-          "🤝 **Respektvoll** bei Donnerfels"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 49
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 75",
-          "🛠️ **Kochkunst** auf 225",
-          "🛠️ **Angeln** auf 225"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 40
-        }
-      },
-      "eu:krakmor-ci%C3%B3rdan": {
-        "c": {
-          "name": "Krakmor",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ciórdan"
-        },
-        "lines": [
-          "🛠️ **Alchemie** auf 300",
-          "🎖️ [Artisan Alchemist](https://www.wowhead.com/forever/de/achievement=62014)",
-          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)",
-          "🎖️ [Erkundet Teufelswald](https://www.wowhead.com/forever/de/achievement=853)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 55
-        }
-      },
-      "eu:mamulo-sham%C3%A4sich": {
-        "c": {
-          "name": "Mamulo",
-          "region": "eu",
-          "surname": "Shamäsich"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Donnerfels"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 30
-        }
-      },
-      "eu:mia-graufuss": {
-        "c": {
-          "name": "Mia",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 75",
-          "🛠️ **Erste Hilfe** auf 75"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 17
-        }
-      },
-      "eu:rausmit-deviechers": {
-        "c": {
-          "name": "Rausmit",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Deviechers"
-        },
-        "lines": [
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 24
-        }
-      },
-      "eu:redbully-badbully": {
-        "c": {
-          "name": "Redbully",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Badbully"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 150",
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 32
-        }
-      },
-      "eu:vlad-impalar": {
-        "c": {
-          "name": "Vlad",
-          "region": "eu",
-          "surname": "Impalar"
-        },
-        "lines": [
-          "🎖️ [Experienced Spelunker](https://www.wowhead.com/forever/de/achievement=62032)",
-          "🛠️ **Kochkunst** auf 225",
-          "🤝 **Respektvoll** bei Unterstadt",
-          "🎖️ [Experienced Paladin](https://www.wowhead.com/forever/de/achievement=61998)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 45
-        }
-      },
-      "eu:zulka-seelenfluch": {
-        "c": {
-          "name": "Zulka",
-          "region": "eu",
-          "surname": "Seelenfluch"
-        },
-        "lines": [
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 30
-        }
-      },
-      "us:devil-latterday": {
-        "c": {
-          "name": "devil",
-          "region": "us",
-          "surname": "latterday"
-        },
-        "lines": [
-          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)",
-          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 27
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Stormwind",
-          "🎖️ [Erkundet Arathihochland](https://www.wowhead.com/forever/de/achievement=761)",
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 34
-        }
-      }
-    },
-    "last": "2026-11-22"
+    "items": {},
+    "last": "2026-11-23"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -28195,7 +27943,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795463731,
+  "saved_at": 1795464938,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
