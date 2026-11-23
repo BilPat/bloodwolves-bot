@@ -22614,15 +22614,16 @@
       "achievements": {
         "61989": "Novice Hunter",
         "776": "Explore Elwynn Forest",
+        "780": "Explore Redridge Mountains",
         "842": "Explore Teldrassil"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
       "best_item": {
-        "id": 273026,
-        "ilvl": 31,
-        "name": "Garb of Florid Feathers",
-        "quality": "RARE",
-        "slot": "Chest"
+        "id": 280766,
+        "ilvl": 33,
+        "name": "Satchel of Potions",
+        "quality": "UNCOMMON",
+        "slot": "Trinket 1"
       },
       "boss_kills": {
         "15027": {
@@ -22679,9 +22680,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 21,
-      "last_explored": "Elwynn Forest",
-      "last_login": 1795398069000,
+      "ilvl": 20,
+      "last_explored": "Redridge Mountains",
+      "last_login": 1795404412000,
       "level": 27,
       "level_at": {
         "18": 1795149590,
@@ -22692,9 +22693,9 @@
       },
       "professions": {
         "Cooking": 96,
-        "First Aid": 145,
+        "First Aid": 149,
         "Fishing": 40,
-        "Leatherworking": 80,
+        "Leatherworking": 85,
         "Skinning": 183
       },
       "race": "Night Elf",
@@ -22856,6 +22857,10 @@
             "name": "Medium Leather"
           },
           {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
+          },
+          {
             "id": 55207,
             "name": "Black Whelp Slippers"
           },
@@ -23006,14 +23011,9 @@
           "raw": 2000,
           "tier": 3
         },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Darnassus": {
           "name": "Honored",
-          "raw": 14726,
+          "raw": 14926,
           "tier": 5
         },
         "Gadgetzan": {
@@ -23023,12 +23023,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5460,
+          "raw": 5660,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 5860,
+          "raw": 6060,
           "tier": 4
         },
         "Silverwing Sentinels": {
@@ -23038,7 +23038,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 6398,
+          "raw": 7198,
           "tier": 4
         }
       },
@@ -23047,17 +23047,17 @@
         "critters": 92,
         "deaths": 31,
         "drinks": 6,
-        "flights": 21,
+        "flights": 22,
         "food": 37,
         "health_potions": 8,
         "hearths": 8,
         "honorable_kills": 108,
-        "killing_blows": 1948,
+        "killing_blows": 2018,
         "mana_potions": 1,
-        "mobs": 2572,
-        "quests": 192
+        "mobs": 2742,
+        "quests": 198
       },
-      "xp": 3504
+      "xp": 27406
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -24975,7 +24975,8 @@
           "surname": "latterday"
         },
         "lines": [
-          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
+          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)",
+          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)"
         ],
         "snap": {
           "class": "Hunter",
@@ -27577,7 +27578,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795404002,
+  "saved_at": 1795404852,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
