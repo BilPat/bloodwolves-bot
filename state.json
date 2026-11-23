@@ -23654,7 +23654,7 @@
       },
       "ilvl": 26,
       "last_explored": "Darkshore",
-      "last_login": 1795384233000,
+      "last_login": 1795397083000,
       "level": 33,
       "level_at": {
         "31": 1794965196,
@@ -24218,18 +24218,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 157,
+        "critters": 166,
         "deaths": 23,
         "drinks": 2,
         "flights": 103,
-        "food": 134,
-        "health_potions": 32,
-        "hearths": 58,
-        "killing_blows": 2245,
-        "mobs": 4490,
+        "food": 137,
+        "health_potions": 34,
+        "hearths": 60,
+        "honorable_kills": 1,
+        "killing_blows": 2348,
+        "mobs": 4797,
         "quests": 284
       },
-      "xp": 609
+      "xp": 13132
     },
     "us:whizz-aard": {
       "achievements": {
@@ -27472,7 +27473,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795396678,
+  "saved_at": 1795397278,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
