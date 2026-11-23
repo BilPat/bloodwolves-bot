@@ -16152,9 +16152,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 25,
       "last_explored": "Thousand Needles",
-      "last_login": 1795475325000,
+      "last_login": 1795476113000,
       "level": 31,
       "level_at": {
         "27": 1795430379,
@@ -16296,18 +16296,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 61,
-        "drinks": 246,
+        "deaths": 62,
+        "drinks": 247,
         "flights": 72,
         "food": 232,
         "health_potions": 31,
         "hearths": 18,
-        "killing_blows": 2169,
-        "mana_potions": 50,
-        "mobs": 2691,
+        "killing_blows": 2180,
+        "mana_potions": 52,
+        "mobs": 2702,
         "quests": 281
       },
-      "xp": 23347
+      "xp": 24439
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -24852,7 +24852,7 @@
       },
       "ilvl": 23,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795467464000,
+      "last_login": 1795476510000,
       "level": 30,
       "level_at": {
         "28": 1794965196,
@@ -24863,7 +24863,7 @@
         "Cooking": 65,
         "Enchanting": 175,
         "First Aid": 80,
-        "Tailoring": 130
+        "Tailoring": 132
       },
       "race": "Human",
       "raids": {},
@@ -24954,6 +24954,10 @@
           {
             "id": 7437,
             "name": "Enchant 2H Weapon - Lesser Impact"
+          },
+          {
+            "id": 7499,
+            "name": "Enchant Gloves - Fishing"
           },
           {
             "id": 7377,
@@ -25295,7 +25299,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 8571,
+          "raw": 8633,
           "tier": 4
         },
         "Everlook": {
@@ -25310,12 +25314,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6038,
+          "raw": 6101,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8115,
+          "raw": 8177,
           "tier": 4
         },
         "Powderfuse": {
@@ -25330,7 +25334,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 14403,
+          "raw": 14653,
           "tier": 5
         }
       },
@@ -25338,17 +25342,17 @@
       "stats": {
         "critters": 69,
         "deaths": 68,
-        "drinks": 723,
+        "drinks": 730,
         "flights": 50,
         "food": 132,
         "health_potions": 48,
         "hearths": 26,
-        "killing_blows": 1694,
+        "killing_blows": 1704,
         "mana_potions": 14,
-        "mobs": 3354,
-        "quests": 279
+        "mobs": 3388,
+        "quests": 282
       },
-      "xp": 35071
+      "xp": 42281
     }
   },
   "craft_board": {
@@ -28095,7 +28099,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795475710,
+  "saved_at": 1795477159,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
