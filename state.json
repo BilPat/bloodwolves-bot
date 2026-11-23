@@ -13042,9 +13042,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 27,
       "last_explored": "Durotar",
-      "last_login": 1795391966000,
+      "last_login": 1795431755000,
       "level": 32,
       "level_at": {
         "27": 1794866470,
@@ -13296,13 +13296,13 @@
           "tier": 3
         },
         "Gelkis Clan Centaur": {
-          "name": "Neutral",
-          "raw": 1800,
-          "tier": 3
+          "name": "Unfriendly",
+          "raw": -500,
+          "tier": 2
         },
         "Magram Clan Centaur": {
           "name": "Neutral",
-          "raw": 2040,
+          "raw": 2500,
           "tier": 3
         },
         "Orgrimmar": {
@@ -13335,17 +13335,17 @@
       "stats": {
         "critters": 25,
         "deaths": 12,
-        "drinks": 691,
+        "drinks": 699,
         "flights": 71,
-        "food": 253,
+        "food": 260,
         "health_potions": 3,
         "hearths": 26,
-        "killing_blows": 1725,
+        "killing_blows": 1748,
         "mana_potions": 4,
-        "mobs": 3244,
+        "mobs": 3267,
         "quests": 215
       },
-      "xp": 409
+      "xp": 7240
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -26647,6 +26647,7 @@
     "Unbridled Wrath": "Entfesselter Zorn",
     "Uncommon": "Selten",
     "Undead": "Untoter",
+    "Unfriendly": "Unfreundlich",
     "Unholy Power": "Unheilige Macht",
     "Unleashed Fury": "Entfesselter Zorn",
     "Unsealed Wrath": "Entfesselter Zorn",
@@ -27840,7 +27841,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795431265,
+  "saved_at": 1795432427,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
