@@ -4875,11 +4875,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/55/3483447-avatar.jpg",
       "best_item": {
-        "id": 6505,
-        "ilvl": 24,
-        "name": "Crescent Staff",
-        "quality": "RARE",
-        "slot": "Main Hand"
+        "id": 15334,
+        "ilvl": 27,
+        "name": "Wrangler's Gloves of the Sorcerer",
+        "quality": "UNCOMMON",
+        "slot": "Hands"
       },
       "boss_kills": {
         "15027": {
@@ -4891,6 +4891,11 @@
           "boss": "Mutanus the Devourer",
           "count": 1,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -4919,18 +4924,19 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 12,
+      "ilvl": 15,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795337861000,
-      "level": 22,
+      "last_login": 1795477152000,
+      "level": 24,
       "level_at": {
         "20": 1794866470,
-        "22": 1794867229
+        "22": 1794867229,
+        "24": 1795478092
       },
       "professions": {
         "Alchemy": 147,
         "Cooking": 3,
-        "Herbalism": 148
+        "Herbalism": 154
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -5059,6 +5065,11 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 200,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
           "raw": 600,
@@ -5066,7 +5077,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3182,
+          "raw": 3401,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5096,7 +5107,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 3763,
+          "raw": 4057,
           "tier": 4
         },
         "Powderfuse": {
@@ -5111,12 +5122,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4815,
+          "raw": 5052,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3691,
+          "raw": 4228,
           "tier": 4
         },
         "Windshapers": {
@@ -5128,18 +5139,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 17,
-        "deaths": 8,
-        "drinks": 9,
-        "flights": 12,
-        "food": 6,
+        "deaths": 11,
+        "drinks": 11,
+        "flights": 15,
+        "food": 7,
         "health_potions": 4,
-        "hearths": 5,
-        "killing_blows": 905,
-        "mana_potions": 11,
-        "mobs": 1512,
-        "quests": 163
+        "hearths": 7,
+        "killing_blows": 969,
+        "mana_potions": 12,
+        "mobs": 1728,
+        "quests": 176
       },
-      "xp": 22960
+      "xp": 833
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {
@@ -25380,6 +25391,20 @@
           "level": 19
         }
       },
+      "eu:boreas-donnerrufer": {
+        "c": {
+          "name": "Boreas",
+          "region": "eu",
+          "surname": "Donnerrufer"
+        },
+        "lines": [
+          "🛠️ **Kräuterkunde** auf 150"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 24
+        }
+      },
       "eu:freya-graufuss": {
         "c": {
           "name": "Freya",
@@ -26512,6 +26537,7 @@
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
+    "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
     "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
@@ -26873,6 +26899,7 @@
     "Total waves": "Anzahl /winken",
     "Totem of Charged Flames": "Totem der Geladenen Flammen",
     "Totemic Clan Ring": "Totemikerklanring",
+    "Tough Leather Shoulderpads": "Feste Lederschulterpolster",
     "Toughened Leather Gloves": "Gekräftigte Lederhandschuhe",
     "Toughness": "Zähigkeit",
     "Toxic Sporidium": "Toxisches Sporidium",
@@ -27020,6 +27047,7 @@
     "Wrack": "Zermürben",
     "Wrangler's Belt of the Monkey": "Zänkergürtel des Affen",
     "Wrangler's Cloak of the Tiger": "Zänkerumhang des Tigers",
+    "Wrangler's Gloves of the Sorcerer": "Zänkerhandschuhe des Zauberers",
     "Wrangler's Leggings of the Tiger": "Zänkergamaschen des Tigers",
     "Wrist": "Handgelenke",
     "Yeti Fur Cloak": "Yetifell-Umhang",
@@ -28099,7 +28127,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795477159,
+  "saved_at": 1795478094,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
