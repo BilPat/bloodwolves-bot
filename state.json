@@ -15973,6 +15973,199 @@
       },
       "xp": 16576
     },
+    "eu:mamulo-sham%C3%A4sich": {
+      "achievements": {
+        "61989": "Novice Hunter",
+        "62006": "Novice Shaman",
+        "728": "Explore Durotar",
+        "846": "Explore Thousand Needles"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/30/100678430-avatar.jpg",
+      "best_item": {
+        "id": 6603,
+        "ilvl": 30,
+        "name": "Dervish Tunic of the Bandit",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
+      },
+      "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        }
+      },
+      "class": "Shaman",
+      "dungeons": {},
+      "first_seen": 1795430379,
+      "gear": {
+        "270018": {
+          "name": "Hammerbone",
+          "quality": "RARE"
+        },
+        "285330": {
+          "name": "Signet of the Zhevra",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 22,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795390413000,
+      "level": 27,
+      "level_at": {
+        "27": 1795430379
+      },
+      "professions": {
+        "Cooking": 11,
+        "Engineering": 12,
+        "Mining": 85
+      },
+      "race": "Windshaper Skyborne",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          }
+        ],
+        "Engineering": [
+          {
+            "id": 2413,
+            "name": "Rough Blasting Powder"
+          },
+          {
+            "id": 2415,
+            "name": "Crafted Light Shot"
+          },
+          {
+            "id": 2414,
+            "name": "Rough Dynamite"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 1570,
+            "name": "Mining"
+          },
+          {
+            "id": 1600,
+            "name": "Smelt Bronze"
+          },
+          {
+            "id": 1848,
+            "name": "Smelt Tin"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 650,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 1660,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 4536,
+          "tier": 4
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 1660,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 1660,
+          "tier": 3
+        },
+        "Nightclaw Druids": {
+          "name": "Friendly",
+          "raw": 4100,
+          "tier": 4
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 6550,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 1660,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 2821,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 6682,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 4978,
+          "tier": 4
+        },
+        "Windshapers": {
+          "name": "Friendly",
+          "raw": 5430,
+          "tier": 4
+        }
+      },
+      "spec": "Enhancement",
+      "stats": {
+        "critters": 35,
+        "deaths": 52,
+        "drinks": 199,
+        "flights": 48,
+        "food": 187,
+        "health_potions": 23,
+        "hearths": 10,
+        "killing_blows": 1701,
+        "mana_potions": 19,
+        "mobs": 2105,
+        "quests": 212
+      },
+      "xp": 816
+    },
     "eu:maniac-menacepuppy": {
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/198/18282182-avatar.jpg",
@@ -25419,6 +25612,7 @@
     "Demonic Sacrifice": "Dämonische Opferung",
     "Demonology": "Dämonologie",
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
+    "Dervish Tunic of the Bandit": "Derwischtunika des Banditen",
     "Desert Choker of the Hierophant": "Wüstenhalsschmuck des Hierophanten",
     "Desert Shoulders": "Wüsten-Schultern",
     "Desertwalker Cane": "Stock des Wüstenläufers",
@@ -25454,6 +25648,7 @@
     "Dull Sawblade": "Stumpfes Sägeblatt",
     "Dungeons & Raids": "Dungeons & Schlachtzüge",
     "Dungeons and Raids": "Dungeons & Schlachtzüge",
+    "Durable Bearhide Pauldrons": "Robuste Bärenhautschulterstücke",
     "Durgen Dirgehammer": "Durgen Dirgehammer",
     "Durgen Dirgehammer Kills (Hall of Thanes)": "Siege über Durgen Dirgehammer (Halle der Thanen)",
     "Durotar Supply and Logistics": "Versorgung und Logistik Durotar",
@@ -25691,6 +25886,7 @@
     "Head": "Kopf",
     "Headbasher": "Kopfberster",
     "Headhunter's Armor of the Tiger": "Kopfjägerrüstung des Tigers",
+    "Headhunter's Bands of the Boar": "Kopfjägerbänder des Ebers",
     "Headhunter's Cloak of Power": "Kopfjägerumhang der Macht",
     "Healer's Staff": "Heilerstab",
     "Healing Light": "Heilendes Licht",
@@ -26129,6 +26325,7 @@
     "Robes of Arugal": "Robe von Arugal",
     "Robes of the Disgraced Thane": "Robe des in Ungnade gefallenen Thans",
     "Robust Cloak of Strength": "Robuster Umhang der Stärke",
+    "Robust Leggings of the Physician": "Robuste Gamaschen des Heilers",
     "Rogue": "Schurke",
     "Rotgrip Mantle": "Faulschnappers Mantel",
     "Rotmender's Garb": "Gewand des Fäulnisheilers",
@@ -26174,6 +26371,7 @@
     "Savage Trodders": "Wilde Treter",
     "Savannah Bracers": "Savannenarmschienen",
     "Scaled Cloak of the Bandit": "Schuppenumhang des Banditen",
+    "Scaled Leather Belt of the Boar": "Lederschuppengürtel des Ebers",
     "Scaled Leather Headband": "Lederschuppenstirnband",
     "Scarlet Belt": "Scharlachroter Gürtel",
     "Scarlet Boots": "Scharlachrote Stiefel",
@@ -26565,6 +26763,7 @@
     "Woven Ivy Necklace": "Gewobene Efeuhalskette",
     "Wrack": "Zermürben",
     "Wrangler's Belt of the Monkey": "Zänkergürtel des Affen",
+    "Wrangler's Cloak of the Tiger": "Zänkerumhang des Tigers",
     "Wrangler's Leggings of the Tiger": "Zänkergamaschen des Tigers",
     "Wrist": "Handgelenke",
     "Yeti Fur Cloak": "Yetifell-Umhang",
@@ -26856,6 +27055,11 @@
     "eu:lognaar-leafnon": {
       "mounts": {}
     },
+    "eu:mamulo-sham%c3%a4sich": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw"
+      }
+    },
     "eu:maniac-menacepuppy": {
       "mounts": {}
     },
@@ -27040,6 +27244,7 @@
       "lazy-quinn": "Lazy Quinn",
       "liquider-nasenb%C3%A4r": "Liquider Nasenbär",
       "lockendotter-bonechrusher": "Lockendotter Bonechrusher",
+      "mamulo-sham%C3%A4sich": "Mamulo Shamäsich",
       "maniac-menacepuppy": "Maniac Menacepuppy",
       "mento-zemento": "Mento Zemento",
       "mia-graufuss": "Mia Graufuss",
@@ -27080,6 +27285,15 @@
         "rank": 5,
         "region": "eu",
         "surname": "Mondrabe"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 25,
+        "name": "Aristides",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Soulreaper"
       },
       {
         "class": null,
@@ -27138,7 +27352,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 49,
+        "level": 50,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -27183,7 +27397,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Blck",
         "rank": 4,
         "region": "eu",
@@ -27228,7 +27442,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -27471,7 +27685,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 39,
+        "level": 40,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -27498,7 +27712,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 16,
+        "level": 17,
         "name": "Barbariana",
         "rank": 4,
         "region": "eu",
@@ -27570,6 +27784,24 @@
       {
         "class": null,
         "guild": true,
+        "level": 33,
+        "name": "Quantino",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Pralino"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 7,
+        "name": "Ignatius",
+        "rank": 1,
+        "region": "eu",
+        "surname": "Glattsteyn"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 11,
         "name": "Aldric",
         "rank": 5,
@@ -27597,36 +27829,18 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
-        "name": "Quantino",
+        "level": 27,
+        "name": "Mamulo",
         "rank": 5,
         "region": "eu",
-        "surname": "Pralino"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 25,
-        "name": "Aristides",
-        "rank": 5,
-        "region": "eu",
-        "surname": "Soulreaper"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 7,
-        "name": "Ignatius",
-        "rank": 1,
-        "region": "eu",
-        "surname": "Glattsteyn"
+        "surname": "Shamäsich"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795428954,
+  "saved_at": 1795430380,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -29223,6 +29437,49 @@
           "quests": 38
         },
         "xp": 2366
+      },
+      "eu:mamulo-sham%C3%A4sich": {
+        "achievements": 4,
+        "clears": {
+          "Shadowfang Keep": 1,
+          "Wailing Caverns": 1
+        },
+        "epics": [],
+        "level": 27,
+        "professions": {
+          "Cooking": 11,
+          "Engineering": 12,
+          "Mining": 85
+        },
+        "rep": {
+          "Argent Dawn": 650,
+          "Booty Bay": 1660,
+          "Darkspear Trolls": 4536,
+          "Earthen Ring": 600,
+          "Everlook": 1660,
+          "Gadgetzan": 1660,
+          "Nightclaw Druids": 4100,
+          "Orgrimmar": 6550,
+          "Powderfuse": 1660,
+          "Ratchet": 2821,
+          "Thunder Bluff": 6682,
+          "Undercity": 4978,
+          "Windshapers": 5430
+        },
+        "stats": {
+          "critters": 35,
+          "deaths": 52,
+          "drinks": 199,
+          "flights": 48,
+          "food": 187,
+          "health_potions": 23,
+          "hearths": 10,
+          "killing_blows": 1701,
+          "mana_potions": 19,
+          "mobs": 2105,
+          "quests": 212
+        },
+        "xp": 816
       },
       "eu:maniac-menacepuppy": {
         "achievements": 0,
