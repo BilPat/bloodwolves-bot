@@ -2381,27 +2381,39 @@
         "quality": "UNCOMMON",
         "slot": "Ring 2"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        }
+      },
       "class": "Hunter",
       "dungeons": {},
       "first_seen": 1794866470,
-      "gear": {},
-      "ilvl": 7,
+      "gear": {
+        "273007": {
+          "name": "Chasm Walkers",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 10,
       "last_explored": "Durotar",
-      "last_login": 1795452024000,
-      "level": 17,
+      "last_login": 1795470252000,
+      "level": 18,
       "level_at": {
         "13": 1794866470,
         "14": 1794928566,
         "16": 1795348502,
-        "17": 1795422156
+        "17": 1795422156,
+        "18": 1795470930
       },
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
         "Fishing": 77,
         "Mining": 74,
-        "Skinning": 122
+        "Skinning": 124
       },
       "race": "Troll",
       "raids": {},
@@ -2489,7 +2501,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8232,
+          "raw": 8332,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2508,9 +2520,9 @@
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8988,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9088,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
@@ -2524,29 +2536,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3987,
+          "raw": 4275,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1293,
+          "raw": 1506,
           "tier": 3
         }
       },
-      "spec": "Marksmanship",
+      "spec": "Beast Mastery",
       "stats": {
         "critters": 8,
         "deaths": 7,
         "drinks": 1,
-        "flights": 12,
-        "food": 15,
+        "flights": 14,
+        "food": 16,
         "health_potions": 4,
-        "hearths": 8,
-        "killing_blows": 717,
-        "mobs": 795,
-        "quests": 83
+        "hearths": 9,
+        "killing_blows": 781,
+        "mobs": 926,
+        "quests": 88
       },
-      "xp": 16201
+      "xp": 16437
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -16108,11 +16120,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/30/100678430-avatar.jpg",
       "best_item": {
-        "id": 16740,
-        "ilvl": 31,
-        "name": "Shredder Operating Gloves",
+        "id": 14588,
+        "ilvl": 36,
+        "name": "Hawkeye's Cord",
         "quality": "UNCOMMON",
-        "slot": "Hands"
+        "slot": "Waist"
       },
       "boss_kills": {
         "1092": {
@@ -16139,15 +16151,16 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795461978000,
-      "level": 30,
+      "last_login": 1795470348000,
+      "level": 31,
       "level_at": {
         "27": 1795430379,
         "28": 1795437784,
         "29": 1795448457,
-        "30": 1795462825
+        "30": 1795462825,
+        "31": 1795470930
       },
       "professions": {
         "Cooking": 11,
@@ -16225,7 +16238,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5973,
+          "raw": 6073,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16250,7 +16263,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8343,
+          "raw": 8443,
           "tier": 4
         },
         "Powderfuse": {
@@ -16265,12 +16278,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9763,
+          "raw": 10163,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6153,
+          "raw": 6253,
           "tier": 4
         },
         "Windshapers": {
@@ -16282,18 +16295,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 58,
-        "drinks": 234,
-        "flights": 65,
-        "food": 224,
-        "health_potions": 29,
-        "hearths": 17,
-        "killing_blows": 2074,
+        "deaths": 60,
+        "drinks": 239,
+        "flights": 70,
+        "food": 228,
+        "health_potions": 31,
+        "hearths": 18,
+        "killing_blows": 2116,
         "mana_potions": 42,
-        "mobs": 2579,
-        "quests": 268
+        "mobs": 2635,
+        "quests": 275
       },
-      "xp": 33251
+      "xp": 6199
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -25325,6 +25338,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:barbariana-hunter": {
+        "c": {
+          "name": "Barbariana",
+          "region": "eu",
+          "surname": "Hunter"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Orgrimmar",
+          "🔵 Erstes blaues Item: **[Abgrundläufer](https://www.wowhead.com/forever/de/item=273007)** (Feet)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 18
+        }
+      },
       "eu:freya-graufuss": {
         "c": {
           "name": "Freya",
@@ -25405,6 +25433,7 @@
     "Archaedic Stone of the Falcon": "Archaedischer Stein des Falken",
     "Archer's Boots of the Monkey": "Bogenschützen-Stiefel des Affen",
     "Archer's Bracers of the Falcon": "Bogenschützen-Armschienen des Falken",
+    "Archer's Gloves of the Bear": "Bogenschützen-Handschuhe des Bären",
     "Archery Training Gloves": "Ausbildungshandschuhe zum Bogenschießen",
     "Archmage Arugal": "Erzmagier Arugal",
     "Archmage Arugal kills (Shadowfang Keep)": "Siege über Erzmagier Arugal (Burg Schattenfang)",
@@ -25562,6 +25591,7 @@
     "Bristlebark Amice": "Borstenlederamicia",
     "Bristlebark Belt": "Borstenledergürtel",
     "Bristlebark Bindings": "Borstenlederbindungen",
+    "Bristlebark Blouse": "Borstenlederbrustschutz",
     "Bronze Greatsword": "Bronzenes Großschwert",
     "Bronze Shortsword": "Bronzenes Kurzschwert",
     "Bronze Warhammer": "Bronzener Kriegshammer",
@@ -25604,6 +25634,7 @@
     "Ceremonial Leather Harness": "Zeremonieller Lederharnisch",
     "Ceremonial Mallet": "Zeremonieller Schlaghammer",
     "Cerulean Prideclaw": "Himmelblaue Rudelkralle",
+    "Cerulean Ring of Strength": "Himmelblauer Ring der Stärke",
     "Cerulean Ring of the Sorcerer": "Himmelblauer Ring des Zauberers",
     "Cerulean Talisman of Agility": "Himmelblauer Talisman der Beweglichkeit",
     "Chain of Binding": "Kette der Bindung",
@@ -25615,6 +25646,7 @@
     "Charlga Razorflank": "Charlga Razorflank",
     "Charlga Razorflank kills (Razorfen Kraul)": "Siege über Charlga Razorflank (Kral von Razorfen)",
     "Charred Wand": "Verkohlter Zauberstab",
+    "Chasm Walkers": "Abgrundläufer",
     "Chausses of Westfall": "Westfall-Galoschen",
     "Cheap Blunderbuss": "Billige Donnerbüchse",
     "Chest": "Brust",
@@ -26013,6 +26045,7 @@
     "Harpy Skinner": "Harpyienkürschner",
     "Hated": "Hasserfüllt",
     "Hawk Eye": "Falkenauge",
+    "Hawkeye's Cord": "Falkenauges Kordel",
     "Head": "Kopf",
     "Headbasher": "Kopfberster",
     "Headhunter's Armor of the Tiger": "Kopfjägerrüstung des Tigers",
@@ -26540,6 +26573,7 @@
     "Seer's Boots": "Seherstiefel",
     "Sentinel Boots of the Elder": "Schildwachenstiefel des Ältesten",
     "Sentinel Boots of the Tiger": "Schildwachenstiefel des Tigers",
+    "Sentinel Cloak of the Knight": "Schildwachenumhang des Ritters",
     "Sentinel's Slasher": "Schlitzer der Schildwache",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Sentry's Leggings of the Tiger": "Wachpostengamaschen des Tigers",
@@ -27988,7 +28022,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795470031,
+  "saved_at": 1795470931,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
