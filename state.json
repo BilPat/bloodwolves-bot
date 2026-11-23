@@ -20919,7 +20919,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795379929000,
+      "last_login": 1795416585000,
       "level": 40,
       "level_at": {
         "38": 1795221303,
@@ -21465,16 +21465,16 @@
         "critters": 58,
         "deaths": 19,
         "drinks": 24,
-        "flights": 134,
+        "flights": 135,
         "food": 98,
         "health_potions": 16,
         "hearths": 37,
-        "killing_blows": 3755,
+        "killing_blows": 3765,
         "mana_potions": 3,
-        "mobs": 6096,
+        "mobs": 6106,
         "quests": 444
       },
-      "xp": 55241
+      "xp": 60893
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -26046,7 +26046,7 @@
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -27608,7 +27608,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795415607,
+  "saved_at": 1795416987,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
