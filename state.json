@@ -13339,11 +13339,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 10455,
-        "ilvl": 60,
-        "name": "Chained Essence of Eranikus",
-        "quality": "UNCOMMON",
-        "slot": "Trinket 2"
+        "id": 22274,
+        "ilvl": 52,
+        "name": "Grizzled Pelt",
+        "quality": "RARE",
+        "slot": "Chest"
       },
       "boss_kills": {
         "1092": {
@@ -13510,10 +13510,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 52,
+      "ilvl": 51,
       "last_explored": "Swamp of Sorrows",
-      "last_login": 1795376827000,
-      "level": 53,
+      "last_login": 1795396432000,
+      "level": 54,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
@@ -13521,12 +13521,13 @@
         "49": 1795048587,
         "50": 1795259608,
         "52": 1795298123,
-        "53": 1795353919
+        "53": 1795353919,
+        "54": 1795396676
       },
       "professions": {
         "Alchemy": 254,
         "Cooking": 300,
-        "First Aid": 258,
+        "First Aid": 262,
         "Fishing": 175,
         "Herbalism": 300
       },
@@ -13923,6 +13924,10 @@
             "name": "Minor Healing Potion"
           },
           {
+            "id": 10488,
+            "name": "Runecloth Bandage"
+          },
+          {
             "id": 52641,
             "name": "First Aid Kit"
           },
@@ -14004,7 +14009,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -12725,
+          "raw": -13475,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -14014,7 +14019,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 6534,
+          "raw": 6684,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -14024,7 +14029,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 13283,
+          "raw": 13423,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14039,37 +14044,42 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 5774,
+          "raw": 5849,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 7239,
+          "raw": 7314,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 16478,
+          "raw": 16918,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 6916,
+          "raw": 6991,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7380,
+          "raw": 7455,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 21318,
+          "raw": 21466,
           "tier": 6
+        },
+        "Timbermaw Hold": {
+          "name": "Hostile",
+          "raw": -3300,
+          "tier": 1
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14278,
+          "raw": 14531,
           "tier": 5
         }
       },
@@ -14077,18 +14087,18 @@
       "stats": {
         "critters": 143,
         "deaths": 48,
-        "drinks": 194,
-        "flights": 233,
-        "food": 247,
-        "health_potions": 80,
-        "hearths": 54,
+        "drinks": 201,
+        "flights": 237,
+        "food": 255,
+        "health_potions": 83,
+        "hearths": 56,
         "honorable_kills": 1,
-        "killing_blows": 4722,
-        "mana_potions": 8,
-        "mobs": 9199,
-        "quests": 694
+        "killing_blows": 4831,
+        "mana_potions": 9,
+        "mobs": 9308,
+        "quests": 716
       },
-      "xp": 105003
+      "xp": 55364
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -25597,6 +25607,7 @@
     "Honored": "Wohlwollend",
     "Hooded Cowl": "Kapuzenkutte",
     "Horn Ring": "Hornring",
+    "Hostile": "Feindselig",
     "Howlhide Vest": "Heulbalgweste",
     "Hulking Cloak": "Titanischer Umhang",
     "Human": "Mensch",
@@ -26238,6 +26249,7 @@
     "Tiger Hunter Gloves": "Tigerjäger-Handschuhe",
     "Tigerbane": "Tigerbann",
     "Tim's Lost Rib": "Tims verlorene Rippe",
+    "Timbermaw Hold": "Holzschlundfeste",
     "Times camped": "Ruhezeiten im Lager",
     "Torture": "Folter",
     "Torturing Poker": "Quälerschüreisen",
@@ -27460,7 +27472,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795395606,
+  "saved_at": 1795396678,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
