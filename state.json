@@ -21747,6 +21747,7 @@
     "eu:vlad-impalar": {
       "achievements": {
         "61997": "Novice Paladin",
+        "61998": "Experienced Paladin",
         "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "62032": "Experienced Spelunker",
@@ -21938,8 +21939,8 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795435032000,
-      "level": 44,
+      "last_login": 1795442512000,
+      "level": 45,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
@@ -21949,14 +21950,15 @@
         "41": 1795110024,
         "42": 1795180559,
         "43": 1795217953,
-        "44": 1795389237
+        "44": 1795389237,
+        "45": 1795443474
       },
       "professions": {
         "Blacksmithing": 170,
         "Cooking": 225,
         "First Aid": 62,
         "Fishing": 157,
-        "Mining": 216
+        "Mining": 220
       },
       "race": "Undead",
       "raids": {},
@@ -22358,12 +22360,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2842,
+          "raw": 2947,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7936,
+          "raw": 8105,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -22378,37 +22380,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2487,
+          "raw": 2592,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2487,
+          "raw": 2592,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8318,
+          "raw": 8618,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3445,
+          "raw": 3555,
           "tier": 4
         },
         "Ratchet": {
-          "name": "Neutral",
-          "raw": 2862,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3067,
+          "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7420,
+          "raw": 7513,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21095,
+          "raw": 21213,
           "tier": 6
         }
       },
@@ -22417,16 +22419,16 @@
         "critters": 115,
         "deaths": 54,
         "drinks": 25,
-        "flights": 92,
+        "flights": 97,
         "food": 59,
         "health_potions": 37,
-        "hearths": 43,
-        "killing_blows": 3419,
-        "mana_potions": 1,
-        "mobs": 7612,
-        "quests": 456
+        "hearths": 44,
+        "killing_blows": 3432,
+        "mana_potions": 2,
+        "mobs": 7627,
+        "quests": 470
       },
-      "xp": 86128
+      "xp": 8154
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -25341,11 +25343,12 @@
         "lines": [
           "🎖️ [Experienced Spelunker](https://www.wowhead.com/forever/de/achievement=62032)",
           "🛠️ **Kochkunst** auf 225",
-          "🤝 **Respektvoll** bei Unterstadt"
+          "🤝 **Respektvoll** bei Unterstadt",
+          "🎖️ [Experienced Paladin](https://www.wowhead.com/forever/de/achievement=61998)"
         ],
         "snap": {
           "class": "Paladin",
-          "level": 44
+          "level": 45
         }
       },
       "eu:zulka-seelenfluch": {
@@ -28001,7 +28004,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795442101,
+  "saved_at": 1795443476,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
