@@ -1662,7 +1662,7 @@
       },
       "ilvl": 22,
       "last_explored": "Teldrassil",
-      "last_login": 1795392432000,
+      "last_login": 1795437904000,
       "level": 25,
       "level_at": {
         "23": 1795383606,
@@ -1673,7 +1673,7 @@
         "Cooking": 3,
         "First Aid": 106,
         "Fishing": 1,
-        "Mining": 142
+        "Mining": 143
       },
       "race": "Undead",
       "raids": {},
@@ -2017,12 +2017,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 579,
+          "raw": 944,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4381,
+          "raw": 4468,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2032,55 +2032,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 579,
+          "raw": 944,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 579,
+          "raw": 944,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6462,
+          "raw": 6550,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 579,
+          "raw": 944,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 658,
+          "raw": 1389,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3788,
+          "raw": 3988,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14596,
+          "raw": 14683,
           "tier": 5
         }
       },
       "spec": "Retribution",
       "stats": {
-        "critters": 1,
+        "critters": 2,
         "deaths": 11,
         "drinks": 10,
-        "flights": 27,
-        "food": 9,
+        "flights": 29,
+        "food": 11,
         "health_potions": 11,
-        "hearths": 19,
-        "killing_blows": 1714,
+        "hearths": 20,
+        "killing_blows": 1758,
         "mana_potions": 1,
-        "mobs": 1853,
-        "quests": 194
+        "mobs": 1916,
+        "quests": 200
       },
-      "xp": 7626
+      "xp": 19271
     },
     "eu:aru-tai": {
       "achievements": {
@@ -2376,9 +2376,9 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {},
-      "ilvl": 5,
+      "ilvl": 6,
       "last_explored": "Durotar",
-      "last_login": 1795420748000,
+      "last_login": 1795438221000,
       "level": 17,
       "level_at": {
         "13": 1794866470,
@@ -2479,7 +2479,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8032,
+          "raw": 8076,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2499,7 +2499,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8582,
+          "raw": 8738,
           "tier": 4
         },
         "Powderfuse": {
@@ -2514,12 +2514,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3843,
+          "raw": 3906,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1168,
+          "raw": 1212,
           "tier": 3
         }
       },
@@ -2528,15 +2528,15 @@
         "critters": 8,
         "deaths": 6,
         "drinks": 1,
-        "flights": 8,
+        "flights": 11,
         "food": 15,
         "health_potions": 4,
-        "hearths": 7,
-        "killing_blows": 684,
-        "mobs": 760,
-        "quests": 76
+        "hearths": 8,
+        "killing_blows": 700,
+        "mobs": 774,
+        "quests": 78
       },
-      "xp": 3335
+      "xp": 7475
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -26036,6 +26036,7 @@
     "Handstitched Leather Vest": "Handgenähte Lederweste",
     "Harpy Bangles": "Harpyienreifen",
     "Harpy Claw Ring": "Harpyienklauenring",
+    "Harpy Skinner": "Harpyienkürschner",
     "Hated": "Hasserfüllt",
     "Hawk Eye": "Falkenauge",
     "Head": "Kopf",
@@ -27998,7 +27999,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795437786,
+  "saved_at": 1795438475,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
