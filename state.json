@@ -8188,7 +8188,7 @@
       "gear": {},
       "ilvl": 4,
       "last_explored": "Durotar",
-      "last_login": 1795368390000,
+      "last_login": 1795448020000,
       "level": 14,
       "level_at": {
         "12": 1795289063,
@@ -16101,16 +16101,17 @@
       },
       "ilvl": 23,
       "last_explored": "Thousand Needles",
-      "last_login": 1795436863000,
-      "level": 28,
+      "last_login": 1795447888000,
+      "level": 29,
       "level_at": {
         "27": 1795430379,
-        "28": 1795437784
+        "28": 1795437784,
+        "29": 1795448457
       },
       "professions": {
         "Cooking": 11,
         "Engineering": 12,
-        "Mining": 97
+        "Mining": 100
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -16178,12 +16179,17 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1760,
+          "raw": 1810,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5098,
+          "raw": 5717,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16193,12 +16199,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1760,
+          "raw": 1810,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1760,
+          "raw": 1810,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -16208,28 +16214,33 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7262,
+          "raw": 8012,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1760,
+          "raw": 1810,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3021,
+          "raw": 3121,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7432,
+          "raw": 8813,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5316,
+          "raw": 5897,
           "tier": 4
+        },
+        "Warsong Outriders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Windshapers": {
           "name": "Friendly",
@@ -16240,18 +16251,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 53,
-        "drinks": 219,
-        "flights": 56,
-        "food": 212,
-        "health_potions": 27,
-        "hearths": 14,
-        "killing_blows": 1911,
-        "mana_potions": 28,
-        "mobs": 2339,
-        "quests": 233
+        "deaths": 56,
+        "drinks": 233,
+        "flights": 64,
+        "food": 223,
+        "health_potions": 28,
+        "hearths": 16,
+        "killing_blows": 2027,
+        "mana_potions": 39,
+        "mobs": 2503,
+        "quests": 256
       },
-      "xp": 25788
+      "xp": 42597
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -28062,7 +28073,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795447592,
+  "saved_at": 1795448458,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
