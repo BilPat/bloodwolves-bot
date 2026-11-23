@@ -2399,21 +2399,22 @@
       },
       "ilvl": 10,
       "last_explored": "Durotar",
-      "last_login": 1795470252000,
-      "level": 18,
+      "last_login": 1795475304000,
+      "level": 19,
       "level_at": {
         "13": 1794866470,
         "14": 1794928566,
         "16": 1795348502,
         "17": 1795422156,
-        "18": 1795470930
+        "18": 1795470930,
+        "19": 1795475708
       },
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
         "Fishing": 77,
-        "Mining": 74,
-        "Skinning": 124
+        "Mining": 76,
+        "Skinning": 131
       },
       "race": "Troll",
       "raids": {},
@@ -2501,7 +2502,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8332,
+          "raw": 8370,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2521,7 +2522,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9088,
+          "raw": 9238,
           "tier": 5
         },
         "Powderfuse": {
@@ -2536,12 +2537,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4275,
+          "raw": 4312,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1506,
+          "raw": 1543,
           "tier": 3
         }
       },
@@ -2550,15 +2551,15 @@
         "critters": 8,
         "deaths": 7,
         "drinks": 1,
-        "flights": 14,
-        "food": 16,
+        "flights": 15,
+        "food": 17,
         "health_potions": 4,
-        "hearths": 9,
-        "killing_blows": 781,
-        "mobs": 926,
-        "quests": 88
+        "hearths": 10,
+        "killing_blows": 810,
+        "mobs": 955,
+        "quests": 89
       },
-      "xp": 16437
+      "xp": 1389
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -16151,9 +16152,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 27,
+      "ilvl": 26,
       "last_explored": "Thousand Needles",
-      "last_login": 1795470348000,
+      "last_login": 1795475325000,
       "level": 31,
       "level_at": {
         "27": 1795430379,
@@ -16238,7 +16239,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6073,
+          "raw": 6155,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16263,7 +16264,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8443,
+          "raw": 8581,
           "tier": 4
         },
         "Powderfuse": {
@@ -16278,12 +16279,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10163,
+          "raw": 10245,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6253,
+          "raw": 6522,
           "tier": 4
         },
         "Windshapers": {
@@ -16295,18 +16296,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 60,
-        "drinks": 239,
-        "flights": 70,
-        "food": 228,
+        "deaths": 61,
+        "drinks": 246,
+        "flights": 72,
+        "food": 232,
         "health_potions": 31,
         "hearths": 18,
-        "killing_blows": 2116,
-        "mana_potions": 42,
-        "mobs": 2635,
-        "quests": 275
+        "killing_blows": 2169,
+        "mana_potions": 50,
+        "mobs": 2691,
+        "quests": 281
       },
-      "xp": 6199
+      "xp": 23347
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -22773,11 +22774,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/218/29133018-avatar.jpg",
       "best_item": {
-        "id": 4052,
-        "ilvl": 35,
-        "name": "Insignia Cap",
-        "quality": "UNCOMMON",
-        "slot": "Head"
+        "id": 9624,
+        "ilvl": 37,
+        "name": "Triprunner Dungarees",
+        "quality": "RARE",
+        "slot": "Legs"
       },
       "boss_kills": {
         "1092": {
@@ -22799,6 +22800,11 @@
           "boss": "Aku'mai",
           "count": 2,
           "instance": "Blackfathom Deeps"
+        },
+        "6140": {
+          "boss": "Mekgineer Thermaplugg",
+          "count": 1,
+          "instance": "Gnomeregan"
         },
         "63573": {
           "boss": "Durgen Dirgehammer",
@@ -22853,21 +22859,26 @@
         "3230": {
           "name": "Black Wolf Bracers",
           "quality": "RARE"
+        },
+        "9624": {
+          "name": "Triprunner Dungarees",
+          "quality": "RARE"
         }
       },
-      "ilvl": 29,
+      "ilvl": 30,
       "last_explored": "Wetlands",
-      "last_login": 1795407368000,
-      "level": 31,
+      "last_login": 1795474899000,
+      "level": 32,
       "level_at": {
         "29": 1795218860,
         "30": 1795295607,
-        "31": 1795407566
+        "31": 1795407566,
+        "32": 1795475708
       },
       "professions": {
         "Cooking": 29,
         "Herbalism": 222,
-        "Skinning": 216
+        "Skinning": 225
       },
       "race": "High Order Skyborne",
       "raids": {},
@@ -22950,11 +22961,6 @@
           "raw": 2000,
           "tier": 3
         },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2885,
@@ -22962,7 +22968,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7396,
+          "raw": 7521,
           "tier": 4
         },
         "Gadgetzan": {
@@ -22972,7 +22978,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5276,
+          "raw": 5801,
           "tier": 4
         },
         "High Order": {
@@ -22982,7 +22988,7 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7352,
+          "raw": 7477,
           "tier": 4
         },
         "Kirin Tor": {
@@ -22995,14 +23001,9 @@
           "raw": 5700,
           "tier": 4
         },
-        "Ratchet": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7558,
+          "raw": 7758,
           "tier": 4
         },
         "Wildhammer Clan": {
@@ -23014,18 +23015,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 18,
-        "deaths": 44,
+        "deaths": 45,
         "drinks": 13,
         "flights": 46,
         "food": 11,
         "health_potions": 22,
         "hearths": 29,
-        "killing_blows": 1656,
+        "killing_blows": 1823,
         "mana_potions": 4,
-        "mobs": 2673,
-        "quests": 288
+        "mobs": 3092,
+        "quests": 297
       },
-      "xp": 41298
+      "xp": 50773
     },
     "us:devil-latterday": {
       "achievements": {
@@ -25367,11 +25368,12 @@
         },
         "lines": [
           "🤝 **Wohlwollend** bei Orgrimmar",
-          "🔵 Erstes blaues Item: **[Abgrundläufer](https://www.wowhead.com/forever/de/item=273007)** (Feet)"
+          "🔵 Erstes blaues Item: **[Abgrundläufer](https://www.wowhead.com/forever/de/item=273007)** (Feet)",
+          "🛠️ **Bergbau** auf 75"
         ],
         "snap": {
           "class": "Hunter",
-          "level": 18
+          "level": 19
         }
       },
       "eu:freya-graufuss": {
@@ -25401,6 +25403,21 @@
         "snap": {
           "class": "Druid",
           "level": 35
+        }
+      },
+      "us:aeri-moonglow": {
+        "c": {
+          "name": "aeri",
+          "region": "us",
+          "surname": "moonglow"
+        },
+        "lines": [
+          "🛠️ **Kürschnerei** auf 225",
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 32
         }
       },
       "us:steel-appeal": {
@@ -26407,6 +26424,7 @@
     "Ogre Horn Ring": "Ogerhornring",
     "One-Hand": "Einhändig",
     "Opaque Wand": "Undurchsichtiger Zauberstab",
+    "Operator's Gloves": "Handschuhe des Betreibers",
     "Orange Mageweave Shirt": "Oranges Magiestoffhemd",
     "Ornate Blunderbuss": "Verschnörkelte Donnerbüchse",
     "Outlaw Sabre": "Gesetzlosensäbel",
@@ -28077,7 +28095,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795474492,
+  "saved_at": 1795475710,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
