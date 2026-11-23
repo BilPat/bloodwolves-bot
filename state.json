@@ -6689,7 +6689,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795391109000,
+      "last_login": 1795426942000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -26069,7 +26069,7 @@
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -27626,7 +27626,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795426850,
+  "saved_at": 1795427707,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
