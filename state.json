@@ -2365,11 +2365,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/95/51172703-avatar.jpg",
       "best_item": {
-        "id": 2507,
-        "ilvl": 16,
-        "name": "Laminated Recurve Bow",
-        "quality": "COMMON",
-        "slot": "Ranged"
+        "id": 5314,
+        "ilvl": 20,
+        "name": "Boar Hunter's Cape",
+        "quality": "UNCOMMON",
+        "slot": "Back"
       },
       "boss_kills": {},
       "class": "Hunter",
@@ -2378,19 +2378,20 @@
       "gear": {},
       "ilvl": 5,
       "last_explored": "Durotar",
-      "last_login": 1795388657000,
-      "level": 16,
+      "last_login": 1795420748000,
+      "level": 17,
       "level_at": {
         "13": 1794866470,
         "14": 1794928566,
-        "16": 1795348502
+        "16": 1795348502,
+        "17": 1795422156
       },
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
         "Fishing": 76,
         "Mining": 74,
-        "Skinning": 120
+        "Skinning": 122
       },
       "race": "Troll",
       "raids": {},
@@ -2478,7 +2479,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7951,
+          "raw": 8032,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2498,7 +2499,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8257,
+          "raw": 8582,
           "tier": 4
         },
         "Powderfuse": {
@@ -2513,29 +2514,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3762,
+          "raw": 3843,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1087,
+          "raw": 1168,
           "tier": 3
         }
       },
       "spec": "Marksmanship",
       "stats": {
         "critters": 8,
-        "deaths": 5,
+        "deaths": 6,
         "drinks": 1,
         "flights": 8,
         "food": 15,
         "health_potions": 4,
         "hearths": 7,
-        "killing_blows": 652,
-        "mobs": 706,
-        "quests": 73
+        "killing_blows": 684,
+        "mobs": 760,
+        "quests": 76
       },
-      "xp": 10440
+      "xp": 3335
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -12460,9 +12461,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 36,
+      "ilvl": 35,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795364696000,
+      "last_login": 1795421705000,
       "level": 39,
       "level_at": {
         "25": 1794866470,
@@ -12919,11 +12920,6 @@
         "Everlook": {
           "name": "Neutral",
           "raw": 1431,
-          "tier": 3
-        },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
           "tier": 3
         },
         "Gadgetzan": {
@@ -22210,8 +22206,8 @@
       },
       "ilvl": 25,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795377224000,
-      "level": 29,
+      "last_login": 1795421939000,
+      "level": 30,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
@@ -22221,7 +22217,8 @@
         "26": 1795110929,
         "27": 1795180559,
         "28": 1795189148,
-        "29": 1795341242
+        "29": 1795341242,
+        "30": 1795422156
       },
       "professions": {
         "Alchemy": 70,
@@ -22308,7 +22305,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4517,
+          "raw": 4686,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -22333,7 +22330,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4742,
+          "raw": 4911,
           "tier": 4
         },
         "Powderfuse": {
@@ -22348,12 +22345,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3723,
+          "raw": 4398,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13992,
+          "raw": 14161,
           "tier": 5
         }
       },
@@ -22361,17 +22358,17 @@
       "stats": {
         "critters": 54,
         "deaths": 16,
-        "drinks": 1041,
+        "drinks": 1062,
         "flights": 29,
-        "food": 260,
+        "food": 266,
         "health_potions": 12,
-        "hearths": 28,
-        "killing_blows": 1642,
-        "mana_potions": 22,
-        "mobs": 2771,
-        "quests": 179
+        "hearths": 29,
+        "killing_blows": 1685,
+        "mana_potions": 23,
+        "mobs": 2855,
+        "quests": 186
       },
-      "xp": 25042
+      "xp": 5190
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -26603,16 +26600,7 @@
       },
       "raid": {}
     },
-    "firsts_pending": {
-      "dungeon|Sunken Temple": {
-        "keys": [
-          "eu:krakmor-ci%C3%B3rdan"
-        ],
-        "kind": "dungeon",
-        "since": 1795377259,
-        "what": "Sunken Temple"
-      }
-    },
+    "firsts_pending": {},
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -26634,7 +26622,8 @@
         "eu:redbully-badbully",
         "eu:quantino-pralino",
         "eu:thalgrim-tirisfal",
-        "eu:blck-jck"
+        "eu:blck-jck",
+        "eu:zulka-seelenfluch"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -27619,7 +27608,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795420517,
+  "saved_at": 1795422158,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
