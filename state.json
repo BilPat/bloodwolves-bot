@@ -5961,7 +5961,7 @@
       },
       "ilvl": 22,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795391653000,
+      "last_login": 1795436931000,
       "level": 27,
       "level_at": {
         "22": 1794866470,
@@ -5975,7 +5975,7 @@
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 235,
+        "Herbalism": 237,
         "Tailoring": 203
       },
       "race": "Undead",
@@ -6609,12 +6609,17 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3993,
+          "raw": 4150,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
           "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 100,
           "tier": 3
         },
         "Everlook": {
@@ -6629,7 +6634,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4725,
+          "raw": 4881,
           "tier": 4
         },
         "Powderfuse": {
@@ -6644,12 +6649,12 @@
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 2620,
+          "raw": 2682,
           "tier": 3
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12302,
+          "raw": 12365,
           "tier": 5
         }
       },
@@ -6659,15 +6664,15 @@
         "deaths": 47,
         "drinks": 107,
         "flights": 79,
-        "food": 117,
+        "food": 120,
         "health_potions": 14,
         "hearths": 59,
-        "killing_blows": 1113,
-        "mana_potions": 32,
-        "mobs": 3218,
-        "quests": 172
+        "killing_blows": 1136,
+        "mana_potions": 33,
+        "mobs": 3246,
+        "quests": 176
       },
-      "xp": 24603
+      "xp": 35341
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -16054,11 +16059,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/30/100678430-avatar.jpg",
       "best_item": {
-        "id": 6603,
-        "ilvl": 30,
-        "name": "Dervish Tunic of the Bandit",
+        "id": 16740,
+        "ilvl": 31,
+        "name": "Shredder Operating Gloves",
         "quality": "UNCOMMON",
-        "slot": "Chest"
+        "slot": "Hands"
       },
       "boss_kills": {
         "1092": {
@@ -16085,17 +16090,18 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 23,
       "last_explored": "Thousand Needles",
-      "last_login": 1795390413000,
-      "level": 27,
+      "last_login": 1795436863000,
+      "level": 28,
       "level_at": {
-        "27": 1795430379
+        "27": 1795430379,
+        "28": 1795437784
       },
       "professions": {
         "Cooking": 11,
         "Engineering": 12,
-        "Mining": 85
+        "Mining": 97
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -16163,12 +16169,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1660,
+          "raw": 1760,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4536,
+          "raw": 5098,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16178,12 +16184,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1660,
+          "raw": 1760,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1660,
+          "raw": 1760,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -16193,27 +16199,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6550,
+          "raw": 7262,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1660,
+          "raw": 1760,
           "tier": 3
         },
         "Ratchet": {
-          "name": "Neutral",
-          "raw": 2821,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3021,
+          "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6682,
+          "raw": 7432,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4978,
+          "raw": 5316,
           "tier": 4
         },
         "Windshapers": {
@@ -16225,18 +16231,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 52,
-        "drinks": 199,
-        "flights": 48,
-        "food": 187,
-        "health_potions": 23,
-        "hearths": 10,
-        "killing_blows": 1701,
-        "mana_potions": 19,
-        "mobs": 2105,
-        "quests": 212
+        "deaths": 53,
+        "drinks": 219,
+        "flights": 56,
+        "food": 212,
+        "health_potions": 27,
+        "hearths": 14,
+        "killing_blows": 1911,
+        "mana_potions": 28,
+        "mobs": 2339,
+        "quests": 233
       },
-      "xp": 816
+      "xp": 25788
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -23386,11 +23392,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/49/20858161-avatar.jpg",
       "best_item": {
-        "id": 2805,
-        "ilvl": 34,
-        "name": "Yeti Fur Cloak",
+        "id": 9856,
+        "ilvl": 36,
+        "name": "Archer's Boots of the Monkey",
         "quality": "UNCOMMON",
-        "slot": "Back"
+        "slot": "Feet"
       },
       "boss_kills": {
         "1092": {
@@ -23474,24 +23480,25 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 26,
+      "ilvl": 28,
       "last_explored": "Wetlands",
-      "last_login": 1795314218000,
-      "level": 31,
+      "last_login": 1795436980000,
+      "level": 32,
       "level_at": {
         "26": 1794965196,
         "27": 1795005720,
         "28": 1795061895,
         "29": 1795097762,
         "30": 1795200900,
-        "31": 1795288333
+        "31": 1795288333,
+        "32": 1795437784
       },
       "professions": {
         "Alchemy": 211,
         "Cooking": 187,
         "First Aid": 146,
         "Fishing": 113,
-        "Herbalism": 213
+        "Herbalism": 219
       },
       "race": "Night Elf",
       "raids": {},
@@ -23556,6 +23563,10 @@
           {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
+          },
+          {
+            "id": 54656,
+            "name": "Lesser Spellblasting Potion"
           },
           {
             "id": 54546,
@@ -23846,6 +23857,16 @@
           "raw": 2000,
           "tier": 3
         },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -6525,
+          "tier": 0
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2960,
@@ -23853,7 +23874,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15972,
+          "raw": 15997,
           "tier": 5
         },
         "Gadgetzan": {
@@ -23863,28 +23884,18 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7053,
+          "raw": 7078,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7241,
+          "raw": 7266,
           "tier": 4
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9448,
+          "raw": 9548,
           "tier": 5
-        },
-        "The League of Arathor": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
-        "Theramore Expeditionary Force": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Feral Combat",
@@ -23892,16 +23903,16 @@
         "critters": 55,
         "deaths": 42,
         "drinks": 112,
-        "flights": 54,
+        "flights": 56,
         "food": 63,
         "health_potions": 62,
         "hearths": 26,
-        "killing_blows": 1131,
+        "killing_blows": 1156,
         "mana_potions": 50,
-        "mobs": 3033,
-        "quests": 260
+        "mobs": 3075,
+        "quests": 265
       },
-      "xp": 38299
+      "xp": 442
     },
     "us:steel-appeal": {
       "achievements": {
@@ -25428,6 +25439,7 @@
     "Archaedas": "Archaedas",
     "Archaedas kills (Uldaman)": "Siege über Archaedas (Uldaman)",
     "Archaedic Stone of the Falcon": "Archaedischer Stein des Falken",
+    "Archer's Boots of the Monkey": "Bogenschützen-Stiefel des Affen",
     "Archer's Bracers of the Falcon": "Bogenschützen-Armschienen des Falken",
     "Archery Training Gloves": "Ausbildungshandschuhe zum Bogenschießen",
     "Archmage Arugal": "Erzmagier Arugal",
@@ -25775,6 +25787,7 @@
     "Dokebi Bracers": "Dokebi-Armschienen",
     "Double-Stitched Woolen Shoulders": "Doppelt genähte Wollschultern",
     "Double-layered Gloves": "Doppellagige Handschuhe",
+    "Draftsman Boots": "Zeichner-Stiefel",
     "Dragon's Blood Necklace": "Drachenblut-Halskette",
     "Dragonclaw Ring": "Drachenklauenring",
     "Drape of Shifting Energy": "Tuch der veränderlichen Energie",
@@ -27985,7 +27998,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795436540,
+  "saved_at": 1795437786,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
