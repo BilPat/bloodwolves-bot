@@ -1666,7 +1666,7 @@
       },
       "ilvl": 22,
       "last_explored": "Teldrassil",
-      "last_login": 1795448628000,
+      "last_login": 1795449885000,
       "level": 25,
       "level_at": {
         "23": 1795383606,
@@ -2030,7 +2030,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4468,
+          "raw": 4568,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2050,7 +2050,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6550,
+          "raw": 6575,
           "tier": 4
         },
         "Powderfuse": {
@@ -2065,12 +2065,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3988,
+          "raw": 4013,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14683,
+          "raw": 14708,
           "tier": 5
         }
       },
@@ -2080,15 +2080,15 @@
         "deaths": 11,
         "drinks": 10,
         "flights": 29,
-        "food": 11,
+        "food": 12,
         "health_potions": 11,
         "hearths": 20,
-        "killing_blows": 1758,
+        "killing_blows": 1759,
         "mana_potions": 1,
-        "mobs": 1916,
-        "quests": 200
+        "mobs": 1917,
+        "quests": 201
       },
-      "xp": 19271
+      "xp": 20455
     },
     "eu:aru-tai": {
       "achievements": {
@@ -28082,7 +28082,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795449349,
+  "saved_at": 1795450564,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
