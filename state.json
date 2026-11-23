@@ -9169,16 +9169,17 @@
       },
       "ilvl": 18,
       "last_explored": "Durotar",
-      "last_login": 1795306620000,
-      "level": 26,
+      "last_login": 1795457663000,
+      "level": 27,
       "level_at": {
-        "26": 1794866470
+        "26": 1794866470,
+        "27": 1795457890
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 106,
         "Leatherworking": 100,
-        "Skinning": 175
+        "Skinning": 183
       },
       "race": "Troll",
       "raids": {},
@@ -9275,6 +9276,10 @@
           {
             "id": 1363,
             "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 4419,
+            "name": "Deviate Scale Belt"
           },
           {
             "id": 2196,
@@ -9383,12 +9388,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2359,
+          "raw": 2434,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11261,
+          "raw": 11405,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -9398,55 +9403,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2359,
+          "raw": 2434,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2359,
+          "raw": 2434,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13337,
+          "raw": 13481,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2359,
+          "raw": 2434,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4619,
+          "raw": 4769,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7518,
+          "raw": 7643,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5706,
+          "raw": 5775,
           "tier": 4
         }
       },
       "spec": "Elemental Combat",
       "stats": {
         "critters": 4,
-        "deaths": 8,
-        "drinks": 87,
-        "flights": 49,
+        "deaths": 9,
+        "drinks": 100,
+        "flights": 50,
         "food": 11,
-        "health_potions": 31,
-        "hearths": 17,
-        "killing_blows": 1209,
-        "mana_potions": 5,
-        "mobs": 2050,
-        "quests": 233
+        "health_potions": 33,
+        "hearths": 18,
+        "killing_blows": 1286,
+        "mana_potions": 7,
+        "mobs": 2137,
+        "quests": 239
       },
-      "xp": 8332
+      "xp": 439
     },
     "eu:garakosh-redwalker": {
       "achievements": {
@@ -12335,11 +12340,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 274385,
-        "ilvl": 42,
-        "name": "Abomination Chain",
+        "id": 10823,
+        "ilvl": 44,
+        "name": "Vanquisher's Sword",
         "quality": "RARE",
-        "slot": "Neck"
+        "slot": "Main Hand"
       },
       "boss_kills": {
         "1092": {
@@ -12497,7 +12502,7 @@
       },
       "ilvl": 35,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795435161000,
+      "last_login": 1795456731000,
       "level": 40,
       "level_at": {
         "25": 1794866470,
@@ -12517,9 +12522,9 @@
         "40": 1795436538
       },
       "professions": {
-        "Cooking": 200,
+        "Cooking": 225,
         "First Aid": 206,
-        "Fishing": 114,
+        "Fishing": 225,
         "Leatherworking": 156,
         "Skinning": 254
       },
@@ -12584,6 +12589,10 @@
             "name": "Smoked Sagefish"
           },
           {
+            "id": 11873,
+            "name": "Mithril Headed Trout"
+          },
+          {
             "id": 1902,
             "name": "Hot Lion Chops"
           },
@@ -12632,12 +12641,20 @@
             "name": "Slitherskin Mackerel"
           },
           {
+            "id": 4392,
+            "name": "Rockscale Cod"
+          },
+          {
             "id": 3963,
             "name": "Goblin Deviled Clams"
           },
           {
             "id": 3964,
             "name": "Boiled Clams"
+          },
+          {
+            "id": 4204,
+            "name": "Giant Clam Scorcho"
           }
         ],
         "First Aid": [
@@ -12672,12 +12689,12 @@
         ],
         "Fishing": [
           {
-            "id": 52639,
-            "name": "Fish Bowl"
+            "id": 4346,
+            "name": "Fishing"
           },
           {
-            "id": 4345,
-            "name": "Fishing"
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Leatherworking": [
@@ -13015,11 +13032,6 @@
           "name": "Neutral",
           "raw": 45,
           "tier": 3
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Combat",
@@ -13027,16 +13039,16 @@
         "critters": 99,
         "deaths": 46,
         "drinks": 42,
-        "flights": 59,
+        "flights": 64,
         "food": 269,
         "health_potions": 35,
-        "hearths": 23,
+        "hearths": 25,
         "honorable_kills": 245,
-        "killing_blows": 3181,
-        "mobs": 5243,
-        "quests": 310
+        "killing_blows": 3187,
+        "mobs": 5249,
+        "quests": 312
       },
-      "xp": 26316
+      "xp": 32630
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -25397,7 +25409,9 @@
           "surname": "Fäse"
         },
         "lines": [
-          "🛠️ **Angeln** auf 75"
+          "🛠️ **Angeln** auf 75",
+          "🛠️ **Kochkunst** auf 225",
+          "🛠️ **Angeln** auf 225"
         ],
         "snap": {
           "class": "Rogue",
@@ -26008,6 +26022,7 @@
     "Excelsior Boots": "Exzelsiorstiefel",
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
+    "Eye of the Storm": "Auge des Sturms",
     "Fade": "Verblassen",
     "Fallen Dragon's Scepter": "Szepter des gefallenen Drachen",
     "Fallenroot Longbow": "Langbogen der Leidbringer",
@@ -28139,7 +28154,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795456458,
+  "saved_at": 1795457894,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
