@@ -1301,7 +1301,7 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795386477000,
+      "last_login": 1795461407000,
       "level": 22,
       "level_at": {
         "21": 1794866470,
@@ -1554,7 +1554,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8083,
+          "raw": 8127,
           "tier": 4
         },
         "Everlook": {
@@ -1569,7 +1569,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10815,
+          "raw": 10990,
           "tier": 5
         },
         "Powderfuse": {
@@ -1584,12 +1584,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5192,
+          "raw": 5236,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1745,
+          "raw": 1788,
           "tier": 3
         }
       },
@@ -1600,13 +1600,13 @@
         "drinks": 1,
         "flights": 15,
         "food": 8,
-        "health_potions": 23,
+        "health_potions": 24,
         "hearths": 7,
-        "killing_blows": 916,
-        "mobs": 1286,
-        "quests": 123
+        "killing_blows": 967,
+        "mobs": 1330,
+        "quests": 125
       },
-      "xp": 7727
+      "xp": 16932
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -28188,7 +28188,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795461146,
+  "saved_at": 1795461927,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
