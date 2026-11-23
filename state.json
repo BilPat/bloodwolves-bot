@@ -12306,11 +12306,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 10823,
-        "ilvl": 44,
-        "name": "Vanquisher's Sword",
+        "id": 274385,
+        "ilvl": 42,
+        "name": "Abomination Chain",
         "quality": "RARE",
-        "slot": "Main Hand"
+        "slot": "Neck"
       },
       "boss_kills": {
         "1092": {
@@ -12468,8 +12468,8 @@
       },
       "ilvl": 35,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795421705000,
-      "level": 39,
+      "last_login": 1795435161000,
+      "level": 40,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -12484,14 +12484,15 @@
         "36": 1795189148,
         "37": 1795267528,
         "38": 1795299898,
-        "39": 1795341242
+        "39": 1795341242,
+        "40": 1795436538
       },
       "professions": {
         "Cooking": 200,
-        "First Aid": 204,
-        "Fishing": 12,
-        "Leatherworking": 152,
-        "Skinning": 251
+        "First Aid": 206,
+        "Fishing": 114,
+        "Leatherworking": 156,
+        "Skinning": 254
       },
       "race": "Undead",
       "raids": {},
@@ -12590,6 +12591,10 @@
             "name": "Roasted Boar Meat"
           },
           {
+            "id": 58468,
+            "name": "Briny Seafood Stew"
+          },
+          {
             "id": 1535,
             "name": "Charred Wolf Meat"
           },
@@ -12638,7 +12643,11 @@
         ],
         "Fishing": [
           {
-            "id": 4344,
+            "id": 52639,
+            "name": "Fish Bowl"
+          },
+          {
+            "id": 4345,
             "name": "Fishing"
           }
         ],
@@ -12700,6 +12709,10 @@
             "name": "Cured Heavy Hide"
           },
           {
+            "id": 5052,
+            "name": "Frost Leather Cloak"
+          },
+          {
             "id": 2179,
             "name": "Toughened Leather Gloves"
           },
@@ -12722,6 +12735,10 @@
           {
             "id": 55205,
             "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 4160,
+            "name": "Guardian Pants"
           },
           {
             "id": 2170,
@@ -12804,12 +12821,20 @@
             "name": "Moonglow Boots"
           },
           {
+            "id": 2185,
+            "name": "Green Leather Bracers"
+          },
+          {
             "id": 1369,
             "name": "Gray Leather Boots"
           },
           {
             "id": 4159,
             "name": "Dark Leather Pants"
+          },
+          {
+            "id": 2183,
+            "name": "Green Leather Belt"
           },
           {
             "id": 1360,
@@ -12909,7 +12934,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6471,
+          "raw": 6877,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -12919,7 +12944,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1050,
+          "raw": 1350,
           "tier": 3
         },
         "Everlook": {
@@ -12934,7 +12959,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8186,
+          "raw": 8573,
           "tier": 4
         },
         "Powderfuse": {
@@ -12949,17 +12974,22 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5658,
+          "raw": 5952,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16798,
+          "raw": 17130,
           "tier": 5
         },
         "Warsong Outriders": {
           "name": "Neutral",
           "raw": 45,
+          "tier": 3
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         }
       },
@@ -12968,16 +12998,16 @@
         "critters": 99,
         "deaths": 46,
         "drinks": 42,
-        "flights": 58,
-        "food": 264,
+        "flights": 59,
+        "food": 269,
         "health_potions": 35,
-        "hearths": 22,
+        "hearths": 23,
         "honorable_kills": 245,
-        "killing_blows": 3076,
-        "mobs": 5140,
-        "quests": 302
+        "killing_blows": 3181,
+        "mobs": 5243,
+        "quests": 310
       },
-      "xp": 64267
+      "xp": 26316
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -13358,6 +13388,7 @@
         "61503": "Experienced Druid",
         "62012": "Journeyman Alchemist",
         "62013": "Expert Alchemist",
+        "62014": "Artisan Alchemist",
         "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
         "62029": "Expert Tailor",
@@ -13551,7 +13582,7 @@
       },
       "ilvl": 51,
       "last_explored": "Swamp of Sorrows",
-      "last_login": 1795396432000,
+      "last_login": 1795435155000,
       "level": 54,
       "level_at": {
         "45": 1794866470,
@@ -13564,7 +13595,7 @@
         "54": 1795396676
       },
       "professions": {
-        "Alchemy": 254,
+        "Alchemy": 300,
         "Cooking": 300,
         "First Aid": 262,
         "Fishing": 175,
@@ -13591,12 +13622,20 @@
             "name": "Transmute: Iron to Gold"
           },
           {
+            "id": 9936,
+            "name": "Stonescale Oil"
+          },
+          {
             "id": 8596,
             "name": "Dreamless Sleep Potion"
           },
           {
             "id": 5998,
             "name": "Elixir of Defense"
+          },
+          {
+            "id": 9840,
+            "name": "Transmute: Arcanite"
           },
           {
             "id": 1933,
@@ -13609,6 +13648,10 @@
           {
             "id": 5997,
             "name": "Elixir of Agility"
+          },
+          {
+            "id": 6017,
+            "name": "Elixir of Shadow Power"
           },
           {
             "id": 1814,
@@ -13671,6 +13714,14 @@
             "name": "Greater Mana Potion"
           },
           {
+            "id": 9952,
+            "name": "Elixir of the Mongoose"
+          },
+          {
+            "id": 11316,
+            "name": "Limited Invulnerability Potion"
+          },
+          {
             "id": 4004,
             "name": "Free Action Potion"
           },
@@ -13681,6 +13732,10 @@
           {
             "id": 6006,
             "name": "Wildvine Potion"
+          },
+          {
+            "id": 6019,
+            "name": "Draught of Detect Demon"
           },
           {
             "id": 4006,
@@ -13703,12 +13758,20 @@
             "name": "Elixir of Lesser Defense"
           },
           {
+            "id": 9938,
+            "name": "Superior Mana Potion"
+          },
+          {
             "id": 1931,
             "name": "Lesser Invisibility Potion"
           },
           {
             "id": 4396,
             "name": "Elixir of Fire Power"
+          },
+          {
+            "id": 54678,
+            "name": "Potion of Beast Slaying"
           },
           {
             "id": 6007,
@@ -13883,6 +13946,10 @@
           {
             "id": 1536,
             "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 8626,
+            "name": "Monster Omelet"
           },
           {
             "id": 4391,
@@ -14063,12 +14130,12 @@
         },
         "Cenarion Circle": {
           "name": "Friendly",
-          "raw": 3260,
+          "raw": 3295,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 13423,
+          "raw": 13473,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14093,7 +14160,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 16918,
+          "raw": 17043,
           "tier": 5
         },
         "Powderfuse": {
@@ -14108,17 +14175,17 @@
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 21466,
+          "raw": 21516,
           "tier": 6
         },
         "Timbermaw Hold": {
-          "name": "Hostile",
-          "raw": -3300,
-          "tier": 1
+          "name": "Unfriendly",
+          "raw": -2910,
+          "tier": 2
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14531,
+          "raw": 14656,
           "tier": 5
         }
       },
@@ -14126,18 +14193,18 @@
       "stats": {
         "critters": 143,
         "deaths": 48,
-        "drinks": 201,
-        "flights": 237,
-        "food": 255,
+        "drinks": 202,
+        "flights": 245,
+        "food": 259,
         "health_potions": 83,
-        "hearths": 56,
+        "hearths": 57,
         "honorable_kills": 1,
-        "killing_blows": 4831,
+        "killing_blows": 4955,
         "mana_potions": 9,
-        "mobs": 9308,
-        "quests": 716
+        "mobs": 9447,
+        "quests": 724
       },
-      "xp": 55364
+      "xp": 123418
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -21864,7 +21931,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795432451000,
+      "last_login": 1795435032000,
       "level": 44,
       "level_at": {
         "35": 1794866470,
@@ -21882,7 +21949,7 @@
         "Cooking": 225,
         "First Aid": 62,
         "Fishing": 157,
-        "Mining": 215
+        "Mining": 216
       },
       "race": "Undead",
       "raids": {},
@@ -22139,6 +22206,10 @@
             "name": "Rainbow Fin Albacore"
           },
           {
+            "id": 2499,
+            "name": "Barbecued Buzzard Wing"
+          },
+          {
             "id": 3932,
             "name": "Crispy Lizard Tail"
           },
@@ -22270,7 +22341,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -8875,
+          "raw": -9250,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -22280,7 +22351,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2767,
+          "raw": 2842,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -22300,12 +22371,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2450,
+          "raw": 2487,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2450,
+          "raw": 2487,
           "tier": 3
         },
         "Orgrimmar": {
@@ -22315,12 +22386,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3407,
+          "raw": 3445,
           "tier": 4
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2825,
+          "raw": 2862,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -22343,17 +22414,18 @@
         "food": 59,
         "health_potions": 37,
         "hearths": 43,
-        "killing_blows": 3393,
+        "killing_blows": 3419,
         "mana_potions": 1,
-        "mobs": 7586,
-        "quests": 455
+        "mobs": 7612,
+        "quests": 456
       },
-      "xp": 79410
+      "xp": 86128
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
         "61994": "Novice Mage",
         "769": "Explore Silverpine Forest",
+        "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
@@ -22423,8 +22495,8 @@
         }
       },
       "ilvl": 25,
-      "last_explored": "Stonetalon Mountains",
-      "last_login": 1795421939000,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795435288000,
       "level": 30,
       "level_at": {
         "21": 1794866470,
@@ -22523,7 +22595,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4686,
+          "raw": 4723,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -22548,7 +22620,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4911,
+          "raw": 4948,
           "tier": 4
         },
         "Powderfuse": {
@@ -22563,30 +22635,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4398,
+          "raw": 4548,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14161,
+          "raw": 14198,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 54,
-        "deaths": 16,
-        "drinks": 1062,
+        "deaths": 18,
+        "drinks": 1139,
         "flights": 29,
-        "food": 266,
+        "food": 311,
         "health_potions": 12,
-        "hearths": 29,
-        "killing_blows": 1685,
-        "mana_potions": 23,
-        "mobs": 2855,
-        "quests": 186
+        "hearths": 30,
+        "killing_blows": 1751,
+        "mana_potions": 26,
+        "mobs": 2920,
+        "quests": 189
       },
-      "xp": 5190
+      "xp": 25554
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -25186,6 +25258,36 @@
           "level": 49
         }
       },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 75"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 40
+        }
+      },
+      "eu:krakmor-ci%C3%B3rdan": {
+        "c": {
+          "name": "Krakmor",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Ciórdan"
+        },
+        "lines": [
+          "🛠️ **Alchemie** auf 300",
+          "🎖️ [Artisan Alchemist](https://www.wowhead.com/forever/de/achievement=62014)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 54
+        }
+      },
       "eu:mia-graufuss": {
         "c": {
           "name": "Mia",
@@ -25231,6 +25333,20 @@
         "snap": {
           "class": "Paladin",
           "level": 44
+        }
+      },
+      "eu:zulka-seelenfluch": {
+        "c": {
+          "name": "Zulka",
+          "region": "eu",
+          "surname": "Seelenfluch"
+        },
+        "lines": [
+          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 30
         }
       },
       "us:devil-latterday": {
@@ -25635,6 +25751,7 @@
     "Demonic Pact": "Dämonischer Pakt",
     "Demonic Sacrifice": "Dämonische Opferung",
     "Demonology": "Dämonologie",
+    "Dense Weightstone": "Verdichteter Gewichtsstein",
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
     "Dervish Tunic of the Bandit": "Derwischtunika des Banditen",
     "Desert Choker of the Hierophant": "Wüstenhalsschmuck des Hierophanten",
@@ -25801,6 +25918,7 @@
     "Flamefist Grips": "Handschutz der Flammenfaust",
     "Flanged Mace": "Gebördelter Streitkolben",
     "Flash Pellet": "Blitzkügelchen",
+    "Flash of Steel": "Blitzender Stahl",
     "Flax Belt": "Flachs-Gürtel",
     "Flax Boots": "Flachsstiefel",
     "Flax Bracers": "Flachs-Armschienen",
@@ -26870,7 +26988,8 @@
       "40": [
         "eu:baumora-axiom",
         "eu:vlad-impalar",
-        "eu:thalia-mondrabe"
+        "eu:thalia-mondrabe",
+        "eu:keta-f%C3%A4se"
       ],
       "50": [
         "eu:krakmor-ci%C3%B3rdan",
@@ -27866,7 +27985,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795434844,
+  "saved_at": 1795436540,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
