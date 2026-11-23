@@ -21939,7 +21939,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795442512000,
+      "last_login": 1795444494000,
       "level": 45,
       "level_at": {
         "35": 1794866470,
@@ -22247,6 +22247,10 @@
             "name": "Charred Wolf Meat"
           },
           {
+            "id": 10244,
+            "name": "Spotted Yellowtail"
+          },
+          {
             "id": 54475,
             "name": "Root Tea"
           },
@@ -22261,6 +22265,10 @@
           {
             "id": 3964,
             "name": "Boiled Clams"
+          },
+          {
+            "id": 11740,
+            "name": "Undermine Clam Chowder"
           }
         ],
         "First Aid": [
@@ -22359,9 +22367,9 @@
           "tier": 4
         },
         "Booty Bay": {
-          "name": "Neutral",
-          "raw": 2947,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3060,
+          "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Friendly",
@@ -22380,12 +22388,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2592,
+          "raw": 2705,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2592,
+          "raw": 2717,
           "tier": 3
         },
         "Orgrimmar": {
@@ -22395,12 +22403,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3555,
+          "raw": 3767,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3067,
+          "raw": 3180,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -22425,10 +22433,10 @@
         "hearths": 44,
         "killing_blows": 3432,
         "mana_potions": 2,
-        "mobs": 7627,
-        "quests": 470
+        "mobs": 7628,
+        "quests": 474
       },
-      "xp": 8154
+      "xp": 14945
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28004,7 +28012,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795444117,
+  "saved_at": 1795444835,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
