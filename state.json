@@ -9699,7 +9699,7 @@
       },
       "ilvl": 26,
       "last_explored": "Thousand Needles",
-      "last_login": 1795373281000,
+      "last_login": 1795451133000,
       "level": 34,
       "level_at": {
         "27": 1794866470,
@@ -9714,7 +9714,7 @@
       "professions": {
         "Cooking": 225,
         "First Aid": 20,
-        "Fishing": 184,
+        "Fishing": 193,
         "Leatherworking": 151,
         "Skinning": 245
       },
@@ -10210,11 +10210,6 @@
           "name": "Neutral",
           "raw": 355,
           "tier": 3
-        },
-        "Windshapers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Feral Combat",
@@ -10223,16 +10218,16 @@
         "deaths": 42,
         "drinks": 63,
         "flights": 57,
-        "food": 163,
+        "food": 164,
         "health_potions": 30,
-        "hearths": 33,
+        "hearths": 34,
         "honorable_kills": 68,
         "killing_blows": 2248,
         "mana_potions": 1,
-        "mobs": 2893,
+        "mobs": 2952,
         "quests": 276
       },
-      "xp": 27432
+      "xp": 27457
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -28082,7 +28077,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795450564,
+  "saved_at": 1795451256,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
