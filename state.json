@@ -2486,7 +2486,7 @@
       },
       "ilvl": 9,
       "last_explored": "Durotar",
-      "last_login": 1795507865000,
+      "last_login": 1795515267000,
       "level": 19,
       "level_at": {
         "13": 1794866470,
@@ -2584,12 +2584,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 695,
+          "raw": 778,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8370,
+          "raw": 8420,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2599,54 +2599,54 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 695,
+          "raw": 778,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 695,
+          "raw": 778,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9238,
+          "raw": 9288,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 695,
+          "raw": 778,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 891,
+          "raw": 1056,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4312,
+          "raw": 4362,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1543,
+          "raw": 1593,
           "tier": 3
         }
       },
       "spec": "Beast Mastery",
       "stats": {
         "critters": 8,
-        "deaths": 7,
+        "deaths": 8,
         "drinks": 1,
         "flights": 16,
         "food": 17,
-        "health_potions": 4,
+        "health_potions": 5,
         "hearths": 10,
-        "killing_blows": 831,
-        "mobs": 980,
-        "quests": 91
+        "killing_blows": 890,
+        "mobs": 1037,
+        "quests": 93
       },
-      "xp": 2605
+      "xp": 8892
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -28594,7 +28594,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795514136,
+  "saved_at": 1795515302,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
