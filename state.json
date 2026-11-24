@@ -22954,7 +22954,7 @@
       },
       "ilvl": 30,
       "last_explored": "Wetlands",
-      "last_login": 1795474899000,
+      "last_login": 1795484845000,
       "level": 32,
       "level_at": {
         "29": 1795218860,
@@ -23111,9 +23111,9 @@
         "killing_blows": 1823,
         "mana_potions": 4,
         "mobs": 3092,
-        "quests": 297
+        "quests": 298
       },
-      "xp": 50773
+      "xp": 50848
     },
     "us:devil-latterday": {
       "achievements": {
@@ -23187,7 +23187,7 @@
       },
       "ilvl": 20,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795404412000,
+      "last_login": 1795485146000,
       "level": 27,
       "level_at": {
         "18": 1795149590,
@@ -26399,6 +26399,7 @@
     "Iron Shield Spike": "Eisenschildstachel",
     "Iron Star": "Eiserner Stern",
     "Items disenchanted": "Entzauberte Gegenstände",
+    "Ivory Band of the Tiger": "Elfenbeinband des Tigers",
     "Ivy Cuffs": "Efeu-Manschetten",
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
     "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
@@ -28251,7 +28252,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795484636,
+  "saved_at": 1795485320,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
