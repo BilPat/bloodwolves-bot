@@ -2397,9 +2397,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 10,
+      "ilvl": 9,
       "last_explored": "Durotar",
-      "last_login": 1795475304000,
+      "last_login": 1795507865000,
       "level": 19,
       "level_at": {
         "13": 1794866470,
@@ -2412,7 +2412,7 @@
       "professions": {
         "Cooking": 51,
         "First Aid": 33,
-        "Fishing": 77,
+        "Fishing": 78,
         "Mining": 76,
         "Skinning": 131
       },
@@ -2497,7 +2497,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 695,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -2512,12 +2512,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 695,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 695,
           "tier": 3
         },
         "Orgrimmar": {
@@ -2527,12 +2527,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 695,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 700,
+          "raw": 891,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -2551,15 +2551,15 @@
         "critters": 8,
         "deaths": 7,
         "drinks": 1,
-        "flights": 15,
+        "flights": 16,
         "food": 17,
         "health_potions": 4,
         "hearths": 10,
-        "killing_blows": 810,
-        "mobs": 955,
-        "quests": 89
+        "killing_blows": 831,
+        "mobs": 980,
+        "quests": 91
       },
-      "xp": 1389
+      "xp": 2605
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -28484,7 +28484,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795506913,
+  "saved_at": 1795508390,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
