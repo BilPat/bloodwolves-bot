@@ -2510,9 +2510,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 9,
+      "ilvl": 10,
       "last_explored": "Durotar",
-      "last_login": 1795515267000,
+      "last_login": 1795537581000,
       "level": 19,
       "level_at": {
         "13": 1794866470,
@@ -2524,10 +2524,10 @@
       },
       "professions": {
         "Cooking": 51,
-        "First Aid": 33,
-        "Fishing": 78,
-        "Mining": 76,
-        "Skinning": 131
+        "First Aid": 50,
+        "Fishing": 88,
+        "Mining": 77,
+        "Skinning": 133
       },
       "race": "Troll",
       "raids": {},
@@ -2544,6 +2544,10 @@
           {
             "id": 1538,
             "name": "Coyote Steak"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 1537,
@@ -2662,17 +2666,17 @@
       "spec": "Beast Mastery",
       "stats": {
         "critters": 8,
-        "deaths": 8,
+        "deaths": 10,
         "drinks": 1,
         "flights": 16,
         "food": 17,
-        "health_potions": 5,
+        "health_potions": 6,
         "hearths": 10,
-        "killing_blows": 890,
-        "mobs": 1037,
+        "killing_blows": 913,
+        "mobs": 1059,
         "quests": 93
       },
-      "xp": 8892
+      "xp": 10485
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -28731,7 +28735,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795537059,
+  "saved_at": 1795537760,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
