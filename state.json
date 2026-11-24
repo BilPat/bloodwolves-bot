@@ -6237,6 +6237,16 @@
           "boss": "Rath'mael",
           "count": 6,
           "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Priest",
@@ -6245,6 +6255,10 @@
       "gear": {
         "12996": {
           "name": "Band of Purification",
+          "quality": "RARE"
+        },
+        "16975": {
+          "name": "Warsong Sash",
           "quality": "RARE"
         },
         "251534": {
@@ -6261,6 +6275,10 @@
         },
         "271214": {
           "name": "Rotmender's Treads",
+          "quality": "RARE"
+        },
+        "273031": {
+          "name": "Runemender's Seal",
           "quality": "RARE"
         },
         "273088": {
@@ -6292,10 +6310,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 24,
+      "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795481425000,
-      "level": 30,
+      "last_login": 1795562200000,
+      "level": 32,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
@@ -6304,13 +6322,14 @@
         "26": 1795302767,
         "27": 1795312451,
         "29": 1795467305,
-        "30": 1795481938
+        "30": 1795481938,
+        "32": 1795562697
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 242,
+        "Herbalism": 251,
         "Tailoring": 203
       },
       "race": "Undead",
@@ -6941,14 +6960,19 @@
           "raw": 850,
           "tier": 3
         },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -6875,
+          "tier": 0
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1572,
+          "raw": 1722,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4981,
+          "raw": 5262,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6963,55 +6987,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1572,
+          "raw": 1685,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1572,
+          "raw": 1685,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5712,
+          "raw": 6087,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1572,
+          "raw": 1685,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3045,
+          "raw": 3232,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4213,
+          "raw": 4345,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13008,
+          "raw": 13140,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
         "critters": 37,
-        "deaths": 51,
-        "drinks": 123,
-        "flights": 89,
-        "food": 138,
+        "deaths": 57,
+        "drinks": 164,
+        "flights": 99,
+        "food": 151,
         "health_potions": 16,
-        "hearths": 61,
-        "killing_blows": 1231,
-        "mana_potions": 38,
-        "mobs": 3589,
-        "quests": 206
+        "hearths": 64,
+        "killing_blows": 1411,
+        "mana_potions": 48,
+        "mobs": 4133,
+        "quests": 236
       },
-      "xp": 4737
+      "xp": 29678
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -7038,7 +7062,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795511528000,
+      "last_login": 1795562579000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -26133,6 +26157,22 @@
           "level": 25
         }
       },
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 32
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -28893,7 +28933,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795562022,
+  "saved_at": 1795562698,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
