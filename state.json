@@ -2916,7 +2916,7 @@
       },
       "ilvl": 53,
       "last_explored": "Thousand Needles",
-      "last_login": 1795539193000,
+      "last_login": 1795552433000,
       "level": 54,
       "level_at": {
         "38": 1794866470,
@@ -2934,6 +2934,7 @@
       },
       "professions": {
         "Cooking": 193,
+        "First Aid": 1,
         "Fishing": 30,
         "Leatherworking": 165,
         "Skinning": 300
@@ -3073,6 +3074,16 @@
           {
             "id": 3964,
             "name": "Boiled Clams"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
           }
         ],
         "Fishing": [
@@ -3426,13 +3437,13 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7443,
+          "raw": 7518,
           "tier": 4
         },
         "Earthen Ring": {
-          "name": "Neutral",
-          "raw": 2450,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 4150,
+          "tier": 4
         },
         "Everlook": {
           "name": "Friendly",
@@ -3450,9 +3461,9 @@
           "tier": 4
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8947,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9022,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
@@ -3471,40 +3482,40 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10180,
+          "raw": 10480,
           "tier": 5
         },
         "Timbermaw Hold": {
-          "name": "Hostile",
-          "raw": -3400,
-          "tier": 1
+          "name": "Unfriendly",
+          "raw": -1667,
+          "tier": 2
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8291,
+          "raw": 8366,
           "tier": 4
         },
         "Windshapers": {
           "name": "Friendly",
-          "raw": 5910,
+          "raw": 5935,
           "tier": 4
         }
       },
       "spec": "Restoration",
       "stats": {
         "critters": 194,
-        "deaths": 46,
-        "drinks": 759,
-        "flights": 112,
-        "food": 177,
+        "deaths": 48,
+        "drinks": 775,
+        "flights": 115,
+        "food": 182,
         "health_potions": 54,
         "hearths": 37,
-        "killing_blows": 3538,
-        "mana_potions": 26,
-        "mobs": 15149,
-        "quests": 524
+        "killing_blows": 3568,
+        "mana_potions": 27,
+        "mobs": 15459,
+        "quests": 531
       },
-      "xp": 46512
+      "xp": 145725
     },
     "eu:blck-jck": {
       "achievements": {
@@ -25885,7 +25896,25 @@
     ]
   },
   "daily_digest": {
-    "items": {},
+    "items": {
+      "eu:baumora-axiom": {
+        "c": {
+          "name": "Baumora",
+          "region": "eu",
+          "surname": "Axiom"
+        },
+        "lines": [
+          "📜 Neuer Beruf: **Erste Hilfe**",
+          "🤝 **Wohlwollend** bei Orgrimmar",
+          "Neues Reittier: **[Himmelswindschreiter](https://www.wowhead.com/forever/de/search?q=Himmelswindschreiter)**",
+          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 54
+        }
+      }
+    },
     "last": "2026-11-24"
   },
   "de_names": {
@@ -26354,6 +26383,7 @@
     "Emerald Peak Spaulders": "Smaragdgipfelstulpen",
     "Emperor Dagran Thaurissan": "Imperator Dagran Thaurissan",
     "Emperor Dagran Thaurissan kills (Blackrock Depths)": "Siege über Imperator Dagran Thaurissan (Schwarzfelstiefen)",
+    "Empyrean Galestrider": "Himmelswindschreiter",
     "Empyrean Greatsword": "Großschwert des Lichthimmels",
     "Empyrean Treads": "Treter des Lichthimmels",
     "Enchant Boots - Lesser Agility": "Stiefel - Geringe Beweglichkeit",
@@ -26393,6 +26423,8 @@
     "Enrage": "Wutanfall",
     "Ensign Cloak": "Fähnrich-Umhang",
     "Ephemeral Choker": "Ephemerer Halsreif",
+    "Epic items acquired": "Erhaltene epische Gegenstände",
+    "Epic items looted": "Geplünderte epische Gegenstände",
     "Ethereal Mantle": "Ätherischer Mantel",
     "Ethereal Talisman": "Astraler Talisman",
     "Everglow Lantern": "Immerscheinlaterne",
@@ -27262,6 +27294,7 @@
     "Stonewood Hammer": "Steinholzhammer",
     "Stormstrike": "Sturmschlag",
     "Stormwind Stockade": "Verlies von Stormwind",
+    "Stormy Galestrider": "Stürmischer Windschreiter",
     "Strength": "Stärke",
     "Stretched Leather Trousers": "Gedehnte Lederbeinkleider",
     "Striking Staff": "Schlagstab",
@@ -27657,6 +27690,8 @@
     },
     "eu:baumora-axiom": {
       "mounts": {
+        "2955": "Empyrean Galestrider",
+        "2958": "Stormy Galestrider",
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
       }
@@ -28595,7 +28630,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795551911,
+  "saved_at": 1795552805,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
