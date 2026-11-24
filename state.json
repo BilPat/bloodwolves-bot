@@ -181,11 +181,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/164/3483300-avatar.jpg",
       "best_item": {
-        "id": 250558,
-        "ilvl": 35,
-        "name": "Warder's Belt",
+        "id": 279842,
+        "ilvl": 36,
+        "name": "Battle Spaulders",
         "quality": "RARE",
-        "slot": "Waist"
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -217,6 +217,11 @@
           "boss": "Rath'mael",
           "count": 2,
           "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Paladin",
@@ -259,12 +264,28 @@
           "name": "Reliquary Mantle",
           "quality": "RARE"
         },
+        "273032": {
+          "name": "Bonebinder's Signet",
+          "quality": "RARE"
+        },
+        "273035": {
+          "name": "Mana-Warped Chain Shirt",
+          "quality": "RARE"
+        },
+        "273048": {
+          "name": "Refractory Scaleguards",
+          "quality": "RARE"
+        },
         "273088": {
           "name": "Snake Eye Kaleidoscope",
           "quality": "RARE"
         },
         "273846": {
           "name": "Twilight Lord Girdle",
+          "quality": "RARE"
+        },
+        "279842": {
+          "name": "Battle Spaulders",
           "quality": "RARE"
         },
         "2870": {
@@ -288,17 +309,18 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795466971000,
-      "level": 31,
+      "last_login": 1795529791000,
+      "level": 32,
       "level_at": {
         "26": 1794866470,
         "27": 1794957233,
         "28": 1795044313,
         "29": 1795204443,
         "30": 1795222347,
-        "31": 1795264886
+        "31": 1795264886,
+        "32": 1795530479
       },
       "professions": {
         "Blacksmithing": 152,
@@ -696,19 +718,19 @@
       "spec": "Protection",
       "stats": {
         "critters": 56,
-        "deaths": 23,
-        "drinks": 44,
-        "flights": 48,
+        "deaths": 24,
+        "drinks": 57,
+        "flights": 49,
         "food": 7,
         "health_potions": 19,
-        "hearths": 20,
+        "hearths": 21,
         "honorable_kills": 6,
-        "killing_blows": 1991,
+        "killing_blows": 2025,
         "mana_potions": 3,
-        "mobs": 4249,
-        "quests": 233
+        "mobs": 4407,
+        "quests": 237
       },
-      "xp": 47407
+      "xp": 41919
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -25730,6 +25752,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:alto-belli": {
+        "c": {
+          "name": "Alto",
+          "region": "eu",
+          "surname": "Belli"
+        },
+        "lines": [
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 32
+        }
+      },
       "eu:archibald-white": {
         "c": {
           "name": "Archibald",
@@ -27451,6 +27487,7 @@
     "Unbridled Wrath": "Entfesselter Zorn",
     "Uncommon": "Selten",
     "Undead": "Untoter",
+    "Undead Knight's Bracers": "Armschienen des untoten Ritters",
     "Unfriendly": "Unfreundlich",
     "Unholy Power": "Unheilige Macht",
     "Unleashed Fury": "Entfesselter Zorn",
@@ -28667,7 +28704,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795529765,
+  "saved_at": 1795530480,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
