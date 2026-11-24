@@ -24154,16 +24154,16 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 9625,
-        "ilvl": 37,
-        "name": "Dual Reinforced Leggings",
+        "id": 6725,
+        "ilvl": 36,
+        "name": "Marbled Buckler",
         "quality": "RARE",
-        "slot": "Legs"
+        "slot": "Off Hand"
       },
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
-          "count": 2,
+          "count": 3,
           "instance": "Shadowfang Keep"
         },
         "15027": {
@@ -24178,7 +24178,7 @@
         },
         "15029": {
           "boss": "Bazil Thredd",
-          "count": 2,
+          "count": 3,
           "instance": "Stormwind Stockade"
         },
         "6137": {
@@ -24206,6 +24206,11 @@
           "count": 2,
           "instance": "Ruins of Lordaeron"
         },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
         "63573": {
           "boss": "Durgen Dirgehammer",
           "count": 1,
@@ -24224,6 +24229,14 @@
           "name": "Reliquary Mantle",
           "quality": "RARE"
         },
+        "273032": {
+          "name": "Bonebinder's Signet",
+          "quality": "RARE"
+        },
+        "273048": {
+          "name": "Refractory Scaleguards",
+          "quality": "RARE"
+        },
         "273088": {
           "name": "Snake Eye Kaleidoscope",
           "quality": "RARE"
@@ -24234,6 +24247,10 @@
         },
         "273809": {
           "name": "Hamhock's Cleaver",
+          "quality": "RARE"
+        },
+        "273810": {
+          "name": "Ogre Grips",
           "quality": "RARE"
         },
         "273839": {
@@ -24303,7 +24320,7 @@
       },
       "ilvl": 28,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795472113000,
+      "last_login": 1795498368000,
       "level": 35,
       "level_at": {
         "31": 1794965196,
@@ -24316,7 +24333,7 @@
         "Blacksmithing": 169,
         "Cooking": 225,
         "First Aid": 204,
-        "Fishing": 207,
+        "Fishing": 208,
         "Mining": 236
       },
       "race": "Night Elf",
@@ -24494,6 +24511,10 @@
           {
             "id": 1637,
             "name": "Runed Copper Belt"
+          },
+          {
+            "id": 54710,
+            "name": "Veteran's Chain Helm"
           },
           {
             "id": 4629,
@@ -24831,7 +24852,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17262,
+          "raw": 17300,
           "tier": 5
         },
         "Everlook": {
@@ -24846,17 +24867,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7528,
+          "raw": 7566,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8465,
+          "raw": 8502,
           "tier": 4
         },
         "Kirin Tor": {
           "name": "Neutral",
-          "raw": 10,
+          "raw": 924,
           "tier": 3
         },
         "Powderfuse": {
@@ -24871,43 +24892,49 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9998,
+          "raw": 10148,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 168,
-        "deaths": 24,
+        "critters": 181,
+        "deaths": 26,
         "drinks": 2,
         "flights": 113,
-        "food": 147,
-        "health_potions": 36,
-        "hearths": 67,
+        "food": 160,
+        "health_potions": 40,
+        "hearths": 69,
         "honorable_kills": 1,
-        "killing_blows": 2663,
-        "mobs": 5696,
-        "quests": 312
+        "killing_blows": 2775,
+        "mobs": 6093,
+        "quests": 317
       },
-      "xp": 24765
+      "xp": 63110
     },
     "us:whizz-aard": {
       "achievements": {
         "61994": "Novice Mage",
         "62018": "Journeyman Enchanter",
+        "62031": "Novice Spelunker",
         "776": "Explore Elwynn Forest",
         "780": "Explore Redridge Mountains",
         "841": "Explore Wetlands"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/151/7402647-avatar.jpg",
       "best_item": {
-        "id": 271769,
-        "ilvl": 33,
-        "name": "Daewyn's Girdle",
+        "id": 251962,
+        "ilvl": 36,
+        "name": "Violet Sash",
         "quality": "UNCOMMON",
         "slot": "Waist"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -24938,6 +24965,11 @@
           "count": 1,
           "instance": "Ruins of Lordaeron"
         },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
         "63573": {
           "boss": "Durgen Dirgehammer",
           "count": 1,
@@ -24964,6 +24996,10 @@
           "name": "Robes of the Disgraced Thane",
           "quality": "RARE"
         },
+        "273051": {
+          "name": "Violet Sorcerer's Mantle",
+          "quality": "RARE"
+        },
         "273840": {
           "name": "Cursed Murloc Eye",
           "quality": "RARE"
@@ -24985,19 +25021,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 23,
+      "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795489089000,
-      "level": 31,
+      "last_login": 1795498462000,
+      "level": 32,
       "level_at": {
         "28": 1794965196,
         "29": 1795061895,
         "30": 1795325983,
-        "31": 1795490340
+        "31": 1795490340,
+        "32": 1795498767
       },
       "professions": {
         "Cooking": 65,
-        "Enchanting": 176,
+        "Enchanting": 177,
         "First Aid": 80,
         "Tailoring": 133
       },
@@ -25084,6 +25121,10 @@
             "name": "Enchant Bracer - Inferior Stamina"
           },
           {
+            "id": 7513,
+            "name": "Enchant Cloak - Fire Resistance"
+          },
+          {
             "id": 4291,
             "name": "Runed Copper Rod"
           },
@@ -25108,6 +25149,10 @@
             "name": "Enchant Shield - Minor Stamina"
           },
           {
+            "id": 8002,
+            "name": "Greater Mystic Wand"
+          },
+          {
             "id": 7426,
             "name": "Enchant Weapon - Lesser Striking"
           },
@@ -25126,6 +25171,10 @@
           {
             "id": 7999,
             "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 7507,
+            "name": "Enchant Bracer - Spirit"
           },
           {
             "id": 4370,
@@ -25170,6 +25219,10 @@
           {
             "id": 4352,
             "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
+            "id": 7508,
+            "name": "Enchant Boots - Lesser Stamina"
           },
           {
             "id": 4362,
@@ -25230,6 +25283,10 @@
           {
             "id": 2387,
             "name": "Heavy Woolen Pants"
+          },
+          {
+            "id": 55433,
+            "name": "Filigreed Flame Gown"
           },
           {
             "id": 3973,
@@ -25462,6 +25519,11 @@
           "raw": 8266,
           "tier": 4
         },
+        "Kirin Tor": {
+          "name": "Neutral",
+          "raw": 1112,
+          "tier": 3
+        },
         "Powderfuse": {
           "name": "Neutral",
           "raw": 1298,
@@ -25480,19 +25542,19 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 69,
-        "deaths": 68,
-        "drinks": 738,
-        "flights": 50,
-        "food": 132,
+        "critters": 80,
+        "deaths": 72,
+        "drinks": 779,
+        "flights": 51,
+        "food": 133,
         "health_potions": 48,
         "hearths": 26,
-        "killing_blows": 1725,
-        "mana_potions": 14,
-        "mobs": 3454,
-        "quests": 287
+        "killing_blows": 1792,
+        "mana_potions": 16,
+        "mobs": 3759,
+        "quests": 292
       },
-      "xp": 12111
+      "xp": 987
     }
   },
   "craft_board": {
@@ -25673,7 +25735,8 @@
           "surname": "appeal"
         },
         "lines": [
-          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
         ],
         "snap": {
           "class": "Warrior",
@@ -25688,11 +25751,14 @@
         },
         "lines": [
           "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)",
-          "🗝️ **[The Stockade](https://www.wowhead.com/forever/de/search?q=The%20Stockade)** zum ersten Mal abgeschlossen"
+          "🗝️ **[The Stockade](https://www.wowhead.com/forever/de/search?q=The%20Stockade)** zum ersten Mal abgeschlossen",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
+          "🗝️ **[Burg Schattenfang](https://www.wowhead.com/forever/de/search?q=Burg%20Schattenfang)** zum ersten Mal abgeschlossen",
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
         ],
         "snap": {
           "class": "Mage",
-          "level": 31
+          "level": 32
         }
       }
     },
@@ -26164,6 +26230,7 @@
     "Enchant Bracer - Intellect": "Armschiene - Intelligenz",
     "Enchant Bracer - Lesser Intellect": "Armschiene - Geringe Intelligenz",
     "Enchant Bracer - Lesser Stamina": "Armschiene - Geringe Ausdauer",
+    "Enchant Bracer - Lesser Strength": "Armschiene - Geringe Stärke",
     "Enchant Bracer - Minor Agility": "Armschiene - Schwache Beweglichkeit",
     "Enchant Bracer - Minor Deflect": "Armschiene - Schwache Abwehr",
     "Enchant Bracer - Minor Intellect": "Armschiene - Schwache Intelligenz",
@@ -26435,6 +26502,7 @@
     "Hostile": "Feindselig",
     "Howlhide Vest": "Heulbalgweste",
     "Hulking Cloak": "Titanischer Umhang",
+    "Hulking Gauntlets": "Titanische Stulpen",
     "Human": "Mensch",
     "Hunter": "Jäger",
     "Hunting Bow": "Jagdbogen",
@@ -26501,6 +26569,7 @@
     "Inventor's League Ring": "Erfinderliga-Ring",
     "Iron Shield Spike": "Eisenschildstachel",
     "Iron Star": "Eiserner Stern",
+    "Irradiated Shield": "Bestrahlter Schild",
     "Items disenchanted": "Entzauberte Gegenstände",
     "Ivory Band of the Tiger": "Elfenbeinband des Tigers",
     "Ivy Cuffs": "Efeu-Manschetten",
@@ -26676,6 +26745,7 @@
     "Oathbound Bracers": "Schwurgebundene Armschienen",
     "Odo's Ley Staff": "Odos Leystab",
     "Off Hand": "Schildhand",
+    "Ogre Grips": "Ogerhandschutz",
     "Ogre Horn Ring": "Ogerhornring",
     "One-Hand": "Einhändig",
     "Opaque Wand": "Undurchsichtiger Zauberstab",
@@ -26789,6 +26859,7 @@
     "Redeemed by paladins": "Erlösungen durch Paladine",
     "Redoubt": "Verschanzen",
     "Reflection": "Reflexion",
+    "Refractory Scaleguards": "Lichtbrechende Schuppengamaschen",
     "Regent's Cloak": "Regentenumhang",
     "Reinforced Bow": "Verstärkter Bogen",
     "Reinforced Linen Cape": "Verstärktes Leinencape",
@@ -26964,6 +27035,7 @@
     "Shredding Attacks": "Schreddernde Angriffe",
     "Signet of the Zhevra": "Siegel der Zhevras",
     "Silk Headband": "Seidenes Stirnband",
+    "Silk Mantle of Gamn": "Seidenmantel von Gamn",
     "Silvered Bronze Shoulders": "Bronzene Schultern mit Versilberung",
     "Silverlaine's Family Seal": "Silverlaines Familiensiegel",
     "Silverwing Sentinels": "Schildwachen der Silverwing",
@@ -27010,6 +27082,7 @@
     "Spearing Strike": "Aufspießender Stoß",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
     "Spell Damage": "Zauberschaden",
+    "Spell Damage Vs Elementals": "Zauberschaden gegen Elementare",
     "Spell Damage Vs Humanoids": "Zauberschaden gegen Humanoide",
     "Spell Damage Vs Undead": "Zauberschaden gegen Untote",
     "Spell Healing": "Zauberheilung",
@@ -27191,6 +27264,8 @@
     "Vile Poisons": "Üble Gifte",
     "Vile Protector": "Grässlicher Beschützer",
     "Vilewalkers": "Übelgänger",
+    "Vine Pruner's Cloak": "Umhang des Rebenschneiders",
+    "Violet Sash": "Violette Schärpe",
     "Violet Scale Armor": "Violette Schuppenrüstung",
     "Violet Sorcerer's Leggings": "Gamaschen des Violetten Zauberers",
     "Violet Sorcerer's Mantle": "Mantelung des Violetten Zauberers",
@@ -28375,7 +28450,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795498069,
+  "saved_at": 1795498769,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
