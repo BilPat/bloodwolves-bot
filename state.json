@@ -16405,7 +16405,7 @@
       },
       "ilvl": 25,
       "last_explored": "Thousand Needles",
-      "last_login": 1795476113000,
+      "last_login": 1795540903000,
       "level": 31,
       "level_at": {
         "27": 1795430379,
@@ -16490,7 +16490,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6155,
+          "raw": 6205,
           "tier": 4
         },
         "Earthen Ring": {
@@ -16515,7 +16515,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8581,
+          "raw": 8631,
           "tier": 4
         },
         "Powderfuse": {
@@ -16530,12 +16530,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10245,
+          "raw": 10295,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6522,
+          "raw": 6722,
           "tier": 4
         },
         "Windshapers": {
@@ -16549,16 +16549,16 @@
         "critters": 35,
         "deaths": 62,
         "drinks": 247,
-        "flights": 72,
+        "flights": 73,
         "food": 232,
         "health_potions": 31,
-        "hearths": 18,
-        "killing_blows": 2180,
-        "mana_potions": 52,
-        "mobs": 2702,
-        "quests": 281
+        "hearths": 19,
+        "killing_blows": 2192,
+        "mana_potions": 54,
+        "mobs": 2714,
+        "quests": 284
       },
-      "xp": 24439
+      "xp": 34114
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -27168,7 +27168,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28782,7 +28782,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795540510,
+  "saved_at": 1795541171,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
