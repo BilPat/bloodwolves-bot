@@ -5312,9 +5312,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 19,
+      "ilvl": 20,
       "last_explored": null,
-      "last_login": 1795455760000,
+      "last_login": 1795531544000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -5328,7 +5328,7 @@
         "First Aid": 115,
         "Fishing": 28,
         "Leatherworking": 111,
-        "Skinning": 175
+        "Skinning": 183
       },
       "race": "Tauren",
       "raids": {},
@@ -5648,7 +5648,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5266,
+          "raw": 5291,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5668,7 +5668,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7805,
+          "raw": 7905,
           "tier": 4
         },
         "Powderfuse": {
@@ -5683,12 +5683,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12152,
+          "raw": 12177,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2685,
+          "raw": 2710,
           "tier": 3
         }
       },
@@ -5696,17 +5696,17 @@
       "stats": {
         "critters": 20,
         "deaths": 6,
-        "drinks": 66,
+        "drinks": 69,
         "flights": 29,
-        "food": 93,
+        "food": 95,
         "health_potions": 29,
         "hearths": 27,
-        "killing_blows": 1275,
+        "killing_blows": 1309,
         "mana_potions": 7,
-        "mobs": 1567,
-        "quests": 187
+        "mobs": 1601,
+        "quests": 188
       },
-      "xp": 19940
+      "xp": 28325
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -28714,7 +28714,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795531226,
+  "saved_at": 1795532069,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
