@@ -5930,11 +5930,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/228/14176740-avatar.jpg",
       "best_item": {
-        "id": 253985,
-        "ilvl": 30,
-        "name": "Filigreed Shining Circlet",
-        "quality": "RARE",
-        "slot": "Head"
+        "id": 2032,
+        "ilvl": 36,
+        "name": "Gallan Cuffs",
+        "quality": "UNCOMMON",
+        "slot": "Wrist"
       },
       "boss_kills": {
         "1092": {
@@ -5951,6 +5951,11 @@
           "boss": "Mutanus the Devourer",
           "count": 2,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -6001,12 +6006,20 @@
         "6414": {
           "name": "Seal of Sylvanas",
           "quality": "RARE"
+        },
+        "6903": {
+          "name": "Gaze Dreamer Pants",
+          "quality": "RARE"
+        },
+        "7001": {
+          "name": "Gravestone Scepter",
+          "quality": "RARE"
         }
       },
-      "ilvl": 22,
+      "ilvl": 24,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795465816000,
-      "level": 29,
+      "last_login": 1795481425000,
+      "level": 30,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
@@ -6014,13 +6027,14 @@
         "25": 1795125256,
         "26": 1795302767,
         "27": 1795312451,
-        "29": 1795467305
+        "29": 1795467305,
+        "30": 1795481938
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 237,
+        "Herbalism": 242,
         "Tailoring": 203
       },
       "race": "Undead",
@@ -6648,7 +6662,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 650,
+          "raw": 850,
           "tier": 3
         },
         "Booty Bay": {
@@ -6658,7 +6672,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4693,
+          "raw": 4981,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6683,7 +6697,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5537,
+          "raw": 5712,
           "tier": 4
         },
         "Powderfuse": {
@@ -6698,30 +6712,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3895,
+          "raw": 4213,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 12758,
+          "raw": 13008,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
         "critters": 37,
-        "deaths": 49,
-        "drinks": 109,
-        "flights": 85,
-        "food": 129,
-        "health_potions": 14,
-        "hearths": 60,
-        "killing_blows": 1207,
-        "mana_potions": 34,
-        "mobs": 3391,
-        "quests": 200
+        "deaths": 51,
+        "drinks": 123,
+        "flights": 89,
+        "food": 138,
+        "health_potions": 16,
+        "hearths": 61,
+        "killing_blows": 1231,
+        "mana_potions": 38,
+        "mobs": 3589,
+        "quests": 206
       },
-      "xp": 13532
+      "xp": 4737
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -6748,7 +6762,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795465900000,
+      "last_login": 1795481605000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -25468,6 +25482,21 @@
           "level": 24
         }
       },
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "🗝️ **[Blackfathom-Tiefe](https://www.wowhead.com/forever/de/search?q=Blackfathom-Tiefe)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 30
+        }
+      },
       "eu:freya-graufuss": {
         "c": {
           "name": "Freya",
@@ -26146,6 +26175,7 @@
     "Fury": "Furor",
     "Fury Ring": "Zornring",
     "Gaea's Handwraps of the Physician": "Gaeas Handlappen des Heilers",
+    "Gallan Cuffs": "Gallan-Manschetten",
     "Garb of Florid Feathers": "Überreich verziertes Federgewand",
     "Gargoyle Leggings": "Gargoylegamaschen",
     "Garrison Cuffs": "Garnisons-Manschetten",
@@ -26552,6 +26582,7 @@
     "Patchwork Belt": "Flickwerkgürtel",
     "Patchwork Gloves": "Flickwerkhandschuhe",
     "Patchwork Shoes": "Flickwerkschuhe",
+    "Pathfinder Cloak of Healing": "Pfadfinderumhang der Heilung",
     "Pathfinding": "Orientierung",
     "Patterned Bronze Bracers": "Gemusterte bronzene Armschienen",
     "Pendant of Myzrael": "Anhänger von Myzrael",
@@ -26873,6 +26904,7 @@
     "Spirit Weapons": "Waffen der Geister",
     "Spirit returned to body by shamans": "Wiederbelebungen durch Schamanen",
     "Spiritual Focus": "Spiritueller Fokus",
+    "Spiritual Guidance": "Geistige Führung",
     "Sporid Cape": "Sporen-Cape",
     "Sprightring Helm": "Rüstringhelm",
     "Spritekin Cloak": "Grimmlingumhang",
@@ -27203,7 +27235,8 @@
         "eu:thalgrim-tirisfal",
         "eu:blck-jck",
         "eu:zulka-seelenfluch",
-        "eu:mamulo-sham%C3%A4sich"
+        "eu:mamulo-sham%C3%A4sich",
+        "eu:efrye-frostheal"
       ],
       "40": [
         "eu:baumora-axiom",
@@ -28205,7 +28238,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795481394,
+  "saved_at": 1795481940,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
