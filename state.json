@@ -2754,10 +2754,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 46,
+      "ilvl": 48,
       "last_explored": "Thousand Needles",
-      "last_login": 1795468053000,
-      "level": 51,
+      "last_login": 1795486939000,
+      "level": 52,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -2768,13 +2768,14 @@
         "48": 1795129993,
         "49": 1795202759,
         "50": 1795434000,
-        "51": 1795456456
+        "51": 1795456456,
+        "52": 1795488057
       },
       "professions": {
         "Cooking": 193,
         "Fishing": 30,
         "Leatherworking": 165,
-        "Skinning": 297
+        "Skinning": 300
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -3254,7 +3255,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5028,
+          "raw": 5128,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -3264,7 +3265,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7193,
+          "raw": 7231,
           "tier": 4
         },
         "Earthen Ring": {
@@ -3274,12 +3275,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4628,
+          "raw": 4728,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6218,
+          "raw": 6368,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -3289,22 +3290,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8585,
+          "raw": 8735,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5576,
+          "raw": 5676,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5519,
+          "raw": 5669,
           "tier": 4
+        },
+        "Ravasaur Trainers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9817,
+          "raw": 9855,
           "tier": 5
         },
         "Timbermaw Hold": {
@@ -3314,7 +3320,7 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8041,
+          "raw": 8078,
           "tier": 4
         },
         "Windshapers": {
@@ -3327,17 +3333,17 @@
       "stats": {
         "critters": 181,
         "deaths": 42,
-        "drinks": 710,
-        "flights": 93,
-        "food": 163,
-        "health_potions": 48,
-        "hearths": 34,
-        "killing_blows": 3278,
+        "drinks": 720,
+        "flights": 104,
+        "food": 168,
+        "health_potions": 51,
+        "hearths": 35,
+        "killing_blows": 3411,
         "mana_potions": 25,
-        "mobs": 13527,
-        "quests": 486
+        "mobs": 13665,
+        "quests": 504
       },
-      "xp": 146628
+      "xp": 119477
     },
     "eu:blck-jck": {
       "achievements": {
@@ -22874,11 +22880,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/218/29133018-avatar.jpg",
       "best_item": {
-        "id": 9624,
-        "ilvl": 37,
-        "name": "Triprunner Dungarees",
-        "quality": "RARE",
-        "slot": "Legs"
+        "id": 5739,
+        "ilvl": 38,
+        "name": "Barbaric Harness",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
       },
       "boss_kills": {
         "1092": {
@@ -22893,7 +22899,7 @@
         },
         "15029": {
           "boss": "Bazil Thredd",
-          "count": 2,
+          "count": 3,
           "instance": "Stormwind Stockade"
         },
         "6137": {
@@ -22965,15 +22971,16 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 30,
+      "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795484845000,
-      "level": 32,
+      "last_login": 1795487872000,
+      "level": 33,
       "level_at": {
         "29": 1795218860,
         "30": 1795295607,
         "31": 1795407566,
-        "32": 1795475708
+        "32": 1795475708,
+        "33": 1795488057
       },
       "professions": {
         "Cooking": 29,
@@ -23068,7 +23075,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7521,
+          "raw": 7546,
           "tier": 4
         },
         "Gadgetzan": {
@@ -23078,7 +23085,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5801,
+          "raw": 5901,
           "tier": 4
         },
         "High Order": {
@@ -23088,7 +23095,7 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7477,
+          "raw": 7602,
           "tier": 4
         },
         "Kirin Tor": {
@@ -23103,7 +23110,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7758,
+          "raw": 7783,
           "tier": 4
         },
         "Wildhammer Clan": {
@@ -23117,16 +23124,16 @@
         "critters": 18,
         "deaths": 45,
         "drinks": 13,
-        "flights": 46,
+        "flights": 47,
         "food": 11,
         "health_potions": 22,
-        "hearths": 29,
-        "killing_blows": 1823,
+        "hearths": 30,
+        "killing_blows": 1848,
         "mana_potions": 4,
-        "mobs": 3092,
-        "quests": 298
+        "mobs": 3158,
+        "quests": 299
       },
-      "xp": 50848
+      "xp": 650
     },
     "us:devil-latterday": {
       "achievements": {
@@ -23148,6 +23155,11 @@
           "boss": "Bazzalan",
           "count": 1,
           "instance": "Ragefire Chasm"
+        },
+        "15029": {
+          "boss": "Bazil Thredd",
+          "count": 1,
+          "instance": "Stormwind Stockade"
         },
         "6137": {
           "boss": "Aku'mai",
@@ -23198,16 +23210,17 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 21,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795485146000,
-      "level": 27,
+      "last_login": 1795487403000,
+      "level": 28,
       "level_at": {
         "18": 1795149590,
         "20": 1795151747,
         "22": 1795242093,
         "23": 1795329766,
-        "27": 1795398202
+        "27": 1795398202,
+        "28": 1795488057
       },
       "professions": {
         "Cooking": 96,
@@ -23531,7 +23544,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 14926,
+          "raw": 15001,
           "tier": 5
         },
         "Gadgetzan": {
@@ -23541,12 +23554,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5660,
+          "raw": 5735,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6060,
+          "raw": 6135,
           "tier": 4
         },
         "Silverwing Sentinels": {
@@ -23556,7 +23569,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7198,
+          "raw": 7498,
           "tier": 4
         }
       },
@@ -23566,16 +23579,16 @@
         "deaths": 31,
         "drinks": 6,
         "flights": 22,
-        "food": 37,
+        "food": 38,
         "health_potions": 8,
         "hearths": 8,
         "honorable_kills": 108,
-        "killing_blows": 2018,
+        "killing_blows": 2025,
         "mana_potions": 1,
-        "mobs": 2742,
-        "quests": 198
+        "mobs": 2805,
+        "quests": 200
       },
-      "xp": 27406
+      "xp": 6079
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -25480,6 +25493,20 @@
           "level": 19
         }
       },
+      "eu:baumora-axiom": {
+        "c": {
+          "name": "Baumora",
+          "region": "eu",
+          "surname": "Axiom"
+        },
+        "lines": [
+          "🛠️ **Kürschnerei** auf 300"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 52
+        }
+      },
       "eu:blck-jck": {
         "c": {
           "name": "Blck",
@@ -25720,6 +25747,7 @@
     "Bane": "Dunkle Macht",
     "Barbaric Cloth Boots": "Barbarische Stoffstiefel",
     "Barbaric Crossbow": "Barbarische Armbrust",
+    "Barbaric Harness": "Barbarischer Harnisch",
     "Barbaric Leggings": "Barbarische Gamaschen",
     "Barbaric Linen Vest": "Barbarische Leinenweste",
     "Barbaric Shoulders": "Barbarische Schultern",
@@ -26655,6 +26683,7 @@
     "Presence of Mind": "Geistesgegenwart",
     "Priest": "Priester",
     "Priestess Cloak": "Umhang der Priesterin",
+    "Primal Bite": "Urtümlicher Biss",
     "Primal Boots": "Urzeitliche Stiefel",
     "Primitive Hand Blade": "Primitive Handklinge",
     "Primitive Mantle": "Primitiver Mantel",
@@ -27785,7 +27814,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Boreas",
         "rank": 5,
         "region": "eu",
@@ -27956,7 +27985,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Rausmit",
         "rank": 4,
         "region": "eu",
@@ -28001,7 +28030,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 29,
+        "level": 30,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -28172,7 +28201,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 18,
+        "level": 19,
         "name": "Barbariana",
         "rank": 4,
         "region": "eu",
@@ -28253,7 +28282,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 7,
+        "level": 8,
         "name": "Ignatius",
         "rank": 1,
         "region": "eu",
@@ -28300,7 +28329,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795486851,
+  "saved_at": 1795488059,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
