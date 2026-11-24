@@ -7423,7 +7423,8 @@
     "eu:elric-wolfsclan": {
       "achievements": {
         "61499": "Novice Warrior",
-        "728": "Explore Durotar"
+        "728": "Explore Durotar",
+        "750": "Explore The Barrens"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/132/13451652-avatar.jpg",
       "best_item": {
@@ -7454,8 +7455,8 @@
         }
       },
       "ilvl": 14,
-      "last_explored": "Durotar",
-      "last_login": 1795303426000,
+      "last_explored": "The Barrens",
+      "last_login": 1795521966000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -7672,13 +7673,8 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9945,
+          "raw": 9976,
           "tier": 5
-        },
-        "Durotar Supply and Logistics": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
@@ -7692,7 +7688,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13996,
+          "raw": 14102,
           "tier": 5
         },
         "Powderfuse": {
@@ -7707,12 +7703,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6497,
+          "raw": 6597,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4771,
+          "raw": 4802,
           "tier": 4
         }
       },
@@ -7721,16 +7717,16 @@
         "critters": 13,
         "deaths": 29,
         "drinks": 4,
-        "flights": 45,
+        "flights": 47,
         "food": 8,
         "health_potions": 20,
-        "hearths": 12,
+        "hearths": 13,
         "honorable_kills": 1,
-        "killing_blows": 1231,
-        "mobs": 1826,
-        "quests": 209
+        "killing_blows": 1253,
+        "mobs": 1848,
+        "quests": 212
       },
-      "xp": 920
+      "xp": 10788
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -9853,7 +9849,7 @@
       },
       "ilvl": 26,
       "last_explored": "Thousand Needles",
-      "last_login": 1795451133000,
+      "last_login": 1795521547000,
       "level": 34,
       "level_at": {
         "27": 1794866470,
@@ -9868,9 +9864,9 @@
       "professions": {
         "Cooking": 225,
         "First Aid": 20,
-        "Fishing": 193,
-        "Leatherworking": 151,
-        "Skinning": 245
+        "Fishing": 199,
+        "Leatherworking": 161,
+        "Skinning": 246
       },
       "race": "Tauren",
       "raids": {},
@@ -10075,6 +10071,10 @@
             "name": "Cured Heavy Hide"
           },
           {
+            "id": 5052,
+            "name": "Frost Leather Cloak"
+          },
+          {
             "id": 2179,
             "name": "Toughened Leather Gloves"
           },
@@ -10183,8 +10183,16 @@
             "name": "Skycaller's Leather Belt"
           },
           {
+            "id": 2185,
+            "name": "Green Leather Bracers"
+          },
+          {
             "id": 1369,
             "name": "Gray Leather Boots"
+          },
+          {
+            "id": 5053,
+            "name": "Dusky Bracers"
           },
           {
             "id": 4159,
@@ -10297,12 +10305,12 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -6625,
+          "raw": -6875,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1752,
+          "raw": 1802,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -10327,12 +10335,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1740,
+          "raw": 1765,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1740,
+          "raw": 1765,
           "tier": 3
         },
         "Orgrimmar": {
@@ -10342,12 +10350,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1740,
+          "raw": 1765,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2967,
+          "raw": 2992,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -10371,17 +10379,17 @@
         "critters": 49,
         "deaths": 42,
         "drinks": 63,
-        "flights": 57,
-        "food": 164,
+        "flights": 61,
+        "food": 165,
         "health_potions": 30,
-        "hearths": 34,
+        "hearths": 35,
         "honorable_kills": 68,
-        "killing_blows": 2248,
+        "killing_blows": 2273,
         "mana_potions": 1,
-        "mobs": 2952,
-        "quests": 276
+        "mobs": 2977,
+        "quests": 278
       },
-      "xp": 27457
+      "xp": 39983
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -25807,6 +25815,20 @@
           "level": 30
         }
       },
+      "eu:elric-wolfsclan": {
+        "c": {
+          "name": "Elric",
+          "region": "eu",
+          "surname": "Wolfsclan"
+        },
+        "lines": [
+          "🎖️ [Erkundet Brachland](https://www.wowhead.com/forever/de/achievement=750)"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 25
+        }
+      },
       "eu:freya-graufuss": {
         "c": {
           "name": "Freya",
@@ -26374,6 +26396,7 @@
     "Durgen Dirgehammer": "Durgen Dirgehammer",
     "Durgen Dirgehammer Kills (Hall of Thanes)": "Siege über Durgen Dirgehammer (Halle der Thanen)",
     "Durotar Supply and Logistics": "Versorgung und Logistik Durotar",
+    "Dusky Bracers": "Schwärzliche Armschienen",
     "Dusky Leather Armor": "Schwärzliche Lederrüstung",
     "Dust-covered Leggings": "Staubbedeckte Gamaschen",
     "Dusty Belt": "Staubiger Gürtel",
@@ -28640,7 +28663,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795521319,
+  "saved_at": 1795522930,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
