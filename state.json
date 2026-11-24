@@ -1299,9 +1299,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 15,
+      "ilvl": 14,
       "last_explored": "Durotar",
-      "last_login": 1795467522000,
+      "last_login": 1795511631000,
       "level": 23,
       "level_at": {
         "21": 1794866470,
@@ -1310,8 +1310,9 @@
       },
       "professions": {
         "Cooking": 7,
-        "Enchanting": 80,
-        "Tailoring": 87
+        "Enchanting": 138,
+        "Fishing": 25,
+        "Tailoring": 103
       },
       "race": "Orc",
       "raids": {},
@@ -1336,6 +1337,18 @@
         ],
         "Enchanting": [
           {
+            "id": 4401,
+            "name": "Enchant Cloak - Lesser Fire Resistance"
+          },
+          {
+            "id": 4368,
+            "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 7422,
+            "name": "Enchant Shield - Lesser Spirit"
+          },
+          {
             "id": 4290,
             "name": "Enchant Chest - Inferior Stamina"
           },
@@ -1348,12 +1361,28 @@
             "name": "Disenchant"
           },
           {
+            "id": 7425,
+            "name": "Enchant Bracer - Lesser Stamina"
+          },
+          {
             "id": 4289,
             "name": "Enchant Bracer - Inferior Stamina"
           },
           {
+            "id": 7436,
+            "name": "Enchant Cloak - Lesser Shadow Resistance"
+          },
+          {
             "id": 4291,
             "name": "Runed Copper Rod"
+          },
+          {
+            "id": 7377,
+            "name": "Enchant Cloak - Lesser Protection"
+          },
+          {
+            "id": 7356,
+            "name": "Enchant Shield - Minor Stamina"
           },
           {
             "id": 8000,
@@ -1372,8 +1401,16 @@
             "name": "Lesser Magic Wand"
           },
           {
+            "id": 4370,
+            "name": "Runed Silver Rod"
+          },
+          {
             "id": 54214,
             "name": "Novice's Practice Wand"
+          },
+          {
+            "id": 4399,
+            "name": "Enchant Chest - Stamina"
           },
           {
             "id": 4360,
@@ -1384,6 +1421,14 @@
             "name": "Enchant Bracer - Minor Stamina"
           },
           {
+            "id": 4364,
+            "name": "Enchant Bracer - Minor Agility"
+          },
+          {
+            "id": 4402,
+            "name": "Enchant Boots - Minor Stamina"
+          },
+          {
             "id": 4352,
             "name": "Enchant Chest - Lesser Stamina"
           },
@@ -1392,12 +1437,22 @@
             "name": "Enchant Cloak - Minor Protection"
           },
           {
+            "id": 4367,
+            "name": "Enchant Weapon - Minor Striking"
+          },
+          {
             "id": 54213,
             "name": "Dust to Motes"
           },
           {
             "id": 4293,
             "name": "Enchant Bracer - Minor Deflect"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
           }
         ],
         "Tailoring": [
@@ -1426,6 +1481,10 @@
             "name": "Simple Kilt"
           },
           {
+            "id": 2376,
+            "name": "Bolt of Silk Cloth"
+          },
+          {
             "id": 4848,
             "name": "Linen Belt"
           },
@@ -1448,6 +1507,18 @@
           {
             "id": 2363,
             "name": "Linen Boots"
+          },
+          {
+            "id": 2372,
+            "name": "Green Woolen Vest"
+          },
+          {
+            "id": 2369,
+            "name": "Green Linen Shirt"
+          },
+          {
+            "id": 2391,
+            "name": "Spidersilk Boots"
           },
           {
             "id": 2380,
@@ -1486,12 +1557,20 @@
             "name": "White Linen Shirt"
           },
           {
+            "id": 2375,
+            "name": "Gray Woolen Shirt"
+          },
+          {
             "id": 2366,
             "name": "Blue Linen Shirt"
           },
           {
             "id": 2364,
             "name": "Red Linen Shirt"
+          },
+          {
+            "id": 2379,
+            "name": "Green Linen Bracers"
           },
           {
             "id": 2368,
@@ -1504,6 +1583,10 @@
           {
             "id": 2385,
             "name": "Double-stitched Woolen Shoulders"
+          },
+          {
+            "id": 55424,
+            "name": "Novice Ardent's Sash"
           },
           {
             "id": 2384,
@@ -1520,6 +1603,10 @@
           {
             "id": 4302,
             "name": "Brown Linen Robe"
+          },
+          {
+            "id": 2401,
+            "name": "Stylish Red Shirt"
           },
           {
             "id": 2378,
@@ -1550,47 +1637,47 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1088,
+          "raw": 1163,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8352,
+          "raw": 8427,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1088,
+          "raw": 1163,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1088,
+          "raw": 1163,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11290,
+          "raw": 11477,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1088,
+          "raw": 1163,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2076,
+          "raw": 2226,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5611,
+          "raw": 5798,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1938,
+          "raw": 2013,
           "tier": 3
         }
       },
@@ -1599,15 +1686,15 @@
         "critters": 16,
         "deaths": 28,
         "drinks": 1,
-        "flights": 17,
+        "flights": 18,
         "food": 8,
         "health_potions": 24,
-        "hearths": 7,
-        "killing_blows": 1020,
-        "mobs": 1382,
-        "quests": 130
+        "hearths": 8,
+        "killing_blows": 1029,
+        "mobs": 1399,
+        "quests": 134
       },
-      "xp": 8818
+      "xp": 18334
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -6768,7 +6855,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795481605000,
+      "last_login": 1795511528000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -25604,6 +25691,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:archibald-white": {
+        "c": {
+          "name": "Archibald",
+          "region": "eu",
+          "surname": "White"
+        },
+        "lines": [
+          "📜 Neuer Beruf: **Angeln**"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 23
+        }
+      },
       "eu:barbariana-hunter": {
         "c": {
           "name": "Barbariana",
@@ -28493,7 +28594,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795510495,
+  "saved_at": 1795512621,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
