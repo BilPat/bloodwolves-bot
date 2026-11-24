@@ -2561,7 +2561,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795559412000,
+      "last_login": 1795563272000,
       "level": 20,
       "level_at": {
         "13": 1794866470,
@@ -2684,7 +2684,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 778,
+          "raw": 828,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -2699,12 +2699,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 778,
+          "raw": 828,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 778,
+          "raw": 828,
           "tier": 3
         },
         "Orgrimmar": {
@@ -2714,12 +2714,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 778,
+          "raw": 828,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1056,
+          "raw": 1156,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -2738,15 +2738,15 @@
         "critters": 16,
         "deaths": 10,
         "drinks": 2,
-        "flights": 21,
+        "flights": 22,
         "food": 21,
         "health_potions": 6,
         "hearths": 12,
-        "killing_blows": 1008,
-        "mobs": 1411,
-        "quests": 93
+        "killing_blows": 1014,
+        "mobs": 1417,
+        "quests": 95
       },
-      "xp": 2626
+      "xp": 8376
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -28933,7 +28933,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795562698,
+  "saved_at": 1795563592,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
