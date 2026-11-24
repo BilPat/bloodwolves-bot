@@ -4989,17 +4989,18 @@
     "eu:boreas-donnerrufer": {
       "achievements": {
         "61997": "Novice Paladin",
+        "62006": "Novice Shaman",
         "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "769": "Explore Silverpine Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/55/3483447-avatar.jpg",
       "best_item": {
-        "id": 15334,
-        "ilvl": 27,
-        "name": "Wrangler's Gloves of the Sorcerer",
-        "quality": "UNCOMMON",
-        "slot": "Hands"
+        "id": 270043,
+        "ilvl": 32,
+        "name": "Dreamer's Chestguard",
+        "quality": "RARE",
+        "slot": "Chest"
       },
       "boss_kills": {
         "15027": {
@@ -5035,6 +5036,14 @@
           "name": "Gnarled Necromancer's Staff",
           "quality": "RARE"
         },
+        "270031": {
+          "name": "Dark Ritual Leggings",
+          "quality": "RARE"
+        },
+        "270043": {
+          "name": "Dreamer's Chestguard",
+          "quality": "RARE"
+        },
         "271202": {
           "name": "Witherbite Bracers",
           "quality": "RARE"
@@ -5044,19 +5053,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 15,
+      "ilvl": 20,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795477152000,
-      "level": 24,
+      "last_login": 1795535042000,
+      "level": 25,
       "level_at": {
         "20": 1794866470,
         "22": 1794867229,
-        "24": 1795478092
+        "24": 1795478092,
+        "25": 1795535698
       },
       "professions": {
         "Alchemy": 147,
         "Cooking": 3,
-        "Herbalism": 154
+        "Herbalism": 155
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -5187,7 +5197,7 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 200,
+          "raw": 400,
           "tier": 3
         },
         "Booty Bay": {
@@ -5197,7 +5207,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3401,
+          "raw": 3951,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5207,7 +5217,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 700,
+          "raw": 1150,
           "tier": 3
         },
         "Everlook": {
@@ -5227,7 +5237,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4057,
+          "raw": 4195,
           "tier": 4
         },
         "Powderfuse": {
@@ -5242,12 +5252,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5052,
+          "raw": 5390,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4228,
+          "raw": 4366,
           "tier": 4
         },
         "Windshapers": {
@@ -5261,16 +5271,16 @@
         "critters": 17,
         "deaths": 11,
         "drinks": 11,
-        "flights": 15,
+        "flights": 19,
         "food": 7,
         "health_potions": 4,
-        "hearths": 7,
-        "killing_blows": 969,
+        "hearths": 8,
+        "killing_blows": 971,
         "mana_potions": 12,
-        "mobs": 1728,
-        "quests": 176
+        "mobs": 1730,
+        "quests": 183
       },
-      "xp": 833
+      "xp": 621
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {
@@ -25840,11 +25850,12 @@
           "surname": "Donnerrufer"
         },
         "lines": [
-          "🛠️ **Kräuterkunde** auf 150"
+          "🛠️ **Kräuterkunde** auf 150",
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
         ],
         "snap": {
           "class": "Shaman",
-          "level": 24
+          "level": 25
         }
       },
       "eu:efrye-frostheal": {
@@ -26402,6 +26413,7 @@
     "Demonology": "Dämonologie",
     "Dense Weightstone": "Verdichteter Gewichtsstein",
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
+    "Dervish Spaulders of Nature's Wrath": "Derwischschiftung des Naturzorns",
     "Dervish Tunic of the Bandit": "Derwischtunika des Banditen",
     "Desert Choker of the Hierophant": "Wüstenhalsschmuck des Hierophanten",
     "Desert Shoulders": "Wüsten-Schultern",
@@ -26762,6 +26774,7 @@
     "Hulking Cloak": "Titanischer Umhang",
     "Hulking Gauntlets": "Titanische Stulpen",
     "Human": "Mensch",
+    "Humbert's Helm": "Humberts Helm",
     "Hunter": "Jäger",
     "Hunting Bow": "Jagdbogen",
     "Hunting Gloves": "Jagdhandschuhe",
@@ -26832,6 +26845,7 @@
     "Ivory Band of the Tiger": "Elfenbeinband des Tigers",
     "Ivy Cuffs": "Efeu-Manschetten",
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
+    "Jacinth Circle of the Bandit": "Hyazinth-Reif des Banditen",
     "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Journeyman's Vest": "Gesellenweste",
@@ -28707,7 +28721,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795534814,
+  "saved_at": 1795535699,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
