@@ -22745,11 +22745,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
       "best_item": {
-        "id": 6414,
-        "ilvl": 29,
-        "name": "Seal of Sylvanas",
-        "quality": "RARE",
-        "slot": "Ring 2"
+        "id": 279845,
+        "ilvl": 36,
+        "name": "Solid Gold Band",
+        "quality": "UNCOMMON",
+        "slot": "Ring 1"
       },
       "boss_kills": {
         "1092": {
@@ -22766,6 +22766,16 @@
           "boss": "Rath'mael",
           "count": 4,
           "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Mage",
@@ -22809,10 +22819,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 25,
+      "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795505308000,
-      "level": 30,
+      "last_login": 1795520539000,
+      "level": 31,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
@@ -22823,7 +22833,8 @@
         "27": 1795180559,
         "28": 1795189148,
         "29": 1795341242,
-        "30": 1795422156
+        "30": 1795422156,
+        "31": 1795521318
       },
       "professions": {
         "Alchemy": 70,
@@ -22905,12 +22916,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 750,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4723,
+          "raw": 4736,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -22925,37 +22936,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 750,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 750,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4948,
+          "raw": 4961,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 737,
+          "raw": 750,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 975,
+          "raw": 1000,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4548,
+          "raw": 4561,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14198,
+          "raw": 14248,
           "tier": 5
         }
       },
@@ -22963,17 +22974,17 @@
       "stats": {
         "critters": 54,
         "deaths": 18,
-        "drinks": 1187,
-        "flights": 29,
-        "food": 332,
+        "drinks": 1253,
+        "flights": 32,
+        "food": 347,
         "health_potions": 12,
-        "hearths": 30,
-        "killing_blows": 1794,
+        "hearths": 31,
+        "killing_blows": 1835,
         "mana_potions": 26,
-        "mobs": 2965,
-        "quests": 193
+        "mobs": 3144,
+        "quests": 201
       },
-      "xp": 43996
+      "xp": 42810
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -24463,7 +24474,7 @@
       },
       "ilvl": 28,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795498368000,
+      "last_login": 1795521048000,
       "level": 35,
       "level_at": {
         "31": 1794965196,
@@ -25856,6 +25867,21 @@
           "level": 26
         }
       },
+      "eu:zulka-seelenfluch": {
+        "c": {
+          "name": "Zulka",
+          "region": "eu",
+          "surname": "Seelenfluch"
+        },
+        "lines": [
+          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 31
+        }
+      },
       "us:aeri-moonglow": {
         "c": {
           "name": "aeri",
@@ -26360,6 +26386,7 @@
     "Edwin VanCleef Kills (Deadmines)": "Siege über Edwin van Cleef (Todesminen)",
     "Efficiency": "Effizienz",
     "Efficient Strikes": "Effiziente Schläge",
+    "Elder's Boots of the Owl": "Ältestenstiefel der Eule",
     "Elder's Bracers of the Elder": "Ältestenarmschienen des Ältesten",
     "Elder's Tunic": "Tunika des Ältesten",
     "Electrocutioner Leg": "Elektrokutionatorbein",
@@ -27243,6 +27270,7 @@
     "Sparkleshell Mantle": "Spiegelpanzermantel",
     "Spearing Strike": "Aufspießender Stoß",
     "Spectral Necklace of Stamina": "Spektralhalskette der Ausdauer",
+    "Spectral Necklace of the Eagle": "Spektralhalskette des Adlers",
     "Spell Damage": "Zauberschaden",
     "Spell Damage Vs Elementals": "Zauberschaden gegen Elementare",
     "Spell Damage Vs Humanoids": "Zauberschaden gegen Humanoide",
@@ -28612,7 +28640,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795520407,
+  "saved_at": 1795521319,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
