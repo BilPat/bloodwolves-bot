@@ -22263,7 +22263,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795527217000,
+      "last_login": 1795530618000,
       "level": 45,
       "level_at": {
         "35": 1794866470,
@@ -22720,6 +22720,16 @@
           "raw": 2717,
           "tier": 3
         },
+        "Gelkis Clan Centaur": {
+          "name": "Neutral",
+          "raw": 2020,
+          "tier": 3
+        },
+        "Magram Clan Centaur": {
+          "name": "Neutral",
+          "raw": 1900,
+          "tier": 3
+        },
         "Orgrimmar": {
           "name": "Friendly",
           "raw": 8618,
@@ -22754,18 +22764,18 @@
       "spec": "Protection",
       "stats": {
         "critters": 115,
-        "deaths": 55,
+        "deaths": 58,
         "drinks": 25,
         "flights": 101,
         "food": 59,
         "health_potions": 38,
         "hearths": 45,
-        "killing_blows": 3458,
+        "killing_blows": 3462,
         "mana_potions": 2,
-        "mobs": 7656,
-        "quests": 477
+        "mobs": 7661,
+        "quests": 484
       },
-      "xp": 32220
+      "xp": 48202
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28704,7 +28714,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795530480,
+  "saved_at": 1795531226,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
