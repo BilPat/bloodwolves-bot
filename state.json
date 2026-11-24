@@ -18295,34 +18295,40 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/52935260-avatar.jpg",
       "best_item": {
-        "id": 3198,
+        "id": 285330,
         "ilvl": 23,
-        "name": "Battering Hammer of the Owl",
-        "quality": "UNCOMMON",
-        "slot": "Main Hand"
+        "name": "Signet of the Zhevra",
+        "quality": "RARE",
+        "slot": "Ring 2"
       },
       "boss_kills": {},
       "class": "Shaman",
       "dungeons": {},
       "first_seen": 1794866470,
-      "gear": {},
-      "ilvl": 10,
+      "gear": {
+        "285330": {
+          "name": "Signet of the Zhevra",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795365585000,
-      "level": 19,
+      "last_login": 1795550373000,
+      "level": 21,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
         "17": 1795256711,
         "18": 1795301667,
-        "19": 1795366451
+        "19": 1795366451,
+        "21": 1795551249
       },
       "professions": {
         "Cooking": 64,
         "First Aid": 46,
-        "Fishing": 78,
+        "Fishing": 79,
         "Leatherworking": 39,
-        "Skinning": 113
+        "Skinning": 133
       },
       "race": "Orc",
       "raids": {},
@@ -18457,64 +18463,64 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1827,
+          "raw": 2171,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7698,
+          "raw": 8281,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1827,
+          "raw": 2171,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1827,
+          "raw": 2171,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10298,
+          "raw": 11582,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1827,
+          "raw": 2171,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3555,
+          "raw": 4242,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4210,
+          "raw": 4863,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1328,
+          "raw": 1761,
           "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 28,
-        "deaths": 7,
-        "drinks": 8,
-        "flights": 14,
-        "food": 14,
-        "health_potions": 10,
-        "hearths": 6,
-        "killing_blows": 807,
-        "mobs": 892,
-        "quests": 109
+        "critters": 30,
+        "deaths": 10,
+        "drinks": 13,
+        "flights": 20,
+        "food": 22,
+        "health_potions": 11,
+        "hearths": 8,
+        "killing_blows": 1025,
+        "mobs": 1130,
+        "quests": 140
       },
-      "xp": 7761
+      "xp": 20816
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -25879,303 +25885,14 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:alto-belli": {
-        "c": {
-          "name": "Alto",
-          "region": "eu",
-          "surname": "Belli"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 32
-        }
-      },
-      "eu:archibald-white": {
-        "c": {
-          "name": "Archibald",
-          "region": "eu",
-          "surname": "White"
-        },
-        "lines": [
-          "📜 Neuer Beruf: **Angeln**"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 23
-        }
-      },
-      "eu:barbariana-hunter": {
-        "c": {
-          "name": "Barbariana",
-          "region": "eu",
-          "surname": "Hunter"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Orgrimmar",
-          "🔵 Erstes blaues Item: **[Abgrundläufer](https://www.wowhead.com/forever/de/item=273007)** (Feet)",
-          "🛠️ **Bergbau** auf 75"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 19
-        }
-      },
-      "eu:baumora-axiom": {
-        "c": {
-          "name": "Baumora",
-          "region": "eu",
-          "surname": "Axiom"
-        },
-        "lines": [
-          "🛠️ **Kürschnerei** auf 300",
-          "Gegenstandsstufe **50**",
-          "🗝️ **[Schwarzfelstiefen](https://www.wowhead.com/forever/de/search?q=Schwarzfelstiefen)** zum ersten Mal abgeschlossen",
-          "🗝️ **[Versunkener Tempel](https://www.wowhead.com/forever/de/search?q=Versunkener%20Tempel)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 54
-        }
-      },
-      "eu:blck-jck": {
-        "c": {
-          "name": "Blck",
-          "region": "eu",
-          "surname": "Jck"
-        },
-        "lines": [
-          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 31
-        }
-      },
-      "eu:boreas-donnerrufer": {
-        "c": {
-          "name": "Boreas",
-          "region": "eu",
-          "surname": "Donnerrufer"
-        },
-        "lines": [
-          "🛠️ **Kräuterkunde** auf 150",
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 25
-        }
-      },
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "🗝️ **[Blackfathom-Tiefe](https://www.wowhead.com/forever/de/search?q=Blackfathom-Tiefe)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 30
-        }
-      },
-      "eu:elric-wolfsclan": {
-        "c": {
-          "name": "Elric",
-          "region": "eu",
-          "surname": "Wolfsclan"
-        },
-        "lines": [
-          "🎖️ [Erkundet Brachland](https://www.wowhead.com/forever/de/achievement=750)",
-          "🛠️ **Angeln** auf 75"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 25
-        }
-      },
-      "eu:freya-graufuss": {
-        "c": {
-          "name": "Freya",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 27
-        }
-      },
-      "eu:garm-winterhoof": {
-        "c": {
-          "name": "Garm",
-          "region": "eu",
-          "surname": "Winterhoof"
-        },
-        "lines": [
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 35
-        }
-      },
-      "eu:keta-f%C3%A4se": {
-        "c": {
-          "name": "Keta",
-          "region": "eu",
-          "surname": "Fäse"
-        },
-        "lines": [
-          "🛠️ **Erste Hilfe** auf 225",
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 42
-        }
-      },
-      "eu:krakmor-ci%C3%B3rdan": {
-        "c": {
-          "name": "Krakmor",
-          "rank_name": "Gildeninitiand",
-          "region": "eu",
-          "surname": "Ciórdan"
-        },
-        "lines": [
-          "🗝️ **[Schwarzfelstiefen](https://www.wowhead.com/forever/de/search?q=Schwarzfelstiefen)** zum ersten Mal abgeschlossen",
-          "Neues Reittier: **[Brauner Kodo](https://www.wowhead.com/forever/de/search?q=Brauner%20Kodo)**"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 55
-        }
-      },
-      "eu:quantino-pralino": {
-        "c": {
-          "name": "Quantino",
-          "region": "eu",
-          "surname": "Pralino"
-        },
-        "lines": [
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 35
-        }
-      },
-      "eu:rausmit-deviechers": {
-        "c": {
-          "name": "Rausmit",
-          "region": "eu",
-          "surname": "Deviechers"
-        },
-        "lines": [
-          "🎖️ [Erkundet Vorgebirge des Hügellands](https://www.wowhead.com/forever/de/achievement=772)",
-          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 26
-        }
-      },
-      "eu:zulka-seelenfluch": {
-        "c": {
-          "name": "Zulka",
-          "region": "eu",
-          "surname": "Seelenfluch"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 31
-        }
-      },
-      "us:aeri-moonglow": {
-        "c": {
-          "name": "aeri",
-          "region": "us",
-          "surname": "moonglow"
-        },
-        "lines": [
-          "🛠️ **Kürschnerei** auf 225",
-          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen",
-          "🛠️ **Kräuterkunde** auf 225",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 34
-        }
-      },
-      "us:pwanage-ownage": {
-        "c": {
-          "name": "pwanage",
-          "region": "us",
-          "surname": "ownage"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 32
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
-          "🛠️ **Kochkunst** auf 300"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 36
-        }
-      },
-      "us:whizz-aard": {
-        "c": {
-          "name": "whizz",
-          "region": "us",
-          "surname": "aard"
-        },
-        "lines": [
-          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)",
-          "🗝️ **[The Stockade](https://www.wowhead.com/forever/de/search?q=The%20Stockade)** zum ersten Mal abgeschlossen",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
-          "🗝️ **[Burg Schattenfang](https://www.wowhead.com/forever/de/search?q=Burg%20Schattenfang)** zum ersten Mal abgeschlossen",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 32
-        }
-      }
-    },
-    "last": "2026-11-23"
+    "items": {},
+    "last": "2026-11-24"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
     "Abomination Chain": "Monstrositätenkette",
     "Aboriginal Cape": "Ureinwohnercape",
+    "Aboriginal Gloves of the Sorcerer": "Ureinwohnerhandschuhe des Zauberers",
     "Accelerant": "Beschleuniger",
     "Acidproof Cloak": "Säurefester Umhang",
     "Acolyte's Robe": "Akolythenrobe",
@@ -27861,7 +27578,8 @@
       "20": [
         "eu:rausmit-deviechers",
         "us:devil-latterday",
-        "eu:maniac-menacepuppy"
+        "eu:maniac-menacepuppy",
+        "eu:ogmar-donnerhammer"
       ],
       "30": [
         "eu:fred-feuersturm",
@@ -28877,7 +28595,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795550070,
+  "saved_at": 1795551250,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
