@@ -22377,6 +22377,11 @@
           "count": 1,
           "instance": "Razorfen Downs"
         },
+        "6142": {
+          "boss": "Archaedas",
+          "count": 1,
+          "instance": "Uldaman"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -22514,7 +22519,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795534359000,
+      "last_login": 1795560701000,
       "level": 45,
       "level_at": {
         "35": 1794866470,
@@ -22533,7 +22538,7 @@
         "Cooking": 225,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 224
+        "Mining": 228
       },
       "race": "Undead",
       "raids": {},
@@ -22734,6 +22739,10 @@
             "name": "Tasty Raptor Bites"
           },
           {
+            "id": 8619,
+            "name": "Hot Wolf Ribs"
+          },
+          {
             "id": 1543,
             "name": "Crab Cake"
           },
@@ -22794,6 +22803,10 @@
             "name": "Barbecued Buzzard Wing"
           },
           {
+            "id": 8622,
+            "name": "Mystery Stew"
+          },
+          {
             "id": 3932,
             "name": "Crispy Lizard Tail"
           },
@@ -22824,6 +22837,10 @@
           {
             "id": 10244,
             "name": "Spotted Yellowtail"
+          },
+          {
+            "id": 8617,
+            "name": "Lean Wolf Steak"
           },
           {
             "id": 54475,
@@ -22948,7 +22965,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8105,
+          "raw": 8205,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -22983,7 +23000,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8618,
+          "raw": 8643,
           "tier": 4
         },
         "Powderfuse": {
@@ -22996,32 +23013,37 @@
           "raw": 3180,
           "tier": 4
         },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7513,
+          "raw": 7538,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21213,
+          "raw": 21238,
           "tier": 6
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 115,
-        "deaths": 58,
-        "drinks": 25,
-        "flights": 101,
-        "food": 59,
-        "health_potions": 38,
-        "hearths": 46,
-        "killing_blows": 3462,
+        "deaths": 60,
+        "drinks": 29,
+        "flights": 104,
+        "food": 62,
+        "health_potions": 39,
+        "hearths": 47,
+        "killing_blows": 3561,
         "mana_potions": 2,
-        "mobs": 7661,
-        "quests": 484
+        "mobs": 7986,
+        "quests": 492
       },
-      "xp": 48202
+      "xp": 117175
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -26079,6 +26101,21 @@
           "class": "Druid",
           "level": 36
         }
+      },
+      "eu:vlad-impalar": {
+        "c": {
+          "name": "Vlad",
+          "region": "eu",
+          "surname": "Impalar"
+        },
+        "lines": [
+          "🛠️ **Bergbau** auf 225",
+          "🗝️ **[Uldaman](https://www.wowhead.com/forever/de/search?q=Uldaman)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 45
+        }
       }
     },
     "last": "2026-11-24"
@@ -28803,7 +28840,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795560037,
+  "saved_at": 1795560871,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
