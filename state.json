@@ -3341,6 +3341,7 @@
     },
     "eu:blck-jck": {
       "achievements": {
+        "61989": "Novice Hunter",
         "62000": "Novice Priest",
         "62031": "Novice Spelunker",
         "736": "Explore Mulgore",
@@ -3438,7 +3439,7 @@
       },
       "ilvl": 26,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795459191000,
+      "last_login": 1795479196000,
       "level": 31,
       "level_at": {
         "25": 1794884198,
@@ -3452,7 +3453,7 @@
         "Enchanting": 86,
         "First Aid": 31,
         "Fishing": 1,
-        "Tailoring": 114
+        "Tailoring": 115
       },
       "race": "Undead",
       "raids": {},
@@ -3850,14 +3851,14 @@
         "flights": 30,
         "food": 64,
         "health_potions": 16,
-        "hearths": 30,
+        "hearths": 31,
         "honorable_kills": 5,
-        "killing_blows": 1304,
+        "killing_blows": 1305,
         "mana_potions": 15,
-        "mobs": 4072,
+        "mobs": 4073,
         "quests": 216
       },
-      "xp": 23898
+      "xp": 24334
     },
     "eu:blut-leiche": {
       "achievements": {
@@ -19698,20 +19699,27 @@
     },
     "eu:rausmit-deviechers": {
       "achievements": {
+        "61989": "Novice Hunter",
         "62000": "Novice Priest",
         "62031": "Novice Spelunker",
         "736": "Explore Mulgore",
-        "769": "Explore Silverpine Forest"
+        "769": "Explore Silverpine Forest",
+        "772": "Explore Hillsbrad Foothills"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/84/13189716-avatar.jpg",
       "best_item": {
-        "id": 4249,
-        "ilvl": 25,
-        "name": "Dark Leather Belt",
-        "quality": "UNCOMMON",
-        "slot": "Waist"
+        "id": 270043,
+        "ilvl": 32,
+        "name": "Dreamer's Chestguard",
+        "quality": "RARE",
+        "slot": "Chest"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -19721,6 +19729,11 @@
           "boss": "Mutanus the Devourer",
           "count": 1,
           "instance": "Wailing Caverns"
+        },
+        "6137": {
+          "boss": "Aku'mai",
+          "count": 1,
+          "instance": "Blackfathom Deeps"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -19744,6 +19757,22 @@
           "name": "Kris of Orgrimmar",
           "quality": "RARE"
         },
+        "270032": {
+          "name": "Cultist's Armguards",
+          "quality": "RARE"
+        },
+        "270043": {
+          "name": "Dreamer's Chestguard",
+          "quality": "RARE"
+        },
+        "273647": {
+          "name": "Worgpelt Leggings",
+          "quality": "RARE"
+        },
+        "273843": {
+          "name": "Fallenroot Longbow",
+          "quality": "RARE"
+        },
         "5183": {
           "name": "Pulsating Hydra Heart",
           "quality": "RARE"
@@ -19752,26 +19781,31 @@
           "name": "Serpent's Shoulders",
           "quality": "RARE"
         },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
+        },
         "6505": {
           "name": "Crescent Staff",
           "quality": "RARE"
         }
       },
-      "ilvl": 16,
-      "last_explored": "Silverpine Forest",
-      "last_login": 1795392935000,
-      "level": 24,
+      "ilvl": 19,
+      "last_explored": "Hillsbrad Foothills",
+      "last_login": 1795478843000,
+      "level": 26,
       "level_at": {
         "19": 1794866470,
         "22": 1794872318,
-        "24": 1795394361
+        "24": 1795394361,
+        "26": 1795481393
       },
       "professions": {
         "Cooking": 45,
-        "First Aid": 98,
-        "Fishing": 19,
+        "First Aid": 120,
+        "Fishing": 22,
         "Leatherworking": 101,
-        "Skinning": 150
+        "Skinning": 167
       },
       "race": "Tauren",
       "raids": {},
@@ -20024,72 +20058,87 @@
         ]
       },
       "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 400,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1613,
+          "raw": 1713,
+          "tier": 3
+        },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4395,
+          "raw": 5472,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 2000,
+          "raw": 2075,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 450,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1613,
+          "raw": 1713,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1613,
+          "raw": 1713,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6176,
+          "raw": 7310,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1613,
+          "raw": 1713,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2726,
+          "raw": 2926,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10492,
+          "raw": 11308,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3301,
+          "raw": 4135,
           "tier": 4
         }
       },
       "spec": "Marksmanship",
       "stats": {
-        "critters": 33,
-        "deaths": 18,
-        "drinks": 11,
-        "flights": 12,
-        "food": 45,
-        "health_potions": 11,
-        "hearths": 12,
-        "killing_blows": 1170,
-        "mana_potions": 2,
-        "mobs": 1695,
-        "quests": 149
+        "critters": 45,
+        "deaths": 22,
+        "drinks": 13,
+        "flights": 14,
+        "food": 55,
+        "health_potions": 13,
+        "hearths": 14,
+        "killing_blows": 1384,
+        "mana_potions": 3,
+        "mobs": 2111,
+        "quests": 174
       },
-      "xp": 1533
+      "xp": 32124
     },
     "eu:redbully-badbully": {
       "achievements": {
@@ -24863,7 +24912,7 @@
       },
       "ilvl": 23,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795476510000,
+      "last_login": 1795479613000,
       "level": 30,
       "level_at": {
         "28": 1794965196,
@@ -25310,7 +25359,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 8633,
+          "raw": 8638,
           "tier": 4
         },
         "Everlook": {
@@ -25325,12 +25374,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6101,
+          "raw": 6106,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8177,
+          "raw": 8197,
           "tier": 4
         },
         "Powderfuse": {
@@ -25345,7 +25394,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 14653,
+          "raw": 14658,
           "tier": 5
         }
       },
@@ -25361,9 +25410,9 @@
         "killing_blows": 1704,
         "mana_potions": 14,
         "mobs": 3388,
-        "quests": 282
+        "quests": 284
       },
-      "xp": 42281
+      "xp": 45241
     }
   },
   "craft_board": {
@@ -25389,6 +25438,20 @@
         "snap": {
           "class": "Hunter",
           "level": 19
+        }
+      },
+      "eu:blck-jck": {
+        "c": {
+          "name": "Blck",
+          "region": "eu",
+          "surname": "Jck"
+        },
+        "lines": [
+          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 31
         }
       },
       "eu:boreas-donnerrufer": {
@@ -25432,6 +25495,21 @@
         "snap": {
           "class": "Druid",
           "level": 35
+        }
+      },
+      "eu:rausmit-deviechers": {
+        "c": {
+          "name": "Rausmit",
+          "region": "eu",
+          "surname": "Deviechers"
+        },
+        "lines": [
+          "🎖️ [Erkundet Vorgebirge des Hügellands](https://www.wowhead.com/forever/de/achievement=772)",
+          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 26
         }
       },
       "us:aeri-moonglow": {
@@ -28127,7 +28205,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795478094,
+  "saved_at": 1795481394,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
