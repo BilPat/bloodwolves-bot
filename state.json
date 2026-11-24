@@ -1321,9 +1321,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 14,
+      "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795511631000,
+      "last_login": 1795534016000,
       "level": 23,
       "level_at": {
         "21": 1794866470,
@@ -1333,7 +1333,7 @@
       "professions": {
         "Cooking": 7,
         "Enchanting": 138,
-        "Fishing": 25,
+        "Fishing": 54,
         "Tailoring": 103
       },
       "race": "Orc",
@@ -1473,7 +1473,11 @@
         ],
         "Fishing": [
           {
-            "id": 4344,
+            "id": 52639,
+            "name": "Fish Bowl"
+          },
+          {
+            "id": 4345,
             "name": "Fishing"
           }
         ],
@@ -1664,7 +1668,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8427,
+          "raw": 8452,
           "tier": 4
         },
         "Everlook": {
@@ -1679,7 +1683,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11477,
+          "raw": 11502,
           "tier": 5
         },
         "Powderfuse": {
@@ -1694,12 +1698,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5798,
+          "raw": 5898,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2013,
+          "raw": 2038,
           "tier": 3
         }
       },
@@ -1708,15 +1712,15 @@
         "critters": 16,
         "deaths": 28,
         "drinks": 1,
-        "flights": 18,
+        "flights": 20,
         "food": 8,
         "health_potions": 24,
         "hearths": 8,
-        "killing_blows": 1029,
-        "mobs": 1399,
-        "quests": 134
+        "killing_blows": 1034,
+        "mobs": 1404,
+        "quests": 135
       },
-      "xp": 18334
+      "xp": 21701
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -22263,7 +22267,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795530618000,
+      "last_login": 1795534359000,
       "level": 45,
       "level_at": {
         "35": 1794866470,
@@ -22745,11 +22749,6 @@
           "raw": 3180,
           "tier": 4
         },
-        "Shen'dralar": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Friendly",
           "raw": 7513,
@@ -22769,7 +22768,7 @@
         "flights": 101,
         "food": 59,
         "health_potions": 38,
-        "hearths": 45,
+        "hearths": 46,
         "killing_blows": 3462,
         "mana_potions": 2,
         "mobs": 7661,
@@ -28708,7 +28707,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795533974,
+  "saved_at": 1795534814,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
