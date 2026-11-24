@@ -5374,23 +5374,24 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 20,
+      "ilvl": 19,
       "last_explored": null,
-      "last_login": 1795532241000,
-      "level": 25,
+      "last_login": 1795549840000,
+      "level": 26,
       "level_at": {
         "21": 1794866470,
         "22": 1794947955,
         "23": 1795106395,
         "24": 1795365593,
-        "25": 1795456457
+        "25": 1795456457,
+        "26": 1795550068
       },
       "professions": {
         "Cooking": 97,
-        "First Aid": 115,
+        "First Aid": 129,
         "Fishing": 28,
-        "Leatherworking": 111,
-        "Skinning": 184
+        "Leatherworking": 120,
+        "Skinning": 186
       },
       "race": "Tauren",
       "raids": {},
@@ -5489,6 +5490,14 @@
           {
             "id": 1838,
             "name": "Linen Bandage"
+          },
+          {
+            "id": 55743,
+            "name": "Woolen Tourniquet"
+          },
+          {
+            "id": 1841,
+            "name": "Heavy Wool Bandage"
           }
         ],
         "Fishing": [
@@ -5710,7 +5719,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5291,
+          "raw": 5335,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5730,7 +5739,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7905,
+          "raw": 7948,
           "tier": 4
         },
         "Powderfuse": {
@@ -5745,12 +5754,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12177,
+          "raw": 12352,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2710,
+          "raw": 2753,
           "tier": 3
         }
       },
@@ -5759,16 +5768,16 @@
         "critters": 20,
         "deaths": 6,
         "drinks": 70,
-        "flights": 29,
+        "flights": 30,
         "food": 96,
         "health_potions": 29,
         "hearths": 27,
-        "killing_blows": 1324,
+        "killing_blows": 1339,
         "mana_potions": 7,
-        "mobs": 1616,
-        "quests": 188
+        "mobs": 1631,
+        "quests": 192
       },
-      "xp": 30497
+      "xp": 4005
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -12595,9 +12604,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/119/36572535-avatar.jpg",
       "best_item": {
-        "id": 10823,
-        "ilvl": 44,
-        "name": "Vanquisher's Sword",
+        "id": 275007,
+        "ilvl": 47,
+        "name": "Mugg's Jabber",
         "quality": "RARE",
         "slot": "Main Hand"
       },
@@ -12722,6 +12731,10 @@
           "name": "Dreadfrost Saber",
           "quality": "RARE"
         },
+        "275007": {
+          "name": "Mugg's Jabber",
+          "quality": "RARE"
+        },
         "4253": {
           "name": "Toughened Leather Gloves",
           "quality": "RARE"
@@ -12757,8 +12770,8 @@
       },
       "ilvl": 35,
       "last_explored": "Alterac Mountains",
-      "last_login": 1795517828000,
-      "level": 40,
+      "last_login": 1795549373000,
+      "level": 42,
       "level_at": {
         "25": 1794866470,
         "26": 1794867229,
@@ -12774,14 +12787,15 @@
         "37": 1795267528,
         "38": 1795299898,
         "39": 1795341242,
-        "40": 1795436538
+        "40": 1795436538,
+        "42": 1795550068
       },
       "professions": {
         "Cooking": 293,
-        "First Aid": 206,
+        "First Aid": 225,
         "Fishing": 238,
-        "Leatherworking": 156,
-        "Skinning": 255
+        "Leatherworking": 170,
+        "Skinning": 261
       },
       "race": "Undead",
       "raids": {},
@@ -13235,9 +13249,14 @@
           "raw": 1250,
           "tier": 3
         },
+        "Bolder'ok Clan": {
+          "name": "Neutral",
+          "raw": 801,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1431,
+          "raw": 1621,
           "tier": 3
         },
         "Darkspear Raiders": {
@@ -13247,7 +13266,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6877,
+          "raw": 7290,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -13262,37 +13281,42 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1431,
+          "raw": 1621,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1431,
+          "raw": 1621,
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8573,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9023,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1621,
+          "raw": 2001,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2172,
+          "raw": 2362,
+          "tier": 3
+        },
+        "Ravenholdt": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5952,
+          "raw": 6140,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 17130,
+          "raw": 17392,
           "tier": 5
         },
         "Warsong Outriders": {
@@ -13303,19 +13327,19 @@
       },
       "spec": "Combat",
       "stats": {
-        "critters": 100,
-        "deaths": 46,
-        "drinks": 42,
-        "flights": 72,
-        "food": 273,
-        "health_potions": 35,
-        "hearths": 27,
+        "critters": 102,
+        "deaths": 48,
+        "drinks": 43,
+        "flights": 74,
+        "food": 289,
+        "health_potions": 37,
+        "hearths": 28,
         "honorable_kills": 245,
-        "killing_blows": 3248,
-        "mobs": 5331,
-        "quests": 317
+        "killing_blows": 3535,
+        "mobs": 5762,
+        "quests": 341
       },
-      "xp": 72252
+      "xp": 17072
     },
     "eu:khaladin-ronen": {
       "achievements": {
@@ -26005,6 +26029,21 @@
           "level": 35
         }
       },
+      "eu:keta-f%C3%A4se": {
+        "c": {
+          "name": "Keta",
+          "region": "eu",
+          "surname": "Fäse"
+        },
+        "lines": [
+          "🛠️ **Erste Hilfe** auf 225",
+          "🤝 **Wohlwollend** bei Orgrimmar"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 42
+        }
+      },
       "eu:krakmor-ci%C3%B3rdan": {
         "c": {
           "name": "Krakmor",
@@ -26343,6 +26382,7 @@
     "Bristlebark Belt": "Borstenledergürtel",
     "Bristlebark Bindings": "Borstenlederbindungen",
     "Bristlebark Blouse": "Borstenlederbrustschutz",
+    "Bristlepelt Vest": "Borstenfellweste",
     "Bronze Greatsword": "Bronzenes Großschwert",
     "Bronze Shortsword": "Bronzenes Kurzschwert",
     "Bronze Warhammer": "Bronzener Kriegshammer",
@@ -26693,6 +26733,7 @@
     "Fishing Pole": "Angel",
     "Fishing Skill": "Angelfertigkeit",
     "Fishing skill": "Angelfertigkeit",
+    "Fist Weapon": "Faustwaffe",
     "Flame Charged": "Flammengeladen",
     "Flame Throwing": "Flammenwerfen",
     "Flamefist Grips": "Handschutz der Flammenfaust",
@@ -27083,6 +27124,7 @@
     "Most factions at Revered or higher": "Höchste Anzahl Fraktionen auf Respektvoll oder höher",
     "Mount Speed": "Reittiertempo",
     "Mounts owned": "Reittiere besessen",
+    "Mugg's Jabber": "Muggs Seitenhieb",
     "Mutant Scale Breastplate": "Mutantenschuppenbrustplatte",
     "Mutanus the Devourer": "Mutanus den Verschlinger",
     "Mutanus the Devourer kills (Wailing Caverns)": "Siege über Mutanus den Verschlinger (Höhlen des Wehklagens)",
@@ -28835,7 +28877,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795549250,
+  "saved_at": 1795550070,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
