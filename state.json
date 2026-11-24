@@ -7536,7 +7536,7 @@
       },
       "ilvl": 14,
       "last_explored": "The Barrens",
-      "last_login": 1795537005000,
+      "last_login": 1795540019000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -7784,11 +7784,6 @@
           "name": "Friendly",
           "raw": 4207,
           "tier": 4
-        },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
@@ -27805,8 +27800,8 @@
     }
   },
   "group_board": {
-    "last": "2026-11-23",
-    "message_id": "1574473173796130940"
+    "last": "2026-11-24",
+    "message_id": "1574835787344650271"
   },
   "officer_board": {
     "message_ids": [
@@ -28787,7 +28782,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795539294,
+  "saved_at": 1795540510,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
