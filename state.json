@@ -23144,13 +23144,18 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
       "best_item": {
-        "id": 280766,
+        "id": 273041,
         "ilvl": 33,
-        "name": "Satchel of Potions",
-        "quality": "UNCOMMON",
-        "slot": "Trinket 1"
+        "name": "Slitherwrap Girdle",
+        "quality": "RARE",
+        "slot": "Waist"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -23170,6 +23175,11 @@
           "boss": "Rath'mael",
           "count": 1,
           "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
         },
         "63573": {
           "boss": "Durgen Dirgehammer",
@@ -23201,6 +23211,14 @@
           "name": "Garb of Florid Feathers",
           "quality": "RARE"
         },
+        "273041": {
+          "name": "Slitherwrap Girdle",
+          "quality": "RARE"
+        },
+        "273824": {
+          "name": "Defias Jailbreakers",
+          "quality": "RARE"
+        },
         "273843": {
           "name": "Fallenroot Longbow",
           "quality": "RARE"
@@ -23208,26 +23226,35 @@
         "286977": {
           "name": "Sword of the Fallen",
           "quality": "RARE"
+        },
+        "6220": {
+          "name": "Meteor Shard",
+          "quality": "RARE"
+        },
+        "6633": {
+          "name": "Butcher's Slicer",
+          "quality": "RARE"
         }
       },
-      "ilvl": 21,
+      "ilvl": 23,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795487403000,
-      "level": 28,
+      "last_login": 1795500852000,
+      "level": 29,
       "level_at": {
         "18": 1795149590,
         "20": 1795151747,
         "22": 1795242093,
         "23": 1795329766,
         "27": 1795398202,
-        "28": 1795488057
+        "28": 1795488057,
+        "29": 1795501493
       },
       "professions": {
         "Cooking": 96,
         "First Aid": 149,
         "Fishing": 40,
         "Leatherworking": 85,
-        "Skinning": 183
+        "Skinning": 188
       },
       "race": "Night Elf",
       "raids": {},
@@ -23544,7 +23571,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15001,
+          "raw": 15063,
           "tier": 5
         },
         "Gadgetzan": {
@@ -23554,13 +23581,18 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5735,
+          "raw": 5797,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6135,
+          "raw": 6197,
           "tier": 4
+        },
+        "Kirin Tor": {
+          "name": "Neutral",
+          "raw": 992,
+          "tier": 3
         },
         "Silverwing Sentinels": {
           "name": "Neutral",
@@ -23569,26 +23601,26 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7498,
+          "raw": 7748,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 92,
-        "deaths": 31,
-        "drinks": 6,
-        "flights": 22,
-        "food": 38,
-        "health_potions": 8,
-        "hearths": 8,
+        "critters": 108,
+        "deaths": 33,
+        "drinks": 10,
+        "flights": 23,
+        "food": 40,
+        "health_potions": 10,
+        "hearths": 9,
         "honorable_kills": 108,
-        "killing_blows": 2025,
+        "killing_blows": 2121,
         "mana_potions": 1,
-        "mobs": 2805,
-        "quests": 200
+        "mobs": 3134,
+        "quests": 205
       },
-      "xp": 6079
+      "xp": 3057
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -26305,6 +26337,7 @@
     "Fireball": "Feuerball",
     "Firebelch": "Feuerrülps",
     "Firebelcher": "Feuerrülpser",
+    "Firebolt": "Feuerblitz",
     "Firemane Leggings": "Feuermähnengamaschen",
     "Firestarter": "Feuerteufel",
     "Firewalker Boots": "Feuerwandler-Stiefel",
@@ -26679,6 +26712,7 @@
     "Mental Quickness": "Geistige Schnelligkeit",
     "Mental Strength": "Mentale Stärke",
     "Mercenary Leggings": "Söldnergamaschen",
+    "Meteor Shard": "Meteorsplitter",
     "Militant Shortsword of Nature Protection": "Militantes Kurzschwert des Naturschutzes",
     "Mind-numbing Poison": "Gedankenbenebelndes Gift",
     "Mindbender Loop": "Geistbeugerspirale",
@@ -28450,7 +28484,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795499734,
+  "saved_at": 1795501495,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
