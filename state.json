@@ -13119,7 +13119,7 @@
         },
         "6137": {
           "boss": "Aku'mai",
-          "count": 1,
+          "count": 2,
           "instance": "Blackfathom Deeps"
         },
         "6139": {
@@ -13138,6 +13138,10 @@
         },
         "273088": {
           "name": "Snake Eye Kaleidoscope",
+          "quality": "RARE"
+        },
+        "273840": {
+          "name": "Cursed Murloc Eye",
           "quality": "RARE"
         },
         "4197": {
@@ -13161,9 +13165,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 27,
+      "ilvl": 28,
       "last_explored": "Durotar",
-      "last_login": 1795431755000,
+      "last_login": 1795484219000,
       "level": 32,
       "level_at": {
         "27": 1794866470,
@@ -13177,7 +13181,7 @@
         "Cooking": 27,
         "Enchanting": 54,
         "Fishing": 13,
-        "Tailoring": 118
+        "Tailoring": 120
       },
       "race": "Orc",
       "raids": {},
@@ -13302,6 +13306,10 @@
             "name": "Handstitched Linen Britches"
           },
           {
+            "id": 55459,
+            "name": "Pearly Circlet"
+          },
+          {
             "id": 2360,
             "name": "Linen Cloak"
           },
@@ -13396,12 +13404,17 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10366,
+          "raw": 10835,
           "tier": 5
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 850,
+          "raw": 1000,
           "tier": 3
         },
         "Everlook": {
@@ -13415,18 +13428,18 @@
           "tier": 3
         },
         "Gelkis Clan Centaur": {
-          "name": "Unfriendly",
-          "raw": -500,
-          "tier": 2
+          "name": "Hostile",
+          "raw": -4250,
+          "tier": 1
         },
         "Magram Clan Centaur": {
-          "name": "Neutral",
-          "raw": 2500,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3250,
+          "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13603,
+          "raw": 13978,
           "tier": 5
         },
         "Powderfuse": {
@@ -13441,30 +13454,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9711,
+          "raw": 9880,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3565,
+          "raw": 3733,
           "tier": 4
         }
       },
       "spec": "Arcane",
       "stats": {
         "critters": 25,
-        "deaths": 12,
-        "drinks": 699,
-        "flights": 71,
-        "food": 260,
-        "health_potions": 3,
+        "deaths": 14,
+        "drinks": 741,
+        "flights": 76,
+        "food": 267,
+        "health_potions": 4,
         "hearths": 26,
-        "killing_blows": 1748,
+        "killing_blows": 1841,
         "mana_potions": 4,
-        "mobs": 3267,
-        "quests": 215
+        "mobs": 3507,
+        "quests": 225
       },
-      "xp": 7240
+      "xp": 51871
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -28238,7 +28251,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795483658,
+  "saved_at": 1795484636,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
