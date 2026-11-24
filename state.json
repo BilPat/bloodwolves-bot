@@ -22706,7 +22706,7 @@
       },
       "ilvl": 25,
       "last_explored": "Thousand Needles",
-      "last_login": 1795463288000,
+      "last_login": 1795505308000,
       "level": 30,
       "level_at": {
         "21": 1794866470,
@@ -22858,17 +22858,17 @@
       "stats": {
         "critters": 54,
         "deaths": 18,
-        "drinks": 1181,
+        "drinks": 1187,
         "flights": 29,
-        "food": 329,
+        "food": 332,
         "health_potions": 12,
         "hearths": 30,
-        "killing_blows": 1792,
+        "killing_blows": 1794,
         "mana_potions": 26,
-        "mobs": 2962,
+        "mobs": 2965,
         "quests": 193
       },
-      "xp": 42867
+      "xp": 43996
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -28484,7 +28484,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795505388,
+  "saved_at": 1795506017,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
