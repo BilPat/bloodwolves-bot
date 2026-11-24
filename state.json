@@ -7540,7 +7540,7 @@
       },
       "ilvl": 14,
       "last_explored": "The Barrens",
-      "last_login": 1795543171000,
+      "last_login": 1795547120000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -7812,13 +7812,13 @@
         "flights": 48,
         "food": 8,
         "health_potions": 21,
-        "hearths": 14,
+        "hearths": 15,
         "honorable_kills": 1,
-        "killing_blows": 1260,
-        "mobs": 1855,
-        "quests": 212
+        "killing_blows": 1263,
+        "mobs": 1858,
+        "quests": 213
       },
-      "xp": 11916
+      "xp": 14569
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -20490,7 +20490,7 @@
       },
       "ilvl": 23,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795458735000,
+      "last_login": 1795546904000,
       "level": 32,
       "level_at": {
         "25": 1794866470,
@@ -20506,7 +20506,7 @@
         "Alchemy": 186,
         "Cooking": 159,
         "Fishing": 75,
-        "Herbalism": 183
+        "Herbalism": 185
       },
       "race": "Tauren",
       "raids": {},
@@ -20753,7 +20753,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7026,
+          "raw": 7232,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -20778,7 +20778,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9032,
+          "raw": 9238,
           "tier": 5
         },
         "Powderfuse": {
@@ -20793,29 +20793,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 14012,
+          "raw": 14650,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5045,
+          "raw": 5438,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 20,
-        "deaths": 26,
+        "deaths": 27,
         "drinks": 15,
-        "flights": 54,
-        "food": 37,
+        "flights": 55,
+        "food": 39,
         "health_potions": 8,
-        "hearths": 32,
-        "killing_blows": 1572,
-        "mobs": 2781,
-        "quests": 237
+        "hearths": 33,
+        "killing_blows": 1652,
+        "mana_potions": 1,
+        "mobs": 2889,
+        "quests": 245
       },
-      "xp": 1969
+      "xp": 44001
     },
     "eu:sorayha-avalon": {
       "achievements": {
@@ -23121,11 +23122,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/218/29133018-avatar.jpg",
       "best_item": {
-        "id": 5739,
-        "ilvl": 38,
-        "name": "Barbaric Harness",
-        "quality": "UNCOMMON",
-        "slot": "Chest"
+        "id": 273807,
+        "ilvl": null,
+        "name": "Demolition Girdle",
+        "quality": "RARE",
+        "slot": "Waist"
       },
       "boss_kills": {
         "1092": {
@@ -23219,7 +23220,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795509326000,
+      "last_login": 1795546503000,
       "level": 34,
       "level_at": {
         "29": 1795218860,
@@ -23239,47 +23240,43 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 54504,
-            "name": "Tasty Raptor Bites"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
             "id": 1536,
             "name": "Spiced Wolf Meat"
           },
           {
-            "id": 56881,
-            "name": "Skywall Souffle"
+            "id": 1537,
+            "name": "Roasted Boar Meat"
           },
           {
             "id": 4353,
             "name": "Brilliant Smallfish"
           },
           {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
             "id": 4354,
             "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
+          },
+          {
+            "id": 56881,
+            "name": "Skywall Souffle"
           }
         ],
         "Herbalism": [
-          {
-            "id": 54116,
-            "name": "Herbalism"
-          },
           {
             "id": 1419,
             "name": "Herbalism"
@@ -23289,18 +23286,22 @@
             "name": "Herbalism"
           },
           {
+            "id": 54116,
+            "name": "Herbalism"
+          },
+          {
             "id": 52642,
             "name": "Incense Candle"
           }
         ],
         "Skinning": [
           {
-            "id": 52644,
-            "name": "Camp Chair"
-          },
-          {
             "id": 4768,
             "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
           }
         ]
       },
@@ -23313,6 +23314,11 @@
         "Azeroth Commerce Authority": {
           "name": "Neutral",
           "raw": 2075,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -23371,16 +23377,16 @@
         "critters": 18,
         "deaths": 48,
         "drinks": 14,
-        "flights": 49,
+        "flights": 55,
         "food": 12,
         "health_potions": 22,
-        "hearths": 33,
-        "killing_blows": 2017,
+        "hearths": 35,
+        "killing_blows": 2021,
         "mana_potions": 4,
-        "mobs": 3484,
-        "quests": 318
+        "mobs": 3487,
+        "quests": 321
       },
-      "xp": 28733
+      "xp": 33269
     },
     "us:devil-latterday": {
       "achievements": {
@@ -28287,7 +28293,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Aristides",
         "rank": 4,
         "region": "eu",
@@ -28323,7 +28329,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Boreas",
         "rank": 5,
         "region": "eu",
@@ -28350,7 +28356,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 53,
+        "level": 54,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -28593,7 +28599,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Freya",
         "rank": 1,
         "region": "eu",
@@ -28683,7 +28689,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 41,
+        "level": 42,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -28719,7 +28725,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 20,
+        "level": 21,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -28829,7 +28835,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795546689,
+  "saved_at": 1795547606,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
