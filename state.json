@@ -5314,7 +5314,7 @@
       },
       "ilvl": 20,
       "last_explored": null,
-      "last_login": 1795531544000,
+      "last_login": 1795532241000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -5328,7 +5328,7 @@
         "First Aid": 115,
         "Fishing": 28,
         "Leatherworking": 111,
-        "Skinning": 183
+        "Skinning": 184
       },
       "race": "Tauren",
       "raids": {},
@@ -5696,17 +5696,17 @@
       "stats": {
         "critters": 20,
         "deaths": 6,
-        "drinks": 69,
+        "drinks": 70,
         "flights": 29,
-        "food": 95,
+        "food": 96,
         "health_potions": 29,
         "hearths": 27,
-        "killing_blows": 1309,
+        "killing_blows": 1324,
         "mana_potions": 7,
-        "mobs": 1601,
+        "mobs": 1616,
         "quests": 188
       },
-      "xp": 28325
+      "xp": 30497
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -28060,6 +28060,10 @@
   "roster": {
     "left_log": [
       {
+        "name": "Zelda Moon",
+        "ts": 1795533269
+      },
+      {
         "name": "Paladírne Mageshard",
         "ts": 1795221240
       },
@@ -28138,7 +28142,6 @@
       "thalgrim-tirisfal": "Thalgrim Tirisfal",
       "thalia-mondrabe": "Thalia Mondrabe",
       "vlad-impalar": "Vlad Impalar",
-      "zelda-moon": "Zelda Moon",
       "zulka-seelenfluch": "Zulka Seelenfluch"
     },
     "members_full": [
@@ -28172,7 +28175,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 55,
+        "level": 56,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -28190,7 +28193,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Alto",
         "rank": 4,
         "region": "eu",
@@ -28415,7 +28418,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 30,
+        "level": 31,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -28460,7 +28463,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Garm",
         "rank": 4,
         "region": "eu",
@@ -28559,7 +28562,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 40,
+        "level": 41,
         "name": "Keta",
         "rank": 4,
         "region": "eu",
@@ -28595,7 +28598,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 19,
+        "level": 20,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -28645,15 +28648,6 @@
         "rank": 5,
         "region": "eu",
         "surname": "Beren"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 5,
-        "name": "Zelda",
-        "rank": 5,
-        "region": "eu",
-        "surname": "Moon"
       },
       {
         "class": null,
@@ -28714,7 +28708,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795532069,
+  "saved_at": 1795533380,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
