@@ -176,6 +176,7 @@
       "achievements": {
         "61997": "Novice Paladin",
         "62006": "Novice Shaman",
+        "62012": "Journeyman Alchemist",
         "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "769": "Explore Silverpine Forest"
@@ -221,6 +222,11 @@
         },
         "63572": {
           "boss": "Shade of the Archmage",
+          "count": 2,
+          "instance": "City of Dalaran"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
           "count": 1,
           "instance": "City of Dalaran"
         }
@@ -273,6 +279,10 @@
           "name": "Mana-Warped Chain Shirt",
           "quality": "RARE"
         },
+        "273042": {
+          "name": "Manascale Treads",
+          "quality": "RARE"
+        },
         "273048": {
           "name": "Refractory Scaleguards",
           "quality": "RARE"
@@ -312,7 +322,7 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795554962000,
+      "last_login": 1795561693000,
       "level": 32,
       "level_at": {
         "26": 1794866470,
@@ -324,9 +334,9 @@
         "32": 1795530479
       },
       "professions": {
-        "Blacksmithing": 152,
+        "Blacksmithing": 155,
         "Cooking": 12,
-        "Mining": 168
+        "Mining": 175
       },
       "race": "Undead",
       "raids": {},
@@ -401,6 +411,10 @@
             "name": "Glowing Copper Boots"
           },
           {
+            "id": 8636,
+            "name": "Glinting Steel Dagger"
+          },
+          {
             "id": 1642,
             "name": "Patterned Bronze Bracers"
           },
@@ -427,6 +441,10 @@
           {
             "id": 6636,
             "name": "Rough Copper Vest"
+          },
+          {
+            "id": 2000,
+            "name": "Green Iron Hauberk"
           },
           {
             "id": 1864,
@@ -641,12 +659,20 @@
             "name": "Mining"
           },
           {
+            "id": 1846,
+            "name": "Smelt Gold"
+          },
+          {
             "id": 1848,
             "name": "Smelt Tin"
           },
           {
             "id": 52643,
             "name": "Lodestone"
+          },
+          {
+            "id": 2037,
+            "name": "Smelt Steel"
           },
           {
             "id": 1599,
@@ -719,19 +745,19 @@
       "spec": "Protection",
       "stats": {
         "critters": 56,
-        "deaths": 24,
-        "drinks": 57,
+        "deaths": 27,
+        "drinks": 75,
         "flights": 49,
         "food": 7,
-        "health_potions": 19,
-        "hearths": 21,
+        "health_potions": 20,
+        "hearths": 22,
         "honorable_kills": 6,
-        "killing_blows": 2029,
+        "killing_blows": 2064,
         "mana_potions": 3,
-        "mobs": 4411,
+        "mobs": 4598,
         "quests": 238
       },
-      "xp": 42892
+      "xp": 50026
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -7613,7 +7639,7 @@
       },
       "ilvl": 14,
       "last_explored": "The Barrens",
-      "last_login": 1795551454000,
+      "last_login": 1795561304000,
       "level": 25,
       "level_at": {
         "21": 1794866470,
@@ -7838,8 +7864,13 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9976,
+          "raw": 10107,
           "tier": 5
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
@@ -7853,7 +7884,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14102,
+          "raw": 14308,
           "tier": 5
         },
         "Powderfuse": {
@@ -7868,30 +7899,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6597,
+          "raw": 6803,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4802,
+          "raw": 5177,
           "tier": 4
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 13,
-        "deaths": 30,
+        "deaths": 32,
         "drinks": 4,
-        "flights": 48,
+        "flights": 52,
         "food": 8,
         "health_potions": 21,
-        "hearths": 15,
+        "hearths": 17,
         "honorable_kills": 1,
-        "killing_blows": 1263,
-        "mobs": 1858,
-        "quests": 213
+        "killing_blows": 1310,
+        "mobs": 1916,
+        "quests": 220
       },
-      "xp": 14569
+      "xp": 28110
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -24788,7 +24819,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795543870000,
+      "last_login": 1795561608000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -24801,9 +24832,9 @@
       "professions": {
         "Blacksmithing": 169,
         "Cooking": 300,
-        "First Aid": 204,
+        "First Aid": 216,
         "Fishing": 208,
-        "Mining": 238
+        "Mining": 239
       },
       "race": "Night Elf",
       "raids": {},
@@ -25325,7 +25356,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17325,
+          "raw": 17337,
           "tier": 5
         },
         "Everlook": {
@@ -25338,19 +25369,34 @@
           "raw": 1043,
           "tier": 3
         },
+        "Gelkis Clan Centaur": {
+          "name": "Neutral",
+          "raw": 2040,
+          "tier": 3
+        },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7591,
+          "raw": 7603,
           "tier": 4
+        },
+        "High Order": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8602,
+          "raw": 8652,
           "tier": 4
         },
         "Kirin Tor": {
           "name": "Neutral",
-          "raw": 924,
+          "raw": 934,
+          "tier": 3
+        },
+        "Magram Clan Centaur": {
+          "name": "Neutral",
+          "raw": 1800,
           "tier": 3
         },
         "Powderfuse": {
@@ -25365,25 +25411,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10173,
+          "raw": 10186,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 184,
-        "deaths": 27,
+        "deaths": 28,
         "drinks": 2,
-        "flights": 122,
-        "food": 161,
-        "health_potions": 40,
-        "hearths": 73,
+        "flights": 126,
+        "food": 163,
+        "health_potions": 42,
+        "hearths": 75,
         "honorable_kills": 1,
-        "killing_blows": 2780,
-        "mobs": 6095,
-        "quests": 327
+        "killing_blows": 2809,
+        "mobs": 6152,
+        "quests": 331
       },
-      "xp": 12986
+      "xp": 31203
     },
     "us:whizz-aard": {
       "achievements": {
@@ -26046,7 +26092,9 @@
           "surname": "Belli"
         },
         "lines": [
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)",
+          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
         ],
         "snap": {
           "class": "Paladin",
@@ -26245,6 +26293,7 @@
     "Beastmaster's Girdle": "Bestienmeistergurt",
     "Belt of Vindication": "Gürtel der Rechtfertigung",
     "Belt of the Fang": "Gürtel des Giftzahns",
+    "Belt of the People's Militia": "Gürtel der Volksmiliz",
     "Benediction": "Segnung",
     "Bent Large Shield": "Gebogener großer Schild",
     "Berylline Pads": "Beryllpolster",
@@ -26755,6 +26804,7 @@
     "Gnoll Shackles": "Gnollfesseln",
     "Gnollhide Pants": "Gnollfellhose",
     "Gnomeregan Exiles": "Gnomeregangnome",
+    "Gold Lion Shield": "Goldlöwenschild",
     "Golden Iron Destroyer": "Goldener Eisenzerstörer",
     "Golem War Cloak": "Kriegsumhang des Golems",
     "Gore Drinker": "Blutgier",
@@ -26768,6 +26818,7 @@
     "Greasy Tinker's Pants": "Schmierige Tüftlerhose",
     "Greater Firestone": "Großer Feuerstein",
     "Greater Magic Wand": "Großer Magiezauberstab",
+    "Greaves of the People's Militia": "Schienbeinschützer der Volksmiliz",
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
     "Green Iron Bracers": "Grüne Eisenarmschienen",
     "Green Leather Armor": "Grüne Lederrüstung",
@@ -27035,6 +27086,7 @@
     "Mana Regeneration per 5 sec": "Manaregeneration pro 5 Sek.",
     "Mana potions consumed": "Manatränke verbraucht",
     "Mana-Warped Chain Shirt": "Manaverformtes Kettenhemd",
+    "Manascale Treads": "Manaschuppentreter",
     "Mantle of Doan": "Mantel von Doan",
     "Mantle of Lost Hope": "Mantel der verlorenen Hoffnung",
     "Marauder's Bracers of the Beast": "Marodeursarmschienen der Bestie",
@@ -27367,6 +27419,7 @@
     "Sentinel's Slasher": "Schlitzer der Schildwache",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Sentry's Leggings of the Tiger": "Wachpostengamaschen des Tigers",
+    "Sentry's Shoulderguards": "Wachpostenschulterschutz",
     "Serpent's Shoulders": "Schlangen-Schultern",
     "Serpentbane": "Schlangenfluch",
     "Serpentbane Crown": "Schlangenbannkrone",
@@ -28361,7 +28414,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 54,
+        "level": 55,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -28406,7 +28459,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Blck",
         "rank": 4,
         "region": "eu",
@@ -28550,7 +28603,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -28640,7 +28693,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Christopher",
         "rank": 5,
         "region": "eu",
@@ -28721,7 +28774,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 19,
+        "level": 20,
         "name": "Barbariana",
         "rank": 4,
         "region": "eu",
@@ -28730,7 +28783,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 23,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -28784,7 +28837,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Quantino",
         "rank": 5,
         "region": "eu",
@@ -28793,7 +28846,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 8,
+        "level": 9,
         "name": "Ignatius",
         "rank": 1,
         "region": "eu",
@@ -28820,7 +28873,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 33,
         "name": "Mamulo",
         "rank": 5,
         "region": "eu",
@@ -28840,7 +28893,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795560871,
+  "saved_at": 1795562022,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
