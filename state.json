@@ -24901,6 +24901,11 @@
           "count": 1,
           "instance": "Wailing Caverns"
         },
+        "15029": {
+          "boss": "Bazil Thredd",
+          "count": 1,
+          "instance": "Stormwind Stockade"
+        },
         "6137": {
           "boss": "Aku'mai",
           "count": 1,
@@ -24965,18 +24970,19 @@
       },
       "ilvl": 23,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795479613000,
-      "level": 30,
+      "last_login": 1795489089000,
+      "level": 31,
       "level_at": {
         "28": 1794965196,
         "29": 1795061895,
-        "30": 1795325983
+        "30": 1795325983,
+        "31": 1795490340
       },
       "professions": {
         "Cooking": 65,
-        "Enchanting": 175,
+        "Enchanting": 176,
         "First Aid": 80,
-        "Tailoring": 132
+        "Tailoring": 133
       },
       "race": "Human",
       "raids": {},
@@ -25365,6 +25371,10 @@
             "name": "Brown Linen Robe"
           },
           {
+            "id": 55470,
+            "name": "Filigreed Flame Circlet"
+          },
+          {
             "id": 2378,
             "name": "Heavy Linen Gloves"
           },
@@ -25412,7 +25422,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 8638,
+          "raw": 8707,
           "tier": 4
         },
         "Everlook": {
@@ -25427,12 +25437,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6106,
+          "raw": 6175,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8197,
+          "raw": 8266,
           "tier": 4
         },
         "Powderfuse": {
@@ -25447,7 +25457,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 14658,
+          "raw": 14933,
           "tier": 5
         }
       },
@@ -25455,17 +25465,17 @@
       "stats": {
         "critters": 69,
         "deaths": 68,
-        "drinks": 730,
+        "drinks": 738,
         "flights": 50,
         "food": 132,
         "health_potions": 48,
         "hearths": 26,
-        "killing_blows": 1704,
+        "killing_blows": 1725,
         "mana_potions": 14,
-        "mobs": 3388,
-        "quests": 284
+        "mobs": 3454,
+        "quests": 287
       },
-      "xp": 45241
+      "xp": 12111
     }
   },
   "craft_board": {
@@ -25646,11 +25656,12 @@
           "surname": "aard"
         },
         "lines": [
-          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)"
+          "🎖️ [Erkundet Rotkammgebirge](https://www.wowhead.com/forever/de/achievement=780)",
+          "🗝️ **[The Stockade](https://www.wowhead.com/forever/de/search?q=The%20Stockade)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Mage",
-          "level": 30
+          "level": 31
         }
       }
     },
@@ -28330,7 +28341,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795488936,
+  "saved_at": 1795490341,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
