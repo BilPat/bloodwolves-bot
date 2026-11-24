@@ -23458,7 +23458,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795546503000,
+      "last_login": 1795563975000,
       "level": 34,
       "level_at": {
         "29": 1795218860,
@@ -23554,11 +23554,6 @@
           "raw": 2075,
           "tier": 3
         },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2885,
@@ -23613,18 +23608,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 18,
-        "deaths": 48,
+        "deaths": 49,
         "drinks": 14,
         "flights": 55,
         "food": 12,
         "health_potions": 22,
         "hearths": 35,
-        "killing_blows": 2021,
+        "killing_blows": 2022,
         "mana_potions": 4,
-        "mobs": 3487,
-        "quests": 321
+        "mobs": 3488,
+        "quests": 322
       },
-      "xp": 33269
+      "xp": 35961
     },
     "us:devil-latterday": {
       "achievements": {
@@ -28933,7 +28928,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795563592,
+  "saved_at": 1795564493,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
