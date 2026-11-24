@@ -15075,9 +15075,9 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 31,
+      "ilvl": 32,
       "last_explored": "Durotar",
-      "last_login": 1795465539000,
+      "last_login": 1795488674000,
       "level": 34,
       "level_at": {
         "24": 1794866470,
@@ -15093,7 +15093,7 @@
         "First Aid": 65,
         "Fishing": 112,
         "Leatherworking": 130,
-        "Skinning": 228
+        "Skinning": 242
       },
       "race": "Troll",
       "raids": {},
@@ -15495,7 +15495,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12053,
+          "raw": 12078,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -15520,7 +15520,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12903,
+          "raw": 13003,
           "tier": 5
         },
         "Powderfuse": {
@@ -15535,12 +15535,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8935,
+          "raw": 8960,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5740,
+          "raw": 5765,
           "tier": 4
         }
       },
@@ -15548,17 +15548,17 @@
       "stats": {
         "critters": 28,
         "deaths": 38,
-        "drinks": 32,
-        "flights": 47,
-        "food": 22,
-        "health_potions": 44,
+        "drinks": 36,
+        "flights": 48,
+        "food": 25,
+        "health_potions": 45,
         "hearths": 23,
-        "killing_blows": 1954,
+        "killing_blows": 2068,
         "mana_potions": 12,
-        "mobs": 3599,
-        "quests": 250
+        "mobs": 3712,
+        "quests": 254
       },
-      "xp": 18252
+      "xp": 49492
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -22973,7 +22973,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795487872000,
+      "last_login": 1795488205000,
       "level": 33,
       "level_at": {
         "29": 1795218860,
@@ -26836,6 +26836,7 @@
     "Scaled Cloak of the Bandit": "Schuppenumhang des Banditen",
     "Scaled Leather Belt of the Boar": "Lederschuppengürtel des Ebers",
     "Scaled Leather Headband": "Lederschuppenstirnband",
+    "Scaled Leather Headband of the Bandit": "Lederschuppenstirnband des Banditen",
     "Scarlet Belt": "Scharlachroter Gürtel",
     "Scarlet Boots": "Scharlachrote Stiefel",
     "Scarlet Chestpiece": "Scharlachroter Brustharnisch",
@@ -28329,7 +28330,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795488059,
+  "saved_at": 1795488936,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
