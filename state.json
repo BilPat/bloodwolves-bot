@@ -175,6 +175,7 @@
     "eu:alto-belli": {
       "achievements": {
         "61997": "Novice Paladin",
+        "62006": "Novice Shaman",
         "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "769": "Explore Silverpine Forest"
@@ -311,7 +312,7 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795529791000,
+      "last_login": 1795554962000,
       "level": 32,
       "level_at": {
         "26": 1794866470,
@@ -325,7 +326,7 @@
       "professions": {
         "Blacksmithing": 152,
         "Cooking": 12,
-        "Mining": 167
+        "Mining": 168
       },
       "race": "Undead",
       "raids": {},
@@ -725,12 +726,12 @@
         "health_potions": 19,
         "hearths": 21,
         "honorable_kills": 6,
-        "killing_blows": 2025,
+        "killing_blows": 2029,
         "mana_potions": 3,
-        "mobs": 4407,
-        "quests": 237
+        "mobs": 4411,
+        "quests": 238
       },
-      "xp": 41919
+      "xp": 42892
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -5049,6 +5050,7 @@
       "achievements": {
         "61997": "Novice Paladin",
         "62006": "Novice Shaman",
+        "62012": "Journeyman Alchemist",
         "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "769": "Explore Silverpine Forest"
@@ -5123,7 +5125,7 @@
       },
       "ilvl": 20,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795554048000,
+      "last_login": 1795555355000,
       "level": 25,
       "level_at": {
         "20": 1794866470,
@@ -5132,7 +5134,7 @@
         "25": 1795535698
       },
       "professions": {
-        "Alchemy": 147,
+        "Alchemy": 150,
         "Cooking": 3,
         "Herbalism": 165
       },
@@ -5187,6 +5189,10 @@
           {
             "id": 1820,
             "name": "Elixir of Lesser Defense"
+          },
+          {
+            "id": 4396,
+            "name": "Elixir of Fire Power"
           },
           {
             "id": 1382,
@@ -5275,7 +5281,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4051,
+          "raw": 4076,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5305,7 +5311,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4295,
+          "raw": 4320,
           "tier": 4
         },
         "Powderfuse": {
@@ -5320,12 +5326,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5490,
+          "raw": 5515,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4766,
+          "raw": 4866,
           "tier": 4
         },
         "Windshapers": {
@@ -5339,16 +5345,16 @@
         "critters": 25,
         "deaths": 11,
         "drinks": 11,
-        "flights": 23,
+        "flights": 24,
         "food": 7,
         "health_potions": 4,
         "hearths": 9,
         "killing_blows": 1007,
         "mana_potions": 12,
         "mobs": 1855,
-        "quests": 187
+        "quests": 188
       },
-      "xp": 26279
+      "xp": 32047
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {
@@ -25906,6 +25912,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:alto-belli": {
+        "c": {
+          "name": "Alto",
+          "region": "eu",
+          "surname": "Belli"
+        },
+        "lines": [
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 32
+        }
+      },
       "eu:baumora-axiom": {
         "c": {
           "name": "Baumora",
@@ -25921,6 +25941,21 @@
         "snap": {
           "class": "Druid",
           "level": 54
+        }
+      },
+      "eu:boreas-donnerrufer": {
+        "c": {
+          "name": "Boreas",
+          "region": "eu",
+          "surname": "Donnerrufer"
+        },
+        "lines": [
+          "🛠️ **Alchemie** auf 150",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 25
         }
       }
     },
@@ -28640,7 +28675,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795554907,
+  "saved_at": 1795555567,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
