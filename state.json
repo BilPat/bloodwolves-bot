@@ -9218,7 +9218,7 @@
       },
       "ilvl": 18,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795467363000,
+      "last_login": 1795493144000,
       "level": 27,
       "level_at": {
         "26": 1794866470,
@@ -9442,7 +9442,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11480,
+          "raw": 11505,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -9462,7 +9462,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13556,
+          "raw": 13581,
           "tier": 5
         },
         "Powderfuse": {
@@ -9477,12 +9477,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7943,
+          "raw": 7968,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5850,
+          "raw": 5950,
           "tier": 4
         }
       },
@@ -9490,17 +9490,17 @@
       "stats": {
         "critters": 4,
         "deaths": 10,
-        "drinks": 108,
-        "flights": 50,
+        "drinks": 110,
+        "flights": 52,
         "food": 11,
         "health_potions": 35,
         "hearths": 19,
-        "killing_blows": 1343,
-        "mana_potions": 8,
-        "mobs": 2203,
-        "quests": 244
+        "killing_blows": 1413,
+        "mana_potions": 11,
+        "mobs": 2283,
+        "quests": 245
       },
-      "xp": 26687
+      "xp": 27262
     },
     "eu:garakosh-redwalker": {
       "achievements": {
@@ -28341,7 +28341,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795492529,
+  "saved_at": 1795493903,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
