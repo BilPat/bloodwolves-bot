@@ -22219,7 +22219,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795444494000,
+      "last_login": 1795515796000,
       "level": 45,
       "level_at": {
         "35": 1794866470,
@@ -22237,8 +22237,8 @@
         "Blacksmithing": 170,
         "Cooking": 225,
         "First Aid": 62,
-        "Fishing": 157,
-        "Mining": 220
+        "Fishing": 160,
+        "Mining": 222
       },
       "race": "Undead",
       "raids": {},
@@ -22707,16 +22707,16 @@
         "critters": 115,
         "deaths": 54,
         "drinks": 25,
-        "flights": 97,
+        "flights": 101,
         "food": 59,
         "health_potions": 37,
-        "hearths": 44,
-        "killing_blows": 3432,
+        "hearths": 45,
+        "killing_blows": 3455,
         "mana_potions": 2,
-        "mobs": 7628,
-        "quests": 474
+        "mobs": 7651,
+        "quests": 475
       },
-      "xp": 14945
+      "xp": 23404
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28594,7 +28594,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795515302,
+  "saved_at": 1795515919,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
