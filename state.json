@@ -1780,11 +1780,12 @@
       },
       "ilvl": 22,
       "last_explored": "Teldrassil",
-      "last_login": 1795502198000,
-      "level": 25,
+      "last_login": 1795538626000,
+      "level": 26,
       "level_at": {
         "23": 1795383606,
-        "25": 1795394361
+        "25": 1795394361,
+        "26": 1795539292
       },
       "professions": {
         "Blacksmithing": 139,
@@ -2144,7 +2145,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4612,
+          "raw": 4756,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2164,7 +2165,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6693,
+          "raw": 6837,
           "tier": 4
         },
         "Powderfuse": {
@@ -2179,12 +2180,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4113,
+          "raw": 4238,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14752,
+          "raw": 14821,
           "tier": 5
         }
       },
@@ -2193,16 +2194,16 @@
         "critters": 2,
         "deaths": 11,
         "drinks": 10,
-        "flights": 31,
+        "flights": 33,
         "food": 12,
         "health_potions": 11,
-        "hearths": 21,
-        "killing_blows": 1803,
+        "hearths": 22,
+        "killing_blows": 1861,
         "mana_potions": 1,
-        "mobs": 1962,
-        "quests": 206
+        "mobs": 2021,
+        "quests": 211
       },
-      "xp": 28856
+      "xp": 10621
     },
     "eu:aru-tai": {
       "achievements": {
@@ -2512,7 +2513,7 @@
       },
       "ilvl": 10,
       "last_explored": "Durotar",
-      "last_login": 1795537581000,
+      "last_login": 1795538506000,
       "level": 19,
       "level_at": {
         "13": 1794866470,
@@ -2693,11 +2694,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 276744,
-        "ilvl": 55,
-        "name": "Zarla's Snack Pouch",
+        "id": 12554,
+        "ilvl": 59,
+        "name": "Hands of the Exalted Herald",
         "quality": "RARE",
-        "slot": "Trinket 1"
+        "slot": "Hands"
       },
       "boss_kills": {
         "1092": {
@@ -2714,6 +2715,11 @@
           "boss": "Chief Ukorz Sandscalp",
           "count": 10,
           "instance": "Zul'Farrak"
+        },
+        "1095": {
+          "boss": "Emperor Dagran Thaurissan",
+          "count": 1,
+          "instance": "Blackrock Depths"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -2755,6 +2761,11 @@
           "count": 2,
           "instance": "Maraudon"
         },
+        "6144": {
+          "boss": "Shade of Eranikus",
+          "count": 1,
+          "instance": "Sunken Temple"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -2790,8 +2801,28 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10829": {
+          "name": "Dragon's Eye",
+          "quality": "RARE"
+        },
+        "10843": {
+          "name": "Featherskin Cape",
+          "quality": "RARE"
+        },
+        "11832": {
+          "name": "Burst of Knowledge",
+          "quality": "RARE"
+        },
+        "11932": {
+          "name": "Guiding Stave of Wisdom",
+          "quality": "RARE"
+        },
         "12471": {
           "name": "Desertwalker Cane",
+          "quality": "RARE"
+        },
+        "12554": {
+          "name": "Hands of the Exalted Herald",
           "quality": "RARE"
         },
         "13111": {
@@ -2804,6 +2835,10 @@
         },
         "18083": {
           "name": "Jumanza Grips",
+          "quality": "RARE"
+        },
+        "22234": {
+          "name": "Mantle of Lost Hope",
           "quality": "RARE"
         },
         "270081": {
@@ -2842,6 +2877,10 @@
           "name": "Zarla's Snack Pouch",
           "quality": "RARE"
         },
+        "276884": {
+          "name": "Verek's Loyal Wraps",
+          "quality": "RARE"
+        },
         "6803": {
           "name": "Prophetic Cane",
           "quality": "RARE"
@@ -2871,10 +2910,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 48,
+      "ilvl": 53,
       "last_explored": "Thousand Needles",
-      "last_login": 1795486939000,
-      "level": 52,
+      "last_login": 1795539193000,
+      "level": 54,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -2886,7 +2925,8 @@
         "49": 1795202759,
         "50": 1795434000,
         "51": 1795456456,
-        "52": 1795488057
+        "52": 1795488057,
+        "54": 1795539292
       },
       "professions": {
         "Cooking": 193,
@@ -3372,7 +3412,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5128,
+          "raw": 5178,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -3382,7 +3422,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7231,
+          "raw": 7443,
           "tier": 4
         },
         "Earthen Ring": {
@@ -3392,12 +3432,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4728,
+          "raw": 4778,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6368,
+          "raw": 6468,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -3407,27 +3447,27 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8735,
+          "raw": 8947,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5676,
+          "raw": 5726,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5669,
+          "raw": 5719,
           "tier": 4
         },
-        "Ravasaur Trainers": {
+        "Thorium Brotherhood": {
           "name": "Neutral",
-          "raw": 0,
+          "raw": 200,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9855,
+          "raw": 10180,
           "tier": 5
         },
         "Timbermaw Hold": {
@@ -3437,7 +3477,7 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8078,
+          "raw": 8291,
           "tier": 4
         },
         "Windshapers": {
@@ -3448,19 +3488,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 181,
-        "deaths": 42,
-        "drinks": 720,
-        "flights": 104,
-        "food": 168,
-        "health_potions": 51,
-        "hearths": 35,
-        "killing_blows": 3411,
-        "mana_potions": 25,
-        "mobs": 13665,
-        "quests": 504
+        "critters": 194,
+        "deaths": 46,
+        "drinks": 759,
+        "flights": 112,
+        "food": 177,
+        "health_potions": 54,
+        "hearths": 37,
+        "killing_blows": 3538,
+        "mana_potions": 26,
+        "mobs": 15149,
+        "quests": 524
       },
-      "xp": 119477
+      "xp": 46512
     },
     "eu:blck-jck": {
       "achievements": {
@@ -25835,11 +25875,14 @@
           "surname": "Axiom"
         },
         "lines": [
-          "🛠️ **Kürschnerei** auf 300"
+          "🛠️ **Kürschnerei** auf 300",
+          "Gegenstandsstufe **50**",
+          "🗝️ **[Schwarzfelstiefen](https://www.wowhead.com/forever/de/search?q=Schwarzfelstiefen)** zum ersten Mal abgeschlossen",
+          "🗝️ **[Versunkener Tempel](https://www.wowhead.com/forever/de/search?q=Versunkener%20Tempel)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Druid",
-          "level": 52
+          "level": 54
         }
       },
       "eu:blck-jck": {
@@ -26273,6 +26316,7 @@
     "Burnished Girdle": "Brünierter Gurt",
     "Burnt Leather Belt": "Brandledergürtel",
     "Burnt Leather Breeches": "Brandlederbundhosen",
+    "Burst of Knowledge": "Explosion des Wissens",
     "Butcher's Cleaver": "Schlächterbeil",
     "Butcher's Slicer": "Schlächterschnitzler",
     "Buzz Saw": "Kreissäge",
@@ -26452,6 +26496,7 @@
     "Double-layered Gloves": "Doppellagige Handschuhe",
     "Draftsman Boots": "Zeichner-Stiefel",
     "Dragon's Blood Necklace": "Drachenblut-Halskette",
+    "Dragon's Eye": "Großdrachenauge",
     "Dragonclaw Ring": "Drachenklauenring",
     "Drape of Shifting Energy": "Tuch der veränderlichen Energie",
     "Dreadfrost Saber": "Schreckensfrostsäbel",
@@ -26559,6 +26604,7 @@
     "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
     "Feathered Arrow": "Gefiederter Pfeil",
+    "Featherskin Cape": "Federhautcape",
     "Feet": "Füße",
     "Fel Concentration": "Teufelskonzentration",
     "Fel Vitality": "Teuflische Vitalität",
@@ -26699,6 +26745,7 @@
     "Grunt's Handwraps of the Boar": "Grunzerhandlappen des Ebers",
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
     "Guardian Pants": "Wächterhose",
+    "Guiding Stave of Wisdom": "Führungsstock der Weisheit",
     "Guild Tabard": "Gildenwappenrock",
     "Gun": "Schusswaffe",
     "Hack and Slash": "Niedermetzeln",
@@ -26707,6 +26754,7 @@
     "Hammerbone": "Hammerknochen",
     "Hand of Righteousness": "Hand der Rechtschaffenheit",
     "Hands": "Hände",
+    "Hands of the Exalted Herald": "Hände des erhabenen Herolds",
     "Handstitched Leather Belt": "Handgenähter Ledergürtel",
     "Handstitched Leather Boots": "Handgenähte Lederstiefel",
     "Handstitched Leather Bracers": "Handgenähte Armschienen",
@@ -26945,6 +26993,7 @@
     "Mana potions consumed": "Manatränke verbraucht",
     "Mana-Warped Chain Shirt": "Manaverformtes Kettenhemd",
     "Mantle of Doan": "Mantel von Doan",
+    "Mantle of Lost Hope": "Mantel der verlorenen Hoffnung",
     "Marauder's Bracers of the Beast": "Marodeursarmschienen der Bestie",
     "Marbled Buckler": "Marmorierter Rundschild",
     "Mark of the Pack Leader": "Mal des Rudelführers",
@@ -27537,6 +27586,7 @@
     "Veiled Grips": "Verhüllter Handschutz",
     "Vengeance": "Rache",
     "Venomshroud Armguards": "Giftschleierarmschützer",
+    "Verek's Loyal Wraps": "Vereks treue Wickel",
     "Veteran Adventurer's Belt": "Gürtel des erfahrenen Abenteurers",
     "Veteran Adventurer's Boots": "Stiefel des erfahrenen Abenteurers",
     "Veteran Adventurer's Bracer": "Armschienen des erfahrenen Abenteurers",
@@ -27676,7 +27726,8 @@
       "dungeon": {
         "Blackfathom Deeps": "eu:krakmor-ci%C3%B3rdan",
         "Blackrock Depths": [
-          "eu:krakmor-ci%C3%B3rdan"
+          "eu:krakmor-ci%C3%B3rdan",
+          "eu:baumora-axiom"
         ],
         "Gnomeregan": "eu:krakmor-ci%C3%B3rdan",
         "Hall of Thanes": "us:steel-appeal",
@@ -27707,7 +27758,8 @@
     "firsts_pending": {
       "dungeon|Blackrock Depths": {
         "keys": [
-          "eu:krakmor-ci%C3%B3rdan"
+          "eu:krakmor-ci%C3%B3rdan",
+          "eu:baumora-axiom"
         ],
         "kind": "dungeon",
         "since": 1795486850,
@@ -28735,7 +28787,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795538418,
+  "saved_at": 1795539294,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
