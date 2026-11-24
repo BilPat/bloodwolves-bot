@@ -13260,15 +13260,16 @@
       },
       "ilvl": 28,
       "last_explored": "Durotar",
-      "last_login": 1795484219000,
-      "level": 32,
+      "last_login": 1795517340000,
+      "level": 33,
       "level_at": {
         "27": 1794866470,
         "28": 1795022064,
         "29": 1795100112,
         "30": 1795269322,
         "31": 1795310685,
-        "32": 1795394361
+        "32": 1795394361,
+        "33": 1795517658
       },
       "professions": {
         "Cooking": 27,
@@ -13497,7 +13498,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10835,
+          "raw": 10947,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -13532,7 +13533,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13978,
+          "raw": 14091,
           "tier": 5
         },
         "Powderfuse": {
@@ -13547,12 +13548,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9880,
+          "raw": 9992,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3733,
+          "raw": 4183,
           "tier": 4
         }
       },
@@ -13560,17 +13561,17 @@
       "stats": {
         "critters": 25,
         "deaths": 14,
-        "drinks": 741,
-        "flights": 76,
-        "food": 267,
+        "drinks": 752,
+        "flights": 77,
+        "food": 275,
         "health_potions": 4,
         "hearths": 26,
-        "killing_blows": 1841,
+        "killing_blows": 1931,
         "mana_potions": 4,
-        "mobs": 3507,
-        "quests": 225
+        "mobs": 3627,
+        "quests": 230
       },
-      "xp": 51871
+      "xp": 22009
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -22219,7 +22220,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795515796000,
+      "last_login": 1795516907000,
       "level": 45,
       "level_at": {
         "35": 1794866470,
@@ -22691,6 +22692,11 @@
           "raw": 3180,
           "tier": 4
         },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
           "raw": 7513,
@@ -22705,18 +22711,18 @@
       "spec": "Protection",
       "stats": {
         "critters": 115,
-        "deaths": 54,
+        "deaths": 55,
         "drinks": 25,
         "flights": 101,
         "food": 59,
         "health_potions": 37,
         "hearths": 45,
-        "killing_blows": 3455,
+        "killing_blows": 3456,
         "mana_potions": 2,
-        "mobs": 7651,
-        "quests": 475
+        "mobs": 7653,
+        "quests": 476
       },
-      "xp": 23404
+      "xp": 28317
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28594,7 +28600,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795516838,
+  "saved_at": 1795517660,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
