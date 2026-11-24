@@ -1667,7 +1667,7 @@
       },
       "ilvl": 22,
       "last_explored": "Teldrassil",
-      "last_login": 1795449885000,
+      "last_login": 1795502198000,
       "level": 25,
       "level_at": {
         "23": 1795383606,
@@ -1676,7 +1676,7 @@
       "professions": {
         "Blacksmithing": 139,
         "Cooking": 3,
-        "First Aid": 106,
+        "First Aid": 120,
         "Fishing": 1,
         "Mining": 143
       },
@@ -2026,12 +2026,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 944,
+          "raw": 1019,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4568,
+          "raw": 4612,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2041,37 +2041,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 944,
+          "raw": 1019,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 944,
+          "raw": 1019,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6575,
+          "raw": 6693,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 944,
+          "raw": 1019,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1389,
+          "raw": 1539,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4013,
+          "raw": 4113,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14708,
+          "raw": 14752,
           "tier": 5
         }
       },
@@ -2080,16 +2080,16 @@
         "critters": 2,
         "deaths": 11,
         "drinks": 10,
-        "flights": 29,
+        "flights": 31,
         "food": 12,
         "health_potions": 11,
-        "hearths": 20,
-        "killing_blows": 1759,
+        "hearths": 21,
+        "killing_blows": 1803,
         "mana_potions": 1,
-        "mobs": 1917,
-        "quests": 201
+        "mobs": 1962,
+        "quests": 206
       },
-      "xp": 20455
+      "xp": 28856
     },
     "eu:aru-tai": {
       "achievements": {
@@ -28484,7 +28484,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795501495,
+  "saved_at": 1795502816,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
