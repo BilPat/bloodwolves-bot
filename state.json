@@ -22912,6 +22912,11 @@
           "count": 1,
           "instance": "Gnomeregan"
         },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
         "63573": {
           "boss": "Durgen Dirgehammer",
           "count": 1,
@@ -22973,18 +22978,19 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795491452000,
-      "level": 33,
+      "last_login": 1795509326000,
+      "level": 34,
       "level_at": {
         "29": 1795218860,
         "30": 1795295607,
         "31": 1795407566,
         "32": 1795475708,
-        "33": 1795488057
+        "33": 1795488057,
+        "34": 1795509753
       },
       "professions": {
         "Cooking": 29,
-        "Herbalism": 222,
+        "Herbalism": 225,
         "Skinning": 225
       },
       "race": "High Order Skyborne",
@@ -23065,7 +23071,7 @@
         },
         "Azeroth Commerce Authority": {
           "name": "Neutral",
-          "raw": 2000,
+          "raw": 2075,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -23075,7 +23081,7 @@
         },
         "Darnassus": {
           "name": "Friendly",
-          "raw": 7571,
+          "raw": 7696,
           "tier": 4
         },
         "Gadgetzan": {
@@ -23085,7 +23091,7 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5926,
+          "raw": 6051,
           "tier": 4
         },
         "High Order": {
@@ -23095,12 +23101,12 @@
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7627,
+          "raw": 7790,
           "tier": 4
         },
         "Kirin Tor": {
           "name": "Friendly",
-          "raw": 3210,
+          "raw": 4306,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -23110,7 +23116,7 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 7883,
+          "raw": 8346,
           "tier": 4
         },
         "Wildhammer Clan": {
@@ -23122,18 +23128,18 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 18,
-        "deaths": 45,
-        "drinks": 13,
-        "flights": 47,
-        "food": 11,
+        "deaths": 48,
+        "drinks": 14,
+        "flights": 49,
+        "food": 12,
         "health_potions": 22,
-        "hearths": 31,
-        "killing_blows": 1848,
+        "hearths": 33,
+        "killing_blows": 2017,
         "mana_potions": 4,
-        "mobs": 3158,
-        "quests": 301
+        "mobs": 3484,
+        "quests": 318
       },
-      "xp": 4398
+      "xp": 28733
     },
     "us:devil-latterday": {
       "achievements": {
@@ -25739,11 +25745,13 @@
         },
         "lines": [
           "🛠️ **Kürschnerei** auf 225",
-          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen",
+          "🛠️ **Kräuterkunde** auf 225",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
         ],
         "snap": {
           "class": "Druid",
-          "level": 32
+          "level": 34
         }
       },
       "us:pwanage-ownage": {
@@ -26956,6 +26964,7 @@
     "Rugged Trapper's Shirt": "Unverwüstliches Fallenstellerhemd",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
     "Rune of the Guard Captain": "Rune des Wachbefehlshabers",
+    "Runebound Gloves": "Runengebundene Handschuhe",
     "Runed Copper Belt": "Runenverzierter Kupfergürtel",
     "Runed Copper Bracers": "Runenverzierte Kupferarmschienen",
     "Runed Copper Breastplate": "Runenverzierte Kupferbrustplatte",
@@ -28484,7 +28493,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795509151,
+  "saved_at": 1795509755,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
