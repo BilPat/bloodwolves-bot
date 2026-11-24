@@ -24316,11 +24316,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 6725,
-        "ilvl": 36,
-        "name": "Marbled Buckler",
+        "id": 9625,
+        "ilvl": 37,
+        "name": "Dual Reinforced Leggings",
         "quality": "RARE",
-        "slot": "Off Hand"
+        "slot": "Legs"
       },
       "boss_kills": {
         "1092": {
@@ -24480,16 +24480,17 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 28,
+      "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795521048000,
-      "level": 35,
+      "last_login": 1795524466000,
+      "level": 36,
       "level_at": {
         "31": 1794965196,
         "32": 1795061895,
         "33": 1795380922,
         "34": 1795419090,
-        "35": 1795472783
+        "35": 1795472783,
+        "36": 1795524934
       },
       "professions": {
         "Blacksmithing": 169,
@@ -25063,16 +25064,16 @@
         "critters": 181,
         "deaths": 26,
         "drinks": 2,
-        "flights": 113,
+        "flights": 116,
         "food": 160,
         "health_potions": 40,
-        "hearths": 69,
+        "hearths": 70,
         "honorable_kills": 1,
         "killing_blows": 2775,
         "mobs": 6093,
-        "quests": 317
+        "quests": 319
       },
-      "xp": 63110
+      "xp": 278
     },
     "us:whizz-aard": {
       "achievements": {
@@ -26033,6 +26034,7 @@
     "Assassination": "Meucheln",
     "Attack Power": "Angriffskraft",
     "Attack Power Vs Beasts": "Angriffskraft gegen Wildtiere",
+    "Attack Power Vs Elementals": "Angriffskraft gegen Elementare",
     "Attack Power Vs Humanoids": "Angriffskraft gegen Humanoide",
     "Attack Power Vs Undead": "Angriffskraft gegen Untote",
     "Aurora Bracers": "Auroraarmschienen",
@@ -27383,6 +27385,7 @@
     "Thief's Blade": "Diebesklinge",
     "Thorbia's Gauntlets": "Thorbias' Stulpen",
     "Thorium Brotherhood": "Thoriumbruderschaft",
+    "Thorn Protecting Girdle": "Dornenschutzgürtung",
     "Thornspike": "Dornenstachel",
     "Thornwoven Shield": "Dornengewobener Schild",
     "Thra's Friendship Bracelet": "Thras Freundschaftsband",
@@ -28663,7 +28666,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795522930,
+  "saved_at": 1795524935,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
