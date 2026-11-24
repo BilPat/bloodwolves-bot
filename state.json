@@ -9387,19 +9387,20 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 18,
+      "ilvl": 19,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795493144000,
-      "level": 27,
+      "last_login": 1795544253000,
+      "level": 28,
       "level_at": {
         "26": 1794866470,
-        "27": 1795457890
+        "27": 1795457890,
+        "28": 1795545002
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 106,
-        "Leatherworking": 100,
-        "Skinning": 184
+        "Leatherworking": 105,
+        "Skinning": 186
       },
       "race": "Troll",
       "raids": {},
@@ -9446,6 +9447,10 @@
         ],
         "Leatherworking": [
           {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
             "id": 1356,
             "name": "Light Armor Kit"
           },
@@ -9474,6 +9479,10 @@
             "name": "Fine Leather Belt"
           },
           {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
+          },
+          {
             "id": 1362,
             "name": "Embossed Leather Vest"
           },
@@ -9492,6 +9501,10 @@
           {
             "id": 4987,
             "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 2177,
+            "name": "Hillman's Shoulders"
           },
           {
             "id": 1363,
@@ -9613,7 +9626,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11505,
+          "raw": 11755,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -9633,7 +9646,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13581,
+          "raw": 13756,
           "tier": 5
         },
         "Powderfuse": {
@@ -9648,30 +9661,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7968,
+          "raw": 8293,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5950,
+          "raw": 6425,
           "tier": 4
         }
       },
       "spec": "Elemental Combat",
       "stats": {
         "critters": 4,
-        "deaths": 10,
-        "drinks": 110,
-        "flights": 52,
+        "deaths": 11,
+        "drinks": 116,
+        "flights": 58,
         "food": 11,
-        "health_potions": 35,
-        "hearths": 19,
-        "killing_blows": 1413,
+        "health_potions": 38,
+        "hearths": 21,
+        "killing_blows": 1453,
         "mana_potions": 11,
-        "mobs": 2283,
-        "quests": 245
+        "mobs": 2331,
+        "quests": 251
       },
-      "xp": 27262
+      "xp": 5196
     },
     "eu:garakosh-redwalker": {
       "achievements": {
@@ -28811,7 +28824,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795544273,
+  "saved_at": 1795545004,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
