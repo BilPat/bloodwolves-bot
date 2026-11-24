@@ -2498,7 +2498,7 @@
       "boss_kills": {
         "15027": {
           "boss": "Bazzalan",
-          "count": 1,
+          "count": 2,
           "instance": "Ragefire Chasm"
         }
       },
@@ -2506,14 +2506,18 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "14149": {
+          "name": "Subterranean Cape",
+          "quality": "RARE"
+        },
         "273007": {
           "name": "Chasm Walkers",
           "quality": "RARE"
         }
       },
-      "ilvl": 10,
+      "ilvl": 11,
       "last_explored": "Durotar",
-      "last_login": 1795538506000,
+      "last_login": 1795545862000,
       "level": 19,
       "level_at": {
         "13": 1794866470,
@@ -2526,7 +2530,7 @@
       "professions": {
         "Cooking": 51,
         "First Aid": 50,
-        "Fishing": 88,
+        "Fishing": 90,
         "Mining": 77,
         "Skinning": 133
       },
@@ -2668,16 +2672,16 @@
       "stats": {
         "critters": 8,
         "deaths": 10,
-        "drinks": 1,
-        "flights": 16,
-        "food": 17,
+        "drinks": 2,
+        "flights": 19,
+        "food": 19,
         "health_potions": 6,
-        "hearths": 10,
-        "killing_blows": 913,
-        "mobs": 1059,
+        "hearths": 11,
+        "killing_blows": 946,
+        "mobs": 1174,
         "quests": 93
       },
-      "xp": 10485
+      "xp": 12958
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -27591,6 +27595,7 @@
     "Trapper's Shirt": "Fallenstellerhemd",
     "Travel": "Reise",
     "Traveler's Shawl": "Schal des Reisenden",
+    "Tribal Vest": "Stammesweste",
     "Trinket": "Schmuck",
     "Trinket 1": "Schmuckstück 1",
     "Trinket 2": "Schmuckstück 2",
@@ -28824,7 +28829,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795545593,
+  "saved_at": 1795546689,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
