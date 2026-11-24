@@ -1780,7 +1780,7 @@
       },
       "ilvl": 22,
       "last_explored": "Teldrassil",
-      "last_login": 1795538626000,
+      "last_login": 1795554355000,
       "level": 26,
       "level_at": {
         "23": 1795383606,
@@ -5062,6 +5062,11 @@
         "slot": "Chest"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -5107,6 +5112,10 @@
           "name": "Witherbite Bracers",
           "quality": "RARE"
         },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
+        },
         "6505": {
           "name": "Crescent Staff",
           "quality": "RARE"
@@ -5114,7 +5123,7 @@
       },
       "ilvl": 20,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795535042000,
+      "last_login": 1795554048000,
       "level": 25,
       "level_at": {
         "20": 1794866470,
@@ -5125,7 +5134,7 @@
       "professions": {
         "Alchemy": 147,
         "Cooking": 3,
-        "Herbalism": 155
+        "Herbalism": 165
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -5266,7 +5275,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 3951,
+          "raw": 4051,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5296,7 +5305,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4195,
+          "raw": 4295,
           "tier": 4
         },
         "Powderfuse": {
@@ -5311,12 +5320,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5390,
+          "raw": 5490,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4366,
+          "raw": 4766,
           "tier": 4
         },
         "Windshapers": {
@@ -5327,19 +5336,19 @@
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 17,
+        "critters": 25,
         "deaths": 11,
         "drinks": 11,
-        "flights": 19,
+        "flights": 23,
         "food": 7,
         "health_potions": 4,
-        "hearths": 8,
-        "killing_blows": 971,
+        "hearths": 9,
+        "killing_blows": 1007,
         "mana_potions": 12,
-        "mobs": 1730,
-        "quests": 183
+        "mobs": 1855,
+        "quests": 187
       },
-      "xp": 621
+      "xp": 26279
     },
     "eu:christopher-kuhlumbus": {
       "achievements": {
@@ -26936,6 +26945,7 @@
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
     "Pandemic": "Pandemie",
     "Panther Armor": "Panther-Rüstung",
+    "Patched Leather Belt": "Geflickter Ledergürtel",
     "Patched Leather Boots": "Geflickte Lederstiefel",
     "Patched Leather Gloves": "Geflickte Lederhandschuhe",
     "Patched Leather Shoulderpads": "Geflickte Lederschulterstücke",
@@ -28630,7 +28640,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795553672,
+  "saved_at": 1795554907,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
