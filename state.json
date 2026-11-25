@@ -23789,7 +23789,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795581892000,
+      "last_login": 1795584997000,
       "level": 34,
       "level_at": {
         "29": 1795218860,
@@ -23885,6 +23885,11 @@
           "raw": 2075,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2885,
@@ -23894,6 +23899,11 @@
           "name": "Friendly",
           "raw": 7696,
           "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
@@ -23925,10 +23935,25 @@
           "raw": 5700,
           "tier": 4
         },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 501,
+          "tier": 3
+        },
         "Stormwind": {
           "name": "Friendly",
           "raw": 8346,
           "tier": 4
+        },
+        "Theramore Expeditionary Force": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Wildhammer Clan": {
           "name": "Neutral",
@@ -23945,12 +23970,12 @@
         "food": 14,
         "health_potions": 22,
         "hearths": 37,
-        "killing_blows": 2090,
+        "killing_blows": 2096,
         "mana_potions": 4,
-        "mobs": 3673,
+        "mobs": 3679,
         "quests": 325
       },
-      "xp": 58278
+      "xp": 59494
     },
     "us:devil-latterday": {
       "achievements": {
@@ -29364,7 +29389,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795584445,
+  "saved_at": 1795585242,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
