@@ -1350,12 +1350,13 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795633148000,
-      "level": 23,
+      "last_login": 1795642927000,
+      "level": 24,
       "level_at": {
         "21": 1794866470,
         "22": 1795123499,
-        "23": 1795468447
+        "23": 1795468447,
+        "24": 1795643697
       },
       "professions": {
         "Cooking": 7,
@@ -1695,7 +1696,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8452,
+          "raw": 8571,
           "tier": 4
         },
         "Everlook": {
@@ -1710,7 +1711,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11502,
+          "raw": 11546,
           "tier": 5
         },
         "Powderfuse": {
@@ -1725,29 +1726,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5898,
+          "raw": 5998,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2038,
+          "raw": 2082,
           "tier": 3
         }
       },
       "spec": "Affliction",
       "stats": {
-        "critters": 16,
-        "deaths": 28,
+        "critters": 17,
+        "deaths": 29,
         "drinks": 1,
-        "flights": 20,
-        "food": 8,
-        "health_potions": 24,
-        "hearths": 8,
-        "killing_blows": 1052,
-        "mobs": 1422,
-        "quests": 135
+        "flights": 21,
+        "food": 9,
+        "health_potions": 26,
+        "hearths": 9,
+        "killing_blows": 1113,
+        "mobs": 1480,
+        "quests": 138
       },
-      "xp": 25330
+      "xp": 9235
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -17054,7 +17055,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795640920000,
+      "last_login": 1795642818000,
       "level": 34,
       "level_at": {
         "27": 1795430379,
@@ -17199,18 +17200,18 @@
       "stats": {
         "critters": 35,
         "deaths": 68,
-        "drinks": 301,
+        "drinks": 303,
         "flights": 87,
-        "food": 253,
+        "food": 254,
         "health_potions": 33,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2556,
-        "mana_potions": 84,
-        "mobs": 3424,
+        "killing_blows": 2572,
+        "mana_potions": 86,
+        "mobs": 3440,
         "quests": 312
       },
-      "xp": 32458
+      "xp": 35501
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -28001,7 +28002,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29640,7 +29641,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795642773,
+  "saved_at": 1795643699,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
