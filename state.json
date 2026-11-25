@@ -2763,11 +2763,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 12554,
-        "ilvl": 59,
-        "name": "Hands of the Exalted Herald",
+        "id": 22204,
+        "ilvl": 60,
+        "name": "Wristguards of Renown",
         "quality": "RARE",
-        "slot": "Hands"
+        "slot": "Wrist"
       },
       "boss_kills": {
         "1092": {
@@ -2835,6 +2835,11 @@
           "count": 1,
           "instance": "Sunken Temple"
         },
+        "6145": {
+          "boss": "Overlord Wyrmthalak",
+          "count": 1,
+          "instance": "Lower Blackrock Spire"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -2870,12 +2875,20 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10777": {
+          "name": "Arachnid Gloves of the Champion",
+          "quality": "RARE"
+        },
         "10829": {
           "name": "Dragon's Eye",
           "quality": "RARE"
         },
         "10843": {
           "name": "Featherskin Cape",
+          "quality": "RARE"
+        },
+        "11821": {
+          "name": "Warstrife Leggings",
           "quality": "RARE"
         },
         "11832": {
@@ -2898,12 +2911,24 @@
           "name": "Sandals of the Insurgent",
           "quality": "RARE"
         },
+        "13203": {
+          "name": "Armswake Cloak",
+          "quality": "RARE"
+        },
         "17732": {
           "name": "Rotgrip Mantle",
           "quality": "RARE"
         },
+        "18043": {
+          "name": "Coal Miner Boots",
+          "quality": "RARE"
+        },
         "18083": {
           "name": "Jumanza Grips",
+          "quality": "RARE"
+        },
+        "22204": {
+          "name": "Wristguards of Renown",
           "quality": "RARE"
         },
         "22234": {
@@ -2950,6 +2975,14 @@
           "name": "Verek's Loyal Wraps",
           "quality": "RARE"
         },
+        "280059": {
+          "name": "Tuskblade Halberd",
+          "quality": "RARE"
+        },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
+        },
         "6803": {
           "name": "Prophetic Cane",
           "quality": "RARE"
@@ -2970,6 +3003,10 @@
           "name": "Jinxed Hoodoo Kilt",
           "quality": "RARE"
         },
+        "9479": {
+          "name": "Embrace of the Lycan",
+          "quality": "RARE"
+        },
         "9534": {
           "name": "Engineer's Guild Headpiece",
           "quality": "RARE"
@@ -2979,10 +3016,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 53,
+      "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795552433000,
-      "level": 54,
+      "last_login": 1795570702000,
+      "level": 56,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -2995,7 +3032,8 @@
         "50": 1795434000,
         "51": 1795456456,
         "52": 1795488057,
-        "54": 1795539292
+        "54": 1795539292,
+        "56": 1795571036
       },
       "professions": {
         "Cooking": 193,
@@ -3480,9 +3518,14 @@
           "raw": 1635,
           "tier": 3
         },
+        "Barkskin Burrow": {
+          "name": "Hostile",
+          "raw": -3200,
+          "tier": 1
+        },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9750,
+          "raw": -10250,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -3492,7 +3535,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 5178,
+          "raw": 5278,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -3502,7 +3545,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7518,
+          "raw": 7643,
           "tier": 4
         },
         "Earthen Ring": {
@@ -3512,12 +3555,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 4778,
+          "raw": 4828,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 6468,
+          "raw": 6518,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -3527,17 +3570,17 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9022,
+          "raw": 9147,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 5726,
+          "raw": 5776,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5719,
+          "raw": 5769,
           "tier": 4
         },
         "Thorium Brotherhood": {
@@ -3547,7 +3590,7 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10480,
+          "raw": 10530,
           "tier": 5
         },
         "Timbermaw Hold": {
@@ -3557,7 +3600,7 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8366,
+          "raw": 8416,
           "tier": 4
         },
         "Windshapers": {
@@ -3566,21 +3609,21 @@
           "tier": 4
         }
       },
-      "spec": "Restoration",
+      "spec": "Feral Combat",
       "stats": {
-        "critters": 194,
-        "deaths": 48,
-        "drinks": 775,
-        "flights": 115,
-        "food": 182,
-        "health_potions": 54,
-        "hearths": 37,
-        "killing_blows": 3568,
-        "mana_potions": 27,
-        "mobs": 15459,
-        "quests": 531
+        "critters": 234,
+        "deaths": 51,
+        "drinks": 796,
+        "flights": 117,
+        "food": 190,
+        "health_potions": 57,
+        "hearths": 39,
+        "killing_blows": 3645,
+        "mana_potions": 29,
+        "mobs": 16014,
+        "quests": 565
       },
-      "xp": 145725
+      "xp": 62439
     },
     "eu:blck-jck": {
       "achievements": {
@@ -26409,11 +26452,12 @@
           "📜 Neuer Beruf: **Erste Hilfe**",
           "🤝 **Wohlwollend** bei Orgrimmar",
           "Neues Reittier: **[Himmelswindschreiter](https://www.wowhead.com/forever/de/search?q=Himmelswindschreiter)**",
-          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**"
+          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**",
+          "🗝️ **[Untere Schwarzfelsspitze](https://www.wowhead.com/forever/de/search?q=Untere%20Schwarzfelsspitze)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Druid",
-          "level": 54
+          "level": 56
         }
       },
       "eu:blck-jck": {
@@ -26549,6 +26593,7 @@
     "Apprentice's Shirt": "Lehrlingshemd",
     "Aquadynamic Fish Lens": "Aquadynamische Fischlinse",
     "Aquarius Belt": "Wassermann-Gürtel",
+    "Arachnid Gloves of the Champion": "Arachnidenhandschuhe des Champions",
     "Arcane": "Arkan",
     "Arcane Blast": "Arkanschlag",
     "Arcane Concentration": "Arkane Konzentration",
@@ -26573,6 +26618,7 @@
     "Armor": "Rüstung",
     "Armor of the Fang": "Rüstung des Giftzahns",
     "Arms": "Waffen",
+    "Armswake Cloak": "Armswake-Umhang",
     "Arrow": "Pfeil",
     "Assassination": "Meucheln",
     "Attack Power": "Angriffskraft",
@@ -26615,6 +26661,7 @@
     "Bard's Trousers of the Owl": "Bardenhose der Eule",
     "Barkeeper's Cloak": "Barkeeper-Umhang",
     "Barkshell Tunic": "Rindenhüllentunika",
+    "Barkskin Burrow": "Bau der Baumrindenfurbolgs",
     "Battered Cloak": "Ramponierter Umhang",
     "Battered Leather Pants": "Ramponierte Lederhose",
     "Battering Hammer of the Owl": "Beulenhammer der Eule",
@@ -26800,6 +26847,7 @@
     "Clobrok's Block Rock": "Clobroks Brockenfels",
     "Cloth": "Stoff",
     "Cloud of Chained Essence": "Wolke der angeketteten Essenz",
+    "Coal Miner Boots": "Kohlebergarbeiter Stiefel",
     "Cobalt Legguards": "Kobaltblaue Beinschützer",
     "Cobrahn's Grasp": "Kobrahns Griff",
     "Cold Blood": "Kaltblütigkeit",
@@ -26852,6 +26900,7 @@
     "Daewyn's Girdle": "Daewyns Gurt",
     "Dagger": "Dolch",
     "Dagmire Gauntlets": "Moorlandstulpen",
+    "Dark Iron Signet": "Abzeichen der Dunkeleisen",
     "Dark Leather Belt": "Dunkler Ledergürtel",
     "Dark Leather Boots": "Dunkle Lederstiefel",
     "Dark Leather Cloak": "Dunkler Lederumhang",
@@ -26978,6 +27027,7 @@
     "Embossed Leather Gloves": "Geprägte Lederhandschuhe",
     "Embossed Leather Vest": "Geprägte Lederweste",
     "Embossed Plate Boots of the Knight": "Geprägte Plattenstiefel des Ritters",
+    "Embrace of the Lycan": "Umarmung des Lykan",
     "Embrace of the Viper": "Umarmung der Viper",
     "Embroidered Leggings": "Bestickte Gamaschen",
     "Emerald Peak Spaulders": "Smaragdgipfelstulpen",
@@ -27033,6 +27083,7 @@
     "Excelsior Boots": "Exzelsiorstiefel",
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
+    "Expertise": "Waffenkunde",
     "Eye of the Storm": "Auge des Sturms",
     "Fade": "Verblassen",
     "Fallen Dragon's Scepter": "Szepter des gefallenen Drachen",
@@ -27190,6 +27241,7 @@
     "Guild Tabard": "Gildenwappenrock",
     "Gun": "Schusswaffe",
     "Hack and Slash": "Niedermetzeln",
+    "Hakkari Breastplate": "Hakkaribrustplatte",
     "Hall of Thanes": "Halle der Thanen",
     "Hamhock's Cleaver": "Hamhocks Spaltbeil",
     "Hammerbone": "Hammerknochen",
@@ -27409,6 +27461,7 @@
     "Loose Chain Bracers": "Lockere Kettenarmschienen",
     "Loose Chain Cloak": "Lockerer Kettenumhang",
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
+    "Lower Blackrock Spire": "Untere Schwarzfelsspitze",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
     "Lupine Leggings of the Monkey": "Werwolf-Gamaschen des Affen",
     "Lupine Mantle": "Werwolf-Mantel",
@@ -27541,6 +27594,8 @@
     "Outrunner's Cloak of the Whale": "Kundschafter-Umhang des Wals",
     "Outrunner's Gloves of the Gorilla": "Kundschafter-Handschuhe des Gorillas",
     "Outrunner's Legguards of the Eagle": "Kundschafter-Beinschützer des Adlers",
+    "Overlord Wyrmthalak": "Oberanführer Wyrmthalak",
+    "Overlord Wyrmthalak kills (Lower Blackrock Spire)": "Siege über Oberanführer Wyrmthalak (Untere Schwarzfelsspitze)",
     "Overlord's Vambraces of Stamina": "Oberherrenunterarmschienen der Ausdauer",
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
     "Pandemic": "Pandemie",
@@ -27586,6 +27641,8 @@
     "Primitive Walking Stick": "Primitiver Wanderstecken",
     "Princess Theradras": "Prinzessin Theradras",
     "Princess Theradras kills (Maraudon)": "Siege über Prinzessin Theradras (Maraudon)",
+    "Prismcharm": "Prisma-Talisman",
+    "Prismstone": "Prismastein",
     "Pristine Orcish Dagger": "Makelloser Orcdolch",
     "Privateer Musket": "Freibeutermuskete",
     "Professions": "Berufe",
@@ -27622,7 +27679,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28017,6 +28074,7 @@
     "Tundra Boots": "Tundra-Stiefel",
     "Tundra Ring of the Bandit": "Tundraring des Gorillas",
     "Tundra Ring of the Gorilla": "Tundraring des Gorillas",
+    "Tuskblade Halberd": "Hauerklingenhellebarde",
     "Tusken Helm": "Hauerhelm",
     "Tuskwrap Belt": "Hauerwickelgürtel",
     "Twilight Barrier": "Twilightbarriere",
@@ -28106,6 +28164,7 @@
     "Warsong Gulch victories": "Siege in der Kriegshymnenschlucht",
     "Warsong Outriders": "Warsongvorhut",
     "Warsong Sash": "Warsongschärpe",
+    "Warstrife Leggings": "Kriegszwist-Gamaschen",
     "Weapon": "Waffe",
     "Weapon Expertise": "Waffenexperte",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
@@ -28189,6 +28248,9 @@
         ],
         "Gnomeregan": "eu:krakmor-ci%C3%B3rdan",
         "Hall of Thanes": "us:steel-appeal",
+        "Lower Blackrock Spire": [
+          "eu:baumora-axiom"
+        ],
         "Maraudon": [
           "eu:baumora-axiom"
         ],
@@ -28222,6 +28284,14 @@
         "kind": "dungeon",
         "since": 1795486850,
         "what": "Blackrock Depths"
+      },
+      "dungeon|Lower Blackrock Spire": {
+        "keys": [
+          "eu:baumora-axiom"
+        ],
+        "kind": "dungeon",
+        "since": 1795571036,
+        "what": "Lower Blackrock Spire"
       }
     },
     "firsts_reposted": [],
@@ -29252,7 +29322,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795570070,
+  "saved_at": 1795571038,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
