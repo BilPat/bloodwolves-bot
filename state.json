@@ -15830,11 +15830,15 @@
         "7753": {
           "name": "Bloodspiller",
           "quality": "RARE"
+        },
+        "7756": {
+          "name": "Dog Training Gloves",
+          "quality": "RARE"
         }
       },
       "ilvl": 32,
       "last_explored": "Thousand Needles",
-      "last_login": 1795585813000,
+      "last_login": 1795641818000,
       "level": 36,
       "level_at": {
         "24": 1794866470,
@@ -16357,19 +16361,19 @@
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 28,
+        "critters": 30,
         "deaths": 40,
-        "drinks": 42,
+        "drinks": 43,
         "flights": 53,
-        "food": 31,
+        "food": 32,
         "health_potions": 45,
         "hearths": 24,
-        "killing_blows": 2265,
+        "killing_blows": 2296,
         "mana_potions": 13,
-        "mobs": 3976,
+        "mobs": 4094,
         "quests": 270
       },
-      "xp": 8842
+      "xp": 21418
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -18889,6 +18893,7 @@
     },
     "eu:ogmar-donnerhammer": {
       "achievements": {
+        "62006": "Novice Shaman",
         "728": "Explore Durotar"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/52935260-avatar.jpg",
@@ -18911,8 +18916,8 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795628107000,
-      "level": 24,
+      "last_login": 1795641573000,
+      "level": 25,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
@@ -18921,14 +18926,15 @@
         "19": 1795366451,
         "21": 1795551249,
         "23": 1795560035,
-        "24": 1795610577
+        "24": 1795610577,
+        "25": 1795641934
       },
       "professions": {
         "Cooking": 64,
         "First Aid": 46,
         "Fishing": 87,
         "Leatherworking": 39,
-        "Skinning": 150
+        "Skinning": 151
       },
       "race": "Orc",
       "raids": {},
@@ -19063,13 +19069,13 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2171,
+          "raw": 2246,
           "tier": 3
         },
         "Darkspear Trolls": {
-          "name": "Friendly",
-          "raw": 8887,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9275,
+          "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -19078,54 +19084,54 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2171,
+          "raw": 2246,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2171,
+          "raw": 2246,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12751,
+          "raw": 13326,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2171,
+          "raw": 2246,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4242,
+          "raw": 4392,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5976,
+          "raw": 6438,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2592,
+          "raw": 2830,
           "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 30,
-        "deaths": 15,
-        "drinks": 25,
-        "flights": 31,
-        "food": 37,
-        "health_potions": 11,
-        "hearths": 11,
-        "killing_blows": 1242,
-        "mobs": 1385,
-        "quests": 175
+        "critters": 43,
+        "deaths": 18,
+        "drinks": 36,
+        "flights": 35,
+        "food": 40,
+        "health_potions": 13,
+        "hearths": 12,
+        "killing_blows": 1381,
+        "mobs": 1567,
+        "quests": 185
       },
-      "xp": 16633
+      "xp": 25671
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -26811,6 +26817,21 @@
           "level": 38
         }
       },
+      "eu:ogmar-donnerhammer": {
+        "c": {
+          "name": "Ogmar",
+          "region": "eu",
+          "surname": "Donnerhammer"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Darkspear",
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 25
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -29619,7 +29640,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795641322,
+  "saved_at": 1795641935,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
