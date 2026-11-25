@@ -23687,9 +23687,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/218/29133018-avatar.jpg",
       "best_item": {
-        "id": 273807,
+        "id": 273041,
         "ilvl": null,
-        "name": "Demolition Girdle",
+        "name": "Slitherwrap Girdle",
         "quality": "RARE",
         "slot": "Waist"
       },
@@ -23721,7 +23721,7 @@
         },
         "63572": {
           "boss": "Shade of the Archmage",
-          "count": 1,
+          "count": 2,
           "instance": "City of Dalaran"
         },
         "63573": {
@@ -23748,6 +23748,10 @@
         },
         "273022": {
           "name": "Supple Bellyskin Leggings",
+          "quality": "RARE"
+        },
+        "273041": {
+          "name": "Slitherwrap Girdle",
           "quality": "RARE"
         },
         "273804": {
@@ -23785,7 +23789,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795567979000,
+      "last_login": 1795581892000,
       "level": 34,
       "level_at": {
         "29": 1795218860,
@@ -23913,7 +23917,7 @@
         },
         "Kirin Tor": {
           "name": "Friendly",
-          "raw": 4306,
+          "raw": 5422,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -23936,17 +23940,17 @@
       "stats": {
         "critters": 18,
         "deaths": 49,
-        "drinks": 14,
+        "drinks": 15,
         "flights": 55,
-        "food": 12,
+        "food": 14,
         "health_potions": 22,
-        "hearths": 35,
-        "killing_blows": 2022,
+        "hearths": 37,
+        "killing_blows": 2090,
         "mana_potions": 4,
-        "mobs": 3488,
-        "quests": 322
+        "mobs": 3673,
+        "quests": 325
       },
-      "xp": 35961
+      "xp": 58278
     },
     "us:devil-latterday": {
       "achievements": {
@@ -27087,6 +27091,7 @@
     "Eye of the Storm": "Auge des Sturms",
     "Fade": "Verblassen",
     "Fallen Dragon's Scepter": "Szepter des gefallenen Drachen",
+    "Fallen Guard's Pendant": "Anhänger des gefallenen Wächters",
     "Fallenroot Longbow": "Langbogen der Leidbringer",
     "Farmer's Shovel": "Bauernschaufel",
     "Featherbead Bracers": "Federleichte Armschienen",
@@ -27679,7 +27684,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29322,7 +29327,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795581624,
+  "saved_at": 1795582520,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
