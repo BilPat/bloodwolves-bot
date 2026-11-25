@@ -22964,7 +22964,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795592681000,
+      "last_login": 1795598360000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -22980,7 +22980,7 @@
         "46": 1795593290
       },
       "professions": {
-        "Blacksmithing": 170,
+        "Blacksmithing": 185,
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
@@ -23005,6 +23005,10 @@
           {
             "id": 1999,
             "name": "Golden Scale Leggings"
+          },
+          {
+            "id": 5316,
+            "name": "Heavy Mithril Gauntlet"
           },
           {
             "id": 1798,
@@ -23129,6 +23133,10 @@
           {
             "id": 3971,
             "name": "Iridescent Hammer"
+          },
+          {
+            "id": 5312,
+            "name": "Solid Sharpening Stone"
           },
           {
             "id": 5339,
@@ -23425,9 +23433,14 @@
           "raw": 3060,
           "tier": 4
         },
+        "Cenarion Circle": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8230,
+          "raw": 8248,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -23462,7 +23475,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8668,
+          "raw": 8743,
           "tier": 4
         },
         "Powderfuse": {
@@ -23477,12 +23490,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7563,
+          "raw": 7582,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21338,
+          "raw": 21357,
           "tier": 6
         }
       },
@@ -23491,16 +23504,16 @@
         "critters": 115,
         "deaths": 60,
         "drinks": 29,
-        "flights": 105,
+        "flights": 106,
         "food": 62,
         "health_potions": 39,
-        "hearths": 47,
+        "hearths": 48,
         "killing_blows": 3567,
         "mana_potions": 2,
         "mobs": 7992,
-        "quests": 494
+        "quests": 495
       },
-      "xp": 7862
+      "xp": 12946
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -27223,6 +27236,7 @@
     "Enchant Cloak - Resistance": "Umhang - Widerstand",
     "Enchant Gloves - Agility": "Handschuhe - Beweglichkeit",
     "Enchant Shield - Greater Stamina": "Schild - Große Ausdauer",
+    "Enchant Weapon - Recovery": "Waffe - Erholung",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance": "Durchhaltevermögen",
@@ -29472,7 +29486,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795598287,
+  "saved_at": 1795599040,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
