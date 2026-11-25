@@ -2561,7 +2561,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795614476000,
+      "last_login": 1795636308000,
       "level": 20,
       "level_at": {
         "13": 1794866470,
@@ -2577,7 +2577,7 @@
         "First Aid": 50,
         "Fishing": 116,
         "Mining": 85,
-        "Skinning": 138
+        "Skinning": 141
       },
       "race": "Troll",
       "raids": {},
@@ -2714,6 +2714,11 @@
           "raw": 840,
           "tier": 3
         },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Gadgetzan": {
           "name": "Neutral",
           "raw": 840,
@@ -2748,17 +2753,17 @@
       "spec": "Beast Mastery",
       "stats": {
         "critters": 16,
-        "deaths": 12,
+        "deaths": 24,
         "drinks": 2,
-        "flights": 24,
-        "food": 22,
+        "flights": 28,
+        "food": 23,
         "health_potions": 6,
-        "hearths": 12,
-        "killing_blows": 1059,
-        "mobs": 1463,
-        "quests": 96
+        "hearths": 15,
+        "killing_blows": 1072,
+        "mobs": 1473,
+        "quests": 100
       },
-      "xp": 11693
+      "xp": 22158
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -7830,7 +7835,7 @@
       },
       "ilvl": 14,
       "last_explored": "The Barrens",
-      "last_login": 1795633220000,
+      "last_login": 1795636139000,
       "level": 26,
       "level_at": {
         "21": 1794866470,
@@ -28175,7 +28180,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29813,7 +29818,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795635561,
+  "saved_at": 1795636449,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
