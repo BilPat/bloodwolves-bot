@@ -25165,7 +25165,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795568840000,
+      "last_login": 1795575166000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -25761,16 +25761,16 @@
         "critters": 184,
         "deaths": 28,
         "drinks": 2,
-        "flights": 127,
+        "flights": 128,
         "food": 163,
         "health_potions": 42,
         "hearths": 75,
         "honorable_kills": 1,
-        "killing_blows": 2809,
-        "mobs": 6152,
+        "killing_blows": 2810,
+        "mobs": 6153,
         "quests": 331
       },
-      "xp": 31203
+      "xp": 31445
     },
     "us:whizz-aard": {
       "achievements": {
@@ -29322,7 +29322,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795574509,
+  "saved_at": 1795575250,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
