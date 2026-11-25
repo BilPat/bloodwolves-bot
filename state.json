@@ -27915,7 +27915,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28992,7 +28992,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 40,
+        "level": 41,
         "name": "Thalia",
         "rank": 5,
         "region": "eu",
@@ -29064,7 +29064,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 55,
+        "level": 56,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -29073,7 +29073,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Khaladin",
         "rank": 4,
         "region": "eu",
@@ -29145,7 +29145,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 45,
+        "level": 46,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -29253,7 +29253,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 32,
+        "level": 33,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -29370,7 +29370,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 36,
         "name": "Lazy",
         "rank": 4,
         "region": "eu",
@@ -29433,7 +29433,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 23,
+        "level": 24,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -29496,7 +29496,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 9,
+        "level": 10,
         "name": "Ignatius",
         "rank": 1,
         "region": "eu",
@@ -29523,7 +29523,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Mamulo",
         "rank": 5,
         "region": "eu",
@@ -29543,7 +29543,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795604099,
+  "saved_at": 1795605350,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
