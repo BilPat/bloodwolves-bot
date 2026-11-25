@@ -12260,6 +12260,202 @@
       },
       "xp": 3112
     },
+    "eu:ignatius-glattsteyn": {
+      "achievements": {},
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/82/86210642-avatar.jpg",
+      "best_item": {
+        "id": 3472,
+        "ilvl": 12,
+        "name": "Runed Copper Gauntlets",
+        "quality": "UNCOMMON",
+        "slot": "Hands"
+      },
+      "boss_kills": {},
+      "class": "Paladin",
+      "dungeons": {},
+      "first_seen": 1795569430,
+      "gear": {},
+      "ilvl": 4,
+      "last_explored": null,
+      "last_login": 1795568893000,
+      "level": 10,
+      "level_at": {
+        "10": 1795569430
+      },
+      "professions": {
+        "Blacksmithing": 36,
+        "Cooking": 2,
+        "First Aid": 23,
+        "Mining": 66
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Blacksmithing": [
+          {
+            "id": 1632,
+            "name": "Copper Chain Belt"
+          },
+          {
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 1798,
+            "name": "Rough Weightstone"
+          },
+          {
+            "id": 1633,
+            "name": "Copper Chain Pants"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1652,
+            "name": "Copper Shortsword"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1855,
+            "name": "Copper Chain Boots"
+          },
+          {
+            "id": 1856,
+            "name": "Rough Grinding Stone"
+          },
+          {
+            "id": 4910,
+            "name": "Copper Dagger"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 54693,
+            "name": "Strange Copper Boots"
+          },
+          {
+            "id": 1858,
+            "name": "Runed Copper Gauntlets"
+          },
+          {
+            "id": 5338,
+            "name": "Copper Claymore"
+          },
+          {
+            "id": 1850,
+            "name": "Copper Battle Axe"
+          },
+          {
+            "id": 1646,
+            "name": "Copper Mace"
+          },
+          {
+            "id": 54212,
+            "name": "Copper Rod"
+          },
+          {
+            "id": 1859,
+            "name": "Runed Copper Pants"
+          },
+          {
+            "id": 1651,
+            "name": "Copper Axe"
+          }
+        ],
+        "Cooking": [
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 1570,
+            "name": "Mining"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 350,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Neutral",
+          "raw": 2081,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Neutral",
+          "raw": 2081,
+          "tier": 3
+        },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 581,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 7385,
+          "tier": 4
+        }
+      },
+      "spec": "Protection",
+      "stats": {
+        "deaths": 5,
+        "drinks": 1,
+        "food": 3,
+        "hearths": 6,
+        "killing_blows": 248,
+        "mobs": 280,
+        "quests": 49
+      },
+      "xp": 6952
+    },
     "eu:kamah-suhtrah": {
       "achievements": {
         "61997": "Novice Paladin",
@@ -13585,8 +13781,8 @@
       },
       "ilvl": 28,
       "last_explored": "Durotar",
-      "last_login": 1795517340000,
-      "level": 33,
+      "last_login": 1795569142000,
+      "level": 34,
       "level_at": {
         "27": 1794866470,
         "28": 1795022064,
@@ -13594,7 +13790,8 @@
         "30": 1795269322,
         "31": 1795310685,
         "32": 1795394361,
-        "33": 1795517658
+        "33": 1795517658,
+        "34": 1795569430
       },
       "professions": {
         "Cooking": 27,
@@ -13823,7 +14020,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10947,
+          "raw": 11116,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -13858,7 +14055,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14091,
+          "raw": 14260,
           "tier": 5
         },
         "Powderfuse": {
@@ -13873,30 +14070,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9992,
+          "raw": 10161,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 4183,
+          "raw": 4858,
           "tier": 4
         }
       },
       "spec": "Arcane",
       "stats": {
         "critters": 25,
-        "deaths": 14,
-        "drinks": 752,
-        "flights": 77,
-        "food": 275,
-        "health_potions": 4,
-        "hearths": 26,
-        "killing_blows": 1931,
-        "mana_potions": 4,
-        "mobs": 3627,
-        "quests": 230
+        "deaths": 15,
+        "drinks": 805,
+        "flights": 78,
+        "food": 309,
+        "health_potions": 7,
+        "hearths": 27,
+        "killing_blows": 2084,
+        "mana_potions": 5,
+        "mobs": 3871,
+        "quests": 237
       },
-      "xp": 22009
+      "xp": 11794
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -24925,7 +25122,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795561608000,
+      "last_login": 1795568840000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -25485,11 +25682,6 @@
           "raw": 7603,
           "tier": 4
         },
-        "High Order": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Ironforge": {
           "name": "Friendly",
           "raw": 8652,
@@ -25526,7 +25718,7 @@
         "critters": 184,
         "deaths": 28,
         "drinks": 2,
-        "flights": 126,
+        "flights": 127,
         "food": 163,
         "health_potions": 42,
         "hearths": 75,
@@ -26631,6 +26823,7 @@
     "Cooking Recipes known": "Bekannte Kochrezepte",
     "Cooking skill": "Kochfertigkeit",
     "Copper Chain Belt": "Kupferner Kettengürtel",
+    "Copper Mace": "Kupferstreitkolben",
     "Coral Band of the Boar": "Korallenband des Ebers",
     "Coup de Grace": "Gnadenstoß",
     "Courier's Clasp": "Schnallengürtel des Kuriers",
@@ -27213,6 +27406,7 @@
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
     "Loose Chain Belt": "Lockerer Kettengürtel",
+    "Loose Chain Bracers": "Lockere Kettenarmschienen",
     "Loose Chain Cloak": "Lockerer Kettenumhang",
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
@@ -27505,6 +27699,7 @@
     "Rough Bronze Cuirass": "Rauer bronzener Kürass",
     "Rough Bronze Leggings": "Raue bronzene Gamaschen",
     "Rough Bronze Shoulders": "Raue bronzene Schultern",
+    "Rough Copper Vest": "Raue Kupferweste",
     "Rough-hewn Kodo Leggings": "Grobgehauene Kodogamaschen",
     "Royal Gloves of the Elder": "Königliche Handschuhe des Ältesten",
     "Royal Mallet of the Sorcerer": "Königlicher Schlaghammer des Zauberers",
@@ -27948,6 +28143,7 @@
     "World Honorable Kills": "Weltweite ehrenhafte Siege",
     "World Killing Blows": "Todesstöße weltweit",
     "Worn Greatsword": "Abgenutztes Großschwert",
+    "Worn Heater Shield": "Abgenutzter Langschild",
     "Worn Hide Cloak": "Abgenutzter Balgumhang",
     "Worn Large Shield": "Abgenutzter großer Schild",
     "Worn Leather Belt": "Abgenutzter Ledergürtel",
@@ -28220,6 +28416,9 @@
       "mounts": {}
     },
     "eu:huli-muli": {
+      "mounts": {}
+    },
+    "eu:ignatius-glattsteyn": {
       "mounts": {}
     },
     "eu:kamah-suhtrah": {
@@ -29053,7 +29252,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795568337,
+  "saved_at": 1795569431,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -30257,6 +30456,16 @@
           "quests": 41
         },
         "xp": 3112
+      },
+      "eu:ignatius-glattsteyn": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
       },
       "eu:kamah-suhtrah": {
         "achievements": 9,
