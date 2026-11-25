@@ -6344,11 +6344,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/228/14176740-avatar.jpg",
       "best_item": {
-        "id": 2032,
-        "ilvl": 36,
-        "name": "Gallan Cuffs",
-        "quality": "UNCOMMON",
-        "slot": "Wrist"
+        "id": 253985,
+        "ilvl": null,
+        "name": "Filigreed Shining Circlet",
+        "quality": "RARE",
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -6450,8 +6450,8 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795564908000,
-      "level": 32,
+      "last_login": 1795612757000,
+      "level": 33,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
@@ -6461,13 +6461,14 @@
         "27": 1795312451,
         "29": 1795467305,
         "30": 1795481938,
-        "32": 1795562697
+        "32": 1795562697,
+        "33": 1795613257
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 252,
+        "Herbalism": 254,
         "Tailoring": 203
       },
       "race": "Undead",
@@ -6479,92 +6480,84 @@
             "name": "Crispy Bat Wing"
           },
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 3931,
-            "name": "Dig Rat Stew"
-          },
-          {
-            "id": 1543,
-            "name": "Crab Cake"
-          },
-          {
-            "id": 13375,
-            "name": "Sagefish Delight"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 11997,
-            "name": "Spider Sausage"
-          },
-          {
-            "id": 4359,
-            "name": "Bristle Whisker Catfish"
-          },
-          {
-            "id": 4355,
-            "name": "Longjaw Mud Snapper"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
             "id": 1875,
             "name": "Curiously Tasty Omelet"
-          },
-          {
-            "id": 13344,
-            "name": "Smoked Sagefish"
-          },
-          {
-            "id": 1902,
-            "name": "Hot Lion Chops"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
-            "id": 3932,
-            "name": "Crispy Lizard Tail"
-          },
-          {
-            "id": 3930,
-            "name": "Strider Stew"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
           },
           {
             "id": 1901,
             "name": "Big Bear Steak"
           },
           {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
+            "id": 1902,
+            "name": "Hot Lion Chops"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
           },
           {
             "id": 1535,
             "name": "Charred Wolf Meat"
           },
           {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 11997,
+            "name": "Spider Sausage"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
+          },
+          {
+            "id": 3930,
+            "name": "Strider Stew"
+          },
+          {
+            "id": 3931,
+            "name": "Dig Rat Stew"
+          },
+          {
+            "id": 3932,
+            "name": "Crispy Lizard Tail"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
             "id": 4354,
             "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 3963,
@@ -6573,64 +6566,72 @@
           {
             "id": 3964,
             "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           }
         ],
         "First Aid": [
           {
-            "id": 4417,
-            "name": "Anti-Venom"
-          },
-          {
-            "id": 1839,
-            "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
-            "id": 54193,
-            "name": "Healing Potion"
+            "id": 4414,
+            "name": "Silk Bandage"
           },
           {
             "id": 4415,
             "name": "Heavy Silk Bandage"
           },
           {
-            "id": 1840,
-            "name": "Wool Bandage"
-          },
-          {
-            "id": 4414,
-            "name": "Silk Bandage"
-          },
-          {
-            "id": 5767,
-            "name": "Mageweave Bandage"
-          },
-          {
-            "id": 55747,
-            "name": "Simple Poultice"
+            "id": 4417,
+            "name": "Anti-Venom"
           },
           {
             "id": 1838,
             "name": "Linen Bandage"
           },
           {
-            "id": 55743,
-            "name": "Woolen Tourniquet"
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
           },
           {
             "id": 1841,
             "name": "Heavy Wool Bandage"
+          },
+          {
+            "id": 5767,
+            "name": "Mageweave Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
+          },
+          {
+            "id": 55743,
+            "name": "Woolen Tourniquet"
+          },
+          {
+            "id": 55747,
+            "name": "Simple Poultice"
           }
         ],
         "Fishing": [
@@ -6663,200 +6664,20 @@
         ],
         "Tailoring": [
           {
-            "id": 2362,
-            "name": "Red Linen Robe"
+            "id": 4408,
+            "name": "Stylish Blue Shirt"
           },
           {
-            "id": 2396,
-            "name": "Boots of the Enchanter"
-          },
-          {
-            "id": 2387,
-            "name": "Heavy Woolen Pants"
-          },
-          {
-            "id": 4852,
-            "name": "Earthen Vest"
-          },
-          {
-            "id": 2383,
-            "name": "Soft-soled Linen Boots"
-          },
-          {
-            "id": 55473,
-            "name": "Filigreed Shining Circlet"
-          },
-          {
-            "id": 4853,
-            "name": "Azure Silk Belt"
-          },
-          {
-            "id": 55433,
-            "name": "Filigreed Flame Gown"
-          },
-          {
-            "id": 3973,
-            "name": "Pearl-clasped Cloak"
-          },
-          {
-            "id": 2386,
-            "name": "Reinforced Woolen Shoulders"
-          },
-          {
-            "id": 2359,
-            "name": "Bolt of Linen Cloth"
-          },
-          {
-            "id": 2408,
-            "name": "Brown Linen Pants"
-          },
-          {
-            "id": 2398,
-            "name": "Icy Cloak"
-          },
-          {
-            "id": 4849,
-            "name": "Azure Silk Pants"
-          },
-          {
-            "id": 6578,
-            "name": "Simple Kilt"
-          },
-          {
-            "id": 2388,
-            "name": "Phoenix Pants"
-          },
-          {
-            "id": 2376,
-            "name": "Bolt of Silk Cloth"
-          },
-          {
-            "id": 4848,
-            "name": "Linen Belt"
-          },
-          {
-            "id": 6624,
-            "name": "Tuxedo Jacket"
-          },
-          {
-            "id": 4019,
-            "name": "Red Linen Bag"
-          },
-          {
-            "id": 2381,
-            "name": "Heavy Woolen Gloves"
-          },
-          {
-            "id": 55453,
-            "name": "Filigreed Pearly Leggings"
-          },
-          {
-            "id": 55423,
-            "name": "Novice Arcanist's Sash"
-          },
-          {
-            "id": 2409,
-            "name": "Brown Linen Shirt"
-          },
-          {
-            "id": 2367,
-            "name": "Reinforced Linen Cape"
-          },
-          {
-            "id": 2363,
-            "name": "Linen Boots"
-          },
-          {
-            "id": 2372,
-            "name": "Green Woolen Vest"
-          },
-          {
-            "id": 2369,
-            "name": "Green Linen Shirt"
-          },
-          {
-            "id": 2391,
-            "name": "Spidersilk Boots"
-          },
-          {
-            "id": 4868,
-            "name": "Truefaith Gloves"
-          },
-          {
-            "id": 2380,
-            "name": "Handstitched Linen Britches"
-          },
-          {
-            "id": 2360,
-            "name": "Linen Cloak"
-          },
-          {
-            "id": 2373,
-            "name": "Woolen Boots"
-          },
-          {
-            "id": 4000,
-            "name": "Green Woolen Bag"
-          },
-          {
-            "id": 2370,
-            "name": "Bolt of Woolen Cloth"
+            "id": 4409,
+            "name": "Stylish Green Shirt"
           },
           {
             "id": 6577,
             "name": "Simple Linen Boots"
           },
           {
-            "id": 2374,
-            "name": "Gray Woolen Robe"
-          },
-          {
-            "id": 4708,
-            "name": "Simple Dress"
-          },
-          {
-            "id": 4303,
-            "name": "White Linen Robe"
-          },
-          {
-            "id": 2402,
-            "name": "Phoenix Gloves"
-          },
-          {
-            "id": 4001,
-            "name": "Linen Bag"
-          },
-          {
-            "id": 55484,
-            "name": "Black Slippers"
-          },
-          {
-            "id": 2365,
-            "name": "White Linen Shirt"
-          },
-          {
-            "id": 2375,
-            "name": "Gray Woolen Shirt"
-          },
-          {
-            "id": 4850,
-            "name": "Azure Silk Hood"
-          },
-          {
-            "id": 4020,
-            "name": "Red Woolen Bag"
-          },
-          {
-            "id": 2366,
-            "name": "Blue Linen Shirt"
-          },
-          {
-            "id": 4308,
-            "name": "Blue Overalls"
-          },
-          {
-            "id": 55367,
-            "name": "Woolen Reagent Bag"
+            "id": 6578,
+            "name": "Simple Kilt"
           },
           {
             "id": 4867,
@@ -6867,228 +6688,412 @@
             "name": "Crimson Silk Cloak"
           },
           {
-            "id": 55431,
-            "name": "Filigreed Pristine Gown"
-          },
-          {
-            "id": 2364,
-            "name": "Red Linen Shirt"
-          },
-          {
-            "id": 4021,
-            "name": "Lesser Wizard's Robe"
-          },
-          {
-            "id": 55482,
-            "name": "Frothing Slippers"
-          },
-          {
-            "id": 55481,
-            "name": "Gilded Slippers"
-          },
-          {
-            "id": 4715,
-            "name": "White Swashbuckler's Shirt"
-          },
-          {
-            "id": 2379,
-            "name": "Green Linen Bracers"
-          },
-          {
             "id": 4872,
             "name": "Crimson Silk Vest"
-          },
-          {
-            "id": 4003,
-            "name": "Small Silk Pack"
-          },
-          {
-            "id": 4305,
-            "name": "Red Linen Vest"
-          },
-          {
-            "id": 4311,
-            "name": "Greater Adept's Robe"
-          },
-          {
-            "id": 2368,
-            "name": "Barbaric Linen Vest"
-          },
-          {
-            "id": 4709,
-            "name": "White Woolen Dress"
-          },
-          {
-            "id": 55485,
-            "name": "Golden Slippers"
-          },
-          {
-            "id": 6620,
-            "name": "Tuxedo Pants"
-          },
-          {
-            "id": 55483,
-            "name": "Fiery Slippers"
-          },
-          {
-            "id": 2397,
-            "name": "Long Silken Cloak"
-          },
-          {
-            "id": 2385,
-            "name": "Double-stitched Woolen Shoulders"
-          },
-          {
-            "id": 2389,
-            "name": "Gloves of Meditation"
-          },
-          {
-            "id": 2399,
-            "name": "Spider Belt"
-          },
-          {
-            "id": 2405,
-            "name": "Formal White Shirt"
-          },
-          {
-            "id": 6581,
-            "name": "Black Mageweave Leggings"
-          },
-          {
-            "id": 2406,
-            "name": "Rich Purple Silk Shirt"
-          },
-          {
-            "id": 4714,
-            "name": "Red Swashbuckler's Shirt"
-          },
-          {
-            "id": 55424,
-            "name": "Novice Ardent's Sash"
-          },
-          {
-            "id": 55432,
-            "name": "Filigreed Silky Gown"
-          },
-          {
-            "id": 2384,
-            "name": "Red Woolen Boots"
-          },
-          {
-            "id": 6589,
-            "name": "Orange Mageweave Shirt"
-          },
-          {
-            "id": 55436,
-            "name": "Filigreed Shining Gown"
-          },
-          {
-            "id": 4855,
-            "name": "Crimson Silk Belt"
-          },
-          {
-            "id": 4851,
-            "name": "Silk Headband"
-          },
-          {
-            "id": 52648,
-            "name": "Faction Banner"
-          },
-          {
-            "id": 2395,
-            "name": "Azure Silk Vest"
-          },
-          {
-            "id": 4409,
-            "name": "Stylish Green Shirt"
-          },
-          {
-            "id": 4856,
-            "name": "Green Silken Shoulders"
-          },
-          {
-            "id": 4302,
-            "name": "Brown Linen Robe"
-          },
-          {
-            "id": 2393,
-            "name": "Enchanter's Cowl"
-          },
-          {
-            "id": 2401,
-            "name": "Stylish Red Shirt"
-          },
-          {
-            "id": 2378,
-            "name": "Heavy Linen Gloves"
-          },
-          {
-            "id": 2371,
-            "name": "Woolen Cape"
-          },
-          {
-            "id": 55486,
-            "name": "Radiant Slippers"
-          },
-          {
-            "id": 4306,
-            "name": "Blue Linen Robe"
-          },
-          {
-            "id": 4023,
-            "name": "Green Silk Pack"
-          },
-          {
-            "id": 6579,
-            "name": "Colorful Kilt"
-          },
-          {
-            "id": 2382,
-            "name": "Heavy Woolen Cloak"
-          },
-          {
-            "id": 55435,
-            "name": "Filigreed Pearly Gown"
           },
           {
             "id": 6609,
             "name": "Red Mageweave Shoulders"
           },
           {
-            "id": 4408,
-            "name": "Stylish Blue Shirt"
-          },
-          {
-            "id": 6596,
-            "name": "Mageweave Bag"
-          },
-          {
-            "id": 4002,
-            "name": "Woolen Bag"
-          },
-          {
-            "id": 2404,
-            "name": "Dark Silk Shirt"
-          },
-          {
-            "id": 2361,
-            "name": "Brown Linen Vest"
+            "id": 55423,
+            "name": "Novice Arcanist's Sash"
           },
           {
             "id": 6576,
             "name": "Simple Linen Pants"
           },
           {
+            "id": 6620,
+            "name": "Tuxedo Pants"
+          },
+          {
+            "id": 6624,
+            "name": "Tuxedo Jacket"
+          },
+          {
+            "id": 2397,
+            "name": "Long Silken Cloak"
+          },
+          {
+            "id": 2398,
+            "name": "Icy Cloak"
+          },
+          {
+            "id": 2399,
+            "name": "Spider Belt"
+          },
+          {
+            "id": 2401,
+            "name": "Stylish Red Shirt"
+          },
+          {
+            "id": 2402,
+            "name": "Phoenix Gloves"
+          },
+          {
+            "id": 2404,
+            "name": "Dark Silk Shirt"
+          },
+          {
+            "id": 2405,
+            "name": "Formal White Shirt"
+          },
+          {
+            "id": 2406,
+            "name": "Rich Purple Silk Shirt"
+          },
+          {
+            "id": 2408,
+            "name": "Brown Linen Pants"
+          },
+          {
+            "id": 2409,
+            "name": "Brown Linen Shirt"
+          },
+          {
+            "id": 6579,
+            "name": "Colorful Kilt"
+          },
+          {
+            "id": 6581,
+            "name": "Black Mageweave Leggings"
+          },
+          {
+            "id": 6589,
+            "name": "Orange Mageweave Shirt"
+          },
+          {
+            "id": 4848,
+            "name": "Linen Belt"
+          },
+          {
+            "id": 4849,
+            "name": "Azure Silk Pants"
+          },
+          {
+            "id": 4850,
+            "name": "Azure Silk Hood"
+          },
+          {
+            "id": 4851,
+            "name": "Silk Headband"
+          },
+          {
+            "id": 4852,
+            "name": "Earthen Vest"
+          },
+          {
+            "id": 4853,
+            "name": "Azure Silk Belt"
+          },
+          {
+            "id": 4855,
+            "name": "Crimson Silk Belt"
+          },
+          {
+            "id": 4856,
+            "name": "Green Silken Shoulders"
+          },
+          {
+            "id": 2359,
+            "name": "Bolt of Linen Cloth"
+          },
+          {
+            "id": 2360,
+            "name": "Linen Cloak"
+          },
+          {
+            "id": 2361,
+            "name": "Brown Linen Vest"
+          },
+          {
+            "id": 2362,
+            "name": "Red Linen Robe"
+          },
+          {
+            "id": 2363,
+            "name": "Linen Boots"
+          },
+          {
+            "id": 2364,
+            "name": "Red Linen Shirt"
+          },
+          {
+            "id": 2365,
+            "name": "White Linen Shirt"
+          },
+          {
+            "id": 2366,
+            "name": "Blue Linen Shirt"
+          },
+          {
+            "id": 2367,
+            "name": "Reinforced Linen Cape"
+          },
+          {
+            "id": 2368,
+            "name": "Barbaric Linen Vest"
+          },
+          {
+            "id": 2369,
+            "name": "Green Linen Shirt"
+          },
+          {
+            "id": 2370,
+            "name": "Bolt of Woolen Cloth"
+          },
+          {
+            "id": 2371,
+            "name": "Woolen Cape"
+          },
+          {
+            "id": 2372,
+            "name": "Green Woolen Vest"
+          },
+          {
+            "id": 2373,
+            "name": "Woolen Boots"
+          },
+          {
+            "id": 2374,
+            "name": "Gray Woolen Robe"
+          },
+          {
+            "id": 2375,
+            "name": "Gray Woolen Shirt"
+          },
+          {
+            "id": 2376,
+            "name": "Bolt of Silk Cloth"
+          },
+          {
             "id": 2377,
             "name": "Bolt of Mageweave"
+          },
+          {
+            "id": 2378,
+            "name": "Heavy Linen Gloves"
+          },
+          {
+            "id": 2379,
+            "name": "Green Linen Bracers"
+          },
+          {
+            "id": 2380,
+            "name": "Handstitched Linen Britches"
+          },
+          {
+            "id": 2381,
+            "name": "Heavy Woolen Gloves"
+          },
+          {
+            "id": 2382,
+            "name": "Heavy Woolen Cloak"
+          },
+          {
+            "id": 2383,
+            "name": "Soft-soled Linen Boots"
+          },
+          {
+            "id": 2384,
+            "name": "Red Woolen Boots"
+          },
+          {
+            "id": 2385,
+            "name": "Double-stitched Woolen Shoulders"
+          },
+          {
+            "id": 2386,
+            "name": "Reinforced Woolen Shoulders"
+          },
+          {
+            "id": 2387,
+            "name": "Heavy Woolen Pants"
+          },
+          {
+            "id": 2388,
+            "name": "Phoenix Pants"
+          },
+          {
+            "id": 2389,
+            "name": "Gloves of Meditation"
+          },
+          {
+            "id": 2391,
+            "name": "Spidersilk Boots"
+          },
+          {
+            "id": 2393,
+            "name": "Enchanter's Cowl"
+          },
+          {
+            "id": 2395,
+            "name": "Azure Silk Vest"
+          },
+          {
+            "id": 2396,
+            "name": "Boots of the Enchanter"
+          },
+          {
+            "id": 3973,
+            "name": "Pearl-clasped Cloak"
+          },
+          {
+            "id": 4000,
+            "name": "Green Woolen Bag"
+          },
+          {
+            "id": 4001,
+            "name": "Linen Bag"
+          },
+          {
+            "id": 4002,
+            "name": "Woolen Bag"
+          },
+          {
+            "id": 4003,
+            "name": "Small Silk Pack"
+          },
+          {
+            "id": 4019,
+            "name": "Red Linen Bag"
+          },
+          {
+            "id": 4020,
+            "name": "Red Woolen Bag"
+          },
+          {
+            "id": 4021,
+            "name": "Lesser Wizard's Robe"
+          },
+          {
+            "id": 4023,
+            "name": "Green Silk Pack"
+          },
+          {
+            "id": 4714,
+            "name": "Red Swashbuckler's Shirt"
+          },
+          {
+            "id": 4715,
+            "name": "White Swashbuckler's Shirt"
+          },
+          {
+            "id": 4868,
+            "name": "Truefaith Gloves"
+          },
+          {
+            "id": 4708,
+            "name": "Simple Dress"
+          },
+          {
+            "id": 4709,
+            "name": "White Woolen Dress"
+          },
+          {
+            "id": 6596,
+            "name": "Mageweave Bag"
+          },
+          {
+            "id": 4302,
+            "name": "Brown Linen Robe"
+          },
+          {
+            "id": 4303,
+            "name": "White Linen Robe"
           },
           {
             "id": 4304,
             "name": "Blue Linen Vest"
           },
           {
+            "id": 4305,
+            "name": "Red Linen Vest"
+          },
+          {
+            "id": 4306,
+            "name": "Blue Linen Robe"
+          },
+          {
+            "id": 4308,
+            "name": "Blue Overalls"
+          },
+          {
+            "id": 4311,
+            "name": "Greater Adept's Robe"
+          },
+          {
+            "id": 52648,
+            "name": "Faction Banner"
+          },
+          {
+            "id": 55424,
+            "name": "Novice Ardent's Sash"
+          },
+          {
+            "id": 55431,
+            "name": "Filigreed Pristine Gown"
+          },
+          {
+            "id": 55432,
+            "name": "Filigreed Silky Gown"
+          },
+          {
+            "id": 55433,
+            "name": "Filigreed Flame Gown"
+          },
+          {
+            "id": 55435,
+            "name": "Filigreed Pearly Gown"
+          },
+          {
+            "id": 55436,
+            "name": "Filigreed Shining Gown"
+          },
+          {
+            "id": 55453,
+            "name": "Filigreed Pearly Leggings"
+          },
+          {
+            "id": 55473,
+            "name": "Filigreed Shining Circlet"
+          },
+          {
+            "id": 55481,
+            "name": "Gilded Slippers"
+          },
+          {
+            "id": 55482,
+            "name": "Frothing Slippers"
+          },
+          {
+            "id": 55483,
+            "name": "Fiery Slippers"
+          },
+          {
+            "id": 55484,
+            "name": "Black Slippers"
+          },
+          {
+            "id": 55485,
+            "name": "Golden Slippers"
+          },
+          {
+            "id": 55486,
+            "name": "Radiant Slippers"
+          },
+          {
+            "id": 55489,
+            "name": "Earthen Silk Gloves"
+          },
+          {
             "id": 55366,
             "name": "Linen Reagent Bag"
+          },
+          {
+            "id": 55367,
+            "name": "Woolen Reagent Bag"
           }
         ]
       },
@@ -7100,17 +7105,17 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -7375,
+          "raw": -8375,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1822,
+          "raw": 2022,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5262,
+          "raw": 5387,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -7125,55 +7130,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1735,
+          "raw": 1835,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1735,
+          "raw": 1835,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6087,
+          "raw": 6212,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1735,
+          "raw": 1835,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3282,
+          "raw": 3382,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4345,
+          "raw": 4395,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13140,
+          "raw": 13190,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
         "critters": 37,
-        "deaths": 57,
-        "drinks": 165,
-        "flights": 102,
-        "food": 151,
+        "deaths": 62,
+        "drinks": 184,
+        "flights": 106,
+        "food": 154,
         "health_potions": 16,
         "hearths": 64,
-        "killing_blows": 1415,
-        "mana_potions": 48,
-        "mobs": 4137,
-        "quests": 237
+        "killing_blows": 1513,
+        "mana_potions": 54,
+        "mobs": 4246,
+        "quests": 243
       },
-      "xp": 32305
+      "xp": 15381
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -7200,7 +7205,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795591910000,
+      "last_login": 1795612972000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -24749,7 +24754,7 @@
       },
       "ilvl": 28,
       "last_explored": "Wetlands",
-      "last_login": 1795583704000,
+      "last_login": 1795613089000,
       "level": 33,
       "level_at": {
         "26": 1794965196,
@@ -25150,7 +25155,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16050,
+          "raw": 16062,
           "tier": 5
         },
         "Gadgetzan": {
@@ -25160,12 +25165,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7138,
+          "raw": 7151,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7356,
+          "raw": 7406,
           "tier": 4
         },
         "Kirin Tor": {
@@ -25173,14 +25178,9 @@
           "raw": 2358,
           "tier": 3
         },
-        "Ratchet": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9713,
+          "raw": 9726,
           "tier": 5
         }
       },
@@ -25189,16 +25189,16 @@
         "critters": 67,
         "deaths": 44,
         "drinks": 122,
-        "flights": 63,
+        "flights": 64,
         "food": 63,
         "health_potions": 62,
-        "hearths": 27,
-        "killing_blows": 1161,
+        "hearths": 28,
+        "killing_blows": 1162,
         "mana_potions": 60,
-        "mobs": 3593,
-        "quests": 280
+        "mobs": 3594,
+        "quests": 281
       },
-      "xp": 14153
+      "xp": 15907
     },
     "us:steel-appeal": {
       "achievements": {
@@ -27275,7 +27275,7 @@
     "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
     "Druid": "Druide",
     "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
-    "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
+    "Dual Wield Specialization": "Beidhändigkeits-Spezialisierung",
     "Duels lost": "Duelle verloren",
     "Duels won": "Duelle gewonnen",
     "Dull Sawblade": "Stumpfes Sägeblatt",
@@ -27374,6 +27374,7 @@
     "Executioner Mantle": "Henkermantel",
     "Executor Staff": "Stab des Exekutors",
     "Expertise": "Waffenkunde",
+    "Exploding Shot": "Explosivgeschoss",
     "Eye of the Storm": "Auge des Sturms",
     "Fade": "Verblassen",
     "Fallen Dragon's Scepter": "Szepter des gefallenen Drachen",
@@ -27975,7 +27976,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29603,7 +29604,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795612570,
+  "saved_at": 1795613258,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
