@@ -13851,7 +13851,8 @@
     "eu:khaladin-ronen": {
       "achievements": {
         "61994": "Novice Mage",
-        "728": "Explore Durotar"
+        "728": "Explore Durotar",
+        "750": "Explore The Barrens"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/7/6087943-avatar.jpg",
       "best_item": {
@@ -13921,8 +13922,8 @@
         }
       },
       "ilvl": 28,
-      "last_explored": "Durotar",
-      "last_login": 1795602031000,
+      "last_explored": "The Barrens",
+      "last_login": 1795649952000,
       "level": 34,
       "level_at": {
         "27": 1794866470,
@@ -14223,18 +14224,18 @@
       "spec": "Arcane",
       "stats": {
         "critters": 25,
-        "deaths": 16,
-        "drinks": 816,
-        "flights": 78,
-        "food": 320,
-        "health_potions": 8,
+        "deaths": 17,
+        "drinks": 817,
+        "flights": 80,
+        "food": 322,
+        "health_potions": 9,
         "hearths": 28,
-        "killing_blows": 2109,
+        "killing_blows": 2110,
         "mana_potions": 5,
-        "mobs": 3895,
+        "mobs": 3896,
         "quests": 239
       },
-      "xp": 21217
+      "xp": 22020
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -26860,6 +26861,20 @@
           "level": 38
         }
       },
+      "eu:khaladin-ronen": {
+        "c": {
+          "name": "Khaladin",
+          "region": "eu",
+          "surname": "Ronen"
+        },
+        "lines": [
+          "🎖️ [Erkundet Brachland](https://www.wowhead.com/forever/de/achievement=750)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 34
+        }
+      },
       "eu:ogmar-donnerhammer": {
         "c": {
           "name": "Ogmar",
@@ -28061,7 +28076,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29722,7 +29737,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795649985,
+  "saved_at": 1795650890,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
