@@ -15489,10 +15489,10 @@
           "quality": "RARE"
         }
       },
-      "ilvl": 31,
+      "ilvl": 32,
       "last_explored": "Durotar",
-      "last_login": 1795559934000,
-      "level": 34,
+      "last_login": 1795567163000,
+      "level": 35,
       "level_at": {
         "24": 1794866470,
         "25": 1794877050,
@@ -15500,14 +15500,15 @@
         "28": 1795143299,
         "29": 1795215289,
         "33": 1795264289,
-        "34": 1795467305
+        "34": 1795467305,
+        "35": 1795568335
       },
       "professions": {
         "Cooking": 150,
         "First Aid": 65,
         "Fishing": 112,
-        "Leatherworking": 130,
-        "Skinning": 245
+        "Leatherworking": 142,
+        "Skinning": 246
       },
       "race": "Troll",
       "raids": {},
@@ -15899,12 +15900,12 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -7250,
+          "raw": -9250,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1939,
+          "raw": 2419,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -15924,12 +15925,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1847,
+          "raw": 2087,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1847,
+          "raw": 2087,
           "tier": 3
         },
         "Orgrimmar": {
@@ -15939,12 +15940,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1847,
+          "raw": 2087,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3501,
+          "raw": 3741,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -15963,16 +15964,16 @@
         "critters": 28,
         "deaths": 38,
         "drinks": 39,
-        "flights": 48,
+        "flights": 50,
         "food": 28,
         "health_potions": 45,
         "hearths": 23,
-        "killing_blows": 2119,
+        "killing_blows": 2136,
         "mana_potions": 12,
-        "mobs": 3763,
-        "quests": 254
+        "mobs": 3780,
+        "quests": 260
       },
-      "xp": 62195
+      "xp": 15102
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -23544,7 +23545,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795563975000,
+      "last_login": 1795567979000,
       "level": 34,
       "level_at": {
         "29": 1795218860,
@@ -27223,6 +27224,7 @@
     "Lyn the Ignored": "Lyn der Ignorierte",
     "Lyn the Ignored Kills (City of Dalaran)": "Siege über Lyn der Ignorierte (Dalaran)",
     "Mace": "Streitkolben",
+    "Maelstrom Weapon": "Waffe des Mahlstroms",
     "Mage": "Magier",
     "Mage Portals taken": "Benutzte Magierportale",
     "Mage portal taken most": "Am häufigsten benutztes Magierportal",
@@ -29051,7 +29053,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795566995,
+  "saved_at": 1795568337,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
