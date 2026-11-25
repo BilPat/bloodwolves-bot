@@ -23045,7 +23045,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795603145000,
+      "last_login": 1795616817000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -23065,7 +23065,7 @@
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 231
+        "Mining": 232
       },
       "race": "Undead",
       "raids": {},
@@ -23577,19 +23577,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 115,
-        "deaths": 60,
-        "drinks": 31,
+        "critters": 117,
+        "deaths": 61,
+        "drinks": 36,
         "flights": 106,
-        "food": 64,
+        "food": 65,
         "health_potions": 41,
-        "hearths": 48,
-        "killing_blows": 3585,
+        "hearths": 49,
+        "killing_blows": 3628,
         "mana_potions": 2,
-        "mobs": 8011,
+        "mobs": 8149,
         "quests": 495
       },
-      "xp": 21908
+      "xp": 37988
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -24248,7 +24248,7 @@
       },
       "ilvl": 23,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795589533000,
+      "last_login": 1795616567000,
       "level": 30,
       "level_at": {
         "18": 1795149590,
@@ -24605,11 +24605,6 @@
           "raw": 2142,
           "tier": 3
         },
-        "Ratchet": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Silverwing Sentinels": {
           "name": "Neutral",
           "raw": 150,
@@ -24629,7 +24624,7 @@
         "flights": 28,
         "food": 46,
         "health_potions": 13,
-        "hearths": 11,
+        "hearths": 12,
         "honorable_kills": 108,
         "killing_blows": 2310,
         "mana_potions": 1,
@@ -25373,7 +25368,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795588396000,
+      "last_login": 1795616470000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -25387,8 +25382,8 @@
         "Blacksmithing": 169,
         "Cooking": 300,
         "First Aid": 216,
-        "Fishing": 216,
-        "Mining": 239
+        "Fishing": 225,
+        "Mining": 240
       },
       "race": "Night Elf",
       "raids": {},
@@ -25910,7 +25905,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17350,
+          "raw": 17356,
           "tier": 5
         },
         "Everlook": {
@@ -25930,17 +25925,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7616,
+          "raw": 7622,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8665,
+          "raw": 8671,
           "tier": 4
         },
         "Kirin Tor": {
           "name": "Neutral",
-          "raw": 1716,
+          "raw": 1816,
           "tier": 3
         },
         "Magram Clan Centaur": {
@@ -25960,7 +25955,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10236,
+          "raw": 10261,
           "tier": 5
         }
       },
@@ -25969,16 +25964,16 @@
         "critters": 184,
         "deaths": 28,
         "drinks": 2,
-        "flights": 129,
-        "food": 169,
+        "flights": 133,
+        "food": 173,
         "health_potions": 42,
-        "hearths": 77,
+        "hearths": 79,
         "honorable_kills": 1,
-        "killing_blows": 2858,
-        "mobs": 6340,
-        "quests": 332
+        "killing_blows": 2866,
+        "mobs": 6347,
+        "quests": 336
       },
-      "xp": 38513
+      "xp": 50971
     },
     "us:whizz-aard": {
       "achievements": {
@@ -26838,6 +26833,20 @@
           "class": "Hunter",
           "level": 30
         }
+      },
+      "us:steel-appeal": {
+        "c": {
+          "name": "steel",
+          "region": "us",
+          "surname": "appeal"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 225"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 36
+        }
       }
     },
     "last": "2026-11-24"
@@ -27010,6 +27019,7 @@
     "Blood Craze": "Blutwahnsinn",
     "Blood Frenzy": "Blutraserei",
     "Blood Splatter": "Blutspritzer",
+    "Bloodforged Shoulder Pads of Magic": "Blutgeschmiedete Schulterpolster der Magie",
     "Bloodied Chestwraps": "Blutige Brustwickel",
     "Bloodmaster's Ring": "Blutmeisterring",
     "Bloodsail Buccaneers": "Blutsegelbukaniere",
@@ -27087,6 +27097,7 @@
     "Calico Cloak": "Kattunumhang",
     "Call of Flame": "Ruf der Flamme",
     "Camouflaged Tunic": "Tarntunika",
+    "Camper's Lure": "Köder des Lagerers",
     "Canvas Shoulderpads": "Segeltuchschulterpolster",
     "Cape of the Brotherhood": "Cape der Bruderschaft",
     "Carapace of Tuten'kash": "Knochenpanzer von Tuten'kash",
@@ -29599,7 +29610,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795616190,
+  "saved_at": 1795616907,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
