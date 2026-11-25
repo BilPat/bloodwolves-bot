@@ -9694,7 +9694,7 @@
       },
       "ilvl": 19,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795630139000,
+      "last_login": 1795636932000,
       "level": 28,
       "level_at": {
         "26": 1794866470,
@@ -24849,7 +24849,7 @@
       },
       "ilvl": 28,
       "last_explored": "Wetlands",
-      "last_login": 1795633639000,
+      "last_login": 1795636898000,
       "level": 33,
       "level_at": {
         "26": 1794965196,
@@ -25280,15 +25280,15 @@
         "deaths": 47,
         "drinks": 122,
         "flights": 65,
-        "food": 63,
-        "health_potions": 65,
+        "food": 64,
+        "health_potions": 66,
         "hearths": 29,
-        "killing_blows": 1165,
+        "killing_blows": 1179,
         "mana_potions": 60,
-        "mobs": 3595,
+        "mobs": 3612,
         "quests": 285
       },
-      "xp": 24849
+      "xp": 29201
     },
     "us:steel-appeal": {
       "achievements": {
@@ -26732,317 +26732,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:alto-belli": {
-        "c": {
-          "name": "Alto",
-          "region": "eu",
-          "surname": "Belli"
-        },
-        "lines": [
-          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)",
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 32
-        }
-      },
-      "eu:barbariana-hunter": {
-        "c": {
-          "name": "Barbariana",
-          "region": "eu",
-          "surname": "Hunter"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 75"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 20
-        }
-      },
-      "eu:baumora-axiom": {
-        "c": {
-          "name": "Baumora",
-          "region": "eu",
-          "surname": "Axiom"
-        },
-        "lines": [
-          "📜 Neuer Beruf: **Erste Hilfe**",
-          "🤝 **Wohlwollend** bei Orgrimmar",
-          "Neues Reittier: **[Himmelswindschreiter](https://www.wowhead.com/forever/de/search?q=Himmelswindschreiter)**",
-          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**",
-          "🗝️ **[Untere Schwarzfelsspitze](https://www.wowhead.com/forever/de/search?q=Untere%20Schwarzfelsspitze)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 56
-        }
-      },
-      "eu:blck-jck": {
-        "c": {
-          "name": "Blck",
-          "region": "eu",
-          "surname": "Jck"
-        },
-        "lines": [
-          "🛠️ **Kochkunst** auf 75",
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 32
-        }
-      },
-      "eu:boreas-donnerrufer": {
-        "c": {
-          "name": "Boreas",
-          "region": "eu",
-          "surname": "Donnerrufer"
-        },
-        "lines": [
-          "🛠️ **Alchemie** auf 150",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 25
-        }
-      },
-      "eu:christopher-kuhlumbus": {
-        "c": {
-          "name": "Christopher",
-          "region": "eu",
-          "surname": "Kuhlumbus"
-        },
-        "lines": [
-          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 26
-        }
-      },
-      "eu:efrye-frostheal": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostheal"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 32
-        }
-      },
-      "eu:kamah-suhtrah": {
-        "c": {
-          "name": "Kamah",
-          "region": "eu",
-          "surname": "Suhtrah"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "🎖️ [Journeyman Enchanter](https://www.wowhead.com/forever/de/achievement=62018)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 32
-        }
-      },
-      "eu:lagertha-graufuss": {
-        "c": {
-          "name": "Lagertha",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 22
-        }
-      },
-      "eu:lazy-quinn": {
-        "c": {
-          "name": "Lazy",
-          "region": "eu",
-          "surname": "Quinn"
-        },
-        "lines": [
-          "🛠️ **Lederverarbeitung** auf 150",
-          "🤝 **Wohlwollend** bei Donnerfels",
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 36
-        }
-      },
-      "eu:mamulo-sham%C3%A4sich": {
-        "c": {
-          "name": "Mamulo",
-          "region": "eu",
-          "surname": "Shamäsich"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
-          "🤝 **Wohlwollend** bei Orgrimmar"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 33
-        }
-      },
-      "eu:mia-graufuss": {
-        "c": {
-          "name": "Mia",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 17
-        }
-      },
-      "eu:ogmar-donnerhammer": {
-        "c": {
-          "name": "Ogmar",
-          "region": "eu",
-          "surname": "Donnerhammer"
-        },
-        "lines": [
-          "🛠️ **Kürschnerei** auf 150"
-        ],
-        "snap": {
-          "class": "Shaman",
-          "level": 24
-        }
-      },
-      "eu:quantino-pralino": {
-        "c": {
-          "name": "Quantino",
-          "region": "eu",
-          "surname": "Pralino"
-        },
-        "lines": [
-          "🛠️ **Lederverarbeitung** auf 150",
-          "🛠️ **Kürschnerei** auf 225",
-          "🎖️ [Erkundet Tausend Nadeln](https://www.wowhead.com/forever/de/achievement=846)",
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 36
-        }
-      },
-      "eu:ragnar-lodhoof": {
-        "c": {
-          "name": "Ragnar",
-          "region": "eu",
-          "surname": "Lodhoof"
-        },
-        "lines": [
-          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
-          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 34
-        }
-      },
-      "eu:thalgrim-tirisfal": {
-        "c": {
-          "name": "Thalgrim",
-          "region": "eu",
-          "surname": "Tirisfal"
-        },
-        "lines": [
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 30
-        }
-      },
-      "eu:thalia-mondrabe": {
-        "c": {
-          "name": "Thalia",
-          "region": "eu",
-          "surname": "Mondrabe"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Darkspear",
-          "🛠️ **Angeln** auf 150",
-          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 41
-        }
-      },
-      "eu:vlad-impalar": {
-        "c": {
-          "name": "Vlad",
-          "region": "eu",
-          "surname": "Impalar"
-        },
-        "lines": [
-          "🛠️ **Bergbau** auf 225",
-          "🗝️ **[Uldaman](https://www.wowhead.com/forever/de/search?q=Uldaman)** zum ersten Mal abgeschlossen",
-          "🛠️ **Kochkunst** auf 300"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 46
-        }
-      },
-      "us:devil-latterday": {
-        "c": {
-          "name": "devil",
-          "region": "us",
-          "surname": "latterday"
-        },
-        "lines": [
-          "🛠️ **Erste Hilfe** auf 150"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 30
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 225"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 36
-        }
-      }
-    },
-    "last": "2026-11-24"
+    "items": {},
+    "last": "2026-11-25"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -28180,7 +27871,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29818,7 +29509,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795636449,
+  "saved_at": 1795637684,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
