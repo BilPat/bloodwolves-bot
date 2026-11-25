@@ -5533,11 +5533,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/116/18969204-avatar.jpg",
       "best_item": {
-        "id": 273088,
+        "id": 252504,
         "ilvl": null,
-        "name": "Snake Eye Kaleidoscope",
+        "name": "Brawler's Leather Hood",
         "quality": "RARE",
-        "slot": "Neck"
+        "slot": "Head"
       },
       "boss_kills": {
         "15028": {
@@ -5558,6 +5558,10 @@
           "name": "Brawler's Leather Belt",
           "quality": "RARE"
         },
+        "252504": {
+          "name": "Brawler's Leather Hood",
+          "quality": "RARE"
+        },
         "273088": {
           "name": "Snake Eye Kaleidoscope",
           "quality": "RARE"
@@ -5573,22 +5577,23 @@
       },
       "ilvl": 19,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795623871000,
-      "level": 26,
+      "last_login": 1795628698000,
+      "level": 27,
       "level_at": {
         "21": 1794866470,
         "22": 1794947955,
         "23": 1795106395,
         "24": 1795365593,
         "25": 1795456457,
-        "26": 1795550068
+        "26": 1795550068,
+        "27": 1795629303
       },
       "professions": {
         "Cooking": 97,
         "First Aid": 135,
         "Fishing": 28,
-        "Leatherworking": 131,
-        "Skinning": 188
+        "Leatherworking": 132,
+        "Skinning": 189
       },
       "race": "Tauren",
       "raids": {},
@@ -5948,7 +5953,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5553,
+          "raw": 5578,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -5968,7 +5973,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8205,
+          "raw": 8230,
           "tier": 4
         },
         "Powderfuse": {
@@ -5983,12 +5988,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12740,
+          "raw": 12840,
           "tier": 5
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2897,
+          "raw": 2922,
           "tier": 3
         }
       },
@@ -5997,16 +6002,16 @@
         "critters": 20,
         "deaths": 7,
         "drinks": 78,
-        "flights": 31,
+        "flights": 33,
         "food": 104,
         "health_potions": 31,
-        "hearths": 29,
-        "killing_blows": 1418,
+        "hearths": 30,
+        "killing_blows": 1421,
         "mana_potions": 7,
-        "mobs": 1711,
-        "quests": 202
+        "mobs": 1714,
+        "quests": 209
       },
-      "xp": 33665
+      "xp": 2922
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -29671,7 +29676,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795628381,
+  "saved_at": 1795629309,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
