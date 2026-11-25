@@ -15036,11 +15036,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/19603806-avatar.jpg",
       "best_item": {
-        "id": 15336,
-        "ilvl": 27,
-        "name": "Wrangler's Leggings of the Tiger",
-        "quality": "UNCOMMON",
-        "slot": "Legs"
+        "id": 271212,
+        "ilvl": null,
+        "name": "Bloodied Chestwraps",
+        "quality": "RARE",
+        "slot": "Chest"
       },
       "boss_kills": {
         "15027": {
@@ -15086,7 +15086,7 @@
       },
       "ilvl": 14,
       "last_explored": "Mulgore",
-      "last_login": 1795379753000,
+      "last_login": 1795620251000,
       "level": 24,
       "level_at": {
         "23": 1794866470,
@@ -15108,12 +15108,40 @@
             "name": "Crispy Bat Wing"
           },
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
-            "id": 54504,
-            "name": "Tasty Raptor Bites"
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
           },
           {
             "id": 5149,
@@ -15124,36 +15152,8 @@
             "name": "Basic Campfire"
           },
           {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
-            "id": 3964,
-            "name": "Boiled Clams"
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           }
         ],
         "First Aid": [
@@ -15162,28 +15162,28 @@
             "name": "Anti-Venom"
           },
           {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
           },
           {
             "id": 1840,
             "name": "Wool Bandage"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Fishing": [
@@ -15194,28 +15194,28 @@
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 1570,
             "name": "Mining"
           },
           {
+            "id": 1599,
+            "name": "Smelt Silver"
+          },
+          {
             "id": 1600,
             "name": "Smelt Bronze"
           },
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 52643,
             "name": "Lodestone"
-          },
-          {
-            "id": 1599,
-            "name": "Smelt Silver"
           }
         ],
         "Skinning": [
@@ -17006,7 +17006,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795606397000,
+      "last_login": 1795620048000,
       "level": 34,
       "level_at": {
         "27": 1795430379,
@@ -17093,7 +17093,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6723,
+          "raw": 6748,
           "tier": 4
         },
         "Earthen Ring": {
@@ -17118,7 +17118,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9368,
+          "raw": 9393,
           "tier": 5
         },
         "Powderfuse": {
@@ -17133,12 +17133,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10663,
+          "raw": 10688,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7728,
+          "raw": 7828,
           "tier": 4
         },
         "Windshapers": {
@@ -17151,18 +17151,18 @@
       "stats": {
         "critters": 35,
         "deaths": 67,
-        "drinks": 294,
-        "flights": 80,
+        "drinks": 295,
+        "flights": 86,
         "food": 248,
         "health_potions": 32,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2488,
-        "mana_potions": 79,
-        "mobs": 3326,
-        "quests": 307
+        "killing_blows": 2491,
+        "mana_potions": 80,
+        "mobs": 3358,
+        "quests": 308
       },
-      "xp": 7284
+      "xp": 11034
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -27982,7 +27982,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29610,7 +29610,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795619810,
+  "saved_at": 1795620408,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
