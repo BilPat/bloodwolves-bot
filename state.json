@@ -17039,7 +17039,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795620048000,
+      "last_login": 1795635273000,
       "level": 34,
       "level_at": {
         "27": 1795430379,
@@ -17183,9 +17183,9 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 67,
+        "deaths": 68,
         "drinks": 295,
-        "flights": 86,
+        "flights": 87,
         "food": 248,
         "health_potions": 32,
         "hearths": 21,
@@ -17195,7 +17195,7 @@
         "mobs": 3358,
         "quests": 308
       },
-      "xp": 11034
+      "xp": 12972
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -21909,7 +21909,7 @@
       },
       "ilvl": 24,
       "last_explored": null,
-      "last_login": 1795630528000,
+      "last_login": 1795635134000,
       "level": 30,
       "level_at": {
         "23": 1794866470,
@@ -22091,6 +22091,14 @@
           }
         ],
         "Mining": [
+          {
+            "id": 1846,
+            "name": "Smelt Gold"
+          },
+          {
+            "id": 1847,
+            "name": "Smelt Iron"
+          },
           {
             "id": 1848,
             "name": "Smelt Tin"
@@ -29805,7 +29813,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795634705,
+  "saved_at": 1795635561,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
