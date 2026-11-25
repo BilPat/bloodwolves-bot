@@ -9037,8 +9037,8 @@
       },
       "ilvl": 32,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795638876000,
-      "level": 38,
+      "last_login": 1795645542000,
+      "level": 39,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
@@ -9050,7 +9050,8 @@
         "35": 1795259608,
         "36": 1795290873,
         "37": 1795389891,
-        "38": 1795618505
+        "38": 1795618505,
+        "39": 1795646414
       },
       "professions": {
         "Cooking": 225,
@@ -9591,12 +9592,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1660,
+          "raw": 1710,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5763,
+          "raw": 5788,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9611,37 +9612,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1317,
+          "raw": 1342,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1317,
+          "raw": 1342,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5658,
+          "raw": 5758,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1267,
+          "raw": 1292,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1542,
+          "raw": 1567,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4901,
+          "raw": 4926,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 17251,
+          "raw": 17276,
           "tier": 5
         }
       },
@@ -9649,18 +9650,18 @@
       "stats": {
         "critters": 106,
         "deaths": 23,
-        "drinks": 845,
+        "drinks": 856,
         "flights": 57,
-        "food": 282,
-        "health_potions": 26,
+        "food": 290,
+        "health_potions": 28,
         "hearths": 23,
         "honorable_kills": 4,
-        "killing_blows": 2345,
+        "killing_blows": 2425,
         "mana_potions": 12,
-        "mobs": 5593,
-        "quests": 290
+        "mobs": 5759,
+        "quests": 292
       },
-      "xp": 78538
+      "xp": 16957
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -28008,7 +28009,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29648,7 +29649,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795645522,
+  "saved_at": 1795646415,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
