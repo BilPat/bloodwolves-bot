@@ -2517,7 +2517,7 @@
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/95/51172703-avatar.jpg",
       "best_item": {
         "id": 5404,
-        "ilvl": 23,
+        "ilvl": null,
         "name": "Serpent's Shoulders",
         "quality": "RARE",
         "slot": "Shoulders"
@@ -2561,7 +2561,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795563272000,
+      "last_login": 1795599906000,
       "level": 20,
       "level_at": {
         "13": 1794866470,
@@ -2573,9 +2573,9 @@
         "20": 1795560035
       },
       "professions": {
-        "Cooking": 51,
+        "Cooking": 84,
         "First Aid": 50,
-        "Fishing": 90,
+        "Fishing": 116,
         "Mining": 83,
         "Skinning": 136
       },
@@ -2584,100 +2584,112 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
             "id": 1536,
             "name": "Spiced Wolf Meat"
           },
           {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
             "id": 1537,
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 3964,
             "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           }
         ],
         "First Aid": [
           {
-            "id": 1839,
-            "name": "Heavy Linen Bandage"
+            "id": 1838,
+            "name": "Linen Bandage"
           },
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
           }
         ],
         "Fishing": [
           {
-            "id": 52639,
-            "name": "Fish Bowl"
-          },
-          {
             "id": 4345,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 1570,
             "name": "Mining"
           },
           {
+            "id": 1599,
+            "name": "Smelt Silver"
+          },
+          {
             "id": 1600,
             "name": "Smelt Bronze"
           },
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 52643,
             "name": "Lodestone"
-          },
-          {
-            "id": 1599,
-            "name": "Smelt Silver"
           }
         ],
         "Skinning": [
           {
-            "id": 52644,
-            "name": "Camp Chair"
-          },
-          {
             "id": 4768,
             "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
           }
         ]
       },
@@ -2738,7 +2750,7 @@
         "critters": 16,
         "deaths": 10,
         "drinks": 2,
-        "flights": 22,
+        "flights": 23,
         "food": 21,
         "health_potions": 6,
         "hearths": 12,
@@ -26584,6 +26596,20 @@
           "level": 32
         }
       },
+      "eu:barbariana-hunter": {
+        "c": {
+          "name": "Barbariana",
+          "region": "eu",
+          "surname": "Hunter"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 75"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 20
+        }
+      },
       "eu:baumora-axiom": {
         "c": {
           "name": "Baumora",
@@ -28369,6 +28395,7 @@
     "Witch's Finger": "Hexenfinger",
     "Witherbite Bracers": "Welkbissarmschienen",
     "Wizlo's Tuning Wrench": "Wizlos Stimmschlüssel",
+    "Wolf Bracers": "Wolf-Armschienen",
     "Wolfmaster Cape": "Wolfmeister Cape",
     "Wolfsbane": "Wolfsbann",
     "Wooden Mallet": "Hölzerner Schlaghammer",
@@ -29486,7 +29513,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795599639,
+  "saved_at": 1795600506,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
