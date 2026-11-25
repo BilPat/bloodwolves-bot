@@ -17001,15 +17001,16 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795602828000,
-      "level": 33,
+      "last_login": 1795606397000,
+      "level": 34,
       "level_at": {
         "27": 1795430379,
         "28": 1795437784,
         "29": 1795448457,
         "30": 1795462825,
         "31": 1795470930,
-        "33": 1795566993
+        "33": 1795566993,
+        "34": 1795609365
       },
       "professions": {
         "Cooking": 11,
@@ -17087,7 +17088,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6698,
+          "raw": 6723,
           "tier": 4
         },
         "Earthen Ring": {
@@ -17112,7 +17113,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9218,
+          "raw": 9368,
           "tier": 5
         },
         "Powderfuse": {
@@ -17127,12 +17128,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10638,
+          "raw": 10663,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7703,
+          "raw": 7728,
           "tier": 4
         },
         "Windshapers": {
@@ -17145,18 +17146,18 @@
       "stats": {
         "critters": 35,
         "deaths": 67,
-        "drinks": 293,
-        "flights": 79,
+        "drinks": 294,
+        "flights": 80,
         "food": 248,
         "health_potions": 32,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2464,
-        "mana_potions": 78,
-        "mobs": 3302,
-        "quests": 304
+        "killing_blows": 2488,
+        "mana_potions": 79,
+        "mobs": 3326,
+        "quests": 307
       },
-      "xp": 58508
+      "xp": 7284
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -22252,26 +22253,39 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795592954000,
-      "level": 40,
+      "last_login": 1795608512000,
+      "level": 41,
       "level_at": {
         "38": 1795221303,
-        "40": 1795287308
+        "40": 1795287308,
+        "41": 1795609365
       },
       "professions": {
-        "Cooking": 169,
+        "Cooking": 178,
         "First Aid": 34,
-        "Fishing": 136,
-        "Leatherworking": 166,
-        "Skinning": 266
+        "Fishing": 145,
+        "Leatherworking": 176,
+        "Skinning": 275
       },
       "race": "Windshaper Skyborne",
       "raids": {},
       "recipes": {
         "Cooking": [
           {
+            "id": 8619,
+            "name": "Hot Wolf Ribs"
+          },
+          {
             "id": 4569,
             "name": "Savory Deviate Delight"
+          },
+          {
+            "id": 1904,
+            "name": "Soothing Turtle Bisque"
+          },
+          {
+            "id": 11873,
+            "name": "Mithril Headed Trout"
           },
           {
             "id": 13344,
@@ -22302,6 +22316,10 @@
             "name": "Dry Pork Ribs"
           },
           {
+            "id": 8621,
+            "name": "Carrion Surprise"
+          },
+          {
             "id": 3930,
             "name": "Strider Stew"
           },
@@ -22328,6 +22346,10 @@
           {
             "id": 4391,
             "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 4392,
+            "name": "Rockscale Cod"
           },
           {
             "id": 3963,
@@ -22446,6 +22468,10 @@
           {
             "id": 1708,
             "name": "Light Leather"
+          },
+          {
+            "id": 12516,
+            "name": "Heavy Leather Ball"
           },
           {
             "id": 2162,
@@ -22724,7 +22750,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3785,
+          "raw": 3847,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -22733,9 +22759,9 @@
           "tier": 3
         },
         "Darkspear Trolls": {
-          "name": "Friendly",
-          "raw": 8936,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9011,
+          "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -22749,12 +22775,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3140,
+          "raw": 3202,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3140,
+          "raw": 3215,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -22764,27 +22790,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11130,
+          "raw": 11430,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3090,
+          "raw": 3152,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4885,
+          "raw": 4997,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12786,
+          "raw": 12861,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8230,
+          "raw": 8305,
           "tier": 4
         },
         "Windshapers": {
@@ -22798,16 +22824,16 @@
         "critters": 58,
         "deaths": 19,
         "drinks": 24,
-        "flights": 136,
-        "food": 98,
+        "flights": 142,
+        "food": 101,
         "health_potions": 16,
-        "hearths": 38,
-        "killing_blows": 3765,
+        "hearths": 39,
+        "killing_blows": 3883,
         "mana_potions": 3,
-        "mobs": 6192,
-        "quests": 445
+        "mobs": 6310,
+        "quests": 458
       },
-      "xp": 72354
+      "xp": 47526
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -26754,6 +26780,20 @@
           "level": 36
         }
       },
+      "eu:thalia-mondrabe": {
+        "c": {
+          "name": "Thalia",
+          "region": "eu",
+          "surname": "Mondrabe"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Darkspear"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 41
+        }
+      },
       "eu:vlad-impalar": {
         "c": {
           "name": "Vlad",
@@ -29543,7 +29583,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795606007,
+  "saved_at": 1795609368,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
