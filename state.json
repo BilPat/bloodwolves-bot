@@ -19798,6 +19798,10 @@
           "name": "Seal of Sylvanas",
           "quality": "RARE"
         },
+        "7710": {
+          "name": "Loksey's Training Stick",
+          "quality": "RARE"
+        },
         "9588": {
           "name": "Nogg's Gold Ring",
           "quality": "RARE"
@@ -19809,7 +19813,7 @@
       },
       "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1795637729000,
+      "last_login": 1795644438000,
       "level": 37,
       "level_at": {
         "28": 1795369205,
@@ -19823,7 +19827,7 @@
         "Cooking": 4,
         "Fishing": 9,
         "Leatherworking": 152,
-        "Skinning": 225
+        "Skinning": 226
       },
       "race": "Tauren",
       "raids": {},
@@ -20184,7 +20188,7 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 17773,
+          "raw": 17923,
           "tier": 5
         },
         "Undercity": {
@@ -20198,17 +20202,17 @@
         "critters": 48,
         "deaths": 23,
         "drinks": 9,
-        "flights": 70,
+        "flights": 73,
         "food": 3,
         "health_potions": 16,
-        "hearths": 17,
+        "hearths": 18,
         "honorable_kills": 1,
-        "killing_blows": 2649,
+        "killing_blows": 2693,
         "mana_potions": 3,
-        "mobs": 4053,
-        "quests": 346
+        "mobs": 4225,
+        "quests": 347
       },
-      "xp": 2037
+      "xp": 27391
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -27774,6 +27778,7 @@
     "Litany of Light": "Litanei des Lichts",
     "Living Spirit": "Geist des Lebens",
     "Loamflake Bracers": "Lehmfarbene Armschienen",
+    "Loksey's Training Stick": "Lokseys Ausbildungsstecken",
     "Long Silken Cloak": "Langer Seidenumhang",
     "Loop of Sacrifice": "Schleife der Aufopferung",
     "Loose Chain Belt": "Lockerer Kettengürtel",
@@ -28002,7 +28007,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28382,6 +28387,7 @@
     "Totem of Charged Flames": "Totem der Geladenen Flammen",
     "Totemic Clan Ring": "Totemikerklanring",
     "Tough Leather Shoulderpads": "Feste Lederschulterpolster",
+    "Tough Love": "Harte Hand",
     "Toughened Leather Gloves": "Gekräftigte Lederhandschuhe",
     "Toughness": "Zähigkeit",
     "Toxic Sporidium": "Toxisches Sporidium",
@@ -29641,7 +29647,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795643699,
+  "saved_at": 1795644919,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
