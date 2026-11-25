@@ -27846,7 +27846,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28442,25 +28442,7 @@
       },
       "raid": {}
     },
-    "firsts_pending": {
-      "dungeon|Blackrock Depths": {
-        "keys": [
-          "eu:krakmor-ci%C3%B3rdan",
-          "eu:baumora-axiom"
-        ],
-        "kind": "dungeon",
-        "since": 1795486850,
-        "what": "Blackrock Depths"
-      },
-      "dungeon|Lower Blackrock Spire": {
-        "keys": [
-          "eu:baumora-axiom"
-        ],
-        "kind": "dungeon",
-        "since": 1795571036,
-        "what": "Lower Blackrock Spire"
-      }
-    },
+    "firsts_pending": {},
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -29490,7 +29472,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795593291,
+  "saved_at": 1795594852,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
