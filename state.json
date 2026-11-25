@@ -20186,11 +20186,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/32/13193248-avatar.jpg",
       "best_item": {
-        "id": 6742,
-        "ilvl": 36,
-        "name": "Stonefist Girdle",
+        "id": 6686,
+        "ilvl": null,
+        "name": "Tusken Helm",
         "quality": "RARE",
-        "slot": "Waist"
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -20215,13 +20215,23 @@
         },
         "6139": {
           "boss": "Charlga Razorflank",
-          "count": 1,
+          "count": 2,
           "instance": "Razorfen Kraul"
         },
         "63571": {
           "boss": "Rath'mael",
           "count": 2,
           "instance": "Ruins of Lordaeron"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
+        },
+        "63589": {
+          "boss": "Lyn the Ignored",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Warrior",
@@ -20260,8 +20270,16 @@
           "name": "Reliquary Mantle",
           "quality": "RARE"
         },
+        "273035": {
+          "name": "Mana-Warped Chain Shirt",
+          "quality": "RARE"
+        },
         "274084": {
           "name": "Quilboar Blaster",
+          "quality": "RARE"
+        },
+        "274160": {
+          "name": "Quilrager Throwing Axe",
           "quality": "RARE"
         },
         "286981": {
@@ -20287,12 +20305,13 @@
       },
       "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1795355906000,
-      "level": 33,
+      "last_login": 1795634609000,
+      "level": 34,
       "level_at": {
         "31": 1794866470,
         "32": 1795031689,
-        "33": 1795098385
+        "33": 1795098385,
+        "34": 1795634703
       },
       "professions": {
         "Blacksmithing": 108,
@@ -20306,106 +20325,174 @@
       "recipes": {
         "Blacksmithing": [
           {
-            "id": 1632,
-            "name": "Copper Chain Belt"
-          },
-          {
-            "id": 1639,
-            "name": "Rough Bronze Leggings"
-          },
-          {
-            "id": 54692,
-            "name": "Gemmed Copper Boots"
-          },
-          {
-            "id": 52645,
-            "name": "Sharpening Wheel"
-          },
-          {
-            "id": 1636,
-            "name": "Coarse Sharpening Stone"
-          },
-          {
             "id": 1798,
             "name": "Rough Weightstone"
-          },
-          {
-            "id": 1642,
-            "name": "Patterned Bronze Bracers"
-          },
-          {
-            "id": 1633,
-            "name": "Copper Chain Pants"
-          },
-          {
-            "id": 6636,
-            "name": "Rough Copper Vest"
           },
           {
             "id": 1799,
             "name": "Heavy Weightstone"
           },
           {
-            "id": 1631,
-            "name": "Rough Sharpening Stone"
-          },
-          {
-            "id": 1862,
-            "name": "Rough Bronze Shoulders"
-          },
-          {
-            "id": 1644,
-            "name": "Heavy Sharpening Stone"
+            "id": 1800,
+            "name": "Coarse Weightstone"
           },
           {
             "id": 1855,
             "name": "Copper Chain Boots"
           },
           {
-            "id": 1868,
-            "name": "Heavy Grinding Stone"
-          },
-          {
             "id": 1856,
             "name": "Rough Grinding Stone"
-          },
-          {
-            "id": 1634,
-            "name": "Copper Bracers"
-          },
-          {
-            "id": 1637,
-            "name": "Runed Copper Belt"
-          },
-          {
-            "id": 1861,
-            "name": "Coarse Grinding Stone"
           },
           {
             "id": 1858,
             "name": "Runed Copper Gauntlets"
           },
           {
-            "id": 1800,
-            "name": "Coarse Weightstone"
-          },
-          {
-            "id": 54212,
-            "name": "Copper Rod"
-          },
-          {
             "id": 1859,
             "name": "Runed Copper Pants"
           },
           {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 1862,
+            "name": "Rough Bronze Shoulders"
+          },
+          {
+            "id": 1868,
+            "name": "Heavy Grinding Stone"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1632,
+            "name": "Copper Chain Belt"
+          },
+          {
+            "id": 1633,
+            "name": "Copper Chain Pants"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
+          },
+          {
+            "id": 1637,
+            "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1639,
+            "name": "Rough Bronze Leggings"
+          },
+          {
+            "id": 1642,
+            "name": "Patterned Bronze Bracers"
+          },
+          {
+            "id": 1644,
+            "name": "Heavy Sharpening Stone"
+          },
+          {
             "id": 4390,
             "name": "Silver Rod"
+          },
+          {
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 54692,
+            "name": "Gemmed Copper Boots"
+          },
+          {
+            "id": 54212,
+            "name": "Copper Rod"
           }
         ],
         "Cooking": [
           {
+            "id": 4569,
+            "name": "Savory Deviate Delight"
+          },
+          {
+            "id": 1901,
+            "name": "Big Bear Steak"
+          },
+          {
+            "id": 1902,
+            "name": "Hot Lion Chops"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 3963,
+            "name": "Goblin Deviled Clams"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
+          },
+          {
             "id": 4786,
             "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           },
           {
             "id": 54502,
@@ -20416,76 +20503,8 @@
             "name": "Tasty Raptor Bites"
           },
           {
-            "id": 1543,
-            "name": "Crab Cake"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 4359,
-            "name": "Bristle Whisker Catfish"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
-            "id": 13344,
-            "name": "Smoked Sagefish"
-          },
-          {
-            "id": 1902,
-            "name": "Hot Lion Chops"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
-            "id": 4569,
-            "name": "Savory Deviate Delight"
-          },
-          {
             "id": 56881,
             "name": "Skywall Souffle"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 1901,
-            "name": "Big Bear Steak"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
-            "id": 3963,
-            "name": "Goblin Deviled Clams"
-          },
-          {
-            "id": 3964,
-            "name": "Boiled Clams"
           }
         ],
         "First Aid": [
@@ -20494,36 +20513,36 @@
             "name": "Anti-Venom"
           },
           {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
-            "id": 54193,
-            "name": "Healing Potion"
           },
           {
             "id": 1840,
             "name": "Wool Bandage"
           },
           {
-            "id": 55747,
-            "name": "Simple Poultice"
+            "id": 52641,
+            "name": "First Aid Kit"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
+          },
+          {
+            "id": 55747,
+            "name": "Simple Poultice"
           }
         ],
         "Fishing": [
@@ -20538,16 +20557,20 @@
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1847,
+            "name": "Smelt Iron"
+          },
+          {
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 1570,
             "name": "Mining"
           },
           {
-            "id": 1847,
-            "name": "Smelt Iron"
+            "id": 1599,
+            "name": "Smelt Silver"
           },
           {
             "id": 1600,
@@ -20558,28 +20581,24 @@
             "name": "Mining"
           },
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 52643,
             "name": "Lodestone"
-          },
-          {
-            "id": 1599,
-            "name": "Smelt Silver"
           }
         ]
       },
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1948,
+          "raw": 2110,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6318,
+          "raw": 6506,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -20594,37 +20613,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1948,
+          "raw": 2110,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1948,
+          "raw": 2110,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7875,
+          "raw": 8062,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1948,
+          "raw": 2110,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3396,
+          "raw": 3721,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13635,
+          "raw": 13860,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6477,
+          "raw": 6665,
           "tier": 4
         }
       },
@@ -20632,16 +20651,16 @@
       "stats": {
         "critters": 73,
         "deaths": 25,
-        "flights": 38,
-        "food": 110,
-        "health_potions": 27,
+        "flights": 45,
+        "food": 119,
+        "health_potions": 29,
         "hearths": 24,
         "honorable_kills": 5,
-        "killing_blows": 1933,
-        "mobs": 3780,
-        "quests": 240
+        "killing_blows": 2123,
+        "mobs": 4254,
+        "quests": 252
       },
-      "xp": 5238
+      "xp": 41634
     },
     "eu:rausmit-deviechers": {
       "achievements": {
@@ -26920,6 +26939,21 @@
           "level": 36
         }
       },
+      "eu:ragnar-lodhoof": {
+        "c": {
+          "name": "Ragnar",
+          "region": "eu",
+          "surname": "Lodhoof"
+        },
+        "lines": [
+          "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 34
+        }
+      },
       "eu:thalgrim-tirisfal": {
         "c": {
           "name": "Thalgrim",
@@ -27434,6 +27468,7 @@
     "Dungeons & Raids": "Dungeons & Schlachtzüge",
     "Dungeons and Raids": "Dungeons & Schlachtzüge",
     "Durable Bearhide Pauldrons": "Robuste Bärenhautschulterstücke",
+    "Durable Cape of the Bear": "Haltbares Cape des Bären",
     "Durgen Dirgehammer": "Durgen Dirgehammer",
     "Durgen Dirgehammer Kills (Hall of Thanes)": "Siege über Durgen Dirgehammer (Halle der Thanen)",
     "Durotar Supply and Logistics": "Versorgung und Logistik Durotar",
@@ -28120,6 +28155,7 @@
     "Quests completed": "Quests abgeschlossen",
     "Quilboar Blaster": "Stacheleber-Blaster",
     "Quillord Mail Leggings": "Panzergamaschen des Stachelfürsten",
+    "Quilrager Throwing Axe": "Wurfaxt des Stachelwüters",
     "Rage": "Wut",
     "Rageclaw Shoulder Pads of the Elder": "Zornprankenschultern des Ältesten",
     "Ragefire Chasm": "Flammenschlund",
@@ -28131,7 +28167,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29769,7 +29805,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795634000,
+  "saved_at": 1795634705,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
