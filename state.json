@@ -7229,7 +7229,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795613575000,
+      "last_login": 1795632664000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -24026,7 +24026,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795584997000,
+      "last_login": 1795632064000,
       "level": 34,
       "level_at": {
         "29": 1795218860,
@@ -24187,11 +24187,6 @@
           "raw": 8346,
           "tier": 4
         },
-        "Theramore Expeditionary Force": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Wildhammer Clan": {
           "name": "Neutral",
           "raw": 0,
@@ -24206,7 +24201,7 @@
         "flights": 55,
         "food": 14,
         "health_potions": 22,
-        "hearths": 37,
+        "hearths": 38,
         "killing_blows": 2096,
         "mana_potions": 4,
         "mobs": 3679,
@@ -28136,7 +28131,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29764,7 +29759,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795632004,
+  "saved_at": 1795632904,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
