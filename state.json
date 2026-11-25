@@ -16909,11 +16909,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/30/100678430-avatar.jpg",
       "best_item": {
-        "id": 14588,
-        "ilvl": 36,
-        "name": "Hawkeye's Cord",
-        "quality": "UNCOMMON",
-        "slot": "Waist"
+        "id": 273047,
+        "ilvl": null,
+        "name": "Unstable Crystalline Shoulderpads",
+        "quality": "RARE",
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -16969,7 +16969,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795566266000,
+      "last_login": 1795602828000,
       "level": 33,
       "level_at": {
         "27": 1795430379,
@@ -16989,20 +16989,20 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
             "id": 1537,
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           }
         ],
         "Engineering": [
@@ -17011,18 +17011,18 @@
             "name": "Rough Blasting Powder"
           },
           {
-            "id": 2415,
-            "name": "Crafted Light Shot"
-          },
-          {
             "id": 2414,
             "name": "Rough Dynamite"
+          },
+          {
+            "id": 2415,
+            "name": "Crafted Light Shot"
           }
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 1570,
@@ -17033,8 +17033,8 @@
             "name": "Smelt Bronze"
           },
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 52643,
@@ -17055,7 +17055,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6523,
+          "raw": 6698,
           "tier": 4
         },
         "Earthen Ring": {
@@ -17079,9 +17079,9 @@
           "tier": 4
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8968,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9218,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
@@ -17095,12 +17095,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10538,
+          "raw": 10638,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7528,
+          "raw": 7703,
           "tier": 4
         },
         "Windshapers": {
@@ -17112,18 +17112,19 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 63,
-        "drinks": 286,
-        "flights": 77,
-        "food": 243,
+        "deaths": 67,
+        "drinks": 293,
+        "flights": 79,
+        "food": 248,
         "health_potions": 32,
-        "hearths": 20,
-        "killing_blows": 2398,
-        "mana_potions": 72,
-        "mobs": 3239,
-        "quests": 300
+        "hearths": 21,
+        "honorable_kills": 3,
+        "killing_blows": 2464,
+        "mana_potions": 78,
+        "mobs": 3302,
+        "quests": 304
       },
-      "xp": 35599
+      "xp": 58508
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -22976,7 +22977,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795598360000,
+      "last_login": 1795603145000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -22996,7 +22997,7 @@
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 228
+        "Mining": 231
       },
       "race": "Undead",
       "raids": {},
@@ -23445,11 +23446,6 @@
           "raw": 3060,
           "tier": 4
         },
-        "Cenarion Circle": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Friendly",
           "raw": 8248,
@@ -23515,17 +23511,17 @@
       "stats": {
         "critters": 115,
         "deaths": 60,
-        "drinks": 29,
+        "drinks": 31,
         "flights": 106,
-        "food": 62,
-        "health_potions": 39,
+        "food": 64,
+        "health_potions": 41,
         "hearths": 48,
-        "killing_blows": 3567,
+        "killing_blows": 3585,
         "mana_potions": 2,
-        "mobs": 7992,
+        "mobs": 8011,
         "quests": 495
       },
-      "xp": 12946
+      "xp": 21908
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -26701,7 +26697,8 @@
         "lines": [
           "⚔️ Erster Kill: **[Lyn der Ignorierte](https://www.wowhead.com/forever/de/search?q=Lyn%20der%20Ignorierte)** (City of Dalaran)",
           "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)",
-          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen"
+          "🗝️ **[Kral von Razorfen](https://www.wowhead.com/forever/de/search?q=Kral%20von%20Razorfen)** zum ersten Mal abgeschlossen",
+          "🤝 **Wohlwollend** bei Orgrimmar"
         ],
         "snap": {
           "class": "Shaman",
@@ -28122,6 +28119,7 @@
     "Soft-soled Linen Boots": "Leinenschuhe mit weichen Sohlen",
     "Soldier's Armor": "Soldatenrüstung",
     "Solid Gold Band": "Solides Goldband",
+    "Solid Sharpening Stone": "Robuster Wetzstein",
     "Solid Shot": "Robustes Geschoss",
     "Solid Weightstone": "Robuster Gewichtsstein",
     "Sorcerer Collar": "Zaubererhalsband",
@@ -29513,7 +29511,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795602408,
+  "saved_at": 1795603253,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
