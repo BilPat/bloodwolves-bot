@@ -25277,7 +25277,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795583503000,
+      "last_login": 1795588396000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -25291,7 +25291,7 @@
         "Blacksmithing": 169,
         "Cooking": 300,
         "First Aid": 216,
-        "Fishing": 213,
+        "Fishing": 216,
         "Mining": 239
       },
       "race": "Night Elf",
@@ -25876,13 +25876,13 @@
         "flights": 129,
         "food": 169,
         "health_potions": 42,
-        "hearths": 76,
+        "hearths": 77,
         "honorable_kills": 1,
         "killing_blows": 2858,
         "mobs": 6340,
         "quests": 332
       },
-      "xp": 38183
+      "xp": 38513
     },
     "us:whizz-aard": {
       "achievements": {
@@ -27290,6 +27290,7 @@
     "Flax Gloves": "Flachshandschuhe",
     "Flax Vest": "Flachsweste",
     "Flesh Carver": "Fleischschnitzer",
+    "Flesh Eating Worm": "Fleischfressender Wurm",
     "Flight paths taken": "Bereiste Flugrouten",
     "Flimsy Chain Bracers": "Sehr leichte Kettenarmschienen",
     "Flimsy Chain Gloves": "Sehr leichte Kettenhandschuhe",
@@ -27827,7 +27828,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29471,7 +29472,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795587945,
+  "saved_at": 1795589201,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
