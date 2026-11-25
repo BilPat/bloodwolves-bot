@@ -2561,7 +2561,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795599906000,
+      "last_login": 1795614476000,
       "level": 20,
       "level_at": {
         "13": 1794866470,
@@ -2576,8 +2576,8 @@
         "Cooking": 84,
         "First Aid": 50,
         "Fishing": 116,
-        "Mining": 83,
-        "Skinning": 136
+        "Mining": 85,
+        "Skinning": 138
       },
       "race": "Troll",
       "raids": {},
@@ -2696,7 +2696,7 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 828,
+          "raw": 840,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -2711,12 +2711,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 828,
+          "raw": 840,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 828,
+          "raw": 840,
           "tier": 3
         },
         "Orgrimmar": {
@@ -2726,12 +2726,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 828,
+          "raw": 840,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1156,
+          "raw": 1181,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -2748,17 +2748,17 @@
       "spec": "Beast Mastery",
       "stats": {
         "critters": 16,
-        "deaths": 10,
+        "deaths": 12,
         "drinks": 2,
-        "flights": 23,
-        "food": 21,
+        "flights": 24,
+        "food": 22,
         "health_potions": 6,
         "hearths": 12,
-        "killing_blows": 1014,
-        "mobs": 1417,
-        "quests": 95
+        "killing_blows": 1059,
+        "mobs": 1463,
+        "quests": 96
       },
-      "xp": 8376
+      "xp": 11693
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -6450,7 +6450,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795612757000,
+      "last_login": 1795613483000,
       "level": 33,
       "level_at": {
         "22": 1794866470,
@@ -7176,9 +7176,9 @@
         "killing_blows": 1513,
         "mana_potions": 54,
         "mobs": 4246,
-        "quests": 243
+        "quests": 246
       },
-      "xp": 15381
+      "xp": 17706
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -7205,7 +7205,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795612972000,
+      "last_login": 1795613575000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -27275,7 +27275,7 @@
     "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
     "Druid": "Druide",
     "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
-    "Dual Wield Specialization": "Beidhändigkeits-Spezialisierung",
+    "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
     "Duels lost": "Duelle verloren",
     "Duels won": "Duelle gewonnen",
     "Dull Sawblade": "Stumpfes Sägeblatt",
@@ -27976,7 +27976,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29604,7 +29604,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795613258,
+  "saved_at": 1795614878,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
