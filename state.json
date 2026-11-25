@@ -24651,11 +24651,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/49/20858161-avatar.jpg",
       "best_item": {
-        "id": 270227,
+        "id": 3562,
         "ilvl": null,
-        "name": "Ephemeral Choker",
+        "name": "Belt of Vindication",
         "quality": "RARE",
-        "slot": "Neck"
+        "slot": "Waist"
       },
       "boss_kills": {
         "1092": {
@@ -24754,7 +24754,7 @@
       },
       "ilvl": 28,
       "last_explored": "Wetlands",
-      "last_login": 1795613089000,
+      "last_login": 1795614863000,
       "level": 33,
       "level_at": {
         "26": 1794965196,
@@ -25143,11 +25143,6 @@
           "raw": -6525,
           "tier": 0
         },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
-          "tier": 3
-        },
         "Cenarion Circle": {
           "name": "Neutral",
           "raw": 2960,
@@ -25155,7 +25150,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16062,
+          "raw": 16068,
           "tier": 5
         },
         "Gadgetzan": {
@@ -25165,12 +25160,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7151,
+          "raw": 7157,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7406,
+          "raw": 7431,
           "tier": 4
         },
         "Kirin Tor": {
@@ -25180,25 +25175,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9726,
+          "raw": 9732,
           "tier": 5
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 67,
-        "deaths": 44,
+        "deaths": 45,
         "drinks": 122,
         "flights": 64,
         "food": 63,
         "health_potions": 62,
         "hearths": 28,
-        "killing_blows": 1162,
+        "killing_blows": 1163,
         "mana_potions": 60,
         "mobs": 3594,
-        "quests": 281
+        "quests": 283
       },
-      "xp": 15907
+      "xp": 19304
     },
     "us:steel-appeal": {
       "achievements": {
@@ -29604,7 +29599,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795614878,
+  "saved_at": 1795616190,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
