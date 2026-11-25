@@ -17733,12 +17733,13 @@
       "achievements": {
         "62000": "Novice Priest",
         "62006": "Novice Shaman",
-        "728": "Explore Durotar"
+        "728": "Explore Durotar",
+        "847": "Explore Stonetalon Mountains"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/64/14583104-avatar.jpg",
       "best_item": {
         "id": 15488,
-        "ilvl": 21,
+        "ilvl": null,
         "name": "Bloodspattered Surcoat of Frost Protection",
         "quality": "UNCOMMON",
         "slot": "Chest"
@@ -17749,8 +17750,8 @@
       "first_seen": 1794866470,
       "gear": {},
       "ilvl": 6,
-      "last_explored": "Durotar",
-      "last_login": 1795380078000,
+      "last_explored": "Stonetalon Mountains",
+      "last_login": 1795631250000,
       "level": 17,
       "level_at": {
         "15": 1794866470,
@@ -17768,60 +17769,60 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 1543,
-            "name": "Crab Cake"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 4355,
-            "name": "Longjaw Mud Snapper"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
             "id": 13344,
             "name": "Smoked Sagefish"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
           },
           {
             "id": 1535,
             "name": "Charred Wolf Meat"
           },
           {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
             "id": 4354,
             "name": "Slitherskin Mackerel"
           },
           {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
             "id": 3964,
             "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           }
         ],
         "Engineering": [
@@ -17830,78 +17831,78 @@
             "name": "Rough Blasting Powder"
           },
           {
-            "id": 52650,
-            "name": "Reagent Bot"
-          },
-          {
-            "id": 2420,
-            "name": "Rough Boomstick"
+            "id": 2414,
+            "name": "Rough Dynamite"
           },
           {
             "id": 2415,
             "name": "Crafted Light Shot"
           },
           {
-            "id": 2418,
-            "name": "Rough Copper Bomb"
+            "id": 2417,
+            "name": "Handful of Copper Bolts"
           },
           {
-            "id": 2414,
-            "name": "Rough Dynamite"
+            "id": 2418,
+            "name": "Rough Copper Bomb"
           },
           {
             "id": 2419,
             "name": "Copper Tube"
           },
           {
-            "id": 2417,
-            "name": "Handful of Copper Bolts"
+            "id": 2420,
+            "name": "Rough Boomstick"
           },
           {
             "id": 4294,
             "name": "Arclight Spanner"
+          },
+          {
+            "id": 52650,
+            "name": "Reagent Bot"
           }
         ],
         "First Aid": [
           {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Fishing": [
           {
-            "id": 52639,
-            "name": "Fish Bowl"
-          },
-          {
             "id": 4345,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
-          },
-          {
             "id": 1569,
             "name": "Mining"
+          },
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 52643,
@@ -26878,6 +26879,21 @@
           "level": 33
         }
       },
+      "eu:mia-graufuss": {
+        "c": {
+          "name": "Mia",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Graufuss"
+        },
+        "lines": [
+          "🎖️ [Erkundet Steinkrallengebirge](https://www.wowhead.com/forever/de/achievement=847)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 17
+        }
+      },
       "eu:ogmar-donnerhammer": {
         "c": {
           "name": "Ogmar",
@@ -28120,7 +28136,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29748,7 +29764,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795630691,
+  "saved_at": 1795631380,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
