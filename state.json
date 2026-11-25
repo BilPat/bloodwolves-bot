@@ -8948,6 +8948,11 @@
           "count": 1,
           "instance": "Gnomeregan"
         },
+        "6141": {
+          "boss": "Amnennar the Coldbringer",
+          "count": 1,
+          "instance": "Razorfen Downs"
+        },
         "63571": {
           "boss": "Rath'mael",
           "count": 2,
@@ -8978,6 +8983,10 @@
         },
         "2565": {
           "name": "Rod of Molten Fire",
+          "quality": "RARE"
+        },
+        "270081": {
+          "name": "Purified Ring",
           "quality": "RARE"
         },
         "271719": {
@@ -9031,7 +9040,7 @@
       },
       "ilvl": 32,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795617787000,
+      "last_login": 1795638876000,
       "level": 38,
       "level_at": {
         "28": 1794866470,
@@ -9047,7 +9056,7 @@
         "38": 1795618505
       },
       "professions": {
-        "Cooking": 223,
+        "Cooking": 225,
         "Enchanting": 150,
         "Fishing": 225,
         "Tailoring": 150
@@ -9590,7 +9599,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5726,
+          "raw": 5763,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9615,7 +9624,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5621,
+          "raw": 5658,
           "tier": 4
         },
         "Powderfuse": {
@@ -9630,31 +9639,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4863,
+          "raw": 4901,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 17101,
+          "raw": 17251,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 75,
+        "critters": 106,
         "deaths": 23,
-        "drinks": 804,
-        "flights": 56,
-        "food": 276,
+        "drinks": 845,
+        "flights": 57,
+        "food": 282,
         "health_potions": 26,
-        "hearths": 22,
+        "hearths": 23,
         "honorable_kills": 4,
-        "killing_blows": 2231,
-        "mana_potions": 11,
-        "mobs": 5206,
-        "quests": 283
+        "killing_blows": 2345,
+        "mana_potions": 12,
+        "mobs": 5593,
+        "quests": 290
       },
-      "xp": 14079
+      "xp": 78538
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -17044,7 +17053,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795635273000,
+      "last_login": 1795638466000,
       "level": 34,
       "level_at": {
         "27": 1795430379,
@@ -17131,7 +17140,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6748,
+          "raw": 6780,
           "tier": 4
         },
         "Earthen Ring": {
@@ -17156,7 +17165,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9393,
+          "raw": 9481,
           "tier": 5
         },
         "Powderfuse": {
@@ -17171,12 +17180,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10688,
+          "raw": 10720,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7828,
+          "raw": 7897,
           "tier": 4
         },
         "Windshapers": {
@@ -17189,18 +17198,18 @@
       "stats": {
         "critters": 35,
         "deaths": 68,
-        "drinks": 295,
+        "drinks": 297,
         "flights": 87,
-        "food": 248,
-        "health_potions": 32,
+        "food": 250,
+        "health_potions": 33,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2491,
-        "mana_potions": 80,
-        "mobs": 3358,
-        "quests": 308
+        "killing_blows": 2522,
+        "mana_potions": 81,
+        "mobs": 3389,
+        "quests": 312
       },
-      "xp": 12972
+      "xp": 25864
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -25371,7 +25380,7 @@
         },
         "63572": {
           "boss": "Shade of the Archmage",
-          "count": 2,
+          "count": 5,
           "instance": "City of Dalaran"
         },
         "63573": {
@@ -25483,7 +25492,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795627477000,
+      "last_login": 1795638808000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -26049,9 +26058,9 @@
           "tier": 4
         },
         "Kirin Tor": {
-          "name": "Neutral",
-          "raw": 1816,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3240,
+          "tier": 4
         },
         "Magram Clan Centaur": {
           "name": "Neutral",
@@ -26080,15 +26089,15 @@
         "deaths": 29,
         "drinks": 2,
         "flights": 137,
-        "food": 174,
+        "food": 180,
         "health_potions": 42,
-        "hearths": 81,
+        "hearths": 82,
         "honorable_kills": 1,
-        "killing_blows": 2875,
-        "mobs": 6358,
+        "killing_blows": 2934,
+        "mobs": 6665,
         "quests": 337
       },
-      "xp": 57514
+      "xp": 66227
     },
     "us:whizz-aard": {
       "achievements": {
@@ -26748,6 +26757,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:fred-feuersturm": {
+        "c": {
+          "name": "Fred",
+          "region": "eu",
+          "surname": "Feuersturm"
+        },
+        "lines": [
+          "🛠️ **Kochkunst** auf 225",
+          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 38
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -28028,6 +28052,7 @@
     "Scarlet Leggings": "Scharlachrote Gamaschen",
     "Scarlet Monastery": "Scharlachrotes Kloster",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
+    "Scorching Wand": "Zauberstab des Versengens",
     "Scouting Gloves of the Tiger": "Späherhandschuhe des Tigers",
     "Scouting Spaulders": "Späherschiftung",
     "Scouting Trousers of the Tiger": "Späherhose des Tigers",
@@ -29539,7 +29564,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795638306,
+  "saved_at": 1795640143,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
