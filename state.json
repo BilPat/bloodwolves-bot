@@ -25053,7 +25053,7 @@
         },
         "63572": {
           "boss": "Shade of the Archmage",
-          "count": 1,
+          "count": 2,
           "instance": "City of Dalaran"
         },
         "63573": {
@@ -25165,7 +25165,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795575166000,
+      "last_login": 1795581421000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -25179,7 +25179,7 @@
         "Blacksmithing": 169,
         "Cooking": 300,
         "First Aid": 216,
-        "Fishing": 208,
+        "Fishing": 213,
         "Mining": 239
       },
       "race": "Night Elf",
@@ -25702,7 +25702,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17337,
+          "raw": 17350,
           "tier": 5
         },
         "Everlook": {
@@ -25722,17 +25722,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7603,
+          "raw": 7616,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8652,
+          "raw": 8665,
           "tier": 4
         },
         "Kirin Tor": {
           "name": "Neutral",
-          "raw": 934,
+          "raw": 1716,
           "tier": 3
         },
         "Magram Clan Centaur": {
@@ -25752,7 +25752,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10186,
+          "raw": 10236,
           "tier": 5
         }
       },
@@ -25762,15 +25762,15 @@
         "deaths": 28,
         "drinks": 2,
         "flights": 128,
-        "food": 163,
+        "food": 169,
         "health_potions": 42,
-        "hearths": 75,
+        "hearths": 76,
         "honorable_kills": 1,
-        "killing_blows": 2810,
-        "mobs": 6153,
-        "quests": 331
+        "killing_blows": 2858,
+        "mobs": 6340,
+        "quests": 332
       },
-      "xp": 31445
+      "xp": 38183
     },
     "us:whizz-aard": {
       "achievements": {
@@ -29322,7 +29322,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795581054,
+  "saved_at": 1795581624,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
