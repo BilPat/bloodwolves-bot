@@ -23045,7 +23045,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795616817000,
+      "last_login": 1795620654000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -23516,7 +23516,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8248,
+          "raw": 8338,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -23526,7 +23526,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1600,
+          "raw": 1900,
           "tier": 3
         },
         "Everlook": {
@@ -23551,7 +23551,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8743,
+          "raw": 8833,
           "tier": 4
         },
         "Powderfuse": {
@@ -23564,14 +23564,19 @@
           "raw": 3180,
           "tier": 4
         },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7582,
+          "raw": 7942,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21357,
+          "raw": 21447,
           "tier": 6
         }
       },
@@ -23580,16 +23585,16 @@
         "critters": 117,
         "deaths": 61,
         "drinks": 36,
-        "flights": 106,
+        "flights": 108,
         "food": 65,
         "health_potions": 41,
         "hearths": 49,
-        "killing_blows": 3628,
+        "killing_blows": 3638,
         "mana_potions": 2,
-        "mobs": 8149,
-        "quests": 495
+        "mobs": 8159,
+        "quests": 501
       },
-      "xp": 37988
+      "xp": 78311
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -29610,7 +29615,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795620408,
+  "saved_at": 1795621177,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
