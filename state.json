@@ -2775,11 +2775,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 22204,
-        "ilvl": 60,
-        "name": "Wristguards of Renown",
+        "id": 9479,
+        "ilvl": null,
+        "name": "Embrace of the Lycan",
         "quality": "RARE",
-        "slot": "Wrist"
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -3030,7 +3030,7 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795570702000,
+      "last_login": 1795609509000,
       "level": 56,
       "level_at": {
         "38": 1794866470,
@@ -3059,100 +3059,124 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 8616,
-            "name": "Crispy Bat Wing"
-          },
-          {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 54502,
-            "name": "Twice-Spiced Raptor Slice"
-          },
-          {
-            "id": 1543,
-            "name": "Crab Cake"
-          },
-          {
-            "id": 13375,
-            "name": "Sagefish Delight"
-          },
-          {
-            "id": 56882,
-            "name": "Pincer Bites"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 4787,
-            "name": "Smoked Bear Meat"
-          },
-          {
-            "id": 4359,
-            "name": "Bristle Whisker Catfish"
-          },
-          {
-            "id": 4355,
-            "name": "Longjaw Mud Snapper"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 3928,
-            "name": "Roasted Kodo Meat"
-          },
-          {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
-            "id": 58469,
-            "name": "Plain Ol' Paletusk"
-          },
-          {
-            "id": 13344,
-            "name": "Smoked Sagefish"
-          },
-          {
-            "id": 1902,
-            "name": "Hot Lion Chops"
-          },
-          {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
             "id": 2499,
             "name": "Barbecued Buzzard Wing"
           },
           {
-            "id": 3927,
-            "name": "Scorpid Surprise"
+            "id": 8616,
+            "name": "Crispy Bat Wing"
           },
           {
             "id": 4569,
             "name": "Savory Deviate Delight"
           },
           {
-            "id": 57021,
-            "name": "Cookie's Feast"
+            "id": 1901,
+            "name": "Big Bear Steak"
+          },
+          {
+            "id": 1902,
+            "name": "Hot Lion Chops"
+          },
+          {
+            "id": 13344,
+            "name": "Smoked Sagefish"
+          },
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 3927,
+            "name": "Scorpid Surprise"
+          },
+          {
+            "id": 3928,
+            "name": "Roasted Kodo Meat"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
+          },
+          {
+            "id": 3930,
+            "name": "Strider Stew"
           },
           {
             "id": 3932,
             "name": "Crispy Lizard Tail"
           },
           {
-            "id": 3930,
-            "name": "Strider Stew"
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 3963,
+            "name": "Goblin Deviled Clams"
+          },
+          {
+            "id": 3964,
+            "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 4787,
+            "name": "Smoked Bear Meat"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 54502,
+            "name": "Twice-Spiced Raptor Slice"
+          },
+          {
+            "id": 57021,
+            "name": "Cookie's Feast"
+          },
+          {
+            "id": 58469,
+            "name": "Plain Ol' Paletusk"
           },
           {
             "id": 58479,
@@ -3163,42 +3187,18 @@
             "name": "Skywall Souffle"
           },
           {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 1901,
-            "name": "Big Bear Steak"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
-          },
-          {
-            "id": 4354,
-            "name": "Slitherskin Mackerel"
-          },
-          {
-            "id": 3963,
-            "name": "Goblin Deviled Clams"
-          },
-          {
-            "id": 3964,
-            "name": "Boiled Clams"
+            "id": 56882,
+            "name": "Pincer Bites"
           }
         ],
         "First Aid": [
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
-          },
-          {
             "id": 1838,
             "name": "Linen Bandage"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
           }
         ],
         "Fishing": [
@@ -3213,48 +3213,236 @@
         ],
         "Leatherworking": [
           {
-            "id": 55136,
-            "name": "Mender's Leather Belt"
+            "id": 4419,
+            "name": "Deviate Scale Belt"
           },
           {
-            "id": 55184,
-            "name": "Forceful Medium Armor Kit"
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
           },
           {
             "id": 1356,
             "name": "Light Armor Kit"
           },
           {
-            "id": 4989,
-            "name": "Light Leather Quiver"
+            "id": 1360,
+            "name": "Fine Leather Cloak"
           },
           {
-            "id": 55153,
-            "name": "Trapper's Leather Helm"
+            "id": 1362,
+            "name": "Embossed Leather Vest"
           },
           {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
+            "id": 1363,
+            "name": "Embossed Leather Boots"
           },
           {
-            "id": 11756,
-            "name": "Medium Leather"
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
           },
           {
             "id": 1370,
             "name": "Dark Leather Cloak"
           },
           {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 2168,
+            "name": "Hillman's Cloak"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
+            "id": 5047,
+            "name": "Heavy Quiver"
+          },
+          {
+            "id": 5048,
+            "name": "Heavy Leather Ammo Pouch"
+          },
+          {
+            "id": 5052,
+            "name": "Frost Leather Cloak"
+          },
+          {
+            "id": 5053,
+            "name": "Dusky Bracers"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2173,
+            "name": "Hillman's Leather Gloves"
+          },
+          {
             "id": 2174,
             "name": "Dark Leather Gloves"
           },
           {
-            "id": 55156,
-            "name": "Forceful Heavy Armor Kit"
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 2177,
+            "name": "Hillman's Shoulders"
+          },
+          {
+            "id": 2179,
+            "name": "Toughened Leather Gloves"
+          },
+          {
+            "id": 2183,
+            "name": "Green Leather Belt"
+          },
+          {
+            "id": 2185,
+            "name": "Green Leather Bracers"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 2197,
+            "name": "Cured Heavy Hide"
+          },
+          {
+            "id": 2199,
+            "name": "Heavy Armor Kit"
+          },
+          {
+            "id": 3343,
+            "name": "Kodo Hide Bag"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 11757,
+            "name": "Heavy Leather"
+          },
+          {
+            "id": 4010,
+            "name": "Barbaric Harness"
+          },
+          {
+            "id": 4026,
+            "name": "Murloc Scale Belt"
+          },
+          {
+            "id": 4028,
+            "name": "Murloc Scale Breastplate"
           },
           {
             "id": 4029,
             "name": "Thick Murloc Armor"
+          },
+          {
+            "id": 5050,
+            "name": "Dusky Leather Armor"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
+            "id": 4160,
+            "name": "Guardian Pants"
+          },
+          {
+            "id": 4163,
+            "name": "Barbaric Shoulders"
+          },
+          {
+            "id": 4165,
+            "name": "Guardian Gloves"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55136,
+            "name": "Mender's Leather Belt"
+          },
+          {
+            "id": 55137,
+            "name": "Skycaller's Leather Belt"
           },
           {
             "id": 55138,
@@ -3265,218 +3453,6 @@
             "name": "Warden's Leather Belt"
           },
           {
-            "id": 55149,
-            "name": "Wisdom's Leather Helm"
-          },
-          {
-            "id": 55207,
-            "name": "Black Whelp Slippers"
-          },
-          {
-            "id": 4163,
-            "name": "Barbaric Shoulders"
-          },
-          {
-            "id": 2172,
-            "name": "Fine Leather Belt"
-          },
-          {
-            "id": 5050,
-            "name": "Dusky Leather Armor"
-          },
-          {
-            "id": 2197,
-            "name": "Cured Heavy Hide"
-          },
-          {
-            "id": 5052,
-            "name": "Frost Leather Cloak"
-          },
-          {
-            "id": 2179,
-            "name": "Toughened Leather Gloves"
-          },
-          {
-            "id": 55185,
-            "name": "Mystic Medium Armor Kit"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 2195,
-            "name": "Cured Light Hide"
-          },
-          {
-            "id": 5048,
-            "name": "Heavy Leather Ammo Pouch"
-          },
-          {
-            "id": 55205,
-            "name": "Murloc Scale Shoes"
-          },
-          {
-            "id": 4160,
-            "name": "Guardian Pants"
-          },
-          {
-            "id": 2170,
-            "name": "Fine Leather Tunic"
-          },
-          {
-            "id": 3343,
-            "name": "Kodo Hide Bag"
-          },
-          {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
-            "id": 2177,
-            "name": "Hillman's Shoulders"
-          },
-          {
-            "id": 1363,
-            "name": "Embossed Leather Boots"
-          },
-          {
-            "id": 4419,
-            "name": "Deviate Scale Belt"
-          },
-          {
-            "id": 2196,
-            "name": "Cured Medium Hide"
-          },
-          {
-            "id": 1368,
-            "name": "Toughened Leather Armor"
-          },
-          {
-            "id": 4028,
-            "name": "Murloc Scale Breastplate"
-          },
-          {
-            "id": 2168,
-            "name": "Hillman's Cloak"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
-          },
-          {
-            "id": 2167,
-            "name": "Embossed Leather Pants"
-          },
-          {
-            "id": 4993,
-            "name": "Light Leather Pants"
-          },
-          {
-            "id": 4010,
-            "name": "Barbaric Harness"
-          },
-          {
-            "id": 4992,
-            "name": "Light Leather Bracers"
-          },
-          {
-            "id": 4156,
-            "name": "Handstitched Leather Vest"
-          },
-          {
-            "id": 52647,
-            "name": "Camp Tent"
-          },
-          {
-            "id": 2173,
-            "name": "Hillman's Leather Gloves"
-          },
-          {
-            "id": 2175,
-            "name": "Dark Leather Belt"
-          },
-          {
-            "id": 4026,
-            "name": "Murloc Scale Belt"
-          },
-          {
-            "id": 5047,
-            "name": "Heavy Quiver"
-          },
-          {
-            "id": 55204,
-            "name": "Moonglow Boots"
-          },
-          {
-            "id": 55137,
-            "name": "Skycaller's Leather Belt"
-          },
-          {
-            "id": 2185,
-            "name": "Green Leather Bracers"
-          },
-          {
-            "id": 1369,
-            "name": "Gray Leather Boots"
-          },
-          {
-            "id": 5053,
-            "name": "Dusky Bracers"
-          },
-          {
-            "id": 4159,
-            "name": "Dark Leather Pants"
-          },
-          {
-            "id": 55157,
-            "name": "Mystic Heavy Armor Kit"
-          },
-          {
-            "id": 2183,
-            "name": "Green Leather Belt"
-          },
-          {
-            "id": 1360,
-            "name": "Fine Leather Cloak"
-          },
-          {
-            "id": 55142,
-            "name": "Prowler's Leather Belt"
-          },
-          {
-            "id": 11757,
-            "name": "Heavy Leather"
-          },
-          {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
-          },
-          {
-            "id": 55173,
-            "name": "Totemic Leather Pants"
-          },
-          {
-            "id": 1353,
-            "name": "Handstitched Leather Boots"
-          },
-          {
-            "id": 4996,
-            "name": "Nimble Leather Gloves"
-          },
-          {
-            "id": 1364,
-            "name": "Embossed Leather Cloak"
-          },
-          {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
-          },
-          {
-            "id": 2199,
-            "name": "Heavy Armor Kit"
-          },
-          {
             "id": 55140,
             "name": "Stalker's Leather Belt"
           },
@@ -3485,31 +3461,59 @@
             "name": "Skulker's Leather Belt"
           },
           {
-            "id": 1367,
-            "name": "Medium Armor Kit"
+            "id": 55142,
+            "name": "Prowler's Leather Belt"
           },
           {
-            "id": 4988,
-            "name": "Handstitched Leather Bracers"
+            "id": 55149,
+            "name": "Wisdom's Leather Helm"
           },
           {
-            "id": 4165,
-            "name": "Guardian Gloves"
+            "id": 55153,
+            "name": "Trapper's Leather Helm"
+          },
+          {
+            "id": 55156,
+            "name": "Forceful Heavy Armor Kit"
+          },
+          {
+            "id": 55157,
+            "name": "Mystic Heavy Armor Kit"
+          },
+          {
+            "id": 55173,
+            "name": "Totemic Leather Pants"
+          },
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
           },
           {
             "id": 55206,
             "name": "Dark Leather Boots"
           },
           {
-            "id": 5026,
-            "name": "Fletcher's Gloves"
-          },
-          {
-            "id": 2164,
-            "name": "Embossed Leather Gloves"
+            "id": 55207,
+            "name": "Black Whelp Slippers"
           }
         ],
         "Skinning": [
+          {
+            "id": 5746,
+            "name": "Skinning"
+          },
           {
             "id": 52644,
             "name": "Camp Chair"
@@ -3517,10 +3521,6 @@
           {
             "id": 57017,
             "name": "Field Guide"
-          },
-          {
-            "id": 5746,
-            "name": "Skinning"
           }
         ]
       },
@@ -18843,11 +18843,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/92/52935260-avatar.jpg",
       "best_item": {
-        "id": 5322,
-        "ilvl": 26,
-        "name": "Demolition Hammer",
-        "quality": "UNCOMMON",
-        "slot": "Main Hand"
+        "id": 285330,
+        "ilvl": null,
+        "name": "Signet of the Zhevra",
+        "quality": "RARE",
+        "slot": "Ring 2"
       },
       "boss_kills": {},
       "class": "Shaman",
@@ -18861,8 +18861,8 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795559841000,
-      "level": 23,
+      "last_login": 1795609502000,
+      "level": 24,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
@@ -18870,34 +18870,23 @@
         "18": 1795301667,
         "19": 1795366451,
         "21": 1795551249,
-        "23": 1795560035
+        "23": 1795560035,
+        "24": 1795610577
       },
       "professions": {
         "Cooking": 64,
         "First Aid": 46,
         "Fishing": 79,
         "Leatherworking": 39,
-        "Skinning": 149
+        "Skinning": 150
       },
       "race": "Orc",
       "raids": {},
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 54504,
-            "name": "Tasty Raptor Bites"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
             "id": 1536,
@@ -18908,8 +18897,8 @@
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 1538,
+            "name": "Coyote Steak"
           },
           {
             "id": 4354,
@@ -18918,6 +18907,18 @@
           {
             "id": 3964,
             "name": "Boiled Clams"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           }
         ],
         "First Aid": [
@@ -18928,50 +18929,62 @@
         ],
         "Fishing": [
           {
-            "id": 52639,
-            "name": "Fish Bowl"
-          },
-          {
             "id": 4345,
             "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
           }
         ],
         "Leatherworking": [
           {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
             "id": 1356,
             "name": "Light Armor Kit"
-          },
-          {
-            "id": 4989,
-            "name": "Light Leather Quiver"
-          },
-          {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
-          },
-          {
-            "id": 55207,
-            "name": "Black Whelp Slippers"
           },
           {
             "id": 1362,
             "name": "Embossed Leather Vest"
           },
           {
-            "id": 2195,
-            "name": "Cured Light Hide"
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
           },
           {
             "id": 4987,
             "name": "Handstitched Leather Cloak"
           },
           {
-            "id": 1708,
-            "name": "Light Leather"
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
           },
           {
             "id": 4991,
             "name": "Rugged Leather Pants"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
           },
           {
             "id": 4156,
@@ -18982,25 +18995,13 @@
             "name": "Camp Tent"
           },
           {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
-          },
-          {
-            "id": 1353,
-            "name": "Handstitched Leather Boots"
-          },
-          {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
-          },
-          {
-            "id": 4988,
-            "name": "Handstitched Leather Bracers"
+            "id": 55207,
+            "name": "Black Whelp Slippers"
           }
         ],
         "Skinning": [
           {
-            "id": 4767,
+            "id": 4768,
             "name": "Skinning"
           },
           {
@@ -19017,12 +19018,17 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8643,
+          "raw": 8862,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 2000,
+          "raw": 2075,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 0,
           "tier": 3
         },
         "Everlook": {
@@ -19037,7 +19043,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12282,
+          "raw": 12726,
           "tier": 5
         },
         "Powderfuse": {
@@ -19050,36 +19056,31 @@
           "raw": 4242,
           "tier": 4
         },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5526,
+          "raw": 5876,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2048,
+          "raw": 2567,
           "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 30,
-        "deaths": 12,
-        "drinks": 21,
-        "flights": 23,
-        "food": 34,
+        "deaths": 15,
+        "drinks": 25,
+        "flights": 28,
+        "food": 37,
         "health_potions": 11,
-        "hearths": 9,
-        "killing_blows": 1147,
-        "mobs": 1249,
-        "quests": 156
+        "hearths": 10,
+        "killing_blows": 1238,
+        "mobs": 1378,
+        "quests": 169
       },
-      "xp": 4227
+      "xp": 8830
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -22253,7 +22254,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795608512000,
+      "last_login": 1795610292000,
       "level": 41,
       "level_at": {
         "38": 1795221303,
@@ -22261,9 +22262,9 @@
         "41": 1795609365
       },
       "professions": {
-        "Cooking": 178,
+        "Cooking": 217,
         "First Aid": 34,
-        "Fishing": 145,
+        "Fishing": 156,
         "Leatherworking": 176,
         "Skinning": 275
       },
@@ -22318,6 +22319,10 @@
           {
             "id": 8621,
             "name": "Carrion Surprise"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
           },
           {
             "id": 3930,
@@ -22825,15 +22830,15 @@
         "deaths": 19,
         "drinks": 24,
         "flights": 142,
-        "food": 101,
+        "food": 102,
         "health_potions": 16,
         "hearths": 39,
         "killing_blows": 3883,
         "mana_potions": 3,
         "mobs": 6310,
-        "quests": 458
+        "quests": 459
       },
-      "xp": 47526
+      "xp": 49076
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -26763,6 +26768,20 @@
           "level": 33
         }
       },
+      "eu:ogmar-donnerhammer": {
+        "c": {
+          "name": "Ogmar",
+          "region": "eu",
+          "surname": "Donnerhammer"
+        },
+        "lines": [
+          "🛠️ **Kürschnerei** auf 150"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 24
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -26787,7 +26806,8 @@
           "surname": "Mondrabe"
         },
         "lines": [
-          "🤝 **Wohlwollend** bei Darkspear"
+          "🤝 **Wohlwollend** bei Darkspear",
+          "🛠️ **Angeln** auf 150"
         ],
         "snap": {
           "class": "Druid",
@@ -27955,7 +27975,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29583,7 +29603,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795609368,
+  "saved_at": 1795610578,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
