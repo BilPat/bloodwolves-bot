@@ -24306,7 +24306,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795666087000,
+      "last_login": 1795667635000,
       "level": 35,
       "level_at": {
         "29": 1795218860,
@@ -24476,19 +24476,19 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 18,
+        "critters": 19,
         "deaths": 52,
         "drinks": 15,
         "flights": 58,
         "food": 14,
-        "health_potions": 22,
+        "health_potions": 23,
         "hearths": 38,
-        "killing_blows": 2170,
+        "killing_blows": 2172,
         "mana_potions": 4,
-        "mobs": 3752,
-        "quests": 329
+        "mobs": 3754,
+        "quests": 336
       },
-      "xp": 22197
+      "xp": 27879
     },
     "us:devil-latterday": {
       "achievements": {
@@ -26509,15 +26509,16 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795665463000,
-      "level": 33,
+      "last_login": 1795667514000,
+      "level": 34,
       "level_at": {
         "28": 1794965196,
         "29": 1795061895,
         "30": 1795325983,
         "31": 1795490340,
         "32": 1795498767,
-        "33": 1795649117
+        "33": 1795649117,
+        "34": 1795668038
       },
       "professions": {
         "Cooking": 65,
@@ -27049,20 +27050,20 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 80,
-        "deaths": 73,
+        "critters": 81,
+        "deaths": 74,
         "drinks": 903,
         "flights": 56,
-        "food": 138,
+        "food": 139,
         "health_potions": 49,
         "hearths": 27,
         "honorable_kills": 1,
-        "killing_blows": 1979,
+        "killing_blows": 1980,
         "mana_potions": 16,
-        "mobs": 4680,
-        "quests": 307
+        "mobs": 4682,
+        "quests": 311
       },
-      "xp": 55628
+      "xp": 900
     }
   },
   "craft_board": {
@@ -30048,7 +30049,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795667410,
+  "saved_at": 1795668039,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
