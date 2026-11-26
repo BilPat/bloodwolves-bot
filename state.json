@@ -19230,8 +19230,8 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795708422000,
-      "level": 26,
+      "last_login": 1795726530000,
+      "level": 27,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
@@ -19242,7 +19242,8 @@
         "23": 1795560035,
         "24": 1795610577,
         "25": 1795641934,
-        "26": 1795700427
+        "26": 1795700427,
+        "27": 1795727648
       },
       "professions": {
         "Cooking": 64,
@@ -19442,11 +19443,11 @@
         "food": 41,
         "health_potions": 13,
         "hearths": 13,
-        "killing_blows": 1494,
-        "mobs": 1694,
+        "killing_blows": 1497,
+        "mobs": 1697,
         "quests": 198
       },
-      "xp": 35768
+      "xp": 258
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -30562,7 +30563,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795726502,
+  "saved_at": 1795727650,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
