@@ -23308,7 +23308,7 @@
         },
         "6142": {
           "boss": "Archaedas",
-          "count": 1,
+          "count": 2,
           "instance": "Uldaman"
         },
         "63570": {
@@ -23452,8 +23452,8 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795690588000,
-      "level": 46,
+      "last_login": 1795695930000,
+      "level": 47,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
@@ -23465,14 +23465,15 @@
         "43": 1795217953,
         "44": 1795389237,
         "45": 1795443474,
-        "46": 1795593290
+        "46": 1795593290,
+        "47": 1795696960
       },
       "professions": {
         "Blacksmithing": 185,
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 233
+        "Mining": 236
       },
       "race": "Undead",
       "raids": {},
@@ -23931,7 +23932,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8338,
+          "raw": 8357,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -23966,7 +23967,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8833,
+          "raw": 8908,
           "tier": 4
         },
         "Powderfuse": {
@@ -23981,12 +23982,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7942,
+          "raw": 7961,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21447,
+          "raw": 21466,
           "tier": 6
         }
       },
@@ -23996,15 +23997,15 @@
         "deaths": 61,
         "drinks": 36,
         "flights": 111,
-        "food": 65,
+        "food": 67,
         "health_potions": 42,
         "hearths": 51,
-        "killing_blows": 3692,
+        "killing_blows": 3743,
         "mana_potions": 2,
-        "mobs": 8214,
-        "quests": 506
+        "mobs": 8444,
+        "quests": 508
       },
-      "xp": 103544
+      "xp": 5667
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28545,7 +28546,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30216,7 +30217,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795695719,
+  "saved_at": 1795696961,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
