@@ -6615,7 +6615,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795652982000,
+      "last_login": 1795656061000,
       "level": 33,
       "level_at": {
         "22": 1794866470,
@@ -6634,7 +6634,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 265,
-        "Tailoring": 217
+        "Tailoring": 221
       },
       "race": "Undead",
       "raids": {},
@@ -14023,7 +14023,7 @@
         },
         "6139": {
           "boss": "Charlga Razorflank",
-          "count": 1,
+          "count": 2,
           "instance": "Razorfen Kraul"
         }
       },
@@ -14055,6 +14055,10 @@
           "name": "Crescent Staff",
           "quality": "RARE"
         },
+        "6682": {
+          "name": "Death Speaker Robes",
+          "quality": "RARE"
+        },
         "6910": {
           "name": "Leech Pants",
           "quality": "RARE"
@@ -14066,7 +14070,7 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795649952000,
+      "last_login": 1795656078000,
       "level": 34,
       "level_at": {
         "27": 1794866470,
@@ -14080,8 +14084,8 @@
       },
       "professions": {
         "Cooking": 27,
-        "Enchanting": 54,
-        "Fishing": 13,
+        "Enchanting": 55,
+        "Fishing": 18,
         "Tailoring": 120
       },
       "race": "Orc",
@@ -14298,14 +14302,19 @@
           "raw": 400,
           "tier": 3
         },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -6625,
+          "tier": 0
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2172,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11153,
+          "raw": 11228,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14320,12 +14329,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2160,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2160,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -14340,27 +14349,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14297,
+          "raw": 14372,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2160,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4170,
+          "raw": 4207,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10198,
+          "raw": 10273,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5008,
+          "raw": 5458,
           "tier": 4
         }
       },
@@ -14368,17 +14377,17 @@
       "stats": {
         "critters": 25,
         "deaths": 17,
-        "drinks": 817,
-        "flights": 80,
-        "food": 322,
+        "drinks": 838,
+        "flights": 81,
+        "food": 324,
         "health_potions": 9,
-        "hearths": 28,
-        "killing_blows": 2110,
-        "mana_potions": 5,
-        "mobs": 3896,
-        "quests": 239
+        "hearths": 29,
+        "killing_blows": 2155,
+        "mana_potions": 6,
+        "mobs": 4096,
+        "quests": 245
       },
-      "xp": 22020
+      "xp": 46871
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -27508,6 +27517,7 @@
     "Deadmines": "Todesminen",
     "Death Bindings": "Todesbindungen",
     "Death Prophet Spine": "Wirbelsäule des Todespropheten",
+    "Death Speaker Robes": "Todessprecher-Roben",
     "Death Wish": "Todeswunsch",
     "Deaths": "Tode",
     "Deaths from drowning": "Tode durch Ertrinken",
@@ -28290,7 +28300,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29952,7 +29962,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795655839,
+  "saved_at": 1795656436,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
