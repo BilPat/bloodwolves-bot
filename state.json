@@ -25131,13 +25131,7 @@
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/49/20858161-avatar.jpg",
-      "best_item": {
-        "id": 3562,
-        "ilvl": null,
-        "name": "Belt of Vindication",
-        "quality": "RARE",
-        "slot": "Waist"
-      },
+      "best_item": null,
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
@@ -30291,7 +30285,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795704851,
+  "saved_at": 1795706142,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
