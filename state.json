@@ -17337,7 +17337,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795652888000,
+      "last_login": 1795717273000,
       "level": 34,
       "level_at": {
         "27": 1795430379,
@@ -17424,12 +17424,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1985,
+          "raw": 1998,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6917,
+          "raw": 6927,
           "tier": 4
         },
         "Earthen Ring": {
@@ -17439,12 +17439,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1973,
+          "raw": 1985,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1973,
+          "raw": 1985,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -17454,27 +17454,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9656,
+          "raw": 9666,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1973,
+          "raw": 1985,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3433,
+          "raw": 3458,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10782,
+          "raw": 10792,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7960,
+          "raw": 7970,
           "tier": 4
         },
         "Windshapers": {
@@ -17496,9 +17496,9 @@
         "killing_blows": 2594,
         "mana_potions": 89,
         "mobs": 3462,
-        "quests": 325
+        "quests": 326
       },
-      "xp": 62188
+      "xp": 62358
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -24197,7 +24197,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795682258000,
+      "last_login": 1795717464000,
       "level": 32,
       "level_at": {
         "21": 1794866470,
@@ -28722,7 +28722,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30396,7 +30396,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795717067,
+  "saved_at": 1795718416,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
