@@ -6615,7 +6615,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795683568000,
+      "last_login": 1795688431000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -6635,7 +6635,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 266,
-        "Tailoring": 222
+        "Tailoring": 223
       },
       "race": "Undead",
       "raids": {},
@@ -7346,7 +7346,7 @@
         "flights": 110,
         "food": 154,
         "health_potions": 16,
-        "hearths": 67,
+        "hearths": 68,
         "killing_blows": 1599,
         "mana_potions": 57,
         "mobs": 4339,
@@ -7379,7 +7379,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795678072000,
+      "last_login": 1795688786000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -7500,6 +7500,10 @@
         ],
         "Enchanting": [
           {
+            "id": 7502,
+            "name": "Runed Golden Rod"
+          },
+          {
             "id": 7426,
             "name": "Enchant Weapon - Lesser Striking"
           },
@@ -7518,6 +7522,10 @@
           {
             "id": 4368,
             "name": "Enchant 2H Weapon - Minor Impact"
+          },
+          {
+            "id": 4370,
+            "name": "Runed Silver Rod"
           },
           {
             "id": 7316,
@@ -23235,6 +23243,7 @@
         "62015": "Journeyman Blacksmith",
         "62031": "Novice Spelunker",
         "62032": "Experienced Spelunker",
+        "63684": "Explore Shen'dralas",
         "846": "Explore Thousand Needles"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/189/9497021-avatar.jpg",
@@ -23357,6 +23366,10 @@
           "name": "Vilewalkers",
           "quality": "RARE"
         },
+        "271810": {
+          "name": "Corpsefeeder's Shedding",
+          "quality": "RARE"
+        },
         "273035": {
           "name": "Mana-Warped Chain Shirt",
           "quality": "RARE"
@@ -23427,8 +23440,8 @@
         }
       },
       "ilvl": 37,
-      "last_explored": "Thousand Needles",
-      "last_login": 1795685058000,
+      "last_explored": "Shen'dralas",
+      "last_login": 1795687235000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -23448,7 +23461,7 @@
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 232
+        "Mining": 233
       },
       "race": "Undead",
       "raids": {},
@@ -23955,6 +23968,11 @@
           "raw": 3180,
           "tier": 4
         },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
           "raw": 7942,
@@ -23971,16 +23989,16 @@
         "critters": 117,
         "deaths": 61,
         "drinks": 36,
-        "flights": 110,
+        "flights": 111,
         "food": 65,
         "health_potions": 42,
-        "hearths": 50,
-        "killing_blows": 3661,
+        "hearths": 51,
+        "killing_blows": 3692,
         "mana_potions": 2,
-        "mobs": 8183,
-        "quests": 502
+        "mobs": 8214,
+        "quests": 506
       },
-      "xp": 82798
+      "xp": 103544
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -27292,6 +27310,20 @@
           "level": 30
         }
       },
+      "eu:vlad-impalar": {
+        "c": {
+          "name": "Vlad",
+          "region": "eu",
+          "surname": "Impalar"
+        },
+        "lines": [
+          "🎖️ [Erkundet Shen'dralas](https://www.wowhead.com/forever/de/achievement=63684)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 46
+        }
+      },
       "us:devil-latterday": {
         "c": {
           "name": "devil",
@@ -27659,6 +27691,7 @@
     "Copper Chain Belt": "Kupferner Kettengürtel",
     "Copper Mace": "Kupferstreitkolben",
     "Coral Band of the Boar": "Korallenband des Ebers",
+    "Corpsefeeder's Shedding": "Abgestoßene Haut des Leichenfressers",
     "Coup de Grace": "Gnadenstoß",
     "Courier's Clasp": "Schnallengürtel des Kuriers",
     "Crafted Light Shot": "Gefertigtes leichtes Geschoss",
@@ -30157,7 +30190,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795686899,
+  "saved_at": 1795688828,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
