@@ -14446,6 +14446,7 @@
       "achievements": {
         "61502": "Novice Druid",
         "61503": "Experienced Druid",
+        "61504": "Master Druid",
         "62012": "Journeyman Alchemist",
         "62013": "Expert Alchemist",
         "62014": "Artisan Alchemist",
@@ -14472,11 +14473,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 19159,
+        "id": 280076,
         "ilvl": null,
-        "name": "Woven Ivy Necklace",
+        "name": "Horns of Varrox",
         "quality": "RARE",
-        "slot": "Neck"
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -14639,6 +14640,10 @@
           "name": "Courier's Clasp",
           "quality": "RARE"
         },
+        "280076": {
+          "name": "Horns of Varrox",
+          "quality": "RARE"
+        },
         "9416": {
           "name": "Grimlok's Charge",
           "quality": "RARE"
@@ -14654,8 +14659,8 @@
       },
       "ilvl": 53,
       "last_explored": "Feralas",
-      "last_login": 1795653090000,
-      "level": 58,
+      "last_login": 1795720501000,
+      "level": 60,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
@@ -14667,13 +14672,14 @@
         "54": 1795396676,
         "55": 1795461145,
         "56": 1795526201,
-        "58": 1795653292
+        "58": 1795653292,
+        "60": 1795721125
       },
       "professions": {
         "Alchemy": 300,
         "Cooking": 300,
         "First Aid": 300,
-        "Fishing": 175,
+        "Fishing": 176,
         "Herbalism": 300
       },
       "race": "Tauren",
@@ -15157,6 +15163,10 @@
             "name": "Healing Potion"
           },
           {
+            "id": 54196,
+            "name": "Major Healing Potion"
+          },
+          {
             "id": 55743,
             "name": "Woolen Tourniquet"
           },
@@ -15197,8 +15207,13 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 410,
+          "raw": 525,
           "tier": 3
+        },
+        "Barkskin Burrow": {
+          "name": "Unfriendly",
+          "raw": -2030,
+          "tier": 2
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
@@ -15212,7 +15227,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 7084,
+          "raw": 7134,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -15220,9 +15235,14 @@
           "raw": 3345,
           "tier": 4
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 14447,
+          "raw": 14622,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -15232,71 +15252,81 @@
         },
         "Earthen Ring": {
           "name": "Friendly",
-          "raw": 3150,
+          "raw": 3900,
           "tier": 4
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 6424,
+          "raw": 6524,
           "tier": 4
+        },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 7639,
+          "raw": 7689,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 18868,
+          "raw": 18968,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 7316,
+          "raw": 7366,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7780,
+          "raw": 7830,
           "tier": 4
         },
-        "Shen'dralar": {
+        "The Defilers": {
           "name": "Neutral",
           "raw": 0,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 22546,
+          "raw": 22871,
           "tier": 6
         },
         "Timbermaw Hold": {
           "name": "Unfriendly",
-          "raw": -1925,
+          "raw": -65,
           "tier": 2
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15993,
+          "raw": 16093,
           "tier": 5
+        },
+        "Warsong Outriders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 144,
-        "deaths": 64,
-        "drinks": 272,
-        "flights": 283,
-        "food": 304,
+        "deaths": 66,
+        "drinks": 292,
+        "flights": 298,
+        "food": 320,
         "health_potions": 90,
-        "hearths": 68,
+        "hearths": 72,
         "honorable_kills": 1,
-        "killing_blows": 5284,
+        "killing_blows": 5528,
         "mana_potions": 10,
-        "mobs": 12062,
-        "quests": 804
+        "mobs": 12588,
+        "quests": 883
       },
-      "xp": 35191
+      "xp": 0
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -27581,11 +27611,12 @@
         },
         "lines": [
           "🛠️ **Erste Hilfe** auf 300",
-          "🎖️ [Erkundet Feralas](https://www.wowhead.com/forever/de/achievement=849)"
+          "🎖️ [Erkundet Feralas](https://www.wowhead.com/forever/de/achievement=849)",
+          "🎖️ [Master Druid](https://www.wowhead.com/forever/de/achievement=61504)"
         ],
         "snap": {
           "class": "Druid",
-          "level": 58
+          "level": 60
         }
       },
       "eu:lazy-quinn": {
@@ -28515,6 +28546,7 @@
     "Honored": "Wohlwollend",
     "Hooded Cowl": "Kapuzenkutte",
     "Horn Ring": "Hornring",
+    "Horns of Varrox": "Hörner von Varrox",
     "Hostile": "Feindselig",
     "Houndmaster Boomerang": "Hundemeisterbumerang",
     "Howlhide Vest": "Heulbalgweste",
@@ -28746,6 +28778,7 @@
     "Naga Priestess's Mantle": "Mantel der Nagapriesterin",
     "Natural Instinct": "Instinkt der Natur",
     "Natural Reaction": "Natürliche Reaktion",
+    "Natural Shapeshifter": "Schnellwandlung",
     "Nature Damage": "Naturschaden",
     "Nature Resistance": "Naturwiderstand",
     "Nature's Focus": "Naturfokus",
@@ -28966,6 +28999,7 @@
     "Royal Gloves of the Elder": "Königliche Handschuhe des Ältesten",
     "Royal Mallet of the Sorcerer": "Königlicher Schlaghammer des Zauberers",
     "Ruga's Bulwark": "Rugas Bollwerk",
+    "Rugged Armor Kit": "Unverwüstliches Rüstungsset",
     "Rugged Mail Vest": "Unverwüstliche Panzerweste",
     "Rugged Trapper's Shirt": "Unverwüstliches Fallenstellerhemd",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
@@ -29452,6 +29486,7 @@
     "Zum'rah's Vexing Cane": "Zum'rahs Hexerstab"
   },
   "group": {
+    "first_to_max": "eu:krakmor-ci%C3%B3rdan",
     "firsts": {
       "boss": {
         "Blazeroar (Alcaz Prison)": [
@@ -29539,6 +29574,9 @@
       "50": [
         "eu:krakmor-ci%C3%B3rdan",
         "eu:baumora-axiom"
+      ],
+      "60": [
+        "eu:krakmor-ci%C3%B3rdan"
       ]
     }
   },
@@ -30566,7 +30604,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795720387,
+  "saved_at": 1795721125,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
