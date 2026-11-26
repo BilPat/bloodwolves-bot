@@ -6504,6 +6504,7 @@
         "62015": "Journeyman Blacksmith",
         "62018": "Journeyman Enchanter",
         "62028": "Journeyman Tailor",
+        "62029": "Expert Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
       },
@@ -6615,7 +6616,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795689540000,
+      "last_login": 1795694517000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -6635,7 +6636,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 266,
-        "Tailoring": 223
+        "Tailoring": 225
       },
       "race": "Undead",
       "raids": {},
@@ -27199,6 +27200,22 @@
           "level": 33
         }
       },
+      "eu:efrye-frostheal": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostheal"
+        },
+        "lines": [
+          "🛠️ **Schneiderei** auf 225",
+          "🎖️ [Expert Tailor](https://www.wowhead.com/forever/de/achievement=62029)"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 34
+        }
+      },
       "eu:fred-feuersturm": {
         "c": {
           "name": "Fred",
@@ -28528,7 +28545,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30199,7 +30216,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795694072,
+  "saved_at": 1795695719,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
