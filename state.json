@@ -24325,7 +24325,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795673568000,
+      "last_login": 1795674488000,
       "level": 35,
       "level_at": {
         "29": 1795218860,
@@ -24514,6 +24514,7 @@
         "61989": "Novice Hunter",
         "776": "Explore Elwynn Forest",
         "780": "Explore Redridge Mountains",
+        "841": "Explore Wetlands",
         "842": "Explore Teldrassil"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/43/66228267-avatar.jpg",
@@ -24544,6 +24545,11 @@
           "boss": "Aku'mai",
           "count": 2,
           "instance": "Blackfathom Deeps"
+        },
+        "6140": {
+          "boss": "Mekgineer Thermaplugg",
+          "count": 1,
+          "instance": "Gnomeregan"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -24601,6 +24607,10 @@
           "name": "Fallenroot Longbow",
           "quality": "RARE"
         },
+        "281320": {
+          "name": "Rune-Etched Ring",
+          "quality": "RARE"
+        },
         "286977": {
           "name": "Sword of the Fallen",
           "quality": "RARE"
@@ -24612,12 +24622,16 @@
         "6633": {
           "name": "Butcher's Slicer",
           "quality": "RARE"
+        },
+        "9624": {
+          "name": "Triprunner Dungarees",
+          "quality": "RARE"
         }
       },
       "ilvl": 23,
-      "last_explored": "Redridge Mountains",
-      "last_login": 1795616567000,
-      "level": 30,
+      "last_explored": "Wetlands",
+      "last_login": 1795674555000,
+      "level": 32,
       "level_at": {
         "18": 1795149590,
         "20": 1795151747,
@@ -24626,14 +24640,15 @@
         "27": 1795398202,
         "28": 1795488057,
         "29": 1795501493,
-        "30": 1795584444
+        "30": 1795584444,
+        "32": 1795675630
       },
       "professions": {
         "Cooking": 96,
         "First Aid": 150,
         "Fishing": 40,
-        "Leatherworking": 85,
-        "Skinning": 201
+        "Leatherworking": 92,
+        "Skinning": 220
       },
       "race": "Night Elf",
       "raids": {},
@@ -24710,6 +24725,10 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           },
           {
             "id": 54505,
@@ -24948,9 +24967,14 @@
           "raw": 2000,
           "tier": 3
         },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 500,
+          "tier": 3
+        },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15338,
+          "raw": 15803,
           "tier": 5
         },
         "Gadgetzan": {
@@ -24960,12 +24984,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 5997,
+          "raw": 6912,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 6791,
+          "raw": 8051,
           "tier": 4
         },
         "Kirin Tor": {
@@ -24980,26 +25004,26 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8080,
+          "raw": 8695,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 114,
-        "deaths": 33,
-        "drinks": 11,
-        "flights": 28,
-        "food": 46,
-        "health_potions": 13,
-        "hearths": 12,
+        "critters": 117,
+        "deaths": 37,
+        "drinks": 16,
+        "flights": 30,
+        "food": 48,
+        "health_potions": 14,
+        "hearths": 13,
         "honorable_kills": 108,
-        "killing_blows": 2310,
+        "killing_blows": 2547,
         "mana_potions": 1,
-        "mobs": 3466,
-        "quests": 221
+        "mobs": 3973,
+        "quests": 243
       },
-      "xp": 26947
+      "xp": 24211
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -25775,7 +25799,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795674163000,
+      "last_login": 1795674917000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -26372,7 +26396,7 @@
         "critters": 185,
         "deaths": 30,
         "drinks": 2,
-        "flights": 142,
+        "flights": 143,
         "food": 188,
         "health_potions": 43,
         "hearths": 85,
@@ -27239,6 +27263,21 @@
           "level": 30
         }
       },
+      "us:devil-latterday": {
+        "c": {
+          "name": "devil",
+          "region": "us",
+          "surname": "latterday"
+        },
+        "lines": [
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen",
+          "🎖️ [Erkundet Sumpfland](https://www.wowhead.com/forever/de/achievement=841)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 32
+        }
+      },
       "us:pwanage-ownage": {
         "c": {
           "name": "pwanage",
@@ -27673,6 +27712,7 @@
     "Dense Weightstone": "Verdichteter Gewichtsstein",
     "Depleted Ritual Band": "Ausgelaugter Ritualring",
     "Dervish Spaulders of Nature's Wrath": "Derwischschiftung des Naturzorns",
+    "Dervish Spaulders of the Wolf": "Derwischschiftung des Wolfs",
     "Dervish Tunic of the Bandit": "Derwischtunika des Banditen",
     "Desert Choker of the Hierophant": "Wüstenhalsschmuck des Hierophanten",
     "Desert Shoulders": "Wüsten-Schultern",
@@ -28419,7 +28459,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28506,6 +28546,7 @@
     "Rugged Trapper's Shirt": "Unverwüstliches Fallenstellerhemd",
     "Ruins of Lordaeron": "Ruinen von Lordaeron",
     "Rune of the Guard Captain": "Rune des Wachbefehlshabers",
+    "Rune-Etched Ring": "Runenverzierter Ring",
     "Runebound Gloves": "Runengebundene Handschuhe",
     "Runed Copper Belt": "Runenverzierter Kupfergürtel",
     "Runed Copper Bracers": "Runenverzierte Kupferarmschienen",
@@ -28533,6 +28574,7 @@
     "Savage Fury": "Ungezähmte Wut",
     "Savage Trodders": "Wilde Treter",
     "Savannah Bracers": "Savannenarmschienen",
+    "Scaled Cloak of Power": "Schuppenumhang der Macht",
     "Scaled Cloak of the Bandit": "Schuppenumhang des Banditen",
     "Scaled Leather Belt of the Boar": "Lederschuppengürtel des Ebers",
     "Scaled Leather Headband": "Lederschuppenstirnband",
@@ -30085,7 +30127,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795674330,
+  "saved_at": 1795675631,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
