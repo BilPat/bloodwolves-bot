@@ -22630,7 +22630,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795637768000,
+      "last_login": 1795675960000,
       "level": 42,
       "level_at": {
         "38": 1795221303,
@@ -22641,7 +22641,7 @@
       "professions": {
         "Cooking": 217,
         "First Aid": 34,
-        "Fishing": 166,
+        "Fishing": 167,
         "Leatherworking": 176,
         "Skinning": 277
       },
@@ -22649,6 +22649,10 @@
       "raids": {},
       "recipes": {
         "Cooking": [
+          {
+            "id": 2499,
+            "name": "Barbecued Buzzard Wing"
+          },
           {
             "id": 8619,
             "name": "Hot Wolf Ribs"
@@ -22696,6 +22700,10 @@
           {
             "id": 8621,
             "name": "Carrion Surprise"
+          },
+          {
+            "id": 11997,
+            "name": "Spider Sausage"
           },
           {
             "id": 13375,
@@ -23127,12 +23135,12 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -11625,
+          "raw": -12500,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3847,
+          "raw": 4507,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -23142,7 +23150,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9066,
+          "raw": 9166,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -23157,12 +23165,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3202,
+          "raw": 3532,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3215,
+          "raw": 3545,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -23172,27 +23180,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11485,
+          "raw": 11510,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3152,
+          "raw": 3482,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4997,
+          "raw": 5327,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12916,
+          "raw": 12941,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8525,
+          "raw": 8550,
           "tier": 4
         },
         "Windshapers": {
@@ -23205,17 +23213,17 @@
       "stats": {
         "critters": 60,
         "deaths": 19,
-        "drinks": 24,
-        "flights": 145,
-        "food": 105,
-        "health_potions": 16,
+        "drinks": 25,
+        "flights": 148,
+        "food": 108,
+        "health_potions": 18,
         "hearths": 39,
-        "killing_blows": 3961,
+        "killing_blows": 4030,
         "mana_potions": 3,
-        "mobs": 6452,
-        "quests": 473
+        "mobs": 6582,
+        "quests": 479
       },
-      "xp": 12203
+      "xp": 50189
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -29567,7 +29575,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 57,
+        "level": 58,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -29666,7 +29674,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 32,
+        "level": 33,
         "name": "Blck",
         "rank": 4,
         "region": "eu",
@@ -29927,7 +29935,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 36,
+        "level": 37,
         "name": "Lazy",
         "rank": 4,
         "region": "eu",
@@ -30116,7 +30124,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 8,
+        "level": 9,
         "name": "Zugzug",
         "rank": 5,
         "region": "eu",
@@ -30127,7 +30135,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795675631,
+  "saved_at": 1795676175,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
