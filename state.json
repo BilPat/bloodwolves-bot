@@ -10430,7 +10430,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795640635000,
+      "last_login": 1795706383000,
       "level": 36,
       "level_at": {
         "27": 1794866470,
@@ -10449,7 +10449,7 @@
         "First Aid": 20,
         "Fishing": 202,
         "Leatherworking": 161,
-        "Skinning": 260
+        "Skinning": 261
       },
       "race": "Tauren",
       "raids": {},
@@ -10901,9 +10901,14 @@
           "raw": 2960,
           "tier": 3
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6991,
+          "raw": 7028,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -10921,6 +10926,11 @@
           "raw": 2197,
           "tier": 3
         },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Gadgetzan": {
           "name": "Neutral",
           "raw": 2197,
@@ -10928,7 +10938,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9523,
+          "raw": 9561,
           "tier": 5
         },
         "Powderfuse": {
@@ -10941,14 +10951,19 @@
           "raw": 3575,
           "tier": 4
         },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 14970,
+          "raw": 15007,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6172,
+          "raw": 6322,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -10960,19 +10975,19 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 49,
-        "deaths": 43,
-        "drinks": 66,
-        "flights": 71,
-        "food": 180,
+        "deaths": 47,
+        "drinks": 68,
+        "flights": 73,
+        "food": 182,
         "health_potions": 32,
         "hearths": 38,
-        "honorable_kills": 68,
-        "killing_blows": 2546,
+        "honorable_kills": 71,
+        "killing_blows": 2571,
         "mana_potions": 2,
-        "mobs": 3420,
-        "quests": 299
+        "mobs": 3443,
+        "quests": 305
       },
-      "xp": 28683
+      "xp": 61430
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -25131,7 +25146,13 @@
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/49/20858161-avatar.jpg",
-      "best_item": null,
+      "best_item": {
+        "id": 3562,
+        "ilvl": null,
+        "name": "Belt of Vindication",
+        "quality": "RARE",
+        "slot": "Waist"
+      },
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
@@ -30285,7 +30306,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795706142,
+  "saved_at": 1795706803,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
