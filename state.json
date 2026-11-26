@@ -19130,8 +19130,8 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795641573000,
-      "level": 25,
+      "last_login": 1795700224000,
+      "level": 26,
       "level_at": {
         "15": 1794866470,
         "16": 1795034370,
@@ -19141,14 +19141,15 @@
         "21": 1795551249,
         "23": 1795560035,
         "24": 1795610577,
-        "25": 1795641934
+        "25": 1795641934,
+        "26": 1795700427
       },
       "professions": {
         "Cooking": 64,
         "First Aid": 46,
         "Fishing": 87,
         "Leatherworking": 39,
-        "Skinning": 151
+        "Skinning": 155
       },
       "race": "Orc",
       "raids": {},
@@ -19283,12 +19284,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2246,
+          "raw": 2296,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9275,
+          "raw": 9506,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -19298,37 +19299,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2246,
+          "raw": 2296,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2246,
+          "raw": 2296,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13326,
+          "raw": 13557,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2246,
+          "raw": 2296,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4392,
+          "raw": 4492,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6438,
+          "raw": 6963,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2830,
+          "raw": 2986,
           "tier": 3
         }
       },
@@ -19336,16 +19337,16 @@
       "stats": {
         "critters": 43,
         "deaths": 18,
-        "drinks": 36,
-        "flights": 35,
-        "food": 40,
+        "drinks": 49,
+        "flights": 39,
+        "food": 41,
         "health_potions": 13,
-        "hearths": 12,
-        "killing_blows": 1381,
-        "mobs": 1567,
-        "quests": 185
+        "hearths": 13,
+        "killing_blows": 1494,
+        "mobs": 1694,
+        "quests": 198
       },
-      "xp": 25671
+      "xp": 35768
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -28571,7 +28572,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30242,7 +30243,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795699641,
+  "saved_at": 1795700428,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
