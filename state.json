@@ -320,6 +320,10 @@
           "name": "Seal of Sylvanas",
           "quality": "RARE"
         },
+        "6725": {
+          "name": "Marbled Buckler",
+          "quality": "RARE"
+        },
         "6906": {
           "name": "Algae Fists",
           "quality": "RARE"
@@ -331,8 +335,8 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795649611000,
-      "level": 33,
+      "last_login": 1795736552000,
+      "level": 34,
       "level_at": {
         "26": 1794866470,
         "27": 1794957233,
@@ -341,12 +345,13 @@
         "30": 1795222347,
         "31": 1795264886,
         "32": 1795530479,
-        "33": 1795649983
+        "33": 1795649983,
+        "34": 1795737286
       },
       "professions": {
-        "Blacksmithing": 160,
+        "Blacksmithing": 174,
         "Cooking": 12,
-        "Mining": 176
+        "Mining": 191
       },
       "race": "Undead",
       "raids": {},
@@ -689,6 +694,10 @@
             "name": "Smelt Copper"
           },
           {
+            "id": 5387,
+            "name": "Smelt Mithril"
+          },
+          {
             "id": 52643,
             "name": "Lodestone"
           }
@@ -707,7 +716,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5451,
+          "raw": 5807,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -732,7 +741,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5788,
+          "raw": 6145,
           "tier": 4
         },
         "Powderfuse": {
@@ -747,31 +756,31 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4440,
+          "raw": 5827,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 18182,
+          "raw": 18576,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 56,
-        "deaths": 27,
+        "deaths": 28,
         "drinks": 79,
-        "flights": 51,
+        "flights": 55,
         "food": 7,
         "health_potions": 21,
-        "hearths": 24,
+        "hearths": 25,
         "honorable_kills": 6,
-        "killing_blows": 2083,
+        "killing_blows": 2157,
         "mana_potions": 3,
-        "mobs": 4800,
-        "quests": 241
+        "mobs": 4893,
+        "quests": 261
       },
-      "xp": 28167
+      "xp": 28798
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -30701,7 +30710,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795736399,
+  "saved_at": 1795737287,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
