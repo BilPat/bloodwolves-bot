@@ -2580,7 +2580,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795653142000,
+      "last_login": 1795685882000,
       "level": 21,
       "level_at": {
         "13": 1794866470,
@@ -2595,9 +2595,9 @@
       "professions": {
         "Cooking": 84,
         "First Aid": 50,
-        "Fishing": 116,
+        "Fishing": 121,
         "Leatherworking": 101,
-        "Skinning": 141
+        "Skinning": 147
       },
       "race": "Troll",
       "raids": {},
@@ -2845,7 +2845,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8420,
+          "raw": 8438,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2865,7 +2865,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9288,
+          "raw": 9307,
           "tier": 5
         },
         "Powderfuse": {
@@ -2880,12 +2880,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4362,
+          "raw": 4437,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1593,
+          "raw": 1612,
           "tier": 3
         }
       },
@@ -2895,14 +2895,14 @@
         "deaths": 25,
         "drinks": 2,
         "flights": 30,
-        "food": 25,
+        "food": 27,
         "health_potions": 6,
         "hearths": 17,
-        "killing_blows": 1079,
-        "mobs": 1478,
-        "quests": 102
+        "killing_blows": 1108,
+        "mobs": 1507,
+        "quests": 103
       },
-      "xp": 4914
+      "xp": 10818
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -30157,7 +30157,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795685364,
+  "saved_at": 1795686013,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
