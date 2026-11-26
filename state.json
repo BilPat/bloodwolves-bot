@@ -2531,11 +2531,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/95/51172703-avatar.jpg",
       "best_item": {
-        "id": 5404,
+        "id": 252504,
         "ilvl": null,
-        "name": "Serpent's Shoulders",
+        "name": "Brawler's Leather Hood",
         "quality": "RARE",
-        "slot": "Shoulders"
+        "slot": "Head"
       },
       "boss_kills": {
         "15027": {
@@ -2565,6 +2565,10 @@
           "name": "Subterranean Cape",
           "quality": "RARE"
         },
+        "252504": {
+          "name": "Brawler's Leather Hood",
+          "quality": "RARE"
+        },
         "273007": {
           "name": "Chasm Walkers",
           "quality": "RARE"
@@ -2576,7 +2580,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795640631000,
+      "last_login": 1795653142000,
       "level": 21,
       "level_at": {
         "13": 1794866470,
@@ -2592,7 +2596,7 @@
         "Cooking": 84,
         "First Aid": 50,
         "Fishing": 116,
-        "Mining": 86,
+        "Leatherworking": 101,
         "Skinning": 141
       },
       "race": "Troll",
@@ -2672,30 +2676,154 @@
             "name": "Fish Bowl"
           }
         ],
-        "Mining": [
+        "Leatherworking": [
           {
-            "id": 1848,
-            "name": "Smelt Tin"
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
           },
           {
-            "id": 1570,
-            "name": "Mining"
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
           },
           {
-            "id": 1599,
-            "name": "Smelt Silver"
+            "id": 1356,
+            "name": "Light Armor Kit"
           },
           {
-            "id": 1600,
-            "name": "Smelt Bronze"
+            "id": 1360,
+            "name": "Fine Leather Cloak"
           },
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1362,
+            "name": "Embossed Leather Vest"
           },
           {
-            "id": 52643,
-            "name": "Lodestone"
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55170,
+            "name": "Brawler's Leather Hood"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
           }
         ],
         "Skinning": [
@@ -2766,15 +2894,15 @@
         "critters": 16,
         "deaths": 25,
         "drinks": 2,
-        "flights": 28,
-        "food": 23,
+        "flights": 30,
+        "food": 25,
         "health_potions": 6,
-        "hearths": 15,
-        "killing_blows": 1074,
-        "mobs": 1473,
+        "hearths": 17,
+        "killing_blows": 1079,
+        "mobs": 1478,
         "quests": 102
       },
-      "xp": 3623
+      "xp": 4914
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -6472,7 +6600,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795648279000,
+      "last_login": 1795652982000,
       "level": 33,
       "level_at": {
         "22": 1794866470,
@@ -6491,7 +6619,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 265,
-        "Tailoring": 203
+        "Tailoring": 217
       },
       "race": "Undead",
       "raids": {},
@@ -7235,7 +7363,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795648356000,
+      "last_login": 1795651828000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -14259,6 +14387,7 @@
         "802": "Explore Westfall",
         "846": "Explore Thousand Needles",
         "847": "Explore Stonetalon Mountains",
+        "849": "Explore Feralas",
         "851": "Explore Tanaris",
         "853": "Explore Felwood",
         "854": "Explore Un'Goro Crater",
@@ -14266,11 +14395,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 22204,
-        "ilvl": 60,
-        "name": "Wristguards of Renown",
+        "id": 19159,
+        "ilvl": null,
+        "name": "Woven Ivy Necklace",
         "quality": "RARE",
-        "slot": "Wrist"
+        "slot": "Neck"
       },
       "boss_kills": {
         "1092": {
@@ -14290,7 +14419,7 @@
         },
         "1095": {
           "boss": "Emperor Dagran Thaurissan",
-          "count": 1,
+          "count": 2,
           "instance": "Blackrock Depths"
         },
         "15027": {
@@ -14447,9 +14576,9 @@
         }
       },
       "ilvl": 53,
-      "last_explored": "Felwood",
-      "last_login": 1795528763000,
-      "level": 56,
+      "last_explored": "Feralas",
+      "last_login": 1795653090000,
+      "level": 58,
       "level_at": {
         "45": 1794866470,
         "46": 1794882018,
@@ -14460,12 +14589,13 @@
         "53": 1795353919,
         "54": 1795396676,
         "55": 1795461145,
-        "56": 1795526201
+        "56": 1795526201,
+        "58": 1795653292
       },
       "professions": {
         "Alchemy": 300,
         "Cooking": 300,
-        "First Aid": 284,
+        "First Aid": 300,
         "Fishing": 175,
         "Herbalism": 300
       },
@@ -14474,128 +14604,80 @@
       "recipes": {
         "Alchemy": [
           {
-            "id": 54454,
-            "name": "Magenta Dye"
-          },
-          {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
-          },
-          {
-            "id": 6010,
-            "name": "Invisibility Potion"
-          },
-          {
-            "id": 6020,
-            "name": "Transmute: Iron to Gold"
-          },
-          {
-            "id": 9936,
-            "name": "Stonescale Oil"
-          },
-          {
-            "id": 8596,
-            "name": "Dreamless Sleep Potion"
-          },
-          {
-            "id": 5998,
-            "name": "Elixir of Defense"
-          },
-          {
-            "id": 9840,
-            "name": "Transmute: Arcanite"
-          },
-          {
-            "id": 1933,
-            "name": "Elixir of Lesser Fortitude"
-          },
-          {
-            "id": 4393,
-            "name": "Blackmouth Oil"
-          },
-          {
-            "id": 5997,
-            "name": "Elixir of Agility"
-          },
-          {
-            "id": 6017,
-            "name": "Elixir of Shadow Power"
-          },
-          {
-            "id": 1814,
-            "name": "Elixir of Wisdom"
-          },
-          {
-            "id": 1378,
-            "name": "Elixir of Minor Strength"
+            "id": 2909,
+            "name": "Lesser Stoneshield Potion"
           },
           {
             "id": 12322,
             "name": "Draught of Greater Water Breathing"
           },
           {
-            "id": 4210,
-            "name": "Frost Protection Potion"
-          },
-          {
-            "id": 1379,
-            "name": "Minor Mana Potion"
+            "id": 1814,
+            "name": "Elixir of Wisdom"
           },
           {
             "id": 1816,
             "name": "Lesser Mana Potion"
           },
           {
-            "id": 4178,
-            "name": "Elixir of Minor Defense"
-          },
-          {
             "id": 1819,
             "name": "Lesser Troll's Blood Elixir"
+          },
+          {
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
+          },
+          {
+            "id": 1822,
+            "name": "Elixir of Ogre Strength"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
+          },
+          {
+            "id": 1931,
+            "name": "Lesser Invisibility Potion"
+          },
+          {
+            "id": 1933,
+            "name": "Elixir of Lesser Fortitude"
+          },
+          {
+            "id": 1935,
+            "name": "Mana Potion"
+          },
+          {
+            "id": 1378,
+            "name": "Elixir of Minor Strength"
+          },
+          {
+            "id": 1379,
+            "name": "Minor Mana Potion"
           },
           {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
           },
           {
-            "id": 4212,
-            "name": "Nature Protection Potion"
+            "id": 1382,
+            "name": "Elixir of Minor Fortitude"
           },
           {
-            "id": 6011,
-            "name": "Elixir of Greater Intellect"
+            "id": 5997,
+            "name": "Elixir of Agility"
           },
           {
-            "id": 2909,
-            "name": "Lesser Stoneshield Potion"
+            "id": 5998,
+            "name": "Elixir of Defense"
           },
           {
-            "id": 6016,
-            "name": "Ghost Dye"
-          },
-          {
-            "id": 6009,
-            "name": "Arcane Elixir"
+            "id": 5999,
+            "name": "Oil of Immolation"
           },
           {
             "id": 6000,
             "name": "Greater Mana Potion"
-          },
-          {
-            "id": 9952,
-            "name": "Elixir of the Mongoose"
-          },
-          {
-            "id": 9946,
-            "name": "Transmute: Fire to Earth"
-          },
-          {
-            "id": 11316,
-            "name": "Limited Invulnerability Potion"
-          },
-          {
-            "id": 4004,
-            "name": "Free Action Potion"
           },
           {
             "id": 6002,
@@ -14606,134 +14688,178 @@
             "name": "Wildvine Potion"
           },
           {
-            "id": 6019,
-            "name": "Draught of Detect Demon"
-          },
-          {
-            "id": 4006,
-            "name": "Great Rage Potion"
-          },
-          {
-            "id": 54661,
-            "name": "Minor Frenzy Potion"
-          },
-          {
-            "id": 1822,
-            "name": "Elixir of Ogre Strength"
-          },
-          {
-            "id": 4007,
-            "name": "Rage Potion"
-          },
-          {
-            "id": 1820,
-            "name": "Elixir of Lesser Defense"
-          },
-          {
-            "id": 9938,
-            "name": "Superior Mana Potion"
-          },
-          {
-            "id": 1931,
-            "name": "Lesser Invisibility Potion"
-          },
-          {
-            "id": 4396,
-            "name": "Elixir of Fire Power"
-          },
-          {
-            "id": 54678,
-            "name": "Potion of Beast Slaying"
-          },
-          {
             "id": 6007,
             "name": "Philosopher's Stone"
-          },
-          {
-            "id": 1382,
-            "name": "Elixir of Minor Fortitude"
-          },
-          {
-            "id": 54670,
-            "name": "Greater Mender's Potion"
-          },
-          {
-            "id": 54210,
-            "name": "Minor Arcane Elixir"
-          },
-          {
-            "id": 6848,
-            "name": "Catseye Draught"
-          },
-          {
-            "id": 54456,
-            "name": "Sulfuric Acid"
           },
           {
             "id": 6008,
             "name": "Draught of Detect Undead"
           },
           {
-            "id": 4394,
-            "name": "Fire Oil"
+            "id": 6009,
+            "name": "Arcane Elixir"
           },
           {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
+            "id": 6010,
+            "name": "Invisibility Potion"
           },
           {
-            "id": 4176,
-            "name": "Draught of Water Breathing"
+            "id": 6011,
+            "name": "Elixir of Greater Intellect"
           },
           {
-            "id": 5999,
-            "name": "Oil of Immolation"
+            "id": 6013,
+            "name": "Elixir of Greater Agility"
           },
           {
-            "id": 54455,
-            "name": "Viridian Dye"
+            "id": 6016,
+            "name": "Ghost Dye"
           },
           {
-            "id": 54453,
-            "name": "Cerulean Dye"
+            "id": 6017,
+            "name": "Elixir of Shadow Power"
           },
           {
-            "id": 4395,
-            "name": "Swim Speed Potion"
+            "id": 6019,
+            "name": "Draught of Detect Demon"
           },
           {
-            "id": 1935,
-            "name": "Mana Potion"
-          },
-          {
-            "id": 52646,
-            "name": "Mana Well"
+            "id": 6020,
+            "name": "Transmute: Iron to Gold"
           },
           {
             "id": 6021,
             "name": "Transmute: Mithril to Truesilver"
           },
           {
-            "id": 6013,
-            "name": "Elixir of Greater Agility"
+            "id": 8596,
+            "name": "Dreamless Sleep Potion"
+          },
+          {
+            "id": 9936,
+            "name": "Stonescale Oil"
+          },
+          {
+            "id": 9946,
+            "name": "Transmute: Fire to Earth"
+          },
+          {
+            "id": 9951,
+            "name": "Greater Stoneshield Potion"
+          },
+          {
+            "id": 9952,
+            "name": "Elixir of the Mongoose"
+          },
+          {
+            "id": 6848,
+            "name": "Catseye Draught"
+          },
+          {
+            "id": 11316,
+            "name": "Limited Invulnerability Potion"
+          },
+          {
+            "id": 4393,
+            "name": "Blackmouth Oil"
+          },
+          {
+            "id": 4394,
+            "name": "Fire Oil"
+          },
+          {
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 4396,
+            "name": "Elixir of Fire Power"
+          },
+          {
+            "id": 9938,
+            "name": "Superior Mana Potion"
+          },
+          {
+            "id": 4004,
+            "name": "Free Action Potion"
+          },
+          {
+            "id": 4006,
+            "name": "Great Rage Potion"
+          },
+          {
+            "id": 4007,
+            "name": "Rage Potion"
+          },
+          {
+            "id": 9840,
+            "name": "Transmute: Arcanite"
+          },
+          {
+            "id": 4176,
+            "name": "Draught of Water Breathing"
+          },
+          {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 4210,
+            "name": "Frost Protection Potion"
+          },
+          {
+            "id": 4212,
+            "name": "Nature Protection Potion"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
+          },
+          {
+            "id": 54453,
+            "name": "Cerulean Dye"
+          },
+          {
+            "id": 54454,
+            "name": "Magenta Dye"
+          },
+          {
+            "id": 54455,
+            "name": "Viridian Dye"
+          },
+          {
+            "id": 54456,
+            "name": "Sulfuric Acid"
+          },
+          {
+            "id": 54661,
+            "name": "Minor Frenzy Potion"
+          },
+          {
+            "id": 54670,
+            "name": "Greater Mender's Potion"
+          },
+          {
+            "id": 54678,
+            "name": "Potion of Beast Slaying"
+          },
+          {
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
           }
         ],
         "Cooking": [
           {
-            "id": 8620,
-            "name": "Jungle Stew"
+            "id": 2499,
+            "name": "Barbecued Buzzard Wing"
           },
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 54502,
-            "name": "Twice-Spiced Raptor Slice"
-          },
-          {
-            "id": 3931,
-            "name": "Dig Rat Stew"
+            "id": 8618,
+            "name": "Roast Raptor"
           },
           {
             "id": 8619,
@@ -14744,68 +14870,12 @@
             "name": "Tender Wolf Steak"
           },
           {
-            "id": 1543,
-            "name": "Crab Cake"
-          },
-          {
-            "id": 13375,
-            "name": "Sagefish Delight"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
-          },
-          {
-            "id": 4787,
-            "name": "Smoked Bear Meat"
-          },
-          {
-            "id": 11997,
-            "name": "Spider Sausage"
-          },
-          {
-            "id": 4359,
-            "name": "Bristle Whisker Catfish"
-          },
-          {
-            "id": 4355,
-            "name": "Longjaw Mud Snapper"
-          },
-          {
-            "id": 1538,
-            "name": "Coyote Steak"
-          },
-          {
-            "id": 8621,
-            "name": "Carrion Surprise"
-          },
-          {
-            "id": 1545,
-            "name": "Dry Pork Ribs"
-          },
-          {
-            "id": 54490,
-            "name": "Savory Stag Sliders"
-          },
-          {
-            "id": 58469,
-            "name": "Plain Ol' Paletusk"
-          },
-          {
-            "id": 10246,
-            "name": "Grilled Squid"
-          },
-          {
             "id": 1875,
             "name": "Curiously Tasty Omelet"
           },
           {
-            "id": 13344,
-            "name": "Smoked Sagefish"
-          },
-          {
-            "id": 11873,
-            "name": "Mithril Headed Trout"
+            "id": 1901,
+            "name": "Big Bear Steak"
           },
           {
             "id": 1902,
@@ -14816,56 +14886,96 @@
             "name": "Soothing Turtle Bisque"
           },
           {
-            "id": 1536,
-            "name": "Spiced Wolf Meat"
-          },
-          {
-            "id": 8626,
-            "name": "Monster Omelet"
-          },
-          {
-            "id": 4391,
-            "name": "Rainbow Fin Albacore"
-          },
-          {
-            "id": 2499,
-            "name": "Barbecued Buzzard Wing"
-          },
-          {
-            "id": 8618,
-            "name": "Roast Raptor"
-          },
-          {
-            "id": 3930,
-            "name": "Strider Stew"
-          },
-          {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
-            "id": 1901,
-            "name": "Big Bear Steak"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
+            "id": 11873,
+            "name": "Mithril Headed Trout"
           },
           {
             "id": 12905,
             "name": "Heavy Crocolisk Stew"
           },
           {
-            "id": 58468,
-            "name": "Briny Seafood Stew"
+            "id": 13344,
+            "name": "Smoked Sagefish"
           },
           {
             "id": 1535,
             "name": "Charred Wolf Meat"
           },
           {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 1538,
+            "name": "Coyote Steak"
+          },
+          {
+            "id": 1543,
+            "name": "Crab Cake"
+          },
+          {
+            "id": 1545,
+            "name": "Dry Pork Ribs"
+          },
+          {
+            "id": 8621,
+            "name": "Carrion Surprise"
+          },
+          {
+            "id": 11997,
+            "name": "Spider Sausage"
+          },
+          {
+            "id": 8620,
+            "name": "Jungle Stew"
+          },
+          {
+            "id": 13375,
+            "name": "Sagefish Delight"
+          },
+          {
+            "id": 3930,
+            "name": "Strider Stew"
+          },
+          {
+            "id": 3931,
+            "name": "Dig Rat Stew"
+          },
+          {
             "id": 10244,
             "name": "Spotted Yellowtail"
+          },
+          {
+            "id": 10246,
+            "name": "Grilled Squid"
+          },
+          {
+            "id": 8626,
+            "name": "Monster Omelet"
+          },
+          {
+            "id": 11740,
+            "name": "Undermine Clam Chowder"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4355,
+            "name": "Longjaw Mud Snapper"
+          },
+          {
+            "id": 4359,
+            "name": "Bristle Whisker Catfish"
+          },
+          {
+            "id": 4391,
+            "name": "Rainbow Fin Albacore"
           },
           {
             "id": 4392,
@@ -14880,74 +14990,102 @@
             "name": "Boiled Clams"
           },
           {
-            "id": 11740,
-            "name": "Undermine Clam Chowder"
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 4787,
+            "name": "Smoked Bear Meat"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          },
+          {
+            "id": 54490,
+            "name": "Savory Stag Sliders"
+          },
+          {
+            "id": 54502,
+            "name": "Twice-Spiced Raptor Slice"
+          },
+          {
+            "id": 58468,
+            "name": "Briny Seafood Stew"
+          },
+          {
+            "id": 58469,
+            "name": "Plain Ol' Paletusk"
           }
         ],
         "First Aid": [
           {
-            "id": 4417,
-            "name": "Anti-Venom"
-          },
-          {
-            "id": 1839,
-            "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
-          },
-          {
-            "id": 10488,
-            "name": "Runecloth Bandage"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
-            "id": 54193,
-            "name": "Healing Potion"
+            "id": 4414,
+            "name": "Silk Bandage"
           },
           {
             "id": 4415,
             "name": "Heavy Silk Bandage"
           },
           {
-            "id": 1840,
-            "name": "Wool Bandage"
-          },
-          {
-            "id": 4414,
-            "name": "Silk Bandage"
-          },
-          {
-            "id": 5767,
-            "name": "Mageweave Bandage"
-          },
-          {
-            "id": 55747,
-            "name": "Simple Poultice"
-          },
-          {
-            "id": 5768,
-            "name": "Heavy Mageweave Bandage"
+            "id": 4417,
+            "name": "Anti-Venom"
           },
           {
             "id": 1838,
             "name": "Linen Bandage"
           },
           {
-            "id": 55743,
-            "name": "Woolen Tourniquet"
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 1840,
+            "name": "Wool Bandage"
           },
           {
             "id": 1841,
             "name": "Heavy Wool Bandage"
+          },
+          {
+            "id": 10488,
+            "name": "Runecloth Bandage"
+          },
+          {
+            "id": 10489,
+            "name": "Heavy Runecloth Bandage"
+          },
+          {
+            "id": 5767,
+            "name": "Mageweave Bandage"
+          },
+          {
+            "id": 5768,
+            "name": "Heavy Mageweave Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
+          },
+          {
+            "id": 55743,
+            "name": "Woolen Tourniquet"
+          },
+          {
+            "id": 55747,
+            "name": "Simple Poultice"
           }
         ],
         "Fishing": [
@@ -14987,7 +15125,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -13475,
+          "raw": -14225,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -14997,7 +15135,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 6796,
+          "raw": 7084,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -15007,7 +15145,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 13828,
+          "raw": 14447,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -15016,67 +15154,72 @@
           "tier": 3
         },
         "Earthen Ring": {
-          "name": "Neutral",
-          "raw": 2500,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3150,
+          "tier": 4
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 6074,
+          "raw": 6424,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 7426,
+          "raw": 7639,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 17556,
+          "raw": 18868,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 7104,
+          "raw": 7316,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7568,
+          "raw": 7780,
           "tier": 4
+        },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 22002,
+          "raw": 22546,
           "tier": 6
         },
         "Timbermaw Hold": {
           "name": "Unfriendly",
-          "raw": -2315,
+          "raw": -1925,
           "tier": 2
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 15262,
+          "raw": 15993,
           "tier": 5
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 144,
-        "deaths": 55,
-        "drinks": 239,
-        "flights": 266,
-        "food": 282,
-        "health_potions": 85,
-        "hearths": 62,
+        "deaths": 64,
+        "drinks": 272,
+        "flights": 283,
+        "food": 304,
+        "health_potions": 90,
+        "hearths": 68,
         "honorable_kills": 1,
-        "killing_blows": 5140,
+        "killing_blows": 5284,
         "mana_potions": 10,
-        "mobs": 10451,
-        "quests": 768
+        "mobs": 12062,
+        "quests": 804
       },
-      "xp": 63489
+      "xp": 35191
     },
     "eu:kreuzaua-scoops": {
       "achievements": {
@@ -15845,7 +15988,7 @@
       },
       "ilvl": 32,
       "last_explored": "Thousand Needles",
-      "last_login": 1795641818000,
+      "last_login": 1795652813000,
       "level": 36,
       "level_at": {
         "24": 1794866470,
@@ -16369,18 +16512,18 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 30,
-        "deaths": 40,
-        "drinks": 43,
+        "deaths": 41,
+        "drinks": 48,
         "flights": 53,
-        "food": 32,
+        "food": 36,
         "health_potions": 45,
         "hearths": 24,
-        "killing_blows": 2296,
-        "mana_potions": 13,
-        "mobs": 4094,
+        "killing_blows": 2361,
+        "mana_potions": 14,
+        "mobs": 4384,
         "quests": 270
       },
-      "xp": 21418
+      "xp": 48977
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -17061,7 +17204,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795642818000,
+      "last_login": 1795652888000,
       "level": 34,
       "level_at": {
         "27": 1795430379,
@@ -17141,14 +17284,19 @@
           "raw": 650,
           "tier": 3
         },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -6625,
+          "tier": 0
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1885,
+          "raw": 1985,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6780,
+          "raw": 6917,
           "tier": 4
         },
         "Earthen Ring": {
@@ -17158,12 +17306,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1885,
+          "raw": 1973,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1885,
+          "raw": 1973,
           "tier": 3
         },
         "Nightclaw Druids": {
@@ -17173,27 +17321,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9481,
+          "raw": 9656,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1885,
+          "raw": 1973,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3271,
+          "raw": 3433,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10720,
+          "raw": 10782,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7897,
+          "raw": 7960,
           "tier": 4
         },
         "Windshapers": {
@@ -17207,17 +17355,17 @@
         "critters": 35,
         "deaths": 68,
         "drinks": 303,
-        "flights": 87,
+        "flights": 90,
         "food": 254,
         "health_potions": 33,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2572,
-        "mana_potions": 86,
-        "mobs": 3440,
-        "quests": 312
+        "killing_blows": 2594,
+        "mana_potions": 89,
+        "mobs": 3462,
+        "quests": 325
       },
-      "xp": 35501
+      "xp": 62188
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -25383,9 +25531,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 250528,
+        "id": 6686,
         "ilvl": null,
-        "name": "Veteran's Silvered Chain Helm",
+        "name": "Tusken Helm",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -25417,7 +25565,7 @@
         },
         "6139": {
           "boss": "Charlga Razorflank",
-          "count": 1,
+          "count": 2,
           "instance": "Razorfen Kraul"
         },
         "6140": {
@@ -25522,6 +25670,10 @@
           "name": "Thornspike",
           "quality": "RARE"
         },
+        "6686": {
+          "name": "Tusken Helm",
+          "quality": "RARE"
+        },
         "6725": {
           "name": "Marbled Buckler",
           "quality": "RARE"
@@ -25549,7 +25701,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795638808000,
+      "last_login": 1795652569000,
       "level": 36,
       "level_at": {
         "31": 1794965196,
@@ -26145,16 +26297,16 @@
         "critters": 184,
         "deaths": 29,
         "drinks": 2,
-        "flights": 137,
-        "food": 180,
+        "flights": 141,
+        "food": 184,
         "health_potions": 42,
-        "hearths": 82,
+        "hearths": 83,
         "honorable_kills": 1,
-        "killing_blows": 2934,
-        "mobs": 6665,
+        "killing_blows": 2967,
+        "mobs": 6852,
         "quests": 337
       },
-      "xp": 66227
+      "xp": 70166
     },
     "us:whizz-aard": {
       "achievements": {
@@ -26846,6 +26998,20 @@
           "level": 33
         }
       },
+      "eu:barbariana-hunter": {
+        "c": {
+          "name": "Barbariana",
+          "region": "eu",
+          "surname": "Hunter"
+        },
+        "lines": [
+          "📜 Neuer Beruf: **Lederverarbeitung**"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 21
+        }
+      },
       "eu:fred-feuersturm": {
         "c": {
           "name": "Fred",
@@ -26873,6 +27039,22 @@
         "snap": {
           "class": "Mage",
           "level": 34
+        }
+      },
+      "eu:krakmor-ci%C3%B3rdan": {
+        "c": {
+          "name": "Krakmor",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Ciórdan"
+        },
+        "lines": [
+          "🛠️ **Erste Hilfe** auf 300",
+          "🎖️ [Erkundet Feralas](https://www.wowhead.com/forever/de/achievement=849)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 58
         }
       },
       "eu:ogmar-donnerhammer": {
@@ -27308,6 +27490,7 @@
     "Decimation": "Dezimierung",
     "Deckhand's Shirt": "Deckmatrosenhemd",
     "Deep Fathom Ring": "Deepfathom-Ring",
+    "Deep River Cloak": "Tiefenfluss-Umhang",
     "Deep Wounds": "Tiefe Wunden",
     "Defender Cloak of Shadow Wrath": "Verteidigerumhang des Schattenzorns",
     "Defender Gauntlets of the Tiger": "Verteidigerstulpen des Tigers",
@@ -27445,6 +27628,7 @@
     "Enchant Cloak - Resistance": "Umhang - Widerstand",
     "Enchant Gloves - Agility": "Handschuhe - Beweglichkeit",
     "Enchant Shield - Greater Stamina": "Schild - Große Ausdauer",
+    "Enchant Weapon - Lesser Striking": "Waffe - Geringes Schlagen",
     "Enchant Weapon - Recovery": "Waffe - Erholung",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
@@ -27583,6 +27767,7 @@
     "Glistening Stompers": "Glitzernde Stampfer",
     "Gloves of the Fang": "Handschuhe des Giftzahns",
     "Gloves of the Moon": "Handschuhe des Mondes",
+    "Gloves of the Pathfinder": "Handschuhe des Pfadfinders",
     "Glowing Copper Boots": "Leuchtende Kupferstiefel",
     "Glowing Green Talisman": "Leuchtender grüner Talisman",
     "Glowing Lizardscale Cloak": "Leuchtender Echsenschuppenumhang",
@@ -28357,6 +28542,7 @@
     "Staff of Westfall": "Stab von Westfall",
     "Stamina": "Ausdauer",
     "Stamped Trousers": "Bedruckte Beinkleider",
+    "Starlight Wrath": "Zorn des Sternenlichts",
     "Stinging Viper": "Stechviper",
     "Stolen Power": "Gestohlene Kraft",
     "Stomping Boots": "Stampfer-Stiefel",
@@ -29737,7 +29923,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795650890,
+  "saved_at": 1795653293,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
