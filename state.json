@@ -24638,7 +24638,7 @@
       },
       "ilvl": 23,
       "last_explored": "Wetlands",
-      "last_login": 1795674555000,
+      "last_login": 1795676640000,
       "level": 32,
       "level_at": {
         "18": 1795149590,
@@ -24655,7 +24655,7 @@
         "Cooking": 96,
         "First Aid": 150,
         "Fishing": 40,
-        "Leatherworking": 92,
+        "Leatherworking": 100,
         "Skinning": 220
       },
       "race": "Night Elf",
@@ -24973,11 +24973,6 @@
         "Azeroth Commerce Authority": {
           "name": "Neutral",
           "raw": 2000,
-          "tier": 3
-        },
-        "Booty Bay": {
-          "name": "Neutral",
-          "raw": 500,
           "tier": 3
         },
         "Darnassus": {
@@ -28467,7 +28462,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30135,7 +30130,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795676175,
+  "saved_at": 1795677471,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
