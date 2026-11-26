@@ -10994,6 +10994,7 @@
         "61997": "Novice Paladin",
         "61998": "Experienced Paladin",
         "62015": "Journeyman Blacksmith",
+        "62016": "Expert Blacksmith",
         "846": "Explore Thousand Needles",
         "855": "Explore Moonglade"
       },
@@ -11124,7 +11125,7 @@
       },
       "ilvl": 43,
       "last_explored": "Moonglade",
-      "last_login": 1795709348000,
+      "last_login": 1795712011000,
       "level": 48,
       "level_at": {
         "40": 1794866470,
@@ -11138,7 +11139,7 @@
         "48": 1795378504
       },
       "professions": {
-        "Blacksmithing": 205,
+        "Blacksmithing": 225,
         "Cooking": 250,
         "First Aid": 225,
         "Mining": 231
@@ -22230,7 +22231,7 @@
       },
       "ilvl": 24,
       "last_explored": null,
-      "last_login": 1795640081000,
+      "last_login": 1795711565000,
       "level": 30,
       "level_at": {
         "23": 1794866470,
@@ -27333,7 +27334,9 @@
           "surname": "Aschwind"
         },
         "lines": [
-          "🎖️ [Erkundet Mondlichtung](https://www.wowhead.com/forever/de/achievement=855)"
+          "🎖️ [Erkundet Mondlichtung](https://www.wowhead.com/forever/de/achievement=855)",
+          "🛠️ **Schmiedekunst** auf 225",
+          "🎖️ [Expert Blacksmith](https://www.wowhead.com/forever/de/achievement=62016)"
         ],
         "snap": {
           "class": "Paladin",
@@ -30349,7 +30352,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795711246,
+  "saved_at": 1795712111,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
