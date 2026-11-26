@@ -24642,7 +24642,7 @@
       },
       "ilvl": 23,
       "last_explored": "Wetlands",
-      "last_login": 1795678056000,
+      "last_login": 1795681547000,
       "level": 32,
       "level_at": {
         "18": 1795149590,
@@ -25806,7 +25806,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795678059000,
+      "last_login": 1795681636000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -26344,7 +26344,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17431,
+          "raw": 17456,
           "tier": 5
         },
         "Everlook": {
@@ -26364,12 +26364,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7641,
+          "raw": 7666,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8690,
+          "raw": 8790,
           "tier": 4
         },
         "Kirin Tor": {
@@ -26394,7 +26394,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10280,
+          "raw": 10305,
           "tier": 5
         }
       },
@@ -26408,11 +26408,11 @@
         "health_potions": 43,
         "hearths": 85,
         "honorable_kills": 2,
-        "killing_blows": 3094,
-        "mobs": 7255,
-        "quests": 338
+        "killing_blows": 3095,
+        "mobs": 7256,
+        "quests": 339
       },
-      "xp": 6134
+      "xp": 9629
     },
     "us:whizz-aard": {
       "achievements": {
@@ -28780,6 +28780,7 @@
     "Strength": "Stärke",
     "Stretched Leather Trousers": "Gedehnte Lederbeinkleider",
     "Striking Staff": "Schlagstab",
+    "Strong Fishing Pole": "Starke Angel",
     "Strongly Scented Hood": "Intensiv duftende Kapuze",
     "Sturdy Quarterstaff of Intellect": "Stabiler Bauernstecken der Intelligenz",
     "Stygian Bone Amulet": "Stygisches Knochenamulett",
@@ -30148,7 +30149,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795681205,
+  "saved_at": 1795681979,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
