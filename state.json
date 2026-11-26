@@ -22517,9 +22517,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/102/500326-avatar.jpg",
       "best_item": {
-        "id": 273457,
+        "id": 10824,
         "ilvl": null,
-        "name": "Sorcerer Collar",
+        "name": "Amberglow Talisman",
         "quality": "RARE",
         "slot": "Neck"
       },
@@ -22559,6 +22559,11 @@
           "count": 1,
           "instance": "Gnomeregan"
         },
+        "6141": {
+          "boss": "Amnennar the Coldbringer",
+          "count": 1,
+          "instance": "Razorfen Downs"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -22589,6 +22594,10 @@
       "dungeons": {},
       "first_seen": 1795221303,
       "gear": {
+        "10824": {
+          "name": "Amberglow Talisman",
+          "quality": "RARE"
+        },
         "252460": {
           "name": "Warden's Leather Belt",
           "quality": "RARE"
@@ -22652,20 +22661,21 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795675960000,
-      "level": 42,
+      "last_login": 1795697967000,
+      "level": 43,
       "level_at": {
         "38": 1795221303,
         "40": 1795287308,
         "41": 1795609365,
-        "42": 1795638305
+        "42": 1795638305,
+        "43": 1795698943
       },
       "professions": {
         "Cooking": 217,
         "First Aid": 34,
         "Fishing": 167,
         "Leatherworking": 176,
-        "Skinning": 277
+        "Skinning": 278
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -23172,7 +23182,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9166,
+          "raw": 9341,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -23182,7 +23192,7 @@
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1750,
+          "raw": 2050,
           "tier": 3
         },
         "Everlook": {
@@ -23202,7 +23212,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11510,
+          "raw": 11610,
           "tier": 5
         },
         "Powderfuse": {
@@ -23217,12 +23227,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12941,
+          "raw": 13153,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8550,
+          "raw": 8762,
           "tier": 4
         },
         "Windshapers": {
@@ -23233,19 +23243,19 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 60,
+        "critters": 72,
         "deaths": 19,
-        "drinks": 25,
-        "flights": 148,
+        "drinks": 26,
+        "flights": 154,
         "food": 108,
         "health_potions": 18,
-        "hearths": 39,
-        "killing_blows": 4030,
+        "hearths": 41,
+        "killing_blows": 4067,
         "mana_potions": 3,
-        "mobs": 6582,
-        "quests": 479
+        "mobs": 6919,
+        "quests": 484
       },
-      "xp": 50189
+      "xp": 3459
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -27335,6 +27345,20 @@
           "level": 30
         }
       },
+      "eu:thalia-mondrabe": {
+        "c": {
+          "name": "Thalia",
+          "region": "eu",
+          "surname": "Mondrabe"
+        },
+        "lines": [
+          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 43
+        }
+      },
       "eu:vlad-impalar": {
         "c": {
           "name": "Vlad",
@@ -27419,6 +27443,7 @@
     "Algae Fists": "Algenfäuste",
     "Alliance": "Allianz",
     "Ambassador's Boots": "Botschafter-Stiefel",
+    "Amberglow Talisman": "Bernsteinglut-Talisman",
     "Ammo": "Munition",
     "Amnennar the Coldbringer": "Amnennar den Kältebringer",
     "Amnennar the Coldbringer kills (Razorfen Downs)": "Siege über Amnennar den Kältebringer (Hügel von Razorfen)",
@@ -28546,7 +28571,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30217,7 +30242,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795697678,
+  "saved_at": 1795698944,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
