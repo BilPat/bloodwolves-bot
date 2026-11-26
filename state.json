@@ -23451,7 +23451,7 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795687235000,
+      "last_login": 1795690588000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -23977,11 +23977,6 @@
           "name": "Friendly",
           "raw": 3180,
           "tier": 4
-        },
-        "Shen'dralar": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
@@ -30202,7 +30197,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795690476,
+  "saved_at": 1795691713,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
