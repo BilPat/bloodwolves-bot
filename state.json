@@ -23984,11 +23984,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/94/9990494-avatar.jpg",
       "best_item": {
-        "id": 279845,
-        "ilvl": 36,
-        "name": "Solid Gold Band",
-        "quality": "UNCOMMON",
-        "slot": "Ring 1"
+        "id": 273645,
+        "ilvl": null,
+        "name": "Blindwatcher's Sight",
+        "quality": "RARE",
+        "slot": "Head"
       },
       "boss_kills": {
         "1092": {
@@ -24060,8 +24060,8 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795520539000,
-      "level": 31,
+      "last_login": 1795682258000,
+      "level": 32,
       "level_at": {
         "21": 1794866470,
         "22": 1794918057,
@@ -24073,7 +24073,8 @@
         "28": 1795189148,
         "29": 1795341242,
         "30": 1795422156,
-        "31": 1795521318
+        "31": 1795521318,
+        "32": 1795682529
       },
       "professions": {
         "Alchemy": 70,
@@ -24084,8 +24085,12 @@
       "recipes": {
         "Alchemy": [
           {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
+            "id": 2907,
+            "name": "Minor Discolored Healing Potion"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
           },
           {
             "id": 1378,
@@ -24096,40 +24101,36 @@
             "name": "Minor Mana Potion"
           },
           {
-            "id": 4178,
-            "name": "Elixir of Minor Defense"
-          },
-          {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
-          },
-          {
-            "id": 2907,
-            "name": "Minor Discolored Healing Potion"
           },
           {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
           },
           {
-            "id": 54210,
-            "name": "Minor Arcane Elixir"
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
           },
           {
-            "id": 54456,
-            "name": "Sulfuric Acid"
-          },
-          {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
+            "id": 52646,
+            "name": "Mana Well"
           },
           {
             "id": 54453,
             "name": "Cerulean Dye"
           },
           {
-            "id": 52646,
-            "name": "Mana Well"
+            "id": 54456,
+            "name": "Sulfuric Acid"
+          },
+          {
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
           }
         ],
         "Herbalism": [
@@ -24160,7 +24161,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4736,
+          "raw": 4823,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -24185,7 +24186,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 4961,
+          "raw": 5048,
           "tier": 4
         },
         "Powderfuse": {
@@ -24200,12 +24201,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4561,
+          "raw": 4648,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14248,
+          "raw": 14598,
           "tier": 5
         }
       },
@@ -24213,17 +24214,17 @@
       "stats": {
         "critters": 54,
         "deaths": 18,
-        "drinks": 1253,
+        "drinks": 1291,
         "flights": 32,
-        "food": 347,
+        "food": 359,
         "health_potions": 12,
-        "hearths": 31,
-        "killing_blows": 1835,
+        "hearths": 32,
+        "killing_blows": 1883,
         "mana_potions": 26,
-        "mobs": 3144,
-        "quests": 201
+        "mobs": 3193,
+        "quests": 205
       },
-      "xp": 42810
+      "xp": 16643
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -28480,7 +28481,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30149,7 +30150,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795681979,
+  "saved_at": 1795682530,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
