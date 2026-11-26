@@ -5736,8 +5736,8 @@
       },
       "ilvl": 19,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795628698000,
-      "level": 27,
+      "last_login": 1795713177000,
+      "level": 28,
       "level_at": {
         "21": 1794866470,
         "22": 1794947955,
@@ -5745,14 +5745,15 @@
         "24": 1795365593,
         "25": 1795456457,
         "26": 1795550068,
-        "27": 1795629303
+        "27": 1795629303,
+        "28": 1795713250
       },
       "professions": {
         "Cooking": 97,
-        "First Aid": 135,
+        "First Aid": 139,
         "Fishing": 28,
         "Leatherworking": 132,
-        "Skinning": 189
+        "Skinning": 191
       },
       "race": "Tauren",
       "raids": {},
@@ -6107,12 +6108,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2452,
+          "raw": 2502,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5578,
+          "raw": 5890,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6120,57 +6121,62 @@
           "raw": 2000,
           "tier": 3
         },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 100,
+          "tier": 3
+        },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2452,
+          "raw": 2502,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2452,
+          "raw": 2502,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8230,
+          "raw": 8653,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2452,
+          "raw": 2502,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4404,
+          "raw": 4504,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 12840,
+          "raw": 13460,
           "tier": 5
         },
         "Undercity": {
-          "name": "Neutral",
-          "raw": 2922,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3140,
+          "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 20,
         "deaths": 7,
-        "drinks": 78,
-        "flights": 33,
-        "food": 104,
-        "health_potions": 31,
-        "hearths": 30,
-        "killing_blows": 1421,
-        "mana_potions": 7,
-        "mobs": 1714,
-        "quests": 209
+        "drinks": 86,
+        "flights": 35,
+        "food": 113,
+        "health_potions": 32,
+        "hearths": 32,
+        "killing_blows": 1530,
+        "mana_potions": 10,
+        "mobs": 1822,
+        "quests": 222
       },
-      "xp": 2922
+      "xp": 1507
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -28679,7 +28685,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29191,6 +29197,7 @@
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
     "Wild Growth": "Wildwuchs",
     "Wildhammer Clan": "Wildhammerklan",
+    "Wildhunter Cloak": "Wildjäger-Umhang",
     "Wildkeeper Leggings": "Wildhüter-Gamaschen",
     "Willow Boots of Stamina": "Weidenstiefel der Ausdauer",
     "Willow Gloves of the Whale": "Weidenhandschuhe des Wals",
@@ -29335,8 +29342,8 @@
     }
   },
   "group_board": {
-    "last": "2026-11-25",
-    "message_id": "1575197898419736670"
+    "last": "2026-11-26",
+    "message_id": "1575560316182601841"
   },
   "officer_board": {
     "message_ids": [
@@ -30352,7 +30359,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795712111,
+  "saved_at": 1795713252,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
