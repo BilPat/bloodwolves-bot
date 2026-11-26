@@ -23378,7 +23378,7 @@
         },
         "6142": {
           "boss": "Archaedas",
-          "count": 2,
+          "count": 3,
           "instance": "Uldaman"
         },
         "63570": {
@@ -23499,6 +23499,18 @@
           "name": "Sacrificial Sword",
           "quality": "RARE"
         },
+        "287012": {
+          "name": "Krol'dok Warplate Gauntlets",
+          "quality": "RARE"
+        },
+        "287013": {
+          "name": "Krol'dok Warplate Legplates",
+          "quality": "RARE"
+        },
+        "287014": {
+          "name": "Krol'dok Warplate Pauldrons",
+          "quality": "RARE"
+        },
         "6414": {
           "name": "Seal of Sylvanas",
           "quality": "RARE"
@@ -23509,6 +23521,10 @@
         },
         "6906": {
           "name": "Algae Fists",
+          "quality": "RARE"
+        },
+        "7888": {
+          "name": "Jarkal's Enhancing Necklace",
           "quality": "RARE"
         },
         "9458": {
@@ -23522,7 +23538,7 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795695930000,
+      "last_login": 1795710553000,
       "level": 47,
       "level_at": {
         "35": 1794866470,
@@ -23539,11 +23555,11 @@
         "47": 1795696960
       },
       "professions": {
-        "Blacksmithing": 185,
+        "Blacksmithing": 194,
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 236
+        "Mining": 244
       },
       "race": "Undead",
       "raids": {},
@@ -23728,6 +23744,10 @@
           {
             "id": 54772,
             "name": "Justicar's Belt"
+          },
+          {
+            "id": 54820,
+            "name": "Mithril Warhammer"
           },
           {
             "id": 54212,
@@ -24002,7 +24022,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8357,
+          "raw": 8767,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -24036,9 +24056,9 @@
           "tier": 3
         },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8908,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9198,
+          "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
@@ -24052,12 +24072,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 7961,
+          "raw": 8138,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21466,
+          "raw": 21831,
           "tier": 6
         }
       },
@@ -24065,17 +24085,17 @@
       "stats": {
         "critters": 117,
         "deaths": 61,
-        "drinks": 36,
-        "flights": 111,
-        "food": 67,
+        "drinks": 40,
+        "flights": 118,
+        "food": 73,
         "health_potions": 42,
-        "hearths": 51,
-        "killing_blows": 3743,
+        "hearths": 52,
+        "killing_blows": 3840,
         "mana_potions": 2,
-        "mobs": 8444,
-        "quests": 508
+        "mobs": 8793,
+        "quests": 518
       },
-      "xp": 5667
+      "xp": 74777
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -27445,11 +27465,12 @@
           "surname": "Impalar"
         },
         "lines": [
-          "🎖️ [Erkundet Shen'dralas](https://www.wowhead.com/forever/de/achievement=63684)"
+          "🎖️ [Erkundet Shen'dralas](https://www.wowhead.com/forever/de/achievement=63684)",
+          "🤝 **Wohlwollend** bei Orgrimmar"
         ],
         "snap": {
           "class": "Paladin",
-          "level": 46
+          "level": 47
         }
       },
       "us:devil-latterday": {
@@ -28371,6 +28392,7 @@
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
     "Jacinth Circle of the Bandit": "Hyazinth-Reif des Banditen",
     "Jacinth Circle of the Beast": "Hyazinth-Reif der Bestie",
+    "Jarkal's Enhancing Necklace": "Jarkals intensivierende Halskette",
     "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Journeyman's Vest": "Gesellenweste",
@@ -28572,6 +28594,7 @@
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
     "Pandemic": "Pandemie",
     "Panther Armor": "Panther-Rüstung",
+    "Parry": "Parieren",
     "Patched Leather Belt": "Geflickter Ledergürtel",
     "Patched Leather Boots": "Geflickte Lederstiefel",
     "Patched Leather Gloves": "Geflickte Lederhandschuhe",
@@ -28653,7 +28676,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30326,7 +30349,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795710583,
+  "saved_at": 1795711246,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
