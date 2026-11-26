@@ -6616,7 +6616,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795694517000,
+      "last_login": 1795702057000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -9194,8 +9194,8 @@
       },
       "ilvl": 32,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795645542000,
-      "level": 39,
+      "last_login": 1795701914000,
+      "level": 40,
       "level_at": {
         "28": 1794866470,
         "29": 1794907721,
@@ -9208,7 +9208,8 @@
         "36": 1795290873,
         "37": 1795389891,
         "38": 1795618505,
-        "39": 1795646414
+        "39": 1795646414,
+        "40": 1795702612
       },
       "professions": {
         "Cooking": 225,
@@ -9747,6 +9748,11 @@
           "raw": -9375,
           "tier": 0
         },
+        "Bolder'ok Clan": {
+          "name": "Neutral",
+          "raw": 401,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Neutral",
           "raw": 1710,
@@ -9807,18 +9813,18 @@
       "stats": {
         "critters": 106,
         "deaths": 23,
-        "drinks": 856,
+        "drinks": 889,
         "flights": 57,
-        "food": 290,
-        "health_potions": 28,
-        "hearths": 23,
+        "food": 314,
+        "health_potions": 29,
+        "hearths": 25,
         "honorable_kills": 4,
-        "killing_blows": 2425,
+        "killing_blows": 2565,
         "mana_potions": 12,
-        "mobs": 5759,
-        "quests": 292
+        "mobs": 5908,
+        "quests": 306
       },
-      "xp": 16957
+      "xp": 4342
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -25887,7 +25893,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795701051000,
+      "last_login": 1795701721000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -26425,7 +26431,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17462,
+          "raw": 17487,
           "tier": 5
         },
         "Everlook": {
@@ -26445,12 +26451,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7672,
+          "raw": 7772,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8796,
+          "raw": 8921,
           "tier": 4
         },
         "Kirin Tor": {
@@ -26475,7 +26481,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10330,
+          "raw": 10355,
           "tier": 5
         }
       },
@@ -26484,16 +26490,16 @@
         "critters": 185,
         "deaths": 30,
         "drinks": 2,
-        "flights": 147,
+        "flights": 148,
         "food": 190,
         "health_potions": 43,
         "hearths": 87,
         "honorable_kills": 2,
         "killing_blows": 3112,
         "mobs": 7273,
-        "quests": 343
+        "quests": 344
       },
-      "xp": 21605
+      "xp": 24382
     },
     "us:whizz-aard": {
       "achievements": {
@@ -29258,7 +29264,8 @@
         "eu:baumora-axiom",
         "eu:vlad-impalar",
         "eu:thalia-mondrabe",
-        "eu:keta-f%C3%A4se"
+        "eu:keta-f%C3%A4se",
+        "eu:fred-feuersturm"
       ],
       "50": [
         "eu:krakmor-ci%C3%B3rdan",
@@ -30284,7 +30291,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795701277,
+  "saved_at": 1795702614,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
