@@ -17361,7 +17361,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795730046000,
+      "last_login": 1795731055000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -20363,21 +20363,22 @@
       },
       "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1795644438000,
-      "level": 37,
+      "last_login": 1795730376000,
+      "level": 38,
       "level_at": {
         "28": 1795369205,
         "31": 1795372085,
         "33": 1795389237,
         "35": 1795472026,
         "36": 1795560035,
-        "37": 1795638305
+        "37": 1795638305,
+        "38": 1795731292
       },
       "professions": {
         "Cooking": 4,
         "Fishing": 9,
         "Leatherworking": 152,
-        "Skinning": 226
+        "Skinning": 234
       },
       "race": "Tauren",
       "raids": {},
@@ -20678,17 +20679,17 @@
       "reputations": {
         "Argent Dawn": {
           "name": "Neutral",
-          "raw": 400,
+          "raw": 650,
           "tier": 3
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -6650,
+          "raw": -7400,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2173,
+          "raw": 2440,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -20697,9 +20698,9 @@
           "tier": 3
         },
         "Darkspear Trolls": {
-          "name": "Friendly",
-          "raw": 8618,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9218,
+          "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -20713,56 +20714,66 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2153,
+          "raw": 2330,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2153,
+          "raw": 2330,
+          "tier": 3
+        },
+        "Gelkis Clan Centaur": {
+          "name": "Neutral",
+          "raw": 860,
+          "tier": 3
+        },
+        "Magram Clan Centaur": {
+          "name": "Neutral",
+          "raw": 1360,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11588,
+          "raw": 12151,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2153,
+          "raw": 2330,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3786,
+          "raw": 4051,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 17923,
+          "raw": 18486,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8343,
+          "raw": 8793,
           "tier": 4
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 48,
-        "deaths": 23,
+        "deaths": 24,
         "drinks": 9,
-        "flights": 73,
+        "flights": 78,
         "food": 3,
-        "health_potions": 16,
+        "health_potions": 18,
         "hearths": 18,
         "honorable_kills": 1,
-        "killing_blows": 2693,
+        "killing_blows": 2889,
         "mana_potions": 3,
-        "mobs": 4225,
-        "quests": 347
+        "mobs": 4438,
+        "quests": 369
       },
-      "xp": 27391
+      "xp": 48659
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -23002,7 +23013,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795726155000,
+      "last_login": 1795730349000,
       "level": 43,
       "level_at": {
         "38": 1795221303,
@@ -23533,7 +23544,7 @@
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 2075,
+          "raw": 2400,
           "tier": 3
         },
         "Earthen Ring": {
@@ -23592,16 +23603,16 @@
         "critters": 72,
         "deaths": 19,
         "drinks": 26,
-        "flights": 158,
+        "flights": 162,
         "food": 108,
         "health_potions": 19,
         "hearths": 43,
         "killing_blows": 4279,
         "mana_potions": 3,
         "mobs": 7188,
-        "quests": 518
+        "quests": 521
       },
-      "xp": 103833
+      "xp": 104011
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -26371,6 +26382,10 @@
           "name": "Electrocutioner Leg",
           "quality": "RARE"
         },
+        "9538": {
+          "name": "Talvash's Gold Ring",
+          "quality": "RARE"
+        },
         "9625": {
           "name": "Dual Reinforced Leggings",
           "quality": "RARE"
@@ -26378,7 +26393,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795707367000,
+      "last_login": 1795730327000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -26916,7 +26931,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17487,
+          "raw": 17581,
           "tier": 5
         },
         "Everlook": {
@@ -26936,13 +26951,13 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7772,
+          "raw": 8016,
           "tier": 4
         },
         "Ironforge": {
-          "name": "Friendly",
-          "raw": 8921,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9015,
+          "tier": 5
         },
         "Kirin Tor": {
           "name": "Friendly",
@@ -26966,25 +26981,25 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10355,
+          "raw": 10580,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 188,
-        "deaths": 30,
+        "deaths": 31,
         "drinks": 2,
-        "flights": 148,
-        "food": 194,
-        "health_potions": 44,
-        "hearths": 88,
+        "flights": 150,
+        "food": 196,
+        "health_potions": 45,
+        "hearths": 89,
         "honorable_kills": 2,
-        "killing_blows": 3142,
-        "mobs": 7466,
-        "quests": 344
+        "killing_blows": 3179,
+        "mobs": 7505,
+        "quests": 347
       },
-      "xp": 40953
+      "xp": 56552
     },
     "us:whizz-aard": {
       "achievements": {
@@ -27697,6 +27712,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:quantino-pralino": {
+        "c": {
+          "name": "Quantino",
+          "region": "eu",
+          "surname": "Pralino"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Darkspear"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 38
+        }
+      },
       "eu:zugzug-graufuss": {
         "c": {
           "name": "Zugzug",
@@ -27709,6 +27738,20 @@
         "snap": {
           "class": "Rogue",
           "level": 14
+        }
+      },
+      "us:steel-appeal": {
+        "c": {
+          "name": "steel",
+          "region": "us",
+          "surname": "appeal"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Eisenschmiede"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 37
         }
       }
     },
@@ -29213,6 +29256,7 @@
     "Tabitha's Cuffs": "Tabithas Manschetten",
     "Tailoring Patterns learned": "Erlernte Schnittmuster",
     "Talbar Mantle": "Talbar-Mantel",
+    "Talvash's Gold Ring": "Talvashs Goldring",
     "Tanned Shoulderpads": "Gegerbte Schulterpolster",
     "Tattered Mittens": "Zerfledderte Fäustlinge",
     "Taurajo Headband": "Stirnband aus Taurajo",
@@ -30570,7 +30614,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795730103,
+  "saved_at": 1795731294,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
