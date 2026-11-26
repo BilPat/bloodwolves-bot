@@ -30094,6 +30094,7 @@
       "rama-dingdong": "Rama Dingdong",
       "rausmit-deviechers": "Rausmit Deviechers",
       "redbully-badbully": "Redbully Badbully",
+      "senor-nefando": "Senor Nefando",
       "seppi-sapbert": "Seppi Sapbert",
       "sorayha-avalon": "Sorayha Avalon",
       "thalgrim-tirisfal": "Thalgrim Tirisfal",
@@ -30151,7 +30152,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Alto",
         "rank": 4,
         "region": "eu",
@@ -30232,7 +30233,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Blck",
         "rank": 4,
         "region": "eu",
@@ -30268,7 +30269,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 47,
+        "level": 48,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -30349,7 +30350,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Milly",
         "rank": 4,
         "region": "eu",
@@ -30421,7 +30422,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 36,
+        "level": 37,
         "name": "Garm",
         "rank": 4,
         "region": "eu",
@@ -30547,7 +30548,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Barbariana",
         "rank": 4,
         "region": "eu",
@@ -30556,7 +30557,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -30610,7 +30611,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 37,
+        "level": 38,
         "name": "Quantino",
         "rank": 5,
         "region": "eu",
@@ -30619,7 +30620,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 10,
+        "level": 11,
         "name": "Ignatius",
         "rank": 1,
         "region": "eu",
@@ -30646,7 +30647,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Mamulo",
         "rank": 5,
         "region": "eu",
@@ -30682,18 +30683,27 @@
       {
         "class": null,
         "guild": true,
-        "level": 13,
+        "level": 14,
         "name": "Zugzug",
         "rank": 5,
         "region": "eu",
         "surname": "Graufuss"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 12,
+        "name": "Senor",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Nefando"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795732816,
+  "saved_at": 1795733667,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
