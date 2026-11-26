@@ -9208,7 +9208,7 @@
       },
       "ilvl": 32,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795701914000,
+      "last_login": 1795721094000,
       "level": 40,
       "level_at": {
         "28": 1794866470,
@@ -9318,6 +9318,10 @@
           {
             "id": 54502,
             "name": "Twice-Spiced Raptor Slice"
+          },
+          {
+            "id": 58468,
+            "name": "Briny Seafood Stew"
           }
         ],
         "Enchanting": [
@@ -9769,12 +9773,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1710,
+          "raw": 1965,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5788,
+          "raw": 5813,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -9789,37 +9793,37 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1342,
+          "raw": 1597,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1342,
+          "raw": 1597,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5758,
+          "raw": 5783,
           "tier": 4
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1292,
+          "raw": 1802,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1567,
+          "raw": 1822,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4926,
+          "raw": 4951,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 17276,
+          "raw": 17376,
           "tier": 5
         }
       },
@@ -9827,18 +9831,18 @@
       "stats": {
         "critters": 106,
         "deaths": 23,
-        "drinks": 889,
+        "drinks": 905,
         "flights": 57,
-        "food": 314,
+        "food": 326,
         "health_potions": 29,
-        "hearths": 25,
+        "hearths": 26,
         "honorable_kills": 4,
-        "killing_blows": 2565,
-        "mana_potions": 12,
-        "mobs": 5908,
-        "quests": 306
+        "killing_blows": 2623,
+        "mana_potions": 13,
+        "mobs": 5968,
+        "quests": 313
       },
-      "xp": 4342
+      "xp": 35810
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -20018,6 +20022,241 @@
       },
       "xp": 14293
     },
+    "eu:pfeil-gail": {
+      "achievements": {
+        "61502": "Novice Druid",
+        "62012": "Journeyman Alchemist",
+        "847": "Explore Stonetalon Mountains",
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/103/133291623-avatar.jpg",
+      "best_item": {
+        "id": 5957,
+        "ilvl": null,
+        "name": "Handstitched Leather Vest",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
+      },
+      "boss_kills": {},
+      "class": "Hunter",
+      "dungeons": {},
+      "first_seen": 1795721971,
+      "gear": {},
+      "ilvl": null,
+      "last_explored": "Stonetalon Mountains",
+      "last_login": 1795721551000,
+      "level": 11,
+      "level_at": {
+        "11": 1795721971
+      },
+      "professions": {
+        "Cooking": 1,
+        "First Aid": 22,
+        "Leatherworking": 81,
+        "Skinning": 95
+      },
+      "race": "Troll",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4767,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 7310,
+          "tier": 4
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 6735,
+          "tier": 4
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3175,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 575,
+          "tier": 3
+        }
+      },
+      "spec": "Marksmanship",
+      "stats": {
+        "critters": 1,
+        "flights": 1,
+        "food": 2,
+        "hearths": 5,
+        "killing_blows": 250,
+        "mobs": 323,
+        "quests": 50
+      },
+      "xp": 6719
+    },
     "eu:quantino-pralino": {
       "achievements": {
         "61502": "Novice Druid",
@@ -27884,6 +28123,7 @@
     "Bazzalan kills (Ragefire Chasm)": "Siege über Bazzalan (Flammenschlund)",
     "Beast Mastery": "Tierherrschaft",
     "Beastmaster's Girdle": "Bestienmeistergurt",
+    "Beaten Battle Axe": "Gehämmerte Streitaxt",
     "Belt of Vindication": "Gürtel der Rechtfertigung",
     "Belt of the Fang": "Gürtel des Giftzahns",
     "Belt of the People's Militia": "Gürtel der Volksmiliz",
@@ -28233,6 +28473,7 @@
     "Emblazoned Hat": "Geschmückter Hut",
     "Emblem of Slamming": "Emblem des Schmetterns",
     "Embossed Leather Boots": "Geprägte Lederstiefel",
+    "Embossed Leather Cloak": "Geprägter Lederumhang",
     "Embossed Leather Gloves": "Geprägte Lederhandschuhe",
     "Embossed Leather Vest": "Geprägte Lederweste",
     "Embossed Plate Boots of the Knight": "Geprägte Plattenstiefel des Ritters",
@@ -28643,6 +28884,7 @@
     "Knife-Polishing Rag": "Messerpoliertuch",
     "Kodo Hunter's Leggings": "Kodojäger-Gamaschen",
     "Kodobone Necklace": "Kodoknochenhalskette",
+    "Kolkar Bow": "Bogen der Kolkar",
     "Kolkar Hammer": "Hammer der Kolkar",
     "Kresh's Back": "Kreshs Rücken",
     "Krol'dok Battlegear": "Schlachtrüstung von Krol'Dok",
@@ -29842,6 +30084,9 @@
         "3130": "Veteran Adventurer's Loyal Companion"
       }
     },
+    "eu:pfeil-gail": {
+      "mounts": {}
+    },
     "eu:quantino-pralino": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
@@ -30604,7 +30849,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795721125,
+  "saved_at": 1795721972,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -32544,6 +32789,16 @@
           "quests": 83
         },
         "xp": 14293
+      },
+      "eu:pfeil-gail": {
+        "achievements": 0,
+        "clears": {},
+        "epics": [],
+        "level": 1,
+        "professions": {},
+        "rep": {},
+        "stats": {},
+        "xp": 0
       },
       "eu:quantino-pralino": {
         "achievements": 5,
