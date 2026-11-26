@@ -22986,6 +22986,10 @@
           "name": "Fenrus' Hide",
           "quality": "RARE"
         },
+        "7690": {
+          "name": "Ebon Vise",
+          "quality": "RARE"
+        },
         "9588": {
           "name": "Nogg's Gold Ring",
           "quality": "RARE"
@@ -22997,7 +23001,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795697967000,
+      "last_login": 1795726155000,
       "level": 43,
       "level_at": {
         "38": 1795221303,
@@ -23011,7 +23015,7 @@
         "First Aid": 34,
         "Fishing": 167,
         "Leatherworking": 176,
-        "Skinning": 278
+        "Skinning": 279
       },
       "race": "Windshaper Skyborne",
       "raids": {},
@@ -23506,9 +23510,14 @@
           "raw": -12500,
           "tier": 0
         },
+        "Bolder'ok Clan": {
+          "name": "Neutral",
+          "raw": 411,
+          "tier": 3
+        },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 4507,
+          "raw": 4582,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -23518,7 +23527,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9341,
+          "raw": 9406,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -23533,12 +23542,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 3532,
+          "raw": 3607,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 3545,
+          "raw": 3632,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -23548,27 +23557,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11610,
+          "raw": 11757,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3482,
+          "raw": 3557,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 5327,
+          "raw": 5465,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13153,
+          "raw": 13218,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8762,
+          "raw": 8940,
           "tier": 4
         },
         "Windshapers": {
@@ -23582,16 +23591,16 @@
         "critters": 72,
         "deaths": 19,
         "drinks": 26,
-        "flights": 154,
+        "flights": 158,
         "food": 108,
-        "health_potions": 18,
-        "hearths": 41,
-        "killing_blows": 4067,
+        "health_potions": 19,
+        "hearths": 43,
+        "killing_blows": 4279,
         "mana_potions": 3,
-        "mobs": 6919,
-        "quests": 484
+        "mobs": 7188,
+        "quests": 518
       },
-      "xp": 3459
+      "xp": 103833
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -28156,6 +28165,7 @@
     "Earth's Grasp": "Griff der Erde",
     "Earthen Leather Shoulders": "Irdene Lederschultern",
     "Earthen Ring": "Der Irdene Ring",
+    "Ebon Vise": "Ebenholzvisor",
     "Edward's Knife": "Edwards Messer",
     "Edwin VanCleef": "Edwin van Cleef",
     "Edwin VanCleef Kills (Deadmines)": "Siege über Edwin van Cleef (Todesminen)",
@@ -30552,7 +30562,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795725598,
+  "saved_at": 1795726502,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
