@@ -23428,7 +23428,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795682969000,
+      "last_login": 1795685058000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -23971,16 +23971,16 @@
         "critters": 117,
         "deaths": 61,
         "drinks": 36,
-        "flights": 109,
+        "flights": 110,
         "food": 65,
         "health_potions": 42,
         "hearths": 50,
-        "killing_blows": 3654,
+        "killing_blows": 3661,
         "mana_potions": 2,
-        "mobs": 8176,
-        "quests": 501
+        "mobs": 8183,
+        "quests": 502
       },
-      "xp": 78311
+      "xp": 82798
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -25814,7 +25814,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795681636000,
+      "last_login": 1795685170000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -25829,8 +25829,8 @@
         "Blacksmithing": 169,
         "Cooking": 300,
         "First Aid": 216,
-        "Fishing": 225,
-        "Mining": 241
+        "Fishing": 227,
+        "Mining": 242
       },
       "race": "Night Elf",
       "raids": {},
@@ -26275,7 +26275,7 @@
         ],
         "Fishing": [
           {
-            "id": 4346,
+            "id": 10242,
             "name": "Fishing"
           },
           {
@@ -26411,16 +26411,16 @@
         "critters": 185,
         "deaths": 30,
         "drinks": 2,
-        "flights": 143,
-        "food": 188,
+        "flights": 145,
+        "food": 190,
         "health_potions": 43,
-        "hearths": 85,
+        "hearths": 86,
         "honorable_kills": 2,
-        "killing_blows": 3095,
-        "mobs": 7256,
-        "quests": 339
+        "killing_blows": 3102,
+        "mobs": 7263,
+        "quests": 340
       },
-      "xp": 9629
+      "xp": 15364
     },
     "us:whizz-aard": {
       "achievements": {
@@ -28488,7 +28488,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30157,7 +30157,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795684643,
+  "saved_at": 1795685364,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
