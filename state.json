@@ -23421,7 +23421,7 @@
       },
       "ilvl": 37,
       "last_explored": "Thousand Needles",
-      "last_login": 1795679534000,
+      "last_login": 1795682969000,
       "level": 46,
       "level_at": {
         "35": 1794866470,
@@ -23968,9 +23968,9 @@
         "food": 65,
         "health_potions": 42,
         "hearths": 50,
-        "killing_blows": 3653,
+        "killing_blows": 3654,
         "mana_potions": 2,
-        "mobs": 8174,
+        "mobs": 8176,
         "quests": 501
       },
       "xp": 78311
@@ -30150,7 +30150,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795682530,
+  "saved_at": 1795683255,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
