@@ -4378,6 +4378,7 @@
         "62012": "Journeyman Alchemist",
         "62018": "Journeyman Enchanter",
         "62019": "Expert Enchanter",
+        "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
         "769": "Explore Silverpine Forest"
       },
@@ -4419,6 +4420,11 @@
           "boss": "Amnennar the Coldbringer",
           "count": 1,
           "instance": "Razorfen Downs"
+        },
+        "63570": {
+          "boss": "Edwin VanCleef",
+          "count": 1,
+          "instance": "Deadmines"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -4511,7 +4517,7 @@
       },
       "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795707979000,
+      "last_login": 1795716337000,
       "level": 48,
       "level_at": {
         "42": 1794866470,
@@ -5092,14 +5098,14 @@
         "drinks": 87,
         "flights": 102,
         "food": 90,
-        "health_potions": 30,
-        "hearths": 48,
-        "killing_blows": 5508,
+        "health_potions": 31,
+        "hearths": 49,
+        "killing_blows": 5669,
         "mana_potions": 2,
-        "mobs": 8732,
+        "mobs": 8894,
         "quests": 488
       },
-      "xp": 85968
+      "xp": 85978
     },
     "eu:bon-tschorno": {
       "achievements": {
@@ -27318,6 +27324,21 @@
           "level": 33
         }
       },
+      "eu:blut-leiche": {
+        "c": {
+          "name": "Blut",
+          "region": "eu",
+          "surname": "Leiche"
+        },
+        "lines": [
+          "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
+          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 48
+        }
+      },
       "eu:efrye-frostheal": {
         "c": {
           "name": "Efrye",
@@ -28701,7 +28722,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30375,7 +30396,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795715653,
+  "saved_at": 1795717067,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
