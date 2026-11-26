@@ -2582,8 +2582,8 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795708072000,
-      "level": 21,
+      "last_login": 1795735443000,
+      "level": 23,
       "level_at": {
         "13": 1794866470,
         "14": 1794928566,
@@ -2592,14 +2592,15 @@
         "18": 1795470930,
         "19": 1795475708,
         "20": 1795560035,
-        "21": 1795641320
+        "21": 1795641320,
+        "23": 1795735554
       },
       "professions": {
         "Cooking": 84,
         "First Aid": 50,
         "Fishing": 123,
         "Leatherworking": 101,
-        "Skinning": 154
+        "Skinning": 159
       },
       "race": "Troll",
       "raids": {},
@@ -2842,12 +2843,12 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 840,
+          "raw": 965,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8438,
+          "raw": 8513,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -2857,54 +2858,54 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 840,
+          "raw": 965,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 840,
+          "raw": 965,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9307,
+          "raw": 9382,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 840,
+          "raw": 965,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1181,
+          "raw": 1431,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4437,
+          "raw": 4737,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1612,
+          "raw": 1687,
           "tier": 3
         }
       },
       "spec": "Beast Mastery",
       "stats": {
         "critters": 17,
-        "deaths": 25,
+        "deaths": 29,
         "drinks": 2,
-        "flights": 30,
-        "food": 30,
+        "flights": 33,
+        "food": 42,
         "health_potions": 6,
-        "hearths": 17,
-        "killing_blows": 1162,
-        "mobs": 1560,
-        "quests": 103
+        "hearths": 19,
+        "killing_blows": 1222,
+        "mobs": 1723,
+        "quests": 112
       },
-      "xp": 19558
+      "xp": 2119
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -23892,8 +23893,8 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795718628000,
-      "level": 47,
+      "last_login": 1795734969000,
+      "level": 48,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
@@ -23906,14 +23907,15 @@
         "44": 1795389237,
         "45": 1795443474,
         "46": 1795593290,
-        "47": 1795696960
+        "47": 1795696960,
+        "48": 1795735554
       },
       "professions": {
         "Blacksmithing": 194,
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 247
+        "Mining": 248
       },
       "race": "Undead",
       "raids": {},
@@ -24438,18 +24440,18 @@
       "spec": "Protection",
       "stats": {
         "critters": 117,
-        "deaths": 61,
-        "drinks": 40,
-        "flights": 121,
-        "food": 74,
-        "health_potions": 43,
+        "deaths": 64,
+        "drinks": 43,
+        "flights": 122,
+        "food": 78,
+        "health_potions": 45,
         "hearths": 52,
-        "killing_blows": 3895,
+        "killing_blows": 3931,
         "mana_potions": 2,
-        "mobs": 8855,
-        "quests": 528
+        "mobs": 9218,
+        "quests": 535
       },
-      "xp": 128004
+      "xp": 99275
     },
     "eu:zugzug-graufuss": {
       "achievements": {
@@ -28946,6 +28948,7 @@
     "Ponderous Orb": "Schwerfällige Kugel",
     "Poor": "Schlecht",
     "Precision": "Präzision",
+    "Precision Bow": "Präzisionsbogen",
     "Predatory Discipline": "Disziplin des Raubtiers",
     "Predatory Strikes": "Raubtierschläge",
     "Presence of Mind": "Geistesgegenwart",
@@ -30703,7 +30706,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795734834,
+  "saved_at": 1795735556,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
