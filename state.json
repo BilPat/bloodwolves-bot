@@ -2580,7 +2580,7 @@
       },
       "ilvl": 12,
       "last_explored": "Durotar",
-      "last_login": 1795685882000,
+      "last_login": 1795691837000,
       "level": 21,
       "level_at": {
         "13": 1794866470,
@@ -2595,9 +2595,9 @@
       "professions": {
         "Cooking": 84,
         "First Aid": 50,
-        "Fishing": 121,
+        "Fishing": 123,
         "Leatherworking": 101,
-        "Skinning": 147
+        "Skinning": 154
       },
       "race": "Troll",
       "raids": {},
@@ -2891,18 +2891,18 @@
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 16,
+        "critters": 17,
         "deaths": 25,
         "drinks": 2,
         "flights": 30,
-        "food": 27,
+        "food": 30,
         "health_potions": 6,
         "hearths": 17,
-        "killing_blows": 1108,
-        "mobs": 1507,
+        "killing_blows": 1162,
+        "mobs": 1560,
         "quests": 103
       },
-      "xp": 10818
+      "xp": 19558
     },
     "eu:baumora-axiom": {
       "achievements": {
@@ -27177,7 +27177,8 @@
           "surname": "Hunter"
         },
         "lines": [
-          "📜 Neuer Beruf: **Lederverarbeitung**"
+          "📜 Neuer Beruf: **Lederverarbeitung**",
+          "🛠️ **Kürschnerei** auf 150"
         ],
         "snap": {
           "class": "Hunter",
@@ -28527,7 +28528,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28581,6 +28582,7 @@
     "Ring of Iron Will": "Ring des eisernen Willens",
     "Ring of Pure Silver": "Ring aus reinem Silber",
     "Ring of Scorn": "Ring der Verachtung",
+    "Ring of the Moon": "Ring des Mondes",
     "Ritual Belt of Stamina": "Ritueller Gürtel der Ausdauer",
     "Ritual Belt of the Owl": "Ritueller Gürtel der Eule",
     "Riveted Gauntlets": "Nietenstulpen",
@@ -30197,7 +30199,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795691713,
+  "saved_at": 1795692340,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
