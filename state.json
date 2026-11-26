@@ -29713,7 +29713,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 42,
+        "level": 43,
         "name": "Thalia",
         "rank": 5,
         "region": "eu",
@@ -29731,7 +29731,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 58,
+        "level": 59,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -29866,7 +29866,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 46,
+        "level": 47,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -29920,7 +29920,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 39,
+        "level": 40,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -30091,7 +30091,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 38,
+        "level": 39,
         "name": "Lazy",
         "rank": 4,
         "region": "eu",
@@ -30291,7 +30291,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795704003,
+  "saved_at": 1795704851,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
