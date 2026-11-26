@@ -24969,7 +24969,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795728191000,
+      "last_login": 1795735867000,
       "level": 36,
       "level_at": {
         "29": 1795218860,
@@ -25029,15 +25029,15 @@
         ],
         "Herbalism": [
           {
+            "id": 6216,
+            "name": "Herbalism"
+          },
+          {
             "id": 1419,
             "name": "Herbalism"
           },
           {
-            "id": 2041,
-            "name": "Herbalism"
-          },
-          {
-            "id": 54116,
+            "id": 54117,
             "name": "Herbalism"
           },
           {
@@ -25070,11 +25070,6 @@
         "Booty Bay": {
           "name": "Neutral",
           "raw": 500,
-          "tier": 3
-        },
-        "Brotherhood of the Horse": {
-          "name": "Neutral",
-          "raw": 1,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -30706,7 +30701,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795735556,
+  "saved_at": 1795736399,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
