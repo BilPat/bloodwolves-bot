@@ -6616,7 +6616,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795702057000,
+      "last_login": 1795707474000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -25849,6 +25849,10 @@
           "name": "Quillord Mail Leggings",
           "quality": "RARE"
         },
+        "274292": {
+          "name": "Houndmaster Boomerang",
+          "quality": "RARE"
+        },
         "285292": {
           "name": "Dull Sawblade",
           "quality": "RARE"
@@ -25908,7 +25912,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795701721000,
+      "last_login": 1795707367000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -26502,19 +26506,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 185,
+        "critters": 188,
         "deaths": 30,
         "drinks": 2,
         "flights": 148,
-        "food": 190,
-        "health_potions": 43,
-        "hearths": 87,
+        "food": 194,
+        "health_potions": 44,
+        "hearths": 88,
         "honorable_kills": 2,
-        "killing_blows": 3112,
-        "mobs": 7273,
+        "killing_blows": 3142,
+        "mobs": 7466,
         "quests": 344
       },
-      "xp": 24382
+      "xp": 40953
     },
     "us:whizz-aard": {
       "achievements": {
@@ -28273,6 +28277,7 @@
     "Hooded Cowl": "Kapuzenkutte",
     "Horn Ring": "Hornring",
     "Hostile": "Feindselig",
+    "Houndmaster Boomerang": "Hundemeisterbumerang",
     "Howlhide Vest": "Heulbalgweste",
     "Hulking Cloak": "Titanischer Umhang",
     "Hulking Gauntlets": "Titanische Stulpen",
@@ -30306,7 +30311,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795706803,
+  "saved_at": 1795707609,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
