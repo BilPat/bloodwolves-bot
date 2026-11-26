@@ -15890,11 +15890,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/203/21630411-avatar.jpg",
       "best_item": {
-        "id": 13084,
+        "id": 273047,
         "ilvl": null,
-        "name": "Kaleidoscope Chain",
+        "name": "Unstable Crystalline Shoulderpads",
         "quality": "RARE",
-        "slot": "Neck"
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -15926,6 +15926,11 @@
           "boss": "Charlga Razorflank",
           "count": 2,
           "instance": "Razorfen Kraul"
+        },
+        "6141": {
+          "boss": "Amnennar the Coldbringer",
+          "count": 2,
+          "instance": "Razorfen Downs"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -16046,8 +16051,8 @@
       },
       "ilvl": 32,
       "last_explored": "Thousand Needles",
-      "last_login": 1795671993000,
-      "level": 37,
+      "last_login": 1795701228000,
+      "level": 39,
       "level_at": {
         "24": 1794866470,
         "25": 1794877050,
@@ -16058,14 +16063,15 @@
         "34": 1795467305,
         "35": 1795568335,
         "36": 1795586101,
-        "37": 1795672504
+        "37": 1795672504,
+        "39": 1795701276
       },
       "professions": {
         "Cooking": 150,
         "First Aid": 65,
         "Fishing": 112,
         "Leatherworking": 151,
-        "Skinning": 254
+        "Skinning": 258
       },
       "race": "Troll",
       "raids": {},
@@ -16086,6 +16092,10 @@
           {
             "id": 1902,
             "name": "Hot Lion Chops"
+          },
+          {
+            "id": 12905,
+            "name": "Heavy Crocolisk Stew"
           },
           {
             "id": 13344,
@@ -16118,6 +16128,10 @@
           {
             "id": 3930,
             "name": "Strider Stew"
+          },
+          {
+            "id": 3932,
+            "name": "Crispy Lizard Tail"
           },
           {
             "id": 4353,
@@ -16201,6 +16215,10 @@
           }
         ],
         "Leatherworking": [
+          {
+            "id": 2500,
+            "name": "Raptor Hide Belt"
+          },
           {
             "id": 4419,
             "name": "Deviate Scale Belt"
@@ -16354,6 +16372,10 @@
             "name": "Toughened Leather Gloves"
           },
           {
+            "id": 2180,
+            "name": "Barbaric Gloves"
+          },
+          {
             "id": 2183,
             "name": "Green Leather Belt"
           },
@@ -16404,6 +16426,10 @@
           {
             "id": 4160,
             "name": "Guardian Pants"
+          },
+          {
+            "id": 4161,
+            "name": "Barbaric Leggings"
           },
           {
             "id": 4163,
@@ -16509,80 +16535,91 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9250,
+          "raw": -9375,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2482,
+          "raw": 2694,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12322,
+          "raw": 12722,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 2000,
+          "raw": 2525,
           "tier": 3
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 750,
+          "raw": 1350,
           "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2149,
+          "raw": 2324,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2149,
+          "raw": 2324,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13341,
+          "raw": 13760,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2149,
+          "raw": 2299,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3866,
+          "raw": 4054,
           "tier": 4
+        },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9278,
+          "raw": 9885,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6196,
+          "raw": 6652,
           "tier": 4
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 53,
-        "deaths": 46,
-        "drinks": 52,
-        "flights": 55,
+        "critters": 95,
+        "deaths": 61,
+        "drinks": 65,
+        "flights": 67,
         "food": 37,
-        "health_potions": 48,
-        "hearths": 25,
-        "killing_blows": 2429,
-        "mana_potions": 16,
-        "mobs": 4673,
-        "quests": 274
+        "health_potions": 52,
+        "hearths": 27,
+        "honorable_kills": 1,
+        "killing_blows": 2680,
+        "mana_potions": 19,
+        "mobs": 5384,
+        "quests": 300
       },
-      "xp": 20646
+      "xp": 2616
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -25850,7 +25887,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795685170000,
+      "last_login": 1795701051000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -26378,7 +26415,7 @@
         },
         "Azeroth Commerce Authority": {
           "name": "Neutral",
-          "raw": 2150,
+          "raw": 2225,
           "tier": 3
         },
         "Booty Bay": {
@@ -26388,7 +26425,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17456,
+          "raw": 17462,
           "tier": 5
         },
         "Everlook": {
@@ -26408,12 +26445,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7666,
+          "raw": 7672,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8790,
+          "raw": 8796,
           "tier": 4
         },
         "Kirin Tor": {
@@ -26438,7 +26475,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10305,
+          "raw": 10330,
           "tier": 5
         }
       },
@@ -26447,16 +26484,16 @@
         "critters": 185,
         "deaths": 30,
         "drinks": 2,
-        "flights": 145,
+        "flights": 147,
         "food": 190,
         "health_potions": 43,
-        "hearths": 86,
+        "hearths": 87,
         "honorable_kills": 2,
-        "killing_blows": 3102,
-        "mobs": 7263,
-        "quests": 340
+        "killing_blows": 3112,
+        "mobs": 7273,
+        "quests": 343
       },
-      "xp": 15364
+      "xp": 21605
     },
     "us:whizz-aard": {
       "achievements": {
@@ -27295,11 +27332,12 @@
           "surname": "Quinn"
         },
         "lines": [
-          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
+          "🗝️ **[Hügel von Razorfen](https://www.wowhead.com/forever/de/search?q=H%C3%BCgel%20von%20Razorfen)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Shaman",
-          "level": 37
+          "level": 39
         }
       },
       "eu:ogmar-donnerhammer": {
@@ -27445,6 +27483,7 @@
     "Alliance": "Allianz",
     "Ambassador's Boots": "Botschafter-Stiefel",
     "Amberglow Talisman": "Bernsteinglut-Talisman",
+    "Amethyst Band of Agility": "Amethystband der Beweglichkeit",
     "Ammo": "Munition",
     "Amnennar the Coldbringer": "Amnennar den Kältebringer",
     "Amnennar the Coldbringer kills (Razorfen Downs)": "Siege über Amnennar den Kältebringer (Hügel von Razorfen)",
@@ -27777,6 +27816,7 @@
     "Dark Leather Pants": "Dunkle Lederhose",
     "Dark Leather Tunic": "Dunkle Ledertunika",
     "Dark Ritual Leggings": "Dunkle Ritualgamaschen",
+    "Darkmist Cape of the Beast": "Graunebelcape der Bestie",
     "Darkmoon Faire": "Dunkelmond-Jahrmarkt",
     "Darkspear Islands Honorable Kills": "Ehrenhafte Siege auf den Darkspear-Inseln",
     "Darkspear Islands Killing Blows": "Todesstöße auf den Darkspear-Inseln",
@@ -28572,7 +28612,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28910,6 +28950,7 @@
     "Taurenbane's Family Cleaver": "Spaltbeil der Familie Taurenbane",
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
+    "Thallium Choker of Power": "Thalliumhalsschmuck der Macht",
     "The Defilers": "Die Entweihten",
     "The League of Arathor": "Der Bund von Arathor",
     "Theka's Last Breath": "Thekas letzter Atemzug",
@@ -30243,7 +30284,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795700428,
+  "saved_at": 1795701277,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
