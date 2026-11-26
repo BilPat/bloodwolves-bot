@@ -2257,11 +2257,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/101/11425125-avatar.jpg",
       "best_item": {
-        "id": 270043,
-        "ilvl": 32,
-        "name": "Dreamer's Chestguard",
+        "id": 5404,
+        "ilvl": null,
+        "name": "Serpent's Shoulders",
         "quality": "RARE",
-        "slot": "Chest"
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -2341,7 +2341,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795551847000,
+      "last_login": 1795721934000,
       "level": 29,
       "level_at": {
         "23": 1794866470,
@@ -2361,20 +2361,20 @@
       "recipes": {
         "Alchemy": [
           {
-            "id": 54553,
-            "name": "Elixir of Spirit"
-          },
-          {
-            "id": 54211,
-            "name": "Elixir of Minor Force"
-          },
-          {
-            "id": 4393,
-            "name": "Blackmouth Oil"
-          },
-          {
             "id": 1814,
             "name": "Elixir of Wisdom"
+          },
+          {
+            "id": 1819,
+            "name": "Lesser Troll's Blood Elixir"
+          },
+          {
+            "id": 1820,
+            "name": "Elixir of Lesser Defense"
+          },
+          {
+            "id": 1832,
+            "name": "Minor Troll's Blood Elixir"
           },
           {
             "id": 1378,
@@ -2385,52 +2385,52 @@
             "name": "Minor Mana Potion"
           },
           {
-            "id": 4178,
-            "name": "Elixir of Minor Defense"
-          },
-          {
-            "id": 1819,
-            "name": "Lesser Troll's Blood Elixir"
-          },
-          {
             "id": 1380,
             "name": "Minor Rejuvenation Potion"
-          },
-          {
-            "id": 1820,
-            "name": "Elixir of Lesser Defense"
           },
           {
             "id": 1382,
             "name": "Elixir of Minor Fortitude"
           },
           {
-            "id": 54210,
-            "name": "Minor Arcane Elixir"
-          },
-          {
-            "id": 54456,
-            "name": "Sulfuric Acid"
+            "id": 4393,
+            "name": "Blackmouth Oil"
           },
           {
             "id": 4394,
             "name": "Fire Oil"
           },
           {
-            "id": 1832,
-            "name": "Minor Troll's Blood Elixir"
+            "id": 4395,
+            "name": "Swim Speed Potion"
+          },
+          {
+            "id": 4178,
+            "name": "Elixir of Minor Defense"
+          },
+          {
+            "id": 52646,
+            "name": "Mana Well"
           },
           {
             "id": 54453,
             "name": "Cerulean Dye"
           },
           {
-            "id": 4395,
-            "name": "Swim Speed Potion"
+            "id": 54456,
+            "name": "Sulfuric Acid"
           },
           {
-            "id": 52646,
-            "name": "Mana Well"
+            "id": 54553,
+            "name": "Elixir of Spirit"
+          },
+          {
+            "id": 54210,
+            "name": "Minor Arcane Elixir"
+          },
+          {
+            "id": 54211,
+            "name": "Elixir of Minor Force"
           }
         ],
         "Fishing": [
@@ -30849,7 +30849,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795721972,
+  "saved_at": 1795722866,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
