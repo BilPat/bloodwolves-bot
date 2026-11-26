@@ -6524,11 +6524,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/228/14176740-avatar.jpg",
       "best_item": {
-        "id": 253985,
+        "id": 7054,
         "ilvl": null,
-        "name": "Filigreed Shining Circlet",
+        "name": "Robe of Power",
         "quality": "RARE",
-        "slot": "Head"
+        "slot": "Chest"
       },
       "boss_kills": {
         "1092": {
@@ -6626,11 +6626,15 @@
         "7001": {
           "name": "Gravestone Scepter",
           "quality": "RARE"
+        },
+        "7054": {
+          "name": "Robe of Power",
+          "quality": "RARE"
         }
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795713778000,
+      "last_login": 1795731762000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -6649,7 +6653,7 @@
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 266,
+        "Herbalism": 269,
         "Tailoring": 225
       },
       "race": "Undead",
@@ -6877,6 +6881,22 @@
             "name": "Crimson Silk Vest"
           },
           {
+            "id": 4876,
+            "name": "Crimson Silk Pantaloons"
+          },
+          {
+            "id": 6603,
+            "name": "Black Mageweave Headband"
+          },
+          {
+            "id": 6605,
+            "name": "Black Mageweave Shoulders"
+          },
+          {
+            "id": 6608,
+            "name": "Simple Black Dress"
+          },
+          {
             "id": 6609,
             "name": "Red Mageweave Shoulders"
           },
@@ -6889,8 +6909,16 @@
             "name": "Simple Linen Pants"
           },
           {
+            "id": 6619,
+            "name": "Cindercloth Boots"
+          },
+          {
             "id": 6620,
             "name": "Tuxedo Pants"
+          },
+          {
+            "id": 6623,
+            "name": "Dreamweave Circlet"
           },
           {
             "id": 6624,
@@ -6941,12 +6969,36 @@
             "name": "Colorful Kilt"
           },
           {
+            "id": 6580,
+            "name": "Black Mageweave Vest"
+          },
+          {
             "id": 6581,
             "name": "Black Mageweave Leggings"
           },
           {
+            "id": 6582,
+            "name": "Black Mageweave Robe"
+          },
+          {
+            "id": 6584,
+            "name": "Black Mageweave Gloves"
+          },
+          {
             "id": 6589,
             "name": "Orange Mageweave Shirt"
+          },
+          {
+            "id": 6600,
+            "name": "Cindercloth Robe"
+          },
+          {
+            "id": 6601,
+            "name": "Dreamweave Vest"
+          },
+          {
+            "id": 6604,
+            "name": "Black Mageweave Boots"
           },
           {
             "id": 4848,
@@ -6971,6 +7023,10 @@
           {
             "id": 4853,
             "name": "Azure Silk Belt"
+          },
+          {
+            "id": 4854,
+            "name": "Robe of Power"
           },
           {
             "id": 4855,
@@ -7121,6 +7177,14 @@
             "name": "Boots of the Enchanter"
           },
           {
+            "id": 10396,
+            "name": "Bolt of Runecloth"
+          },
+          {
+            "id": 10397,
+            "name": "Runecloth Belt"
+          },
+          {
             "id": 3973,
             "name": "Pearl-clasped Cloak"
           },
@@ -7173,6 +7237,10 @@
             "name": "Truefaith Gloves"
           },
           {
+            "id": 4878,
+            "name": "Crimson Silk Gloves"
+          },
+          {
             "id": 4708,
             "name": "Simple Dress"
           },
@@ -7183,6 +7251,10 @@
           {
             "id": 6596,
             "name": "Mageweave Bag"
+          },
+          {
+            "id": 6598,
+            "name": "Dreamweave Gloves"
           },
           {
             "id": 4302,
@@ -7273,6 +7345,10 @@
             "name": "Radiant Slippers"
           },
           {
+            "id": 55488,
+            "name": "Earthen Silk Hood"
+          },
+          {
             "id": 55489,
             "name": "Earthen Silk Gloves"
           },
@@ -7304,7 +7380,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5481,
+          "raw": 5556,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -7329,7 +7405,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6306,
+          "raw": 6456,
           "tier": 4
         },
         "Powderfuse": {
@@ -7344,12 +7420,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4470,
+          "raw": 4695,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13452,
+          "raw": 13527,
           "tier": 5
         }
       },
@@ -7357,17 +7433,17 @@
       "stats": {
         "critters": 37,
         "deaths": 68,
-        "drinks": 191,
-        "flights": 110,
+        "drinks": 196,
+        "flights": 115,
         "food": 154,
         "health_potions": 16,
-        "hearths": 68,
-        "killing_blows": 1599,
-        "mana_potions": 57,
-        "mobs": 4339,
-        "quests": 253
+        "hearths": 69,
+        "killing_blows": 1654,
+        "mana_potions": 61,
+        "mobs": 4396,
+        "quests": 255
       },
-      "xp": 667
+      "xp": 22261
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -7376,6 +7452,7 @@
         "62015": "Journeyman Blacksmith",
         "62018": "Journeyman Enchanter",
         "62028": "Journeyman Tailor",
+        "62029": "Expert Tailor",
         "768": "Explore Tirisfal Glades",
         "772": "Explore Hillsbrad Foothills"
       },
@@ -7394,7 +7471,7 @@
       "gear": {},
       "ilvl": 3,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795688786000,
+      "last_login": 1795731846000,
       "level": 10,
       "level_at": {
         "10": 1795051505
@@ -14659,7 +14736,7 @@
       },
       "ilvl": 53,
       "last_explored": "Feralas",
-      "last_login": 1795720501000,
+      "last_login": 1795731252000,
       "level": 60,
       "level_at": {
         "45": 1794866470,
@@ -15235,11 +15312,6 @@
           "raw": 3345,
           "tier": 4
         },
-        "Darkspear Raiders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Darkspear Trolls": {
           "name": "Honored",
           "raw": 14622,
@@ -15259,11 +15331,6 @@
           "name": "Friendly",
           "raw": 6524,
           "tier": 4
-        },
-        "Frostwolf Clan": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         },
         "Gadgetzan": {
           "name": "Friendly",
@@ -15285,11 +15352,6 @@
           "raw": 7830,
           "tier": 4
         },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Revered",
           "raw": 22871,
@@ -15304,11 +15366,6 @@
           "name": "Honored",
           "raw": 16093,
           "tier": 5
-        },
-        "Warsong Outriders": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
         }
       },
       "spec": "Feral Combat",
@@ -27712,6 +27769,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:efrye-frostmage": {
+        "c": {
+          "name": "Efrye",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Frostmage"
+        },
+        "lines": [
+          "🎖️ [Expert Tailor](https://www.wowhead.com/forever/de/achievement=62029)"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 10
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -28216,6 +28288,9 @@
     "Earth's Grasp": "Griff der Erde",
     "Earthen Leather Shoulders": "Irdene Lederschultern",
     "Earthen Ring": "Der Irdene Ring",
+    "Earthen Silk Gloves": "Irdene Seidenhandschuhe",
+    "Earthen Silk Hood": "Irdene Seidenkapuze",
+    "Earthen Silk Slippers": "Irdene Seidenpantoffeln",
     "Ebon Vise": "Ebenholzvisor",
     "Edward's Knife": "Edwards Messer",
     "Edwin VanCleef": "Edwin van Cleef",
@@ -28233,6 +28308,7 @@
     "Elemental Weapons": "Elementarwaffen",
     "Elite Peacekeeper's Leggings": "Elite-Gamaschen des Friedensbewahrers",
     "Elixirs consumed": "Elixiere verbraucht",
+    "Embersilk Mantle of the Physician": "Glutseidenmantel des Heilers",
     "Emblazoned Chestpiece": "Geschmückter Brustharnisch",
     "Emblazoned Hat": "Geschmückter Hut",
     "Emblem of Slamming": "Emblem des Schmetterns",
@@ -28381,6 +28457,7 @@
     "Forest Leather Boots": "Waldlederstiefel",
     "Forest Leather Gloves": "Waldlederhandschuhe",
     "Forest Leather Mantle": "Waldledermantel",
+    "Forest Pendant of the Hierophant": "Waldanhänger des Hierophanten",
     "Forest Troll Leggings": "Waldtrollgamaschen",
     "Forsaken Bastard Sword": "Bastardschwert der Verlassenen",
     "Forsaken Dagger": "Dolch der Verlassenen",
@@ -28563,6 +28640,7 @@
     "Hunting Bow": "Jagdbogen",
     "Hunting Gloves": "Jagdhandschuhe",
     "Hunting Tunic": "Jagdtunika",
+    "Huntsman's Cape of Healing": "Jägersmann-Cape der Heilung",
     "Hydra Leather Legs": "Hydralederbeinlinge",
     "Hypnotic Blade": "Hypnoseklinge",
     "Idol": "Götze",
@@ -28981,6 +29059,7 @@
     "Riveted Gauntlets": "Nietenstulpen",
     "Roadwatcher's Confidence": "Selbstvertrauen des Wegwächters",
     "Robe of Evocation": "Robe der Hervorrufung",
+    "Robe of Power": "Robe der Macht",
     "Robe of the Moccasin": "Robe der Mokassin",
     "Robes of Arugal": "Robe von Arugal",
     "Robes of the Disgraced Thane": "Robe des in Ungnade gefallenen Thans",
@@ -30614,7 +30693,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795731294,
+  "saved_at": 1795731959,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
