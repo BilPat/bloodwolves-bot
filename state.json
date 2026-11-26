@@ -17361,7 +17361,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795725138000,
+      "last_login": 1795730046000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -17518,12 +17518,12 @@
         "health_potions": 34,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2674,
+        "killing_blows": 2675,
         "mana_potions": 99,
-        "mobs": 3741,
+        "mobs": 3742,
         "quests": 330
       },
-      "xp": 12379
+      "xp": 12383
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -30570,7 +30570,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795729219,
+  "saved_at": 1795730103,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
