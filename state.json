@@ -24325,7 +24325,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795667635000,
+      "last_login": 1795673568000,
       "level": 35,
       "level_at": {
         "29": 1795218860,
@@ -24495,19 +24495,19 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 19,
-        "deaths": 52,
-        "drinks": 15,
-        "flights": 58,
-        "food": 14,
+        "critters": 20,
+        "deaths": 53,
+        "drinks": 16,
+        "flights": 59,
+        "food": 15,
         "health_potions": 23,
         "hearths": 38,
-        "killing_blows": 2172,
+        "killing_blows": 2218,
         "mana_potions": 4,
-        "mobs": 3754,
+        "mobs": 3847,
         "quests": 336
       },
-      "xp": 27879
+      "xp": 31114
     },
     "us:devil-latterday": {
       "achievements": {
@@ -25775,7 +25775,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795663652000,
+      "last_login": 1795674163000,
       "level": 37,
       "level_at": {
         "31": 1794965196,
@@ -28419,7 +28419,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30085,7 +30085,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795672505,
+  "saved_at": 1795674330,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
