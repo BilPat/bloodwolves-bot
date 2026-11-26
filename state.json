@@ -1315,6 +1315,7 @@
     },
     "eu:archibald-white": {
       "achievements": {
+        "62009": "Novice Warlock",
         "728": "Explore Durotar"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/200/17596616-avatar.jpg",
@@ -1364,13 +1365,14 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795684047000,
-      "level": 24,
+      "last_login": 1795715480000,
+      "level": 25,
       "level_at": {
         "21": 1794866470,
         "22": 1795123499,
         "23": 1795468447,
-        "24": 1795643697
+        "24": 1795643697,
+        "25": 1795715652
       },
       "professions": {
         "Cooking": 7,
@@ -1710,7 +1712,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8621,
+          "raw": 8746,
           "tier": 4
         },
         "Everlook": {
@@ -1725,7 +1727,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11596,
+          "raw": 11646,
           "tier": 5
         },
         "Powderfuse": {
@@ -1740,29 +1742,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6198,
+          "raw": 6323,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2132,
+          "raw": 2182,
           "tier": 3
         }
       },
       "spec": "Affliction",
       "stats": {
         "critters": 17,
-        "deaths": 29,
+        "deaths": 31,
         "drinks": 1,
-        "flights": 22,
+        "flights": 23,
         "food": 9,
-        "health_potions": 27,
+        "health_potions": 28,
         "hearths": 10,
-        "killing_blows": 1182,
-        "mobs": 1547,
-        "quests": 142
+        "killing_blows": 1245,
+        "mobs": 1610,
+        "quests": 144
       },
-      "xp": 29673
+      "xp": 12972
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -27273,6 +27275,20 @@
           "level": 33
         }
       },
+      "eu:archibald-white": {
+        "c": {
+          "name": "Archibald",
+          "region": "eu",
+          "surname": "White"
+        },
+        "lines": [
+          "🎖️ [Novice Warlock](https://www.wowhead.com/forever/de/achievement=62009)"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 25
+        }
+      },
       "eu:barbariana-hunter": {
         "c": {
           "name": "Barbariana",
@@ -30359,7 +30375,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795714834,
+  "saved_at": 1795715653,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
