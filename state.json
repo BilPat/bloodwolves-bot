@@ -25021,6 +25021,11 @@
           "count": 2,
           "instance": "Stormwind Stockade"
         },
+        "6140": {
+          "boss": "Mekgineer Thermaplugg",
+          "count": 1,
+          "instance": "Gnomeregan"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -25093,12 +25098,16 @@
         "6473": {
           "name": "Armor of the Fang",
           "quality": "RARE"
+        },
+        "9624": {
+          "name": "Triprunner Dungarees",
+          "quality": "RARE"
         }
       },
       "ilvl": 28,
       "last_explored": "Wetlands",
-      "last_login": 1795640333000,
-      "level": 33,
+      "last_login": 1795662236000,
+      "level": 34,
       "level_at": {
         "26": 1794965196,
         "27": 1795005720,
@@ -25107,14 +25116,15 @@
         "30": 1795200900,
         "31": 1795288333,
         "32": 1795437784,
-        "33": 1795584444
+        "33": 1795584444,
+        "34": 1795663859
       },
       "professions": {
-        "Alchemy": 219,
+        "Alchemy": 220,
         "Cooking": 190,
-        "First Aid": 148,
+        "First Aid": 180,
         "Fishing": 115,
-        "Herbalism": 223
+        "Herbalism": 227
       },
       "race": "Night Elf",
       "raids": {},
@@ -25393,6 +25403,10 @@
         ],
         "First Aid": [
           {
+            "id": 4414,
+            "name": "Silk Bandage"
+          },
+          {
             "id": 4417,
             "name": "Anti-Venom"
           },
@@ -25483,12 +25497,12 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -6525,
+          "raw": -8525,
           "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 500,
+          "raw": 900,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -25498,22 +25512,27 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16068,
+          "raw": 16331,
           "tier": 5
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 700,
+          "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 600,
+          "raw": 800,
           "tier": 3
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7157,
+          "raw": 8045,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7431,
+          "raw": 7693,
           "tier": 4
         },
         "Kirin Tor": {
@@ -25521,27 +25540,38 @@
           "raw": 2358,
           "tier": 3
         },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 700,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 700,
+          "tier": 3
+        },
         "Stormwind": {
           "name": "Honored",
-          "raw": 9732,
+          "raw": 10257,
           "tier": 5
         }
       },
       "spec": "Feral Combat",
       "stats": {
         "critters": 67,
-        "deaths": 47,
-        "drinks": 123,
-        "flights": 65,
-        "food": 66,
-        "health_potions": 68,
-        "hearths": 29,
-        "killing_blows": 1229,
+        "deaths": 48,
+        "drinks": 126,
+        "flights": 69,
+        "food": 67,
+        "health_potions": 69,
+        "hearths": 30,
+        "honorable_kills": 1,
+        "killing_blows": 1270,
         "mana_potions": 61,
-        "mobs": 3699,
-        "quests": 286
+        "mobs": 4158,
+        "quests": 309
       },
-      "xp": 44132
+      "xp": 55692
     },
     "us:steel-appeal": {
       "achievements": {
@@ -25594,7 +25624,7 @@
         },
         "6140": {
           "boss": "Mekgineer Thermaplugg",
-          "count": 1,
+          "count": 2,
           "instance": "Gnomeregan"
         },
         "63570": {
@@ -25725,15 +25755,16 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795652569000,
-      "level": 36,
+      "last_login": 1795663652000,
+      "level": 37,
       "level_at": {
         "31": 1794965196,
         "32": 1795061895,
         "33": 1795380922,
         "34": 1795419090,
         "35": 1795472783,
-        "36": 1795524934
+        "36": 1795524934,
+        "37": 1795663859
       },
       "professions": {
         "Blacksmithing": 169,
@@ -26318,19 +26349,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 184,
-        "deaths": 29,
+        "critters": 185,
+        "deaths": 30,
         "drinks": 2,
-        "flights": 141,
-        "food": 184,
-        "health_potions": 42,
-        "hearths": 83,
-        "honorable_kills": 1,
-        "killing_blows": 2967,
-        "mobs": 6852,
+        "flights": 142,
+        "food": 188,
+        "health_potions": 43,
+        "hearths": 85,
+        "honorable_kills": 2,
+        "killing_blows": 3090,
+        "mobs": 7251,
         "quests": 337
       },
-      "xp": 70166
+      "xp": 3084
     },
     "us:whizz-aard": {
       "achievements": {
@@ -27137,6 +27168,22 @@
         "snap": {
           "class": "Paladin",
           "level": 30
+        }
+      },
+      "us:pwanage-ownage": {
+        "c": {
+          "name": "pwanage",
+          "region": "us",
+          "surname": "ownage"
+        },
+        "lines": [
+          "🛠️ **Erste Hilfe** auf 150",
+          "🛠️ **Kräuterkunde** auf 225",
+          "🗝️ **[Gnomeregan](https://www.wowhead.com/forever/de/search?q=Gnomeregan)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 34
         }
       },
       "us:whizz-aard": {
@@ -28300,7 +28347,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -29962,7 +30009,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795661682,
+  "saved_at": 1795663861,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
