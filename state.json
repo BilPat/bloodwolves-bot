@@ -23553,7 +23553,7 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795710553000,
+      "last_login": 1795718628000,
       "level": 47,
       "level_at": {
         "35": 1794866470,
@@ -23574,7 +23574,7 @@
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 244
+        "Mining": 247
       },
       "race": "Undead",
       "raids": {},
@@ -24037,12 +24037,12 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8767,
+          "raw": 8892,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
-          "raw": 2000,
+          "raw": 2125,
           "tier": 3
         },
         "Earthen Ring": {
@@ -24072,7 +24072,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9198,
+          "raw": 9248,
           "tier": 5
         },
         "Powderfuse": {
@@ -24087,12 +24087,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8138,
+          "raw": 8188,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21831,
+          "raw": 21956,
           "tier": 6
         }
       },
@@ -24101,16 +24101,173 @@
         "critters": 117,
         "deaths": 61,
         "drinks": 40,
-        "flights": 118,
-        "food": 73,
-        "health_potions": 42,
+        "flights": 121,
+        "food": 74,
+        "health_potions": 43,
         "hearths": 52,
-        "killing_blows": 3840,
+        "killing_blows": 3895,
         "mana_potions": 2,
-        "mobs": 8793,
-        "quests": 518
+        "mobs": 8855,
+        "quests": 528
       },
-      "xp": 74777
+      "xp": 128004
+    },
+    "eu:zugzug-graufuss": {
+      "achievements": {
+        "62000": "Novice Priest",
+        "62006": "Novice Shaman",
+        "728": "Explore Durotar",
+        "847": "Explore Stonetalon Mountains"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/143632481-avatar.jpg",
+      "best_item": {
+        "id": 286730,
+        "ilvl": null,
+        "name": "Pristine Orcish Dagger",
+        "quality": "UNCOMMON",
+        "slot": "Main Hand"
+      },
+      "boss_kills": {},
+      "class": "Rogue",
+      "dungeons": {},
+      "first_seen": 1795719303,
+      "gear": {},
+      "ilvl": null,
+      "last_explored": "Durotar",
+      "last_login": 1795718749000,
+      "level": 13,
+      "level_at": {
+        "13": 1795719303
+      },
+      "professions": {
+        "Cooking": 1,
+        "First Aid": 23,
+        "Mining": 22,
+        "Skinning": 109
+      },
+      "race": "Orc",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 1569,
+            "name": "Mining"
+          },
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4767,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 7420,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 8895,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 950,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3250,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 650,
+          "tier": 3
+        }
+      },
+      "spec": "Combat",
+      "stats": {
+        "flights": 1,
+        "food": 9,
+        "health_potions": 3,
+        "hearths": 2,
+        "killing_blows": 339,
+        "mobs": 404,
+        "quests": 65
+      },
+      "xp": 6841
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28429,6 +28586,7 @@
     "Intellect": "Intelligenz",
     "Intimidation": "Einschüchterung",
     "Inventor's League Ring": "Erfinderliga-Ring",
+    "Iron Creed": "Eiserner Glaube",
     "Iron Shield Spike": "Eisenschildstachel",
     "Iron Star": "Eiserner Stern",
     "Irradiated Shield": "Bestrahlter Schild",
@@ -28438,6 +28596,7 @@
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
     "Jacinth Circle of the Bandit": "Hyazinth-Reif des Banditen",
     "Jacinth Circle of the Beast": "Hyazinth-Reif der Bestie",
+    "Jagged Dagger": "Gezackter Dolch",
     "Jarkal's Enhancing Necklace": "Jarkals intensivierende Halskette",
     "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
@@ -28722,7 +28881,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28770,6 +28929,7 @@
     "Revered": "Respektvoll",
     "Reverence": "Andacht",
     "Revived by druids": "Von Druiden wiederbelebt",
+    "Rezlak's Spare Knife": "Rezlaks Ersatzmesser",
     "Ribbed Breastplate": "Rippenbrustplatte",
     "Rich Purple Silk Shirt": "Dunkellilanes Seidenhemd",
     "Ring 1": "Ring 2",
@@ -28866,6 +29026,7 @@
     "Seal of Sylvanas": "Siegel von Sylvanas",
     "Seal of Wrynn": "Siegel von Wrynn",
     "Searing Wound": "Sengende Wunde",
+    "Seasoned Fighter's Cloak": "Erfahrener Kämpfer-Umhang",
     "Secondary Skills": "Sekundäre Fertigkeiten",
     "Secondary skills at maximum skill": "Sekundäre Fertigkeiten auf maximaler Stufe",
     "Seedcloud Buckler": "Samenwolken-Rundschild",
@@ -28914,6 +29075,7 @@
     "Shield": "Schild",
     "Shield Slam": "Schildschlag",
     "Shield Specialization": "Schild-Spezialisierung",
+    "Shieldsworn": "Schildgeschworen",
     "Shifting Power": "Machtverschiebung",
     "Shilly Mitts": "Fäustlinge der Entschlossenheit",
     "Shimmering Boots": "Schimmernde Stiefel",
@@ -29122,6 +29284,8 @@
     "Trapper's Shirt": "Fallenstellerhemd",
     "Travel": "Reise",
     "Traveler's Shawl": "Schal des Reisenden",
+    "Tribal Bracers": "Stammesarmschienen",
+    "Tribal Gloves": "Stammeshandschuhe",
     "Tribal Vest": "Stammesweste",
     "Trinket": "Schmuck",
     "Trinket 1": "Schmuckstück 1",
@@ -29680,6 +29844,12 @@
         "3130": "Veteran Adventurer's Loyal Companion"
       }
     },
+    "eu:zugzug-graufuss": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
     "eu:zulka-seelenfluch": {
       "mounts": {}
     },
@@ -29836,7 +30006,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 59,
+        "level": 60,
         "name": "Krakmor",
         "rank": 3,
         "region": "eu",
@@ -30115,7 +30285,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 24,
+        "level": 25,
         "name": "Archibald",
         "rank": 4,
         "region": "eu",
@@ -30169,7 +30339,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Christopher",
         "rank": 5,
         "region": "eu",
@@ -30367,7 +30537,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 7,
+        "level": 11,
         "name": "Pfeil",
         "rank": 5,
         "region": "eu",
@@ -30376,7 +30546,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 6,
+        "level": 7,
         "name": "Rama",
         "rank": 5,
         "region": "eu",
@@ -30385,7 +30555,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 9,
+        "level": 13,
         "name": "Zugzug",
         "rank": 5,
         "region": "eu",
@@ -30396,7 +30566,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795718416,
+  "saved_at": 1795719304,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -32706,6 +32876,40 @@
           "quests": 423
         },
         "xp": 10178
+      },
+      "eu:zugzug-graufuss": {
+        "achievements": 4,
+        "clears": {},
+        "epics": [],
+        "level": 13,
+        "professions": {
+          "Cooking": 1,
+          "First Aid": 23,
+          "Mining": 22,
+          "Skinning": 109
+        },
+        "rep": {
+          "Booty Bay": 525,
+          "Darkspear Trolls": 7420,
+          "Durotar Supply and Logistics": 0,
+          "Everlook": 525,
+          "Gadgetzan": 525,
+          "Orgrimmar": 8895,
+          "Powderfuse": 525,
+          "Ratchet": 950,
+          "Thunder Bluff": 3250,
+          "Undercity": 650
+        },
+        "stats": {
+          "flights": 1,
+          "food": 9,
+          "health_potions": 3,
+          "hearths": 2,
+          "killing_blows": 339,
+          "mobs": 404,
+          "quests": 65
+        },
+        "xp": 6841
       },
       "eu:zulka-seelenfluch": {
         "achievements": 3,
