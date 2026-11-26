@@ -14030,6 +14030,11 @@
           "boss": "Charlga Razorflank",
           "count": 2,
           "instance": "Razorfen Kraul"
+        },
+        "63572": {
+          "boss": "Shade of the Archmage",
+          "count": 1,
+          "instance": "City of Dalaran"
         }
       },
       "class": "Mage",
@@ -14046,6 +14051,10 @@
         },
         "273840": {
           "name": "Cursed Murloc Eye",
+          "quality": "RARE"
+        },
+        "279843": {
+          "name": "Enchanted Sandals",
           "quality": "RARE"
         },
         "4197": {
@@ -14075,8 +14084,8 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795656078000,
-      "level": 34,
+      "last_login": 1795690309000,
+      "level": 35,
       "level_at": {
         "27": 1794866470,
         "28": 1795022064,
@@ -14085,7 +14094,8 @@
         "31": 1795310685,
         "32": 1795394361,
         "33": 1795517658,
-        "34": 1795569430
+        "34": 1795569430,
+        "35": 1795690475
       },
       "professions": {
         "Cooking": 27,
@@ -14382,17 +14392,17 @@
       "stats": {
         "critters": 25,
         "deaths": 17,
-        "drinks": 838,
+        "drinks": 853,
         "flights": 81,
-        "food": 324,
+        "food": 325,
         "health_potions": 9,
-        "hearths": 29,
-        "killing_blows": 2155,
+        "hearths": 31,
+        "killing_blows": 2209,
         "mana_potions": 6,
-        "mobs": 4096,
-        "quests": 245
+        "mobs": 4254,
+        "quests": 249
       },
-      "xp": 46871
+      "xp": 29055
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -27229,11 +27239,12 @@
           "surname": "Ronen"
         },
         "lines": [
-          "🎖️ [Erkundet Brachland](https://www.wowhead.com/forever/de/achievement=750)"
+          "🎖️ [Erkundet Brachland](https://www.wowhead.com/forever/de/achievement=750)",
+          "⚔️ Erster Kill: **[den Schemen des Erzmagiers](https://www.wowhead.com/forever/de/search?q=den%20Schemen%20des%20Erzmagiers)** (City of Dalaran)"
         ],
         "snap": {
           "class": "Mage",
-          "level": 34
+          "level": 35
         }
       },
       "eu:krakmor-ci%C3%B3rdan": {
@@ -28946,6 +28957,7 @@
     "Unleashed Fury": "Entfesselter Zorn",
     "Unsealed Wrath": "Entfesselter Zorn",
     "Unstable Crystalline Shoulderpads": "Instabile kristalline Schulterpolster",
+    "Unstable Power Core": "Instabiler Energiekern",
     "Vagabond Leggings": "Vagabunden-Gamaschen",
     "Vanguard": "Frontkämpfer",
     "Vanity pets owned": "Anzahl der besessenen Haustiere",
@@ -29693,7 +29705,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Khaladin",
         "rank": 4,
         "region": "eu",
@@ -29774,7 +29786,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 31,
+        "level": 32,
         "name": "Zulka",
         "rank": 4,
         "region": "eu",
@@ -29837,7 +29849,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Ragnar",
         "rank": 5,
         "region": "eu",
@@ -29873,7 +29885,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 33,
+        "level": 34,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -29990,7 +30002,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 37,
+        "level": 38,
         "name": "Lazy",
         "rank": 4,
         "region": "eu",
@@ -30053,7 +30065,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Ogmar",
         "rank": 4,
         "region": "eu",
@@ -30190,7 +30202,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795689610,
+  "saved_at": 1795690476,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
