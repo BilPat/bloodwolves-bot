@@ -15886,6 +15886,11 @@
           "count": 1,
           "instance": "Shadowfang Keep"
         },
+        "1093": {
+          "boss": "Scarlet Commander Mograine",
+          "count": 1,
+          "instance": "Scarlet Monastery"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -15915,6 +15920,11 @@
           "boss": "Shade of the Archmage",
           "count": 1,
           "instance": "City of Dalaran"
+        },
+        "6786": {
+          "boss": "High Inquisitor Whitemane",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         }
       },
       "class": "Shaman",
@@ -15935,6 +15945,10 @@
         },
         "13093": {
           "name": "Blush Ember Ring",
+          "quality": "RARE"
+        },
+        "13119": {
+          "name": "Enchanted Kodo Bracers",
           "quality": "RARE"
         },
         "16977": {
@@ -16001,6 +16015,10 @@
           "name": "Ferine Leggings",
           "quality": "RARE"
         },
+        "7717": {
+          "name": "Ravager",
+          "quality": "RARE"
+        },
         "7753": {
           "name": "Bloodspiller",
           "quality": "RARE"
@@ -16012,8 +16030,8 @@
       },
       "ilvl": 32,
       "last_explored": "Thousand Needles",
-      "last_login": 1795652813000,
-      "level": 36,
+      "last_login": 1795671993000,
+      "level": 37,
       "level_at": {
         "24": 1794866470,
         "25": 1794877050,
@@ -16023,7 +16041,8 @@
         "33": 1795264289,
         "34": 1795467305,
         "35": 1795568335,
-        "36": 1795586101
+        "36": 1795586101,
+        "37": 1795672504
       },
       "professions": {
         "Cooking": 150,
@@ -16479,12 +16498,12 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2469,
+          "raw": 2482,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12172,
+          "raw": 12322,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -16499,55 +16518,55 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2137,
+          "raw": 2149,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2137,
+          "raw": 2149,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13266,
+          "raw": 13341,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2137,
+          "raw": 2149,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3841,
+          "raw": 3866,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 9203,
+          "raw": 9278,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5971,
+          "raw": 6196,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
-        "critters": 30,
-        "deaths": 41,
-        "drinks": 48,
-        "flights": 53,
-        "food": 36,
-        "health_potions": 45,
-        "hearths": 24,
-        "killing_blows": 2361,
-        "mana_potions": 14,
-        "mobs": 4384,
-        "quests": 270
+        "critters": 53,
+        "deaths": 46,
+        "drinks": 52,
+        "flights": 55,
+        "food": 37,
+        "health_potions": 48,
+        "hearths": 25,
+        "killing_blows": 2429,
+        "mana_potions": 16,
+        "mobs": 4673,
+        "quests": 274
       },
-      "xp": 48977
+      "xp": 20646
     },
     "eu:liquider-nasenb%C3%A4r": {
       "achievements": {
@@ -27162,6 +27181,20 @@
           "level": 58
         }
       },
+      "eu:lazy-quinn": {
+        "c": {
+          "name": "Lazy",
+          "region": "eu",
+          "surname": "Quinn"
+        },
+        "lines": [
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Shaman",
+          "level": 37
+        }
+      },
       "eu:ogmar-donnerhammer": {
         "c": {
           "name": "Ogmar",
@@ -27394,6 +27427,7 @@
     "Blackrock Depths": "Schwarzfelstiefen",
     "Blacksmithing Plans learned": "Erlernte Schmiedepläne",
     "Blade Flurry": "Klingenwirbel",
+    "Bladestorm": "Klingensturm",
     "Blast Wave": "Druckwelle",
     "Blazeroar": "Blazeroar",
     "Blazeroar Kills (Alcaz Prison)": "Siege über Blazeroar (Das Gefängnis von Alcaz)",
@@ -27753,6 +27787,7 @@
     "Enchant Shield - Greater Stamina": "Schild - Große Ausdauer",
     "Enchant Weapon - Lesser Striking": "Waffe - Geringes Schlagen",
     "Enchant Weapon - Recovery": "Waffe - Erholung",
+    "Enchanted Kodo Bracers": "Verzauberte Kodoarmschienen",
     "Enchanted Sandals": "Verzauberte Sandalen",
     "Enchanting formulae learned": "Erlernte Verzauberungsformeln",
     "Endurance": "Durchhaltevermögen",
@@ -28384,7 +28419,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -28394,6 +28429,7 @@
     "Ratchet Wristwraps": "Gelenkbänder von Ratchet",
     "Rath'mael": "Rath'mael",
     "Rath'mael Kills (Ruins of Lordaeron)": "Siege über Rath'mael (Ruinen von Lordaeron)",
+    "Ravager": "Verheerer",
     "Ravasaur Trainers": "Ravasaurusausbilder",
     "Rawhide Boots": "Rohlederstiefel",
     "Razor Arrow": "Schneidenpfeil",
@@ -30049,7 +30085,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795671605,
+  "saved_at": 1795672505,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
