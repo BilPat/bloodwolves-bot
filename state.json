@@ -1364,7 +1364,7 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795642927000,
+      "last_login": 1795684047000,
       "level": 24,
       "level_at": {
         "21": 1794866470,
@@ -1710,7 +1710,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8571,
+          "raw": 8621,
           "tier": 4
         },
         "Everlook": {
@@ -1725,7 +1725,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11546,
+          "raw": 11596,
           "tier": 5
         },
         "Powderfuse": {
@@ -1740,12 +1740,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5998,
+          "raw": 6198,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2082,
+          "raw": 2132,
           "tier": 3
         }
       },
@@ -1754,15 +1754,15 @@
         "critters": 17,
         "deaths": 29,
         "drinks": 1,
-        "flights": 21,
+        "flights": 22,
         "food": 9,
-        "health_potions": 26,
-        "hearths": 9,
-        "killing_blows": 1113,
-        "mobs": 1480,
-        "quests": 138
+        "health_potions": 27,
+        "hearths": 10,
+        "killing_blows": 1182,
+        "mobs": 1547,
+        "quests": 142
       },
-      "xp": 9235
+      "xp": 29673
     },
     "eu:aristides-soulreaper": {
       "achievements": {
@@ -6615,8 +6615,8 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795656061000,
-      "level": 33,
+      "last_login": 1795683568000,
+      "level": 34,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
@@ -6627,14 +6627,15 @@
         "29": 1795467305,
         "30": 1795481938,
         "32": 1795562697,
-        "33": 1795613257
+        "33": 1795613257,
+        "34": 1795684641
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 265,
-        "Tailoring": 221
+        "Herbalism": 266,
+        "Tailoring": 222
       },
       "race": "Undead",
       "raids": {},
@@ -7341,17 +7342,17 @@
       "stats": {
         "critters": 37,
         "deaths": 68,
-        "drinks": 188,
+        "drinks": 191,
         "flights": 110,
         "food": 154,
         "health_potions": 16,
         "hearths": 67,
-        "killing_blows": 1588,
-        "mana_potions": 56,
-        "mobs": 4328,
+        "killing_blows": 1599,
+        "mana_potions": 57,
+        "mobs": 4339,
         "quests": 253
       },
-      "xp": 54633
+      "xp": 667
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -20534,21 +20535,22 @@
       },
       "ilvl": 28,
       "last_explored": "Thousand Needles",
-      "last_login": 1795645438000,
-      "level": 35,
+      "last_login": 1795683908000,
+      "level": 36,
       "level_at": {
         "31": 1794866470,
         "32": 1795031689,
         "33": 1795098385,
         "34": 1795634703,
-        "35": 1795645521
+        "35": 1795645521,
+        "36": 1795684641
       },
       "professions": {
         "Blacksmithing": 108,
         "Cooking": 150,
-        "First Aid": 119,
+        "First Aid": 125,
         "Fishing": 38,
-        "Mining": 154
+        "Mining": 156
       },
       "race": "Tauren",
       "raids": {},
@@ -20821,9 +20823,14 @@
         ]
       },
       "reputations": {
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -6625,
+          "tier": 0
+        },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2160,
+          "raw": 2208,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -20843,12 +20850,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2165,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2165,
           "tier": 3
         },
         "Orgrimmar": {
@@ -20858,12 +20865,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2135,
+          "raw": 2165,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3746,
+          "raw": 3788,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -20882,15 +20889,15 @@
         "critters": 73,
         "deaths": 25,
         "flights": 47,
-        "food": 120,
+        "food": 121,
         "health_potions": 30,
         "hearths": 25,
         "honorable_kills": 5,
-        "killing_blows": 2240,
-        "mobs": 4473,
-        "quests": 272
+        "killing_blows": 2267,
+        "mobs": 4504,
+        "quests": 288
       },
-      "xp": 39233
+      "xp": 5745
     },
     "eu:rausmit-deviechers": {
       "achievements": {
@@ -30150,7 +30157,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795683255,
+  "saved_at": 1795684643,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
