@@ -23580,7 +23580,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795768571000,
+      "last_login": 1795793613000,
       "level": 44,
       "level_at": {
         "38": 1795221303,
@@ -24175,7 +24175,7 @@
         "critters": 72,
         "deaths": 19,
         "drinks": 26,
-        "flights": 165,
+        "flights": 166,
         "food": 108,
         "health_potions": 19,
         "hearths": 47,
@@ -31539,7 +31539,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795793192,
+  "saved_at": 1795793994,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
