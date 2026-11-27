@@ -20388,6 +20388,221 @@
       },
       "xp": 6719
     },
+    "eu:pippilotta-viktualiah": {
+      "achievements": {
+        "728": "Explore Durotar"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/45/77427501-avatar.jpg",
+      "best_item": {
+        "id": 2961,
+        "ilvl": null,
+        "name": "Burnt Leather Vest",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
+      },
+      "boss_kills": {},
+      "class": "Shaman",
+      "dungeons": {},
+      "first_seen": 1795763831,
+      "gear": {},
+      "ilvl": null,
+      "last_explored": "Durotar",
+      "last_login": 1795740162000,
+      "level": 16,
+      "level_at": {
+        "16": 1795763831
+      },
+      "professions": {
+        "Cooking": 24,
+        "First Aid": 53,
+        "Leatherworking": 38,
+        "Skinning": 123
+      },
+      "race": "Troll",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4767,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 950,
+          "tier": 3
+        },
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 7882,
+          "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 7513,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 525,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 750,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 3393,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 2137,
+          "tier": 3
+        }
+      },
+      "spec": "Elemental Combat",
+      "stats": {
+        "critters": 6,
+        "deaths": 19,
+        "drinks": 14,
+        "food": 23,
+        "hearths": 1,
+        "killing_blows": 749,
+        "mobs": 1227,
+        "quests": 81
+      },
+      "xp": 3182
+    },
     "eu:quantino-pralino": {
       "achievements": {
         "61502": "Novice Druid",
@@ -26753,7 +26968,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795762056000,
+      "last_login": 1795763735000,
       "level": 38,
       "level_at": {
         "31": 1794965196,
@@ -28444,6 +28659,7 @@
     "Burnished Girdle": "Brünierter Gurt",
     "Burnt Leather Belt": "Brandledergürtel",
     "Burnt Leather Breeches": "Brandlederbundhosen",
+    "Burnt Leather Vest": "Brandlederweste",
     "Burst of Knowledge": "Explosion des Wissens",
     "Butcher's Cleaver": "Schlächterbeil",
     "Butcher's Slicer": "Schlächterschnitzler",
@@ -28466,6 +28682,7 @@
     "Ceranium Rod": "Ceraniumrute",
     "Ceremonial Leather Ankleguards": "Zeremonieller Lederknöchelschutz",
     "Ceremonial Leather Bracers": "Zeremonielle Lederarmschienen",
+    "Ceremonial Leather Gloves": "Zeremonielle Lederhandschuhe",
     "Ceremonial Leather Harness": "Zeremonieller Lederharnisch",
     "Ceremonial Mallet": "Zeremonieller Schlaghammer",
     "Cerulean Prideclaw": "Himmelblaue Rudelkralle",
@@ -29675,6 +29892,7 @@
     "Stamina": "Ausdauer",
     "Stamped Trousers": "Bedruckte Beinkleider",
     "Starlight Wrath": "Zorn des Sternenlichts",
+    "Staunch Hammer of the Wolf": "Zuverlässiger Hammer des Wolfs",
     "Stinging Viper": "Stechviper",
     "Stolen Power": "Gestohlene Kraft",
     "Stomping Boots": "Stampfer-Stiefel",
@@ -29753,6 +29971,7 @@
     "Thun'grim's Axe": "Thun'grims Axt",
     "Thunderbrow Ring": "Ring der Donnerbraue",
     "Thundering Strikes": "Donnernde Stöße",
+    "Tidal Focus": "Gezeitenfokus",
     "Tiger Hide Boots": "Tigerbalg-Stiefel",
     "Tiger Hunter Gloves": "Tigerjäger-Handschuhe",
     "Tigerbane": "Tigerbann",
@@ -29940,6 +30159,7 @@
     "Worn Large Shield": "Abgenutzter großer Schild",
     "Worn Leather Belt": "Abgenutzter Ledergürtel",
     "Worn Leather Bracers": "Abgenutzte Lederarmschienen",
+    "Worn Leather Pants": "Abgenutzte Lederhose",
     "Worn Leather Vest": "Abgenutzte Lederweste",
     "Wound": "Wunde",
     "Woven Ivy Necklace": "Gewobene Efeuhalskette",
@@ -30320,6 +30540,9 @@
     "eu:pfeil-gail": {
       "mounts": {}
     },
+    "eu:pippilotta-viktualiah": {
+      "mounts": {}
+    },
     "eu:quantino-pralino": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
@@ -30407,6 +30630,10 @@
   "roster": {
     "left_log": [
       {
+        "name": "Barbariana Hunter",
+        "ts": 1795763757
+      },
+      {
         "name": "Zelda Moon",
         "ts": 1795533269
       },
@@ -30434,7 +30661,6 @@
       "archibald-white": "Archibald White",
       "aristides-soulreaper": "Aristides Soulreaper",
       "aru-tai": "Aru Tai",
-      "barbariana-hunter": "Barbariana Hunter",
       "baumora-axiom": "Baumora Axiom",
       "blck-jck": "Blck Jck",
       "blut-leiche": "Blut Leiche",
@@ -30480,6 +30706,7 @@
       "pandora-snow": "Pandora Snow",
       "pantherra-wolf": "Pantherra Wolf",
       "pfeil-gail": "Pfeil Gail",
+      "pippilotta-viktualiah": "Pippilotta Viktualiah",
       "prophet-eierfred": "Prophet Eierfred",
       "quantino-pralino": "Quantino Pralino",
       "ragnar-lodhoof": "Ragnar Lodhoof",
@@ -30589,7 +30816,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Khaladin",
         "rank": 4,
         "region": "eu",
@@ -30940,15 +31167,6 @@
       {
         "class": null,
         "guild": true,
-        "level": 22,
-        "name": "Barbariana",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Hunter"
-      },
-      {
-        "class": null,
-        "guild": true,
         "level": 27,
         "name": "Ogmar",
         "rank": 4,
@@ -31003,6 +31221,24 @@
       {
         "class": null,
         "guild": true,
+        "level": 13,
+        "name": "Senor",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Nefando"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 16,
+        "name": "Pippilotta",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Viktualiah"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 38,
         "name": "Quantino",
         "rank": 5,
@@ -31012,7 +31248,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 11,
+        "level": 12,
         "name": "Ignatius",
         "rank": 1,
         "region": "eu",
@@ -31080,22 +31316,13 @@
         "rank": 5,
         "region": "eu",
         "surname": "Graufuss"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 12,
-        "name": "Senor",
-        "rank": 5,
-        "region": "eu",
-        "surname": "Nefando"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795762613,
+  "saved_at": 1795763832,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -33045,6 +33272,41 @@
         "rep": {},
         "stats": {},
         "xp": 0
+      },
+      "eu:pippilotta-viktualiah": {
+        "achievements": 1,
+        "clears": {},
+        "epics": [],
+        "level": 16,
+        "professions": {
+          "Cooking": 24,
+          "First Aid": 53,
+          "Leatherworking": 38,
+          "Skinning": 123
+        },
+        "rep": {
+          "Argent Dawn": 950,
+          "Booty Bay": 525,
+          "Darkspear Trolls": 7882,
+          "Everlook": 525,
+          "Gadgetzan": 525,
+          "Orgrimmar": 7513,
+          "Powderfuse": 525,
+          "Ratchet": 750,
+          "Thunder Bluff": 3393,
+          "Undercity": 2137
+        },
+        "stats": {
+          "critters": 6,
+          "deaths": 19,
+          "drinks": 14,
+          "food": 23,
+          "hearths": 1,
+          "killing_blows": 749,
+          "mobs": 1227,
+          "quests": 81
+        },
+        "xp": 3182
       },
       "eu:quantino-pralino": {
         "achievements": 5,
