@@ -25213,7 +25213,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795750964000,
+      "last_login": 1795762104000,
       "level": 36,
       "level_at": {
         "29": 1795218860,
@@ -25227,7 +25227,7 @@
       },
       "professions": {
         "Cooking": 29,
-        "Herbalism": 225,
+        "Herbalism": 228,
         "Skinning": 235
       },
       "race": "High Order Skyborne",
@@ -25384,23 +25384,24 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 20,
+        "critters": 31,
         "deaths": 58,
         "drinks": 17,
-        "flights": 62,
-        "food": 15,
+        "flights": 63,
+        "food": 19,
         "health_potions": 24,
-        "hearths": 40,
-        "killing_blows": 2318,
+        "hearths": 41,
+        "killing_blows": 2425,
         "mana_potions": 4,
-        "mobs": 3947,
+        "mobs": 4191,
         "quests": 339
       },
-      "xp": 977
+      "xp": 23919
     },
     "us:devil-latterday": {
       "achievements": {
         "61989": "Novice Hunter",
+        "627": "Explore Dun Morogh",
         "776": "Explore Elwynn Forest",
         "780": "Explore Redridge Mountains",
         "841": "Explore Wetlands",
@@ -25512,15 +25513,19 @@
           "name": "Butcher's Slicer",
           "quality": "RARE"
         },
+        "7756": {
+          "name": "Dog Training Gloves",
+          "quality": "RARE"
+        },
         "9624": {
           "name": "Triprunner Dungarees",
           "quality": "RARE"
         }
       },
       "ilvl": 23,
-      "last_explored": "Wetlands",
-      "last_login": 1795681547000,
-      "level": 32,
+      "last_explored": "Dun Morogh",
+      "last_login": 1795762178000,
+      "level": 33,
       "level_at": {
         "18": 1795149590,
         "20": 1795151747,
@@ -25530,7 +25535,8 @@
         "28": 1795488057,
         "29": 1795501493,
         "30": 1795584444,
-        "32": 1795675630
+        "32": 1795675630,
+        "33": 1795762612
       },
       "professions": {
         "Cooking": 96,
@@ -25543,6 +25549,14 @@
       "raids": {},
       "recipes": {
         "Cooking": [
+          {
+            "id": 1871,
+            "name": "Crocolisk Steak"
+          },
+          {
+            "id": 1872,
+            "name": "Blood Sausage"
+          },
           {
             "id": 1873,
             "name": "Murloc Fin Soup"
@@ -25568,12 +25582,20 @@
             "name": "Coyote Steak"
           },
           {
+            "id": 1539,
+            "name": "Goretusk Liver Pie"
+          },
+          {
             "id": 1540,
             "name": "Westfall Stew"
           },
           {
             "id": 1543,
             "name": "Crab Cake"
+          },
+          {
+            "id": 1544,
+            "name": "Cooked Crab Claw"
           },
           {
             "id": 1545,
@@ -25625,6 +25647,10 @@
           }
         ],
         "First Aid": [
+          {
+            "id": 4414,
+            "name": "Silk Bandage"
+          },
           {
             "id": 4417,
             "name": "Anti-Venom"
@@ -25714,6 +25740,10 @@
             "name": "Medium Armor Kit"
           },
           {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
             "id": 1369,
             "name": "Gray Leather Boots"
           },
@@ -25774,8 +25804,20 @@
             "name": "Black Whelp Cloak"
           },
           {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
           },
           {
             "id": 2195,
@@ -25802,8 +25844,16 @@
             "name": "Fine Leather Pants"
           },
           {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
             "id": 52647,
             "name": "Camp Tent"
+          },
+          {
+            "id": 55173,
+            "name": "Totemic Leather Pants"
           },
           {
             "id": 55184,
@@ -25858,7 +25908,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 15803,
+          "raw": 15853,
           "tier": 5
         },
         "Gadgetzan": {
@@ -25868,12 +25918,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 6912,
+          "raw": 7162,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8051,
+          "raw": 8101,
           "tier": 4
         },
         "Kirin Tor": {
@@ -25888,26 +25938,26 @@
         },
         "Stormwind": {
           "name": "Friendly",
-          "raw": 8695,
+          "raw": 8995,
           "tier": 4
         }
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 117,
+        "critters": 127,
         "deaths": 37,
-        "drinks": 16,
-        "flights": 30,
-        "food": 48,
+        "drinks": 21,
+        "flights": 31,
+        "food": 52,
         "health_potions": 14,
         "hearths": 13,
         "honorable_kills": 108,
-        "killing_blows": 2547,
+        "killing_blows": 2622,
         "mana_potions": 1,
-        "mobs": 3973,
-        "quests": 243
+        "mobs": 4214,
+        "quests": 251
       },
-      "xp": 24211
+      "xp": 4297
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -26513,9 +26563,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 6686,
+        "id": 274291,
         "ilvl": null,
-        "name": "Tusken Helm",
+        "name": "Polished Skullcap",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -26580,6 +26630,10 @@
       "dungeons": {},
       "first_seen": 1794965196,
       "gear": {
+        "10329": {
+          "name": "Scarlet Belt",
+          "quality": "RARE"
+        },
         "250528": {
           "name": "Veteran's Silvered Chain Helm",
           "quality": "RARE"
@@ -26624,6 +26678,10 @@
           "name": "Quillord Mail Leggings",
           "quality": "RARE"
         },
+        "274291": {
+          "name": "Polished Skullcap",
+          "quality": "RARE"
+        },
         "274292": {
           "name": "Houndmaster Boomerang",
           "quality": "RARE"
@@ -26638,6 +26696,10 @@
         },
         "2933": {
           "name": "Seal of Wrynn",
+          "quality": "RARE"
+        },
+        "3456": {
+          "name": "Dog Whistle",
           "quality": "RARE"
         },
         "6087": {
@@ -26691,8 +26753,8 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795730327000,
-      "level": 37,
+      "last_login": 1795762056000,
+      "level": 38,
       "level_at": {
         "31": 1794965196,
         "32": 1795061895,
@@ -26700,14 +26762,15 @@
         "34": 1795419090,
         "35": 1795472783,
         "36": 1795524934,
-        "37": 1795663859
+        "37": 1795663859,
+        "38": 1795762612
       },
       "professions": {
         "Blacksmithing": 169,
         "Cooking": 300,
         "First Aid": 216,
         "Fishing": 227,
-        "Mining": 242
+        "Mining": 243
       },
       "race": "Night Elf",
       "raids": {},
@@ -26966,6 +27029,10 @@
             "name": "Veteran's Silvered Chain Helm"
           },
           {
+            "id": 54748,
+            "name": "Hard Gold Leggings"
+          },
+          {
             "id": 54768,
             "name": "Officer's Belt"
           },
@@ -27219,27 +27286,32 @@
         },
         "Azeroth Commerce Authority": {
           "name": "Neutral",
-          "raw": 2225,
+          "raw": 2350,
           "tier": 3
+        },
+        "Bloodsail Buccaneers": {
+          "name": "Hated",
+          "raw": -7275,
+          "tier": 0
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 943,
+          "raw": 1094,
           "tier": 3
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 17581,
+          "raw": 17668,
           "tier": 5
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 943,
+          "raw": 1018,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1043,
+          "raw": 1118,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -27249,12 +27321,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 8016,
+          "raw": 8103,
           "tier": 4
         },
         "Ironforge": {
           "name": "Honored",
-          "raw": 9015,
+          "raw": 9102,
           "tier": 5
         },
         "Kirin Tor": {
@@ -27269,35 +27341,35 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 943,
+          "raw": 1018,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1386,
+          "raw": 1461,
           "tier": 3
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10580,
+          "raw": 10930,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 188,
+        "critters": 199,
         "deaths": 31,
         "drinks": 2,
-        "flights": 150,
-        "food": 196,
-        "health_potions": 45,
-        "hearths": 89,
+        "flights": 159,
+        "food": 213,
+        "health_potions": 46,
+        "hearths": 93,
         "honorable_kills": 2,
-        "killing_blows": 3179,
-        "mobs": 7505,
-        "quests": 347
+        "killing_blows": 3350,
+        "mobs": 7926,
+        "quests": 358
       },
-      "xp": 56552
+      "xp": 56809
     },
     "us:whizz-aard": {
       "achievements": {
@@ -28097,6 +28169,20 @@
           "level": 36
         }
       },
+      "us:devil-latterday": {
+        "c": {
+          "name": "devil",
+          "region": "us",
+          "surname": "latterday"
+        },
+        "lines": [
+          "🎖️ [Erkundet Dun Morogh](https://www.wowhead.com/forever/de/achievement=627)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 33
+        }
+      },
       "us:steel-appeal": {
         "c": {
           "name": "steel",
@@ -28544,6 +28630,7 @@
     "Divine Strength": "Göttliche Stärke",
     "Dodge": "Ausweichen",
     "Dog Training Gloves": "Handschuhe zur Hundeausbildung",
+    "Dog Whistle": "Hundepfeife",
     "Dokebi Bracers": "Dokebi-Armschienen",
     "Double-Stitched Woolen Shoulders": "Doppelt genähte Wollschultern",
     "Double-layered Gloves": "Doppellagige Handschuhe",
@@ -29005,6 +29092,7 @@
     "Jacinth Circle of the Beast": "Hyazinth-Reif der Bestie",
     "Jagged Dagger": "Gezackter Dolch",
     "Jarkal's Enhancing Necklace": "Jarkals intensivierende Halskette",
+    "Jet Chain of the Monkey": "Jettkette des Affen",
     "Jewel of the Guard Captain": "Juwel des Wachbefehlshabers",
     "Jinxed Hoodoo Kilt": "Verwunschener Hoodookilt",
     "Journeyman's Vest": "Gesellenweste",
@@ -29235,6 +29323,7 @@
     "Pointed Axe": "Spitze Axt",
     "Poison": "Gift",
     "Polearm": "Stangenwaffe",
+    "Polished Skullcap": "Polierte Schädelkappe",
     "Ponderous Orb": "Schwerfällige Kugel",
     "Poor": "Schlecht",
     "Precision": "Präzision",
@@ -29608,6 +29697,7 @@
     "Subtlety": "Feingefühl",
     "Summon Felsteed": "Teufelsross beschwören",
     "Summon Hawk": "Falke beschwören",
+    "Summon Tracking Hound": "Fährtenleserhund beschwören",
     "Summon Warhorse": "Schlachtross beschwören",
     "Summoner's Wand": "Zauberstab des Beschwörers",
     "Summons accepted": "Beschwörungen angenommen",
@@ -31005,7 +31095,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795762044,
+  "saved_at": 1795762613,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
