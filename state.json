@@ -17448,7 +17448,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795731055000,
+      "last_login": 1795740433000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -22236,6 +22236,161 @@
       },
       "xp": 10743
     },
+    "eu:senor-nefando": {
+      "achievements": {
+        "769": "Explore Silverpine Forest"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/197/73163717-avatar.jpg",
+      "best_item": {
+        "id": 2977,
+        "ilvl": null,
+        "name": "Veteran Armor",
+        "quality": "UNCOMMON",
+        "slot": "Chest"
+      },
+      "boss_kills": {},
+      "class": "Paladin",
+      "dungeons": {},
+      "first_seen": 1795740863,
+      "gear": {},
+      "ilvl": null,
+      "last_explored": "Silverpine Forest",
+      "last_login": 1795740199000,
+      "level": 13,
+      "level_at": {
+        "13": 1795740863
+      },
+      "professions": {
+        "Cooking": 28,
+        "Engineering": 45,
+        "First Aid": 10,
+        "Fishing": 1,
+        "Mining": 39
+      },
+      "race": "Undead",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "Engineering": [
+          {
+            "id": 2413,
+            "name": "Rough Blasting Powder"
+          },
+          {
+            "id": 2414,
+            "name": "Rough Dynamite"
+          },
+          {
+            "id": 2415,
+            "name": "Crafted Light Shot"
+          },
+          {
+            "id": 52650,
+            "name": "Reagent Bot"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 1569,
+            "name": "Mining"
+          },
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          }
+        ]
+      },
+      "reputations": {
+        "Argent Dawn": {
+          "name": "Neutral",
+          "raw": 950,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Neutral",
+          "raw": 2600,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Neutral",
+          "raw": 2656,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 600,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Neutral",
+          "raw": 656,
+          "tier": 3
+        },
+        "Undercity": {
+          "name": "Friendly",
+          "raw": 6812,
+          "tier": 4
+        }
+      },
+      "spec": "Holy",
+      "stats": {
+        "critters": 2,
+        "deaths": 11,
+        "killing_blows": 463,
+        "mobs": 670,
+        "quests": 50
+      },
+      "xp": 2386
+    },
     "eu:sorayha-avalon": {
       "achievements": {
         "736": "Explore Mulgore"
@@ -24998,7 +25153,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795735867000,
+      "last_login": 1795740285000,
       "level": 36,
       "level_at": {
         "29": 1795218860,
@@ -28048,6 +28203,7 @@
     "Bloodsnout Striker": "Blutschnauzenschläger",
     "Bloodspattered Gloves of Magic": "Blutbespritzte Handschuhe der Magie",
     "Bloodspattered Gloves of the Boar": "Blutbespritzte Handschuhe des Ebers",
+    "Bloodspattered Gloves of the Eagle": "Blutbespritzte Handschuhe des Adlers",
     "Bloodspattered Shield of Nature Protection": "Blutbespritzter Schild des Naturschutzes",
     "Bloodspattered Surcoat of Frost Protection": "Blutbespritzter Übermantel des Frostschutzes",
     "Bloodspiller": "Blutvergießer",
@@ -28188,7 +28344,9 @@
     "Conviction": "Überzeugung",
     "Cooking Recipes known": "Bekannte Kochrezepte",
     "Cooking skill": "Kochfertigkeit",
+    "Copper Bracers": "Kupferarmschienen",
     "Copper Chain Belt": "Kupferner Kettengürtel",
+    "Copper Chain Pants": "Kupferne Kettenhose",
     "Copper Mace": "Kupferstreitkolben",
     "Coral Band of the Boar": "Korallenband des Ebers",
     "Corpsefeeder's Shedding": "Abgestoßene Haut des Leichenfressers",
@@ -28591,6 +28749,7 @@
     "Hand of Righteousness": "Hand der Rechtschaffenheit",
     "Hands": "Hände",
     "Hands of the Exalted Herald": "Hände des erhabenen Herolds",
+    "Handsewn Cloak": "Handgenähter Umhang",
     "Handstitched Leather Belt": "Handgenähter Ledergürtel",
     "Handstitched Leather Boots": "Handgenähte Lederstiefel",
     "Handstitched Leather Bracers": "Handgenähte Armschienen",
@@ -29315,6 +29474,7 @@
     "Spidersilk Boots": "Spinnenseidenstiefel",
     "Spidertank Oilrag": "Spinnenpanzeröllappen",
     "Spiked Chain Shoulder Pads of the Defender": "Stachelkettenschulterpolster des Verteidigers",
+    "Spiked Club of Agility": "Stachelkeule der Beweglichkeit",
     "Spiked Shell": "Stachelpanzerschale",
     "Spiked Shell Band": "Stachelpanzerschalenring",
     "Spikes": "Stacheln",
@@ -29498,6 +29658,7 @@
     "Veteran Adventurer's Loyal Companion": "Treuer Gefährte des Abenteuerveteranen",
     "Veteran Adventurer's Rucksack": "Rucksack des Abenteuerveteranen",
     "Veteran Adventurer's Shoulderpads": "Schulterpolster des erfahrenen Abenteurers",
+    "Veteran Armor": "Veteranen-Rüstung",
     "Veteran's Chain Helm": "Kettenhelm des Veteranen",
     "Veteran's Silvered Chain Helm": "Versilberter Kettenhelm des Veteranen",
     "Veteran's Silvered Chain Shirt": "Versilbertes Kettenhemd des Veteranen",
@@ -29531,6 +29692,7 @@
     "War Paint Chestpiece": "Kriegsbemalungsbrustharnisch",
     "War Paint Cloak": "Kriegsbemalungsumhang",
     "War Paint Legguards": "Kriegsbemalungsbeinschützer",
+    "War Torn Greaves": "Gebrauchter Schienbeinschützer",
     "War Torn Pants of the Tiger": "Gebrauchte Hose des Tigers",
     "Ward of Zum'rah": "Zauberschutz von Zum'rah",
     "Ward of the Vale": "Schutzschild des Tales",
@@ -29992,6 +30154,9 @@
       "mounts": {}
     },
     "eu:redbully-badbully": {
+      "mounts": {}
+    },
+    "eu:senor-nefando": {
       "mounts": {}
     },
     "eu:sorayha-avalon": {
@@ -30748,7 +30913,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795739725,
+  "saved_at": 1795740865,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -32872,6 +33037,35 @@
           "quests": 229
         },
         "xp": 22848
+      },
+      "eu:senor-nefando": {
+        "achievements": 1,
+        "clears": {},
+        "epics": [],
+        "level": 13,
+        "professions": {
+          "Cooking": 28,
+          "Engineering": 45,
+          "First Aid": 10,
+          "Fishing": 1,
+          "Mining": 39
+        },
+        "rep": {
+          "Argent Dawn": 950,
+          "Darkspear Trolls": 2600,
+          "Orgrimmar": 2656,
+          "Ratchet": 600,
+          "Thunder Bluff": 656,
+          "Undercity": 6812
+        },
+        "stats": {
+          "critters": 2,
+          "deaths": 11,
+          "killing_blows": 463,
+          "mobs": 670,
+          "quests": 50
+        },
+        "xp": 2386
       },
       "eu:sorayha-avalon": {
         "achievements": 1,
