@@ -335,7 +335,7 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795784942000,
+      "last_login": 1795821312000,
       "level": 35,
       "level_at": {
         "26": 1794866470,
@@ -352,7 +352,7 @@
       "professions": {
         "Blacksmithing": 174,
         "Cooking": 12,
-        "Mining": 193
+        "Mining": 204
       },
       "race": "Undead",
       "raids": {},
@@ -717,7 +717,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6138,
+          "raw": 6463,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -742,7 +742,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6457,
+          "raw": 6682,
           "tier": 4
         },
         "Powderfuse": {
@@ -755,33 +755,38 @@
           "raw": 950,
           "tier": 3
         },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6290,
+          "raw": 6390,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19207,
+          "raw": 19307,
           "tier": 5
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 56,
-        "deaths": 28,
-        "drinks": 83,
+        "critters": 57,
+        "deaths": 29,
+        "drinks": 85,
         "flights": 57,
         "food": 7,
-        "health_potions": 21,
+        "health_potions": 22,
         "hearths": 27,
         "honorable_kills": 6,
-        "killing_blows": 2188,
-        "mana_potions": 3,
-        "mobs": 4989,
-        "quests": 269
+        "killing_blows": 2362,
+        "mana_potions": 5,
+        "mobs": 5206,
+        "quests": 277
       },
-      "xp": 541
+      "xp": 54904
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -14585,7 +14590,7 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795816922000,
+      "last_login": 1795821442000,
       "level": 36,
       "level_at": {
         "27": 1794866470,
@@ -14839,7 +14844,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11535,
+          "raw": 11566,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14874,7 +14879,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14822,
+          "raw": 14947,
           "tier": 5
         },
         "Powderfuse": {
@@ -14889,12 +14894,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10430,
+          "raw": 10461,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5690,
+          "raw": 5721,
           "tier": 4
         }
       },
@@ -14902,17 +14907,17 @@
       "stats": {
         "critters": 32,
         "deaths": 20,
-        "drinks": 909,
+        "drinks": 916,
         "flights": 82,
-        "food": 368,
+        "food": 374,
         "health_potions": 10,
         "hearths": 34,
-        "killing_blows": 2380,
+        "killing_blows": 2406,
         "mana_potions": 7,
-        "mobs": 4487,
-        "quests": 259
+        "mobs": 4512,
+        "quests": 262
       },
-      "xp": 31022
+      "xp": 41929
     },
     "eu:klebrige-finger": {
       "achievements": {
@@ -32306,7 +32311,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795821219,
+  "saved_at": 1795821905,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
