@@ -14229,8 +14229,8 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795690309000,
-      "level": 35,
+      "last_login": 1795741669000,
+      "level": 36,
       "level_at": {
         "27": 1794866470,
         "28": 1795022064,
@@ -14240,13 +14240,14 @@
         "32": 1795394361,
         "33": 1795517658,
         "34": 1795569430,
-        "35": 1795690475
+        "35": 1795690475,
+        "36": 1795742253
       },
       "professions": {
         "Cooking": 27,
         "Enchanting": 55,
         "Fishing": 18,
-        "Tailoring": 120
+        "Tailoring": 140
       },
       "race": "Orc",
       "raids": {},
@@ -14331,6 +14332,10 @@
             "name": "Simple Linen Pants"
           },
           {
+            "id": 2405,
+            "name": "Formal White Shirt"
+          },
+          {
             "id": 2408,
             "name": "Brown Linen Pants"
           },
@@ -14341,6 +14346,10 @@
           {
             "id": 4848,
             "name": "Linen Belt"
+          },
+          {
+            "id": 4850,
+            "name": "Azure Silk Hood"
           },
           {
             "id": 2359,
@@ -14474,7 +14483,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11228,
+          "raw": 11510,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14509,7 +14518,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14372,
+          "raw": 14722,
           "tier": 5
         },
         "Powderfuse": {
@@ -14524,30 +14533,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10273,
+          "raw": 10405,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5458,
+          "raw": 5665,
           "tier": 4
         }
       },
       "spec": "Arcane",
       "stats": {
-        "critters": 25,
-        "deaths": 17,
-        "drinks": 853,
-        "flights": 81,
-        "food": 325,
-        "health_potions": 9,
-        "hearths": 31,
-        "killing_blows": 2209,
+        "critters": 32,
+        "deaths": 20,
+        "drinks": 879,
+        "flights": 82,
+        "food": 346,
+        "health_potions": 10,
+        "hearths": 32,
+        "killing_blows": 2284,
         "mana_potions": 6,
-        "mobs": 4254,
-        "quests": 249
+        "mobs": 4376,
+        "quests": 257
       },
-      "xp": 29055
+      "xp": 1991
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -25044,6 +25053,7 @@
     "us:aeri-moonglow": {
       "achievements": {
         "61502": "Novice Druid",
+        "62024": "Journeyman Leatherworker",
         "841": "Explore Wetlands",
         "842": "Explore Teldrassil",
         "844": "Explore Darkshore",
@@ -25153,7 +25163,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795740285000,
+      "last_login": 1795741478000,
       "level": 36,
       "level_at": {
         "29": 1795218860,
@@ -28007,6 +28017,20 @@
           "level": 14
         }
       },
+      "us:aeri-moonglow": {
+        "c": {
+          "name": "aeri",
+          "region": "us",
+          "surname": "moonglow"
+        },
+        "lines": [
+          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 36
+        }
+      },
       "us:steel-appeal": {
         "c": {
           "name": "steel",
@@ -28066,6 +28090,7 @@
     "Arcane Blast": "Arkanschlag",
     "Arcane Concentration": "Arkane Konzentration",
     "Arcane Impact": "Arkaner Einschlag",
+    "Arcane Instability": "Arkane Instabilität",
     "Arcane Meditation": "Arkane Meditation",
     "Arcane Mind": "Arkaner Geist",
     "Arcane Resistance": "Arkanwiderstand",
@@ -28658,6 +28683,7 @@
     "Forest Leather Mantle": "Waldledermantel",
     "Forest Pendant of the Hierophant": "Waldanhänger des Hierophanten",
     "Forest Troll Leggings": "Waldtrollgamaschen",
+    "Formal White Shirt": "Formelles weißes Hemd",
     "Forsaken Bastard Sword": "Bastardschwert der Verlassenen",
     "Forsaken Dagger": "Dolch der Verlassenen",
     "Forsaken Greataxe": "Großaxt des Verlassenen",
@@ -30913,7 +30939,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795740865,
+  "saved_at": 1795742255,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
