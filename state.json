@@ -23382,7 +23382,7 @@
       "boss_kills": {
         "1092": {
           "boss": "Archmage Arugal",
-          "count": 5,
+          "count": 14,
           "instance": "Shadowfang Keep"
         },
         "1093": {
@@ -23521,14 +23521,15 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795730349000,
-      "level": 43,
+      "last_login": 1795768571000,
+      "level": 44,
       "level_at": {
         "38": 1795221303,
         "40": 1795287308,
         "41": 1795609365,
         "42": 1795638305,
-        "43": 1795698943
+        "43": 1795698943,
+        "44": 1795768974
       },
       "professions": {
         "Cooking": 217,
@@ -23984,6 +23985,10 @@
             "name": "Mystic Medium Armor Kit"
           },
           {
+            "id": 55197,
+            "name": "Brawler's Leather Armor"
+          },
+          {
             "id": 55204,
             "name": "Moonglow Boots"
           },
@@ -24102,7 +24107,7 @@
         },
         "Windshapers": {
           "name": "Friendly",
-          "raw": 6010,
+          "raw": 6035,
           "tier": 4
         }
       },
@@ -24111,16 +24116,16 @@
         "critters": 72,
         "deaths": 19,
         "drinks": 26,
-        "flights": 162,
+        "flights": 165,
         "food": 108,
         "health_potions": 19,
-        "hearths": 43,
-        "killing_blows": 4279,
+        "hearths": 47,
+        "killing_blows": 4554,
         "mana_potions": 3,
-        "mobs": 7188,
-        "quests": 521
+        "mobs": 7463,
+        "quests": 523
       },
-      "xp": 104011
+      "xp": 868
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -28356,6 +28361,20 @@
           "level": 38
         }
       },
+      "eu:thalia-mondrabe": {
+        "c": {
+          "name": "Thalia",
+          "region": "eu",
+          "surname": "Mondrabe"
+        },
+        "lines": [
+          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 44
+        }
+      },
       "eu:zugzug-graufuss": {
         "c": {
           "name": "Zugzug",
@@ -30575,6 +30594,7 @@
     },
     "eu:thalia-mondrabe": {
       "mounts": {
+        "2958": "Stormy Galestrider",
         "3111": "Cerulean Prideclaw",
         "3130": "Veteran Adventurer's Loyal Companion"
       }
@@ -31322,7 +31342,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795768343,
+  "saved_at": 1795768976,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
