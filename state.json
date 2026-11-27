@@ -25567,7 +25567,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795804548000,
+      "last_login": 1795804782000,
       "level": 36,
       "level_at": {
         "29": 1795218860,
@@ -25668,6 +25668,11 @@
         "Booty Bay": {
           "name": "Neutral",
           "raw": 500,
+          "tier": 3
+        },
+        "Brotherhood of the Horse": {
+          "name": "Neutral",
+          "raw": 1,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -31643,7 +31648,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795804808,
+  "saved_at": 1795805697,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
