@@ -19368,7 +19368,7 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795726530000,
+      "last_login": 1795774897000,
       "level": 27,
       "level_at": {
         "15": 1794866470,
@@ -19388,7 +19388,7 @@
         "First Aid": 46,
         "Fishing": 87,
         "Leatherworking": 39,
-        "Skinning": 155
+        "Skinning": 158
       },
       "race": "Orc",
       "raids": {},
@@ -19528,7 +19528,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9506,
+          "raw": 9618,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -19548,7 +19548,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 13557,
+          "raw": 13745,
           "tier": 5
         },
         "Powderfuse": {
@@ -19563,29 +19563,29 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6963,
+          "raw": 7338,
           "tier": 4
         },
         "Undercity": {
-          "name": "Neutral",
-          "raw": 2986,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3098,
+          "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 43,
-        "deaths": 18,
-        "drinks": 49,
-        "flights": 39,
+        "deaths": 19,
+        "drinks": 55,
+        "flights": 40,
         "food": 41,
-        "health_potions": 13,
+        "health_potions": 14,
         "hearths": 13,
-        "killing_blows": 1497,
-        "mobs": 1697,
-        "quests": 198
+        "killing_blows": 1542,
+        "mobs": 1760,
+        "quests": 203
       },
-      "xp": 258
+      "xp": 19828
     },
     "eu:palad%C3%ADrne-mageshard": {
       "achievements": {
@@ -31362,7 +31362,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795774544,
+  "saved_at": 1795775171,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
