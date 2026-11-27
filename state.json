@@ -2932,9 +2932,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/86/5697366-avatar.jpg",
       "best_item": {
-        "id": 9479,
+        "id": 9534,
         "ilvl": null,
-        "name": "Embrace of the Lycan",
+        "name": "Engineer's Guild Headpiece",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -3006,7 +3006,7 @@
         },
         "6145": {
           "boss": "Overlord Wyrmthalak",
-          "count": 1,
+          "count": 2,
           "instance": "Lower Blackrock Spire"
         },
         "63570": {
@@ -3064,6 +3064,10 @@
           "name": "Burst of Knowledge",
           "quality": "RARE"
         },
+        "11841": {
+          "name": "Senior Designer's Pantaloons",
+          "quality": "RARE"
+        },
         "11932": {
           "name": "Guiding Stave of Wisdom",
           "quality": "RARE"
@@ -3080,6 +3084,10 @@
           "name": "Sandals of the Insurgent",
           "quality": "RARE"
         },
+        "13184": {
+          "name": "Fallbrush Handgrips",
+          "quality": "RARE"
+        },
         "13203": {
           "name": "Armswake Cloak",
           "quality": "RARE"
@@ -3094,6 +3102,10 @@
         },
         "18083": {
           "name": "Jumanza Grips",
+          "quality": "RARE"
+        },
+        "18327": {
+          "name": "Whipvine Cord",
           "quality": "RARE"
         },
         "22204": {
@@ -3187,8 +3199,8 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795785260000,
-      "level": 56,
+      "last_login": 1795807927000,
+      "level": 57,
       "level_at": {
         "38": 1794866470,
         "41": 1794886176,
@@ -3202,7 +3214,8 @@
         "51": 1795456456,
         "52": 1795488057,
         "54": 1795539292,
-        "56": 1795571036
+        "56": 1795571036,
+        "57": 1795808394
       },
       "professions": {
         "Cooking": 193,
@@ -3714,7 +3727,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7643,
+          "raw": 7718,
           "tier": 4
         },
         "Earthen Ring": {
@@ -3739,7 +3752,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9147,
+          "raw": 9447,
           "tier": 5
         },
         "Powderfuse": {
@@ -3759,7 +3772,7 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10530,
+          "raw": 10605,
           "tier": 5
         },
         "Timbermaw Hold": {
@@ -3769,7 +3782,7 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8416,
+          "raw": 8491,
           "tier": 4
         },
         "Windshapers": {
@@ -3780,19 +3793,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 234,
-        "deaths": 51,
-        "drinks": 796,
-        "flights": 117,
-        "food": 190,
+        "critters": 254,
+        "deaths": 55,
+        "drinks": 826,
+        "flights": 118,
+        "food": 201,
         "health_potions": 57,
-        "hearths": 39,
-        "killing_blows": 3645,
-        "mana_potions": 29,
-        "mobs": 16014,
-        "quests": 565
+        "hearths": 41,
+        "killing_blows": 3686,
+        "mana_potions": 31,
+        "mobs": 16809,
+        "quests": 569
       },
-      "xp": 62439
+      "xp": 41761
     },
     "eu:beast-eye": {
       "achievements": {
@@ -17786,7 +17799,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795740433000,
+      "last_login": 1795808258000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -25294,19 +25307,20 @@
       },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795803017000,
-      "level": 17,
+      "last_login": 1795807523000,
+      "level": 18,
       "level_at": {
         "13": 1795719303,
         "14": 1795725596,
         "15": 1795783387,
-        "17": 1795804170
+        "17": 1795804170,
+        "18": 1795808394
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 73,
         "Mining": 24,
-        "Skinning": 132
+        "Skinning": 134
       },
       "race": "Orc",
       "raids": {},
@@ -25379,47 +25393,47 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1287,
+          "raw": 1330,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7897,
+          "raw": 7960,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1287,
+          "raw": 1330,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1287,
+          "raw": 1330,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10441,
+          "raw": 10616,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1287,
+          "raw": 1330,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2475,
+          "raw": 2560,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3960,
+          "raw": 4022,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1258,
+          "raw": 1321,
           "tier": 3
         }
       },
@@ -25428,13 +25442,13 @@
         "deaths": 1,
         "flights": 11,
         "food": 12,
-        "health_potions": 5,
+        "health_potions": 6,
         "hearths": 6,
-        "killing_blows": 581,
-        "mobs": 837,
-        "quests": 106
+        "killing_blows": 601,
+        "mobs": 857,
+        "quests": 108
       },
-      "xp": 17539
+      "xp": 3979
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28984,6 +28998,7 @@
     "Armswake Cloak": "Armswake-Umhang",
     "Arrow": "Pfeil",
     "Assassination": "Meucheln",
+    "Astoria Robes": "Astoria-Roben",
     "Attack Power": "Angriffskraft",
     "Attack Power Vs Beasts": "Angriffskraft gegen Wildtiere",
     "Attack Power Vs Elementals": "Angriffskraft gegen Elementare",
@@ -29492,6 +29507,7 @@
     "Exploding Shot": "Explosivgeschoss",
     "Eye of the Storm": "Auge des Sturms",
     "Fade": "Verblassen",
+    "Fallbrush Handgrips": "Kristallnietenhandschutz",
     "Fallen Dragon's Scepter": "Szepter des gefallenen Drachen",
     "Fallen Guard's Pendant": "Anhänger des gefallenen Wächters",
     "Fallenroot Longbow": "Langbogen der Leidbringer",
@@ -30136,7 +30152,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -30290,6 +30306,7 @@
     "Secondary skills at maximum skill": "Sekundäre Fertigkeiten auf maximaler Stufe",
     "Seedcloud Buckler": "Samenwolken-Rundschild",
     "Seer's Boots": "Seherstiefel",
+    "Senior Designer's Pantaloons": "Pantalons des leitenden Designers",
     "Sentinel Boots of the Elder": "Schildwachenstiefel des Ältesten",
     "Sentinel Boots of the Tiger": "Schildwachenstiefel des Tigers",
     "Sentinel Cloak of the Knight": "Schildwachenumhang des Ritters",
@@ -30671,6 +30688,7 @@
     "Weighted Throwing Axe": "Beschwerte Wurfaxt",
     "Welken Ring": "Welkenring",
     "Whelpscale Necklace": "Welpenschuppenhalskette",
+    "Whipvine Cord": "Peitschenrankenschnur",
     "Whitemane's Chapeau": "Whitemanes Zylinder",
     "Wicked Chain Cloak of the Monkey": "Tückischer Kettenumhang des Affen",
     "Wild Growth": "Wildwuchs",
@@ -31902,7 +31920,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795807492,
+  "saved_at": 1795808399,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
