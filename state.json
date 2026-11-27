@@ -3199,7 +3199,7 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795807927000,
+      "last_login": 1795812171000,
       "level": 57,
       "level_at": {
         "38": 1794866470,
@@ -3221,7 +3221,7 @@
         "Cooking": 193,
         "First Aid": 1,
         "Fishing": 30,
-        "Leatherworking": 165,
+        "Leatherworking": 193,
         "Skinning": 300
       },
       "race": "Windshaper Skyborne",
@@ -18748,8 +18748,16 @@
           "name": "Kresh's Back",
           "quality": "RARE"
         },
+        "250509": {
+          "name": "Guard's Gloves",
+          "quality": "RARE"
+        },
         "250514": {
           "name": "Guard's Chain Belt",
+          "quality": "RARE"
+        },
+        "250519": {
+          "name": "Guard's Silvered Chain Shirt",
           "quality": "RARE"
         },
         "250528": {
@@ -18763,7 +18771,7 @@
       },
       "ilvl": 20,
       "last_explored": null,
-      "last_login": 1795724923000,
+      "last_login": 1795812043000,
       "level": 28,
       "level_at": {
         "24": 1794866470,
@@ -18773,7 +18781,7 @@
         "28": 1795725596
       },
       "professions": {
-        "Blacksmithing": 107,
+        "Blacksmithing": 111,
         "Cooking": 34,
         "First Aid": 54,
         "Fishing": 23,
@@ -18842,6 +18850,10 @@
           {
             "id": 1864,
             "name": "Silvered Bronze Boots"
+          },
+          {
+            "id": 1865,
+            "name": "Silvered Bronze Gauntlets"
           },
           {
             "id": 1868,
@@ -18952,6 +18964,10 @@
             "name": "Bronze Greatsword"
           },
           {
+            "id": 5341,
+            "name": "Bronze Battle Axe"
+          },
+          {
             "id": 4285,
             "name": "Heavy Copper Maul"
           },
@@ -18976,8 +18992,16 @@
             "name": "Protector's Chain Shirt"
           },
           {
+            "id": 54721,
+            "name": "Guard's Gloves"
+          },
+          {
             "id": 54726,
             "name": "Guard's Chain Belt"
+          },
+          {
+            "id": 54731,
+            "name": "Guard's Silvered Chain Shirt"
           },
           {
             "id": 54740,
@@ -19086,7 +19110,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4120,
+          "raw": 4220,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -19106,7 +19130,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6445,
+          "raw": 6695,
           "tier": 4
         },
         "Powderfuse": {
@@ -19121,12 +19145,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4323,
+          "raw": 4573,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 9486,
+          "raw": 9586,
           "tier": 5
         }
       },
@@ -19134,17 +19158,17 @@
       "stats": {
         "critters": 43,
         "deaths": 20,
-        "drinks": 35,
-        "flights": 58,
+        "drinks": 38,
+        "flights": 66,
         "food": 14,
-        "health_potions": 10,
-        "hearths": 31,
-        "killing_blows": 1819,
+        "health_potions": 11,
+        "hearths": 32,
+        "killing_blows": 1862,
         "mana_potions": 2,
-        "mobs": 2483,
-        "quests": 153
+        "mobs": 2526,
+        "quests": 157
       },
-      "xp": 158
+      "xp": 17386
     },
     "eu:mimisiku-meatshield": {
       "achievements": {
@@ -25814,7 +25838,7 @@
       },
       "ilvl": 31,
       "last_explored": "Wetlands",
-      "last_login": 1795804782000,
+      "last_login": 1795812204000,
       "level": 36,
       "level_at": {
         "29": 1795218860,
@@ -25828,7 +25852,7 @@
       },
       "professions": {
         "Cooking": 29,
-        "Herbalism": 228,
+        "Herbalism": 230,
         "Skinning": 235
       },
       "race": "High Order Skyborne",
@@ -25959,7 +25983,7 @@
         },
         "Kirin Tor": {
           "name": "Friendly",
-          "raw": 5422,
+          "raw": 5522,
           "tier": 4
         },
         "Nightclaw Druids": {
@@ -25993,16 +26017,16 @@
         "critters": 31,
         "deaths": 58,
         "drinks": 17,
-        "flights": 63,
+        "flights": 64,
         "food": 19,
         "health_potions": 24,
         "hearths": 41,
         "killing_blows": 2425,
         "mana_potions": 4,
         "mobs": 4191,
-        "quests": 339
+        "quests": 340
       },
-      "xp": 23919
+      "xp": 30669
     },
     "us:devil-latterday": {
       "achievements": {
@@ -29465,6 +29489,8 @@
     "Grunt's Belt of the Boar": "Grunzergürtel des Ebers",
     "Grunt's Handwraps of the Boar": "Grunzerhandlappen des Ebers",
     "Guard's Chain Belt": "Kettengürtel des Gardisten",
+    "Guard's Gloves": "Handschuhe des Gardisten",
+    "Guard's Silvered Chain Shirt": "Versilbertes Kettenhemd des Gardisten",
     "Guardian Pants": "Wächterhose",
     "Guiding Stave of Wisdom": "Führungsstock der Weisheit",
     "Guild Tabard": "Gildenwappenrock",
@@ -31714,7 +31740,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795811990,
+  "saved_at": 1795812944,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
