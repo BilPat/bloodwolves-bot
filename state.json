@@ -24233,6 +24233,10 @@
           "name": "Outlaw Sabre",
           "quality": "RARE"
         },
+        "19121": {
+          "name": "Deep Woodlands Cloak",
+          "quality": "RARE"
+        },
         "19509": {
           "name": "Dusty Mail Boots",
           "quality": "RARE"
@@ -24348,8 +24352,8 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795734969000,
-      "level": 48,
+      "last_login": 1795773388000,
+      "level": 49,
       "level_at": {
         "35": 1794866470,
         "36": 1794909306,
@@ -24363,14 +24367,15 @@
         "45": 1795443474,
         "46": 1795593290,
         "47": 1795696960,
-        "48": 1795735554
+        "48": 1795735554,
+        "49": 1795774540
       },
       "professions": {
         "Blacksmithing": 194,
         "Cooking": 300,
         "First Aid": 62,
         "Fishing": 160,
-        "Mining": 248
+        "Mining": 250
       },
       "race": "Undead",
       "raids": {},
@@ -24818,7 +24823,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9250,
+          "raw": -9750,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -24828,13 +24833,13 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3060,
+          "raw": 3160,
           "tier": 4
         },
         "Darkspear Trolls": {
-          "name": "Friendly",
-          "raw": 8892,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9042,
+          "tier": 5
         },
         "Durotar Supply and Logistics": {
           "name": "Neutral",
@@ -24848,12 +24853,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2705,
+          "raw": 2755,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2717,
+          "raw": 2767,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -24868,27 +24873,27 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9248,
+          "raw": 9398,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3767,
+          "raw": 3817,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3180,
+          "raw": 3230,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8188,
+          "raw": 8263,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 21956,
+          "raw": 22106,
           "tier": 6
         }
       },
@@ -24897,16 +24902,16 @@
         "critters": 117,
         "deaths": 64,
         "drinks": 43,
-        "flights": 122,
-        "food": 78,
+        "flights": 125,
+        "food": 79,
         "health_potions": 45,
         "hearths": 52,
-        "killing_blows": 3931,
+        "killing_blows": 4050,
         "mana_potions": 2,
-        "mobs": 9218,
-        "quests": 535
+        "mobs": 9365,
+        "quests": 543
       },
-      "xp": 99275
+      "xp": 23027
     },
     "eu:zugzug-graufuss": {
       "achievements": {
@@ -28375,6 +28380,20 @@
           "level": 44
         }
       },
+      "eu:vlad-impalar": {
+        "c": {
+          "name": "Vlad",
+          "region": "eu",
+          "surname": "Impalar"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Darkspear"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 49
+        }
+      },
       "eu:zugzug-graufuss": {
         "c": {
           "name": "Zugzug",
@@ -28821,6 +28840,7 @@
     "Deckhand's Shirt": "Deckmatrosenhemd",
     "Deep Fathom Ring": "Deepfathom-Ring",
     "Deep River Cloak": "Tiefenfluss-Umhang",
+    "Deep Woodlands Cloak": "Umhang des tiefen Waldlands",
     "Deep Wounds": "Tiefe Wunden",
     "Defender Cloak of Shadow Wrath": "Verteidigerumhang des Schattenzorns",
     "Defender Gauntlets of the Tiger": "Verteidigerstulpen des Tigers",
@@ -31342,7 +31362,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795773330,
+  "saved_at": 1795774544,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
