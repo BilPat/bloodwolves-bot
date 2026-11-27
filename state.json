@@ -23615,7 +23615,7 @@
       },
       "ilvl": 36,
       "last_explored": "Thousand Needles",
-      "last_login": 1795800056000,
+      "last_login": 1795803751000,
       "level": 44,
       "level_at": {
         "38": 1795221303,
@@ -23626,7 +23626,7 @@
         "44": 1795768974
       },
       "professions": {
-        "Cooking": 217,
+        "Cooking": 225,
         "First Aid": 34,
         "Fishing": 167,
         "Leatherworking": 176,
@@ -23739,6 +23739,10 @@
           {
             "id": 4786,
             "name": "Herb Baked Egg"
+          },
+          {
+            "id": 4204,
+            "name": "Giant Clam Scorcho"
           },
           {
             "id": 52640,
@@ -24214,16 +24218,16 @@
         "critters": 72,
         "deaths": 19,
         "drinks": 26,
-        "flights": 166,
+        "flights": 168,
         "food": 109,
         "health_potions": 19,
         "hearths": 47,
         "killing_blows": 4652,
         "mana_potions": 3,
         "mobs": 7669,
-        "quests": 532
+        "quests": 533
       },
-      "xp": 53066
+      "xp": 53296
     },
     "eu:vlad-impalar": {
       "achievements": {
@@ -25033,31 +25037,43 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/143632481-avatar.jpg",
       "best_item": {
-        "id": 5275,
+        "id": 272998,
         "ilvl": null,
-        "name": "Binding Girdle",
-        "quality": "UNCOMMON",
-        "slot": "Waist"
+        "name": "Bone Knuckles",
+        "quality": "RARE",
+        "slot": "Main Hand"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        }
+      },
       "class": "Rogue",
       "dungeons": {},
       "first_seen": 1795719303,
-      "gear": {},
+      "gear": {
+        "272998": {
+          "name": "Bone Knuckles",
+          "quality": "RARE"
+        }
+      },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795782828000,
-      "level": 15,
+      "last_login": 1795803017000,
+      "level": 17,
       "level_at": {
         "13": 1795719303,
         "14": 1795725596,
-        "15": 1795783387
+        "15": 1795783387,
+        "17": 1795804170
       },
       "professions": {
         "Cooking": 1,
-        "First Aid": 59,
-        "Mining": 23,
-        "Skinning": 116
+        "First Aid": 73,
+        "Mining": 24,
+        "Skinning": 132
       },
       "race": "Orc",
       "raids": {},
@@ -25130,61 +25146,62 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 1287,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7676,
+          "raw": 7897,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 1287,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 1287,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9713,
+          "raw": 10441,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 525,
+          "raw": 1287,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 950,
+          "raw": 2475,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3637,
+          "raw": 3960,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 981,
+          "raw": 1258,
           "tier": 3
         }
       },
       "spec": "Combat",
       "stats": {
-        "flights": 3,
-        "food": 10,
+        "deaths": 1,
+        "flights": 11,
+        "food": 12,
         "health_potions": 5,
-        "hearths": 3,
-        "killing_blows": 409,
-        "mobs": 505,
-        "quests": 76
+        "hearths": 6,
+        "killing_blows": 581,
+        "mobs": 837,
+        "quests": 106
       },
-      "xp": 1314
+      "xp": 17539
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -25865,7 +25882,7 @@
       },
       "ilvl": 23,
       "last_explored": "Dun Morogh",
-      "last_login": 1795796417000,
+      "last_login": 1795802168000,
       "level": 33,
       "level_at": {
         "18": 1795149590,
@@ -26285,20 +26302,20 @@
       },
       "spec": "Beast Mastery",
       "stats": {
-        "critters": 127,
+        "critters": 129,
         "deaths": 37,
-        "drinks": 21,
-        "flights": 31,
-        "food": 52,
+        "drinks": 34,
+        "flights": 32,
+        "food": 54,
         "health_potions": 14,
-        "hearths": 14,
+        "hearths": 15,
         "honorable_kills": 108,
-        "killing_blows": 2622,
+        "killing_blows": 2671,
         "mana_potions": 1,
-        "mobs": 4214,
+        "mobs": 4411,
         "quests": 251
       },
-      "xp": 4297
+      "xp": 22169
     },
     "us:pwanage-ownage": {
       "achievements": {
@@ -26905,9 +26922,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/15/5623311-avatar.jpg",
       "best_item": {
-        "id": 274291,
+        "id": 7719,
         "ilvl": null,
-        "name": "Polished Skullcap",
+        "name": "Raging Berserker's Helm",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -27098,6 +27115,10 @@
           "name": "Herod's Shoulder",
           "quality": "RARE"
         },
+        "7719": {
+          "name": "Raging Berserker's Helm",
+          "quality": "RARE"
+        },
         "9446": {
           "name": "Electrocutioner Leg",
           "quality": "RARE"
@@ -27113,8 +27134,8 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795788852000,
-      "level": 38,
+      "last_login": 1795802211000,
+      "level": 39,
       "level_at": {
         "31": 1794965196,
         "32": 1795061895,
@@ -27123,7 +27144,8 @@
         "35": 1795472783,
         "36": 1795524934,
         "37": 1795663859,
-        "38": 1795762612
+        "38": 1795762612,
+        "39": 1795804170
       },
       "professions": {
         "Blacksmithing": 169,
@@ -27383,6 +27405,10 @@
           {
             "id": 54711,
             "name": "Guard's Chain Helm"
+          },
+          {
+            "id": 54712,
+            "name": "Protector's Chain Helm"
           },
           {
             "id": 54740,
@@ -27717,19 +27743,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 201,
+        "critters": 205,
         "deaths": 31,
-        "drinks": 2,
-        "flights": 159,
-        "food": 218,
+        "drinks": 3,
+        "flights": 162,
+        "food": 222,
         "health_potions": 47,
-        "hearths": 93,
+        "hearths": 94,
         "honorable_kills": 2,
-        "killing_blows": 3385,
-        "mobs": 8085,
+        "killing_blows": 3435,
+        "mobs": 8294,
         "quests": 358
       },
-      "xp": 72954
+      "xp": 6635
     },
     "us:whizz-aard": {
       "achievements": {
@@ -27869,6 +27895,10 @@
           "name": "Slime-encrusted Pads",
           "quality": "RARE"
         },
+        "7684": {
+          "name": "Bloodmage Mantle",
+          "quality": "RARE"
+        },
         "9448": {
           "name": "Spidertank Oilrag",
           "quality": "RARE"
@@ -27876,7 +27906,7 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795756420000,
+      "last_login": 1795802944000,
       "level": 34,
       "level_at": {
         "28": 1794965196,
@@ -27889,7 +27919,7 @@
       },
       "professions": {
         "Cooking": 65,
-        "Enchanting": 200,
+        "Enchanting": 201,
         "First Aid": 80,
         "Tailoring": 134
       },
@@ -28417,20 +28447,20 @@
       },
       "spec": "Fire",
       "stats": {
-        "critters": 81,
-        "deaths": 74,
-        "drinks": 903,
-        "flights": 57,
+        "critters": 85,
+        "deaths": 75,
+        "drinks": 949,
+        "flights": 59,
         "food": 139,
-        "health_potions": 49,
-        "hearths": 27,
+        "health_potions": 50,
+        "hearths": 28,
         "honorable_kills": 1,
-        "killing_blows": 1980,
-        "mana_potions": 16,
-        "mobs": 4682,
+        "killing_blows": 2038,
+        "mana_potions": 19,
+        "mobs": 4891,
         "quests": 311
       },
-      "xp": 985
+      "xp": 23937
     }
   },
   "craft_board": {
@@ -28566,7 +28596,8 @@
           "surname": "Mondrabe"
         },
         "lines": [
-          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**"
+          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**",
+          "🛠️ **Kochkunst** auf 225"
         ],
         "snap": {
           "class": "Druid",
@@ -28595,11 +28626,12 @@
           "surname": "Graufuss"
         },
         "lines": [
-          "🤝 **Wohlwollend** bei Orgrimmar"
+          "🤝 **Wohlwollend** bei Orgrimmar",
+          "🔵 Erstes blaues Item: **[Knochenschlagring](https://www.wowhead.com/forever/de/item=272998)** (Main Hand)"
         ],
         "snap": {
           "class": "Rogue",
-          "level": 14
+          "level": 17
         }
       },
       "us:aeri-moonglow": {
@@ -28740,6 +28772,7 @@
     "Bandit Bracers of the Owl": "Banditen-Armschienen der Eule",
     "Bandit Cinch of the Boar": "Banditen-Sattelgurt des Ebers",
     "Bandit Gloves of Intellect": "Banditen-Handschuhe der Intelligenz",
+    "Bandit Pants of Stamina": "Banditen-Hose der Ausdauer",
     "Bandit Pants of the Monkey": "Banditen-Hose des Affen",
     "Bands of Serra'kis": "Bänder von Serra'kis",
     "Bandsaw Wristbands": "Bandsägen-Gelenkbänder",
@@ -28824,6 +28857,7 @@
     "Blood Splatter": "Blutspritzer",
     "Bloodforged Shoulder Pads of Magic": "Blutgeschmiedete Schulterpolster der Magie",
     "Bloodied Chestwraps": "Blutige Brustwickel",
+    "Bloodmage Mantle": "Blutmagier-Mantel",
     "Bloodmaster's Ring": "Blutmeisterring",
     "Bloodsail Buccaneers": "Blutsegelbukaniere",
     "Bloodsnout Striker": "Blutschnauzenschläger",
@@ -28843,6 +28877,7 @@
     "Boar Hunter's Cape": "Eberjägercape",
     "Boar Signet": "Ebersiegel",
     "Bolder'ok Clan": "Klan der Bolder'ok",
+    "Bone Knuckles": "Knochenschlagring",
     "Bonebinder's Signet": "Siegelring des Knochenbinders",
     "Bonerust Leggings": "Knochenrostgamaschen",
     "Bonus Armor": "Bonusrüstung",
@@ -29237,6 +29272,7 @@
     "Feral Charge": "Wilde Attacke",
     "Feral Combat": "Wilder Kampf",
     "Feral Cord of the Tiger": "Wild-Kordel des Tigers",
+    "Feral Harness of Nature Protection": "Wildharnisch des Naturschutzes",
     "Feral Instinct": "Instinkt der Wildnis",
     "Feral Swiftness": "Schnelligkeit der Wildnis",
     "Ferine Leggings": "Ferinen-Gamaschen",
@@ -29627,6 +29663,7 @@
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
     "Lordaeron Forever Tabard": "Wappenrock \"Lordaeron Forever\"",
     "Lower Blackrock Spire": "Untere Schwarzfelsspitze",
+    "Lupine Cord of Frost Protection": "Werwolf-Kordel des Frostschutzes",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
     "Lupine Leggings of the Monkey": "Werwolf-Gamaschen des Affen",
     "Lupine Mantle": "Werwolf-Mantel",
@@ -29850,6 +29887,7 @@
     "Ragged Leather Belt": "Struppiger Ledergürtel",
     "Ragged Leather Boots": "Struppige Lederstiefel",
     "Ragged Leather Vest": "Struppige Lederweste",
+    "Raging Berserker's Helm": "Helm des tobenden Berserkers",
     "Raider's Chestpiece of the Gorilla": "Räuber-Brustharnisch des Gorillas",
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
@@ -31605,7 +31643,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795802111,
+  "saved_at": 1795804171,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
