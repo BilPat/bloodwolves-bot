@@ -24935,17 +24935,18 @@
       "gear": {},
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795751878000,
-      "level": 14,
+      "last_login": 1795782828000,
+      "level": 15,
       "level_at": {
         "13": 1795719303,
-        "14": 1795725596
+        "14": 1795725596,
+        "15": 1795783387
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 59,
-        "Mining": 22,
-        "Skinning": 112
+        "Mining": 23,
+        "Skinning": 116
       },
       "race": "Orc",
       "raids": {},
@@ -25023,7 +25024,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7595,
+          "raw": 7676,
           "tier": 4
         },
         "Everlook": {
@@ -25038,7 +25039,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9463,
+          "raw": 9713,
           "tier": 5
         },
         "Powderfuse": {
@@ -25053,12 +25054,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3481,
+          "raw": 3637,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 900,
+          "raw": 981,
           "tier": 3
         }
       },
@@ -25066,13 +25067,13 @@
       "stats": {
         "flights": 3,
         "food": 10,
-        "health_potions": 4,
+        "health_potions": 5,
         "hearths": 3,
-        "killing_blows": 380,
-        "mobs": 460,
-        "quests": 73
+        "killing_blows": 409,
+        "mobs": 505,
+        "quests": 76
       },
-      "xp": 6572
+      "xp": 1314
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -29262,6 +29263,7 @@
     "Honorable Kills": "Ehrenhafte Siege",
     "Honored": "Wohlwollend",
     "Hooded Cowl": "Kapuzenkutte",
+    "Hook Dagger of the Monkey": "Hakendolch des Affen",
     "Horn Ring": "Hornring",
     "Horns of Varrox": "Hörner von Varrox",
     "Hostile": "Feindselig",
@@ -31363,7 +31365,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795782136,
+  "saved_at": 1795783388,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
