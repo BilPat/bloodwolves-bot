@@ -3916,8 +3916,8 @@
       },
       "ilvl": 27,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795654027000,
-      "level": 33,
+      "last_login": 1795737918000,
+      "level": 34,
       "level_at": {
         "25": 1794884198,
         "26": 1794959691,
@@ -3925,14 +3925,15 @@
         "30": 1795389237,
         "31": 1795400528,
         "32": 1795566993,
-        "33": 1795654455
+        "33": 1795654455,
+        "34": 1795739722
       },
       "professions": {
-        "Cooking": 95,
+        "Cooking": 103,
         "Enchanting": 90,
         "First Aid": 39,
-        "Fishing": 63,
-        "Tailoring": 116
+        "Fishing": 75,
+        "Tailoring": 125
       },
       "race": "Undead",
       "raids": {},
@@ -4107,6 +4108,10 @@
             "name": "Simple Kilt"
           },
           {
+            "id": 4867,
+            "name": "Hands of Darkness"
+          },
+          {
             "id": 55423,
             "name": "Novice Arcanist's Sash"
           },
@@ -4129,6 +4134,14 @@
           {
             "id": 4848,
             "name": "Linen Belt"
+          },
+          {
+            "id": 4849,
+            "name": "Azure Silk Pants"
+          },
+          {
+            "id": 4850,
+            "name": "Azure Silk Hood"
           },
           {
             "id": 2359,
@@ -4231,6 +4244,10 @@
             "name": "Spidersilk Boots"
           },
           {
+            "id": 2395,
+            "name": "Azure Silk Vest"
+          },
+          {
             "id": 3973,
             "name": "Pearl-clasped Cloak"
           },
@@ -4241,6 +4258,10 @@
           {
             "id": 4002,
             "name": "Woolen Bag"
+          },
+          {
+            "id": 4003,
+            "name": "Small Silk Pack"
           },
           {
             "id": 4019,
@@ -4309,7 +4330,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5426,
+          "raw": 5901,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -4334,7 +4355,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5595,
+          "raw": 6345,
           "tier": 4
         },
         "Powderfuse": {
@@ -4347,38 +4368,33 @@
           "raw": 1588,
           "tier": 3
         },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4715,
+          "raw": 5865,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 17176,
+          "raw": 17651,
           "tier": 5
         }
       },
       "spec": "Holy",
       "stats": {
-        "critters": 69,
-        "deaths": 32,
-        "drinks": 85,
-        "flights": 35,
-        "food": 74,
-        "health_potions": 18,
-        "hearths": 36,
-        "honorable_kills": 6,
-        "killing_blows": 1458,
-        "mana_potions": 16,
-        "mobs": 4603,
-        "quests": 229
+        "critters": 74,
+        "deaths": 44,
+        "drinks": 90,
+        "flights": 37,
+        "food": 83,
+        "health_potions": 22,
+        "hearths": 38,
+        "honorable_kills": 7,
+        "killing_blows": 1623,
+        "mana_potions": 19,
+        "mobs": 4874,
+        "quests": 251
       },
-      "xp": 27345
+      "xp": 37572
     },
     "eu:blut-leiche": {
       "achievements": {
@@ -6585,6 +6601,10 @@
           "name": "Band of Purification",
           "quality": "RARE"
         },
+        "13105": {
+          "name": "Sutarn's Ring",
+          "quality": "RARE"
+        },
         "16975": {
           "name": "Warsong Sash",
           "quality": "RARE"
@@ -6644,7 +6664,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795731907000,
+      "last_login": 1795737660000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -7390,7 +7410,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5556,
+          "raw": 5581,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -7415,7 +7435,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6456,
+          "raw": 6556,
           "tier": 4
         },
         "Powderfuse": {
@@ -7430,12 +7450,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4695,
+          "raw": 4720,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 13527,
+          "raw": 13552,
           "tier": 5
         }
       },
@@ -7443,17 +7463,17 @@
       "stats": {
         "critters": 37,
         "deaths": 68,
-        "drinks": 196,
+        "drinks": 197,
         "flights": 115,
         "food": 154,
         "health_potions": 16,
-        "hearths": 69,
-        "killing_blows": 1654,
+        "hearths": 70,
+        "killing_blows": 1666,
         "mana_potions": 61,
-        "mobs": 4396,
-        "quests": 255
+        "mobs": 4417,
+        "quests": 258
       },
-      "xp": 22261
+      "xp": 34339
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -14746,7 +14766,7 @@
       },
       "ilvl": 53,
       "last_explored": "Feralas",
-      "last_login": 1795731252000,
+      "last_login": 1795738104000,
       "level": 60,
       "level_at": {
         "45": 1794866470,
@@ -15382,9 +15402,9 @@
       "stats": {
         "critters": 144,
         "deaths": 66,
-        "drinks": 292,
-        "flights": 298,
-        "food": 320,
+        "drinks": 293,
+        "flights": 299,
+        "food": 321,
         "health_potions": 90,
         "hearths": 72,
         "honorable_kills": 1,
@@ -21344,11 +21364,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/84/13189716-avatar.jpg",
       "best_item": {
-        "id": 270043,
-        "ilvl": 32,
-        "name": "Dreamer's Chestguard",
+        "id": 5404,
+        "ilvl": null,
+        "name": "Serpent's Shoulders",
         "quality": "RARE",
-        "slot": "Chest"
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "1092": {
@@ -21428,7 +21448,7 @@
       },
       "ilvl": 19,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795564986000,
+      "last_login": 1795738012000,
       "level": 26,
       "level_at": {
         "19": 1794866470,
@@ -21448,28 +21468,28 @@
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
             "id": 1536,
             "name": "Spiced Wolf Meat"
           },
           {
-            "id": 4353,
-            "name": "Brilliant Smallfish"
-          },
-          {
             "id": 1537,
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           }
         ],
         "First Aid": [
@@ -21478,44 +21498,44 @@
             "name": "Anti-Venom"
           },
           {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
             "id": 1839,
             "name": "Heavy Linen Bandage"
-          },
-          {
-            "id": 54192,
-            "name": "Lesser Healing Potion"
-          },
-          {
-            "id": 54191,
-            "name": "Minor Healing Potion"
-          },
-          {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
-            "id": 54193,
-            "name": "Healing Potion"
           },
           {
             "id": 1840,
             "name": "Wool Bandage"
           },
           {
-            "id": 55747,
-            "name": "Simple Poultice"
+            "id": 1841,
+            "name": "Heavy Wool Bandage"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          },
+          {
+            "id": 54193,
+            "name": "Healing Potion"
           },
           {
             "id": 55743,
             "name": "Woolen Tourniquet"
           },
           {
-            "id": 1841,
-            "name": "Heavy Wool Bandage"
+            "id": 55747,
+            "name": "Simple Poultice"
           }
         ],
         "Fishing": [
@@ -21526,171 +21546,175 @@
         ],
         "Leatherworking": [
           {
-            "id": 55184,
-            "name": "Forceful Medium Armor Kit"
-          },
-          {
-            "id": 1356,
-            "name": "Light Armor Kit"
-          },
-          {
-            "id": 4989,
-            "name": "Light Leather Quiver"
-          },
-          {
-            "id": 2162,
-            "name": "Handstitched Leather Belt"
-          },
-          {
-            "id": 11756,
-            "name": "Medium Leather"
-          },
-          {
-            "id": 1370,
-            "name": "Dark Leather Cloak"
-          },
-          {
-            "id": 55195,
-            "name": "Defender's Leather Armor"
-          },
-          {
-            "id": 55207,
-            "name": "Black Whelp Slippers"
-          },
-          {
-            "id": 2172,
-            "name": "Fine Leather Belt"
-          },
-          {
-            "id": 55185,
-            "name": "Mystic Medium Armor Kit"
-          },
-          {
-            "id": 1362,
-            "name": "Embossed Leather Vest"
-          },
-          {
-            "id": 2195,
-            "name": "Cured Light Hide"
-          },
-          {
-            "id": 55205,
-            "name": "Murloc Scale Shoes"
-          },
-          {
-            "id": 2170,
-            "name": "Fine Leather Tunic"
-          },
-          {
-            "id": 3343,
-            "name": "Kodo Hide Bag"
-          },
-          {
-            "id": 4987,
-            "name": "Handstitched Leather Cloak"
-          },
-          {
-            "id": 1363,
-            "name": "Embossed Leather Boots"
-          },
-          {
             "id": 4419,
             "name": "Deviate Scale Belt"
-          },
-          {
-            "id": 2196,
-            "name": "Cured Medium Hide"
-          },
-          {
-            "id": 1368,
-            "name": "Toughened Leather Armor"
-          },
-          {
-            "id": 1708,
-            "name": "Light Leather"
-          },
-          {
-            "id": 2167,
-            "name": "Embossed Leather Pants"
-          },
-          {
-            "id": 4993,
-            "name": "Light Leather Pants"
-          },
-          {
-            "id": 4992,
-            "name": "Light Leather Bracers"
-          },
-          {
-            "id": 4156,
-            "name": "Handstitched Leather Vest"
-          },
-          {
-            "id": 52647,
-            "name": "Camp Tent"
-          },
-          {
-            "id": 2175,
-            "name": "Dark Leather Belt"
-          },
-          {
-            "id": 55204,
-            "name": "Moonglow Boots"
-          },
-          {
-            "id": 1369,
-            "name": "Gray Leather Boots"
-          },
-          {
-            "id": 4159,
-            "name": "Dark Leather Pants"
-          },
-          {
-            "id": 1360,
-            "name": "Fine Leather Cloak"
-          },
-          {
-            "id": 4990,
-            "name": "Small Leather Ammo Pouch"
           },
           {
             "id": 1353,
             "name": "Handstitched Leather Boots"
           },
           {
-            "id": 4996,
-            "name": "Nimble Leather Gloves"
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1360,
+            "name": "Fine Leather Cloak"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1363,
+            "name": "Embossed Leather Boots"
           },
           {
             "id": 1364,
             "name": "Embossed Leather Cloak"
           },
           {
-            "id": 1355,
-            "name": "Handstitched Leather Pants"
-          },
-          {
             "id": 1367,
             "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
+          },
+          {
+            "id": 1369,
+            "name": "Gray Leather Boots"
+          },
+          {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2167,
+            "name": "Embossed Leather Pants"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
           },
           {
             "id": 4988,
             "name": "Handstitched Leather Bracers"
           },
           {
-            "id": 55206,
-            "name": "Dark Leather Boots"
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
           },
           {
             "id": 5026,
             "name": "Fletcher's Gloves"
           },
           {
-            "id": 2164,
-            "name": "Embossed Leather Gloves"
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 3343,
+            "name": "Kodo Hide Bag"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
+          },
+          {
+            "id": 55195,
+            "name": "Defender's Leather Armor"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55205,
+            "name": "Murloc Scale Shoes"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          },
+          {
+            "id": 55207,
+            "name": "Black Whelp Slippers"
           }
         ],
         "Skinning": [
+          {
+            "id": 4768,
+            "name": "Skinning"
+          },
           {
             "id": 52644,
             "name": "Camp Chair"
@@ -21698,10 +21722,6 @@
           {
             "id": 57017,
             "name": "Field Guide"
-          },
-          {
-            "id": 4768,
-            "name": "Skinning"
           }
         ]
       },
@@ -27775,6 +27795,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:blck-jck": {
+        "c": {
+          "name": "Blck",
+          "region": "eu",
+          "surname": "Jck"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 75"
+        ],
+        "snap": {
+          "class": "Priest",
+          "level": 34
+        }
+      },
       "eu:efrye-frostmage": {
         "c": {
           "name": "Efrye",
@@ -28354,6 +28388,7 @@
     "Enchant Chest - Minor Intellect": "Brust - Schwache Intelligenz",
     "Enchant Chest - Minor Stats": "Brust - Schwache Werte",
     "Enchant Chest - Stamina": "Brust - Ausdauer",
+    "Enchant Chest - Superior Intellect": "Brust - Überragende Intelligenz",
     "Enchant Cloak - Lesser Protection": "Umhang - Geringer Schutz",
     "Enchant Cloak - Minor Protection": "Umhang - Schwacher Schutz",
     "Enchant Cloak - Minor Resistance": "Umhang - Schwacher Widerstand",
@@ -29255,6 +29290,7 @@
     "Solid Sharpening Stone": "Robuster Wetzstein",
     "Solid Shot": "Robustes Geschoss",
     "Solid Weightstone": "Robuster Gewichtsstein",
+    "Sorcerer Bracelets of the Elder": "Zauberhexerarmreifen des Ältesten",
     "Sorcerer Collar": "Zaubererhalsband",
     "Soul Harvest": "Seelenernte",
     "Soul Link": "Seelenverbindung",
@@ -29330,6 +29366,7 @@
     "Supple Bellyskin Leggings": "Weiche Bauchhautgamaschen",
     "Suppression": "Unterdrückung",
     "Sustaining Ring": "Erhaltender Ring",
+    "Sutarn's Ring": "Sutarns Ring",
     "Swashbuckler Sash": "Schwadroneursschärpe",
     "Sweeping Strikes": "Weitreichende Stöße",
     "Swift Judgement": "Schnelles Richturteil",
@@ -29428,6 +29465,7 @@
     "Twilight Cape of the Bandit": "Twilightcape des Banditen",
     "Twilight Focus": "Zwielichtfokus",
     "Twilight Lord Girdle": "Twilightfürstgurt",
+    "Twilight Pants of the Sorcerer": "Twilighthose des Zauberers",
     "Twin Disciplines": "Zwillingsdisziplinen",
     "Two-Hand": "Zweihändig",
     "Two-Handed Weapon Specialization": "Zweihandwaffen-Spezialisierung",
@@ -30710,7 +30748,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795737287,
+  "saved_at": 1795739725,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
