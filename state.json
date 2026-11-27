@@ -25811,6 +25811,10 @@
           "name": "Butcher's Slicer",
           "quality": "RARE"
         },
+        "7683": {
+          "name": "Bloody Brass Knuckles",
+          "quality": "RARE"
+        },
         "7756": {
           "name": "Dog Training Gloves",
           "quality": "RARE"
@@ -25822,7 +25826,7 @@
       },
       "ilvl": 23,
       "last_explored": "Dun Morogh",
-      "last_login": 1795762178000,
+      "last_login": 1795796417000,
       "level": 33,
       "level_at": {
         "18": 1795149590,
@@ -26248,7 +26252,7 @@
         "flights": 31,
         "food": 52,
         "health_potions": 14,
-        "hearths": 13,
+        "hearths": 14,
         "honorable_kills": 108,
         "killing_blows": 2622,
         "mana_potions": 1,
@@ -28778,6 +28782,7 @@
     "Bloodspine Staff": "Blutstachelstab",
     "Bloodsport Band": "Blutsportring",
     "Bloodthrill": "Rausch des Blutes",
+    "Bloody Brass Knuckles": "Blutiger Messingschlagring",
     "Bloom": "Blüte",
     "Blump Family Fishing Pole": "Angel der Familie Blump",
     "Blush Ember Ring": "Rotglutring",
@@ -29304,6 +29309,7 @@
     "Green Leather Armor": "Grüne Lederrüstung",
     "Green Leather Belt": "Grüner Ledergürtel",
     "Greenleaf Handwraps": "Grünblatthandlappen",
+    "Greenstone Talisman of Agility": "Grünsteintalisman der Beweglichkeit",
     "Greenweave Bracers of the Owl": "Grünzwirnarmschienen der Eule",
     "Greenweave Leggings of the Sorcerer": "Grünzwirngamaschen des Zauberers",
     "Greenweave Robe of the Whale": "Grünzwirnrobe des Wals",
@@ -31539,7 +31545,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795796211,
+  "saved_at": 1795797663,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
