@@ -27444,7 +27444,7 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795667514000,
+      "last_login": 1795756420000,
       "level": 34,
       "level_at": {
         "28": 1794965196,
@@ -27988,7 +27988,7 @@
         "critters": 81,
         "deaths": 74,
         "drinks": 903,
-        "flights": 56,
+        "flights": 57,
         "food": 139,
         "health_potions": 49,
         "hearths": 27,
@@ -27998,7 +27998,7 @@
         "mobs": 4682,
         "quests": 311
       },
-      "xp": 900
+      "xp": 985
     }
   },
   "craft_board": {
@@ -31005,7 +31005,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795755288,
+  "saved_at": 1795756586,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
