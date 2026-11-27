@@ -12695,61 +12695,55 @@
       "achievements": {},
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/82/86210642-avatar.jpg",
       "best_item": {
-        "id": 3472,
-        "ilvl": 12,
-        "name": "Runed Copper Gauntlets",
-        "quality": "UNCOMMON",
-        "slot": "Hands"
+        "id": 250482,
+        "ilvl": null,
+        "name": "Glowing Copper Boots",
+        "quality": "RARE",
+        "slot": "Feet"
       },
       "boss_kills": {},
       "class": "Paladin",
       "dungeons": {},
       "first_seen": 1795569430,
-      "gear": {},
+      "gear": {
+        "250482": {
+          "name": "Glowing Copper Boots",
+          "quality": "RARE"
+        }
+      },
       "ilvl": 4,
       "last_explored": null,
-      "last_login": 1795568893000,
-      "level": 10,
+      "last_login": 1795743795000,
+      "level": 12,
       "level_at": {
-        "10": 1795569430
+        "10": 1795569430,
+        "12": 1795744493
       },
       "professions": {
-        "Blacksmithing": 36,
-        "Cooking": 2,
+        "Blacksmithing": 55,
+        "Cooking": 3,
         "First Aid": 23,
-        "Mining": 66
+        "Mining": 77
       },
       "race": "Undead",
       "raids": {},
       "recipes": {
         "Blacksmithing": [
           {
-            "id": 1632,
-            "name": "Copper Chain Belt"
-          },
-          {
-            "id": 52645,
-            "name": "Sharpening Wheel"
-          },
-          {
             "id": 1798,
             "name": "Rough Weightstone"
           },
           {
-            "id": 1633,
-            "name": "Copper Chain Pants"
+            "id": 1800,
+            "name": "Coarse Weightstone"
           },
           {
-            "id": 6636,
-            "name": "Rough Copper Vest"
+            "id": 1850,
+            "name": "Copper Battle Axe"
           },
           {
-            "id": 1652,
-            "name": "Copper Shortsword"
-          },
-          {
-            "id": 1631,
-            "name": "Rough Sharpening Stone"
+            "id": 1851,
+            "name": "Thick War Axe"
           },
           {
             "id": 1855,
@@ -12760,47 +12754,99 @@
             "name": "Rough Grinding Stone"
           },
           {
-            "id": 4910,
-            "name": "Copper Dagger"
-          },
-          {
-            "id": 1634,
-            "name": "Copper Bracers"
-          },
-          {
-            "id": 54693,
-            "name": "Strange Copper Boots"
-          },
-          {
             "id": 1858,
             "name": "Runed Copper Gauntlets"
-          },
-          {
-            "id": 5338,
-            "name": "Copper Claymore"
-          },
-          {
-            "id": 1850,
-            "name": "Copper Battle Axe"
-          },
-          {
-            "id": 1646,
-            "name": "Copper Mace"
-          },
-          {
-            "id": 54212,
-            "name": "Copper Rod"
           },
           {
             "id": 1859,
             "name": "Runed Copper Pants"
           },
           {
+            "id": 1861,
+            "name": "Coarse Grinding Stone"
+          },
+          {
+            "id": 6636,
+            "name": "Rough Copper Vest"
+          },
+          {
+            "id": 1631,
+            "name": "Rough Sharpening Stone"
+          },
+          {
+            "id": 1632,
+            "name": "Copper Chain Belt"
+          },
+          {
+            "id": 1633,
+            "name": "Copper Chain Pants"
+          },
+          {
+            "id": 1634,
+            "name": "Copper Bracers"
+          },
+          {
+            "id": 1636,
+            "name": "Coarse Sharpening Stone"
+          },
+          {
+            "id": 1637,
+            "name": "Runed Copper Belt"
+          },
+          {
+            "id": 1646,
+            "name": "Copper Mace"
+          },
+          {
             "id": 1651,
             "name": "Copper Axe"
+          },
+          {
+            "id": 1652,
+            "name": "Copper Shortsword"
+          },
+          {
+            "id": 4910,
+            "name": "Copper Dagger"
+          },
+          {
+            "id": 5338,
+            "name": "Copper Claymore"
+          },
+          {
+            "id": 4285,
+            "name": "Heavy Copper Maul"
+          },
+          {
+            "id": 52645,
+            "name": "Sharpening Wheel"
+          },
+          {
+            "id": 54692,
+            "name": "Gemmed Copper Boots"
+          },
+          {
+            "id": 54693,
+            "name": "Strange Copper Boots"
+          },
+          {
+            "id": 54694,
+            "name": "Glowing Copper Boots"
+          },
+          {
+            "id": 54212,
+            "name": "Copper Rod"
           }
         ],
         "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
           {
             "id": 4786,
             "name": "Herb Baked Egg"
@@ -12808,34 +12854,34 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
-          },
-          {
-            "id": 1537,
-            "name": "Roasted Boar Meat"
-          },
-          {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
           }
         ],
         "First Aid": [
           {
-            "id": 52641,
-            "name": "First Aid Kit"
-          },
-          {
             "id": 1838,
             "name": "Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
           }
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 1570,
             "name": "Mining"
+          },
+          {
+            "id": 1600,
+            "name": "Smelt Bronze"
+          },
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
           },
           {
             "id": 52643,
@@ -12851,41 +12897,37 @@
         },
         "Darkspear Trolls": {
           "name": "Neutral",
-          "raw": 2081,
+          "raw": 2318,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Neutral",
-          "raw": 2081,
-          "tier": 3
-        },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
+          "raw": 2375,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Neutral",
-          "raw": 581,
+          "raw": 725,
           "tier": 3
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 7385,
+          "raw": 7622,
           "tier": 4
         }
       },
       "spec": "Protection",
       "stats": {
-        "deaths": 5,
+        "deaths": 8,
         "drinks": 1,
-        "food": 3,
-        "hearths": 6,
-        "killing_blows": 248,
-        "mobs": 280,
-        "quests": 49
+        "flights": 1,
+        "food": 4,
+        "hearths": 7,
+        "killing_blows": 293,
+        "mobs": 398,
+        "quests": 56
       },
-      "xp": 6952
+      "xp": 2255
     },
     "eu:kamah-suhtrah": {
       "achievements": {
@@ -27989,6 +28031,22 @@
           "level": 10
         }
       },
+      "eu:ignatius-glattsteyn": {
+        "c": {
+          "name": "Ignatius",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Glattsteyn"
+        },
+        "lines": [
+          "🛠️ **Bergbau** auf 75",
+          "🔵 Erstes blaues Item: **[Leuchtende Kupferstiefel](https://www.wowhead.com/forever/de/item=250482)** (Feet)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 12
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -30939,7 +30997,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795743798,
+  "saved_at": 1795744494,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
