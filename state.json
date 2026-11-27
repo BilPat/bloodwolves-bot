@@ -30775,7 +30775,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 43,
+        "level": 44,
         "name": "Thalia",
         "rank": 5,
         "region": "eu",
@@ -30838,7 +30838,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 49,
+        "level": 50,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -30928,7 +30928,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 48,
+        "level": 49,
         "name": "Vlad",
         "rank": 4,
         "region": "eu",
@@ -31362,7 +31362,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795776913,
+  "saved_at": 1795778096,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
