@@ -3186,7 +3186,7 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795609509000,
+      "last_login": 1795769544000,
       "level": 56,
       "level_at": {
         "38": 1794866470,
@@ -3777,7 +3777,7 @@
           "tier": 4
         }
       },
-      "spec": "Feral Combat",
+      "spec": "Restoration",
       "stats": {
         "critters": 234,
         "deaths": 51,
@@ -31342,7 +31342,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795768976,
+  "saved_at": 1795769697,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
