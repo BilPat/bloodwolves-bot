@@ -6013,7 +6013,7 @@
       },
       "ilvl": 19,
       "last_explored": "Stonetalon Mountains",
-      "last_login": 1795713177000,
+      "last_login": 1795817428000,
       "level": 28,
       "level_at": {
         "21": 1794866470,
@@ -6390,7 +6390,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5890,
+          "raw": 6296,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -6415,7 +6415,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 8653,
+          "raw": 8910,
           "tier": 4
         },
         "Powderfuse": {
@@ -6430,30 +6430,30 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 13460,
+          "raw": 13885,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3140,
+          "raw": 3321,
           "tier": 4
         }
       },
       "spec": "Enhancement",
       "stats": {
         "critters": 20,
-        "deaths": 7,
-        "drinks": 86,
-        "flights": 35,
-        "food": 113,
+        "deaths": 8,
+        "drinks": 89,
+        "flights": 39,
+        "food": 122,
         "health_potions": 32,
-        "hearths": 32,
-        "killing_blows": 1530,
-        "mana_potions": 10,
-        "mobs": 1822,
-        "quests": 222
+        "hearths": 33,
+        "killing_blows": 1619,
+        "mana_potions": 11,
+        "mobs": 1918,
+        "quests": 233
       },
-      "xp": 1507
+      "xp": 30534
     },
     "eu:damien-thoorn": {
       "achievements": {
@@ -14549,7 +14549,7 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795809062000,
+      "last_login": 1795816922000,
       "level": 36,
       "level_at": {
         "27": 1794866470,
@@ -14803,7 +14803,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11510,
+          "raw": 11535,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14838,7 +14838,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14722,
+          "raw": 14822,
           "tier": 5
         },
         "Powderfuse": {
@@ -14853,12 +14853,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10405,
+          "raw": 10430,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5665,
+          "raw": 5690,
           "tier": 4
         }
       },
@@ -14866,17 +14866,17 @@
       "stats": {
         "critters": 32,
         "deaths": 20,
-        "drinks": 879,
+        "drinks": 909,
         "flights": 82,
-        "food": 346,
+        "food": 368,
         "health_potions": 10,
-        "hearths": 33,
-        "killing_blows": 2284,
-        "mana_potions": 6,
-        "mobs": 4376,
-        "quests": 257
+        "hearths": 34,
+        "killing_blows": 2380,
+        "mana_potions": 7,
+        "mobs": 4487,
+        "quests": 259
       },
-      "xp": 2271
+      "xp": 31022
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -23405,7 +23405,7 @@
       },
       "ilvl": 24,
       "last_explored": null,
-      "last_login": 1795711565000,
+      "last_login": 1795817115000,
       "level": 30,
       "level_at": {
         "23": 1794866470,
@@ -29262,6 +29262,7 @@
     "Dreamer's Chestguard": "Brustschutz des Träumers",
     "Dreamweave Gloves": "Traumzwirnhandschuhe",
     "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
+    "Driftmire Shield": "Schild des Moornebels",
     "Druid": "Druide",
     "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
     "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
@@ -31795,7 +31796,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795816498,
+  "saved_at": 1795817725,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
