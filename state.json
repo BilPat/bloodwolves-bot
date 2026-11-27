@@ -335,8 +335,8 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795736552000,
-      "level": 34,
+      "last_login": 1795784942000,
+      "level": 35,
       "level_at": {
         "26": 1794866470,
         "27": 1794957233,
@@ -346,12 +346,13 @@
         "31": 1795264886,
         "32": 1795530479,
         "33": 1795649983,
-        "34": 1795737286
+        "34": 1795737286,
+        "35": 1795785356
       },
       "professions": {
         "Blacksmithing": 174,
         "Cooking": 12,
-        "Mining": 191
+        "Mining": 193
       },
       "race": "Undead",
       "raids": {},
@@ -716,7 +717,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5807,
+          "raw": 6138,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -741,7 +742,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6145,
+          "raw": 6457,
           "tier": 4
         },
         "Powderfuse": {
@@ -756,12 +757,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5827,
+          "raw": 6290,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 18576,
+          "raw": 19207,
           "tier": 5
         }
       },
@@ -769,18 +770,18 @@
       "stats": {
         "critters": 56,
         "deaths": 28,
-        "drinks": 79,
-        "flights": 55,
+        "drinks": 83,
+        "flights": 57,
         "food": 7,
         "health_potions": 21,
-        "hearths": 25,
+        "hearths": 27,
         "honorable_kills": 6,
-        "killing_blows": 2157,
+        "killing_blows": 2188,
         "mana_potions": 3,
-        "mobs": 4893,
-        "quests": 261
+        "mobs": 4989,
+        "quests": 269
       },
-      "xp": 28798
+      "xp": 541
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -12931,7 +12932,9 @@
     },
     "eu:kamah-suhtrah": {
       "achievements": {
+        "61502": "Novice Druid",
         "61997": "Novice Paladin",
+        "62012": "Journeyman Alchemist",
         "62018": "Journeyman Enchanter",
         "62021": "Journeyman Engineer",
         "62024": "Journeyman Leatherworker",
@@ -13038,7 +13041,7 @@
       },
       "ilvl": 22,
       "last_explored": "Thousand Needles",
-      "last_login": 1795623328000,
+      "last_login": 1795783806000,
       "level": 32,
       "level_at": {
         "28": 1794866470,
@@ -13429,14 +13432,14 @@
         "flights": 59,
         "food": 89,
         "health_potions": 32,
-        "hearths": 33,
+        "hearths": 34,
         "honorable_kills": 1,
-        "killing_blows": 2950,
+        "killing_blows": 2972,
         "mana_potions": 2,
-        "mobs": 4956,
+        "mobs": 4985,
         "quests": 265
       },
-      "xp": 7557
+      "xp": 18123
     },
     "eu:keta-f%C3%A4se": {
       "achievements": {
@@ -28353,6 +28356,21 @@
           "level": 12
         }
       },
+      "eu:kamah-suhtrah": {
+        "c": {
+          "name": "Kamah",
+          "region": "eu",
+          "surname": "Suhtrah"
+        },
+        "lines": [
+          "🎖️ [Novice Druid](https://www.wowhead.com/forever/de/achievement=61502)",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 32
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -28824,6 +28842,7 @@
     "Darkspear Islands battles": "Schlachten auf den Darkspear-Inseln",
     "Darkspear Raiders": "Darkspear-Räuber",
     "Darkspear Trolls": "Darkspear",
+    "Darkwater Talwar": "Dunkelwassertalwar",
     "Deadly Aspects": "Tödliche Aspekte",
     "Deadmines": "Todesminen",
     "Death Bindings": "Todesbindungen",
@@ -29327,6 +29346,7 @@
     "Improved Wrath": "Verbesserter Zorn",
     "Incineration": "Verbrennung",
     "Indoctrinated Choker": "Halsreif des Indoktrinierten",
+    "Infantry Bracers": "Infanteriearmschienen",
     "Infantry Gauntlets": "Infanteriestulpen",
     "Infiltrator Gloves of the Falcon": "Spitzelhandschuhe des Falken",
     "Inscribed Leather Boots": "Gravierte Lederstiefel",
@@ -29412,6 +29432,7 @@
     "Loose Chain Bracers": "Lockere Kettenarmschienen",
     "Loose Chain Cloak": "Lockerer Kettenumhang",
     "Lord of Shadowfang Keep": "Lord von Burg Shadowfang",
+    "Lordaeron Forever Tabard": "Wappenrock \"Lordaeron Forever\"",
     "Lower Blackrock Spire": "Untere Schwarzfelsspitze",
     "Lupine Cord of the Monkey": "Werwolf-Kordel des Affen",
     "Lupine Leggings of the Monkey": "Werwolf-Gamaschen des Affen",
@@ -30174,6 +30195,7 @@
     "Willow Gloves of the Whale": "Weidenhandschuhe des Wals",
     "Willow Pants of Intellect": "Weidenhose der Intelligenz",
     "Windfelt Gloves": "Windfilzhandschuhe",
+    "Windshaped Shield": "Windgeformter Schild",
     "Windshaper Skyborne": "Himmelsgeborener der Windformer",
     "Windshapers": "Windformer",
     "Windsong Drape": "Windsongtuch",
@@ -31365,7 +31387,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795783388,
+  "saved_at": 1795785360,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
