@@ -21011,6 +21011,10 @@
           "name": "Worgpelt Leggings",
           "quality": "RARE"
         },
+        "274612": {
+          "name": "Waterlogged Burial Shroud",
+          "quality": "RARE"
+        },
         "4253": {
           "name": "Toughened Leather Gloves",
           "quality": "RARE"
@@ -21038,8 +21042,8 @@
       },
       "ilvl": 29,
       "last_explored": "Thousand Needles",
-      "last_login": 1795730376000,
-      "level": 38,
+      "last_login": 1795806853000,
+      "level": 39,
       "level_at": {
         "28": 1795369205,
         "31": 1795372085,
@@ -21047,13 +21051,14 @@
         "35": 1795472026,
         "36": 1795560035,
         "37": 1795638305,
-        "38": 1795731292
+        "38": 1795731292,
+        "39": 1795807491
       },
       "professions": {
         "Cooking": 4,
         "Fishing": 9,
         "Leatherworking": 152,
-        "Skinning": 234
+        "Skinning": 237
       },
       "race": "Tauren",
       "raids": {},
@@ -21364,7 +21369,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2440,
+          "raw": 2615,
           "tier": 3
         },
         "Cenarion Circle": {
@@ -21389,12 +21394,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2330,
+          "raw": 2480,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2330,
+          "raw": 2480,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -21414,12 +21419,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2330,
+          "raw": 2455,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 4051,
+          "raw": 4201,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -21435,20 +21440,20 @@
       },
       "spec": "Feral Combat",
       "stats": {
-        "critters": 48,
-        "deaths": 24,
+        "critters": 85,
+        "deaths": 25,
         "drinks": 9,
-        "flights": 78,
-        "food": 3,
-        "health_potions": 18,
+        "flights": 80,
+        "food": 5,
+        "health_potions": 20,
         "hearths": 18,
         "honorable_kills": 1,
-        "killing_blows": 2889,
+        "killing_blows": 2970,
         "mana_potions": 3,
-        "mobs": 4438,
-        "quests": 369
+        "mobs": 4730,
+        "quests": 373
       },
-      "xp": 48659
+      "xp": 14067
     },
     "eu:ragnar-lodhoof": {
       "achievements": {
@@ -30131,7 +30136,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -30658,6 +30663,7 @@
     "Warsong Outriders": "Warsongvorhut",
     "Warsong Sash": "Warsongschärpe",
     "Warstrife Leggings": "Kriegszwist-Gamaschen",
+    "Waterlogged Burial Shroud": "Durchnässtes Grabtuch",
     "Weapon": "Waffe",
     "Weapon Expertise": "Waffenexperte",
     "Weapon skills at maximum skill": "Waffenfertigkeiten auf maximaler Fertigkeit",
@@ -31896,7 +31902,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795806744,
+  "saved_at": 1795807492,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
