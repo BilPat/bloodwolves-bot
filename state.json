@@ -27227,7 +27227,7 @@
         },
         "1093": {
           "boss": "Scarlet Commander Mograine",
-          "count": 1,
+          "count": 2,
           "instance": "Scarlet Monastery"
         },
         "15027": {
@@ -27282,7 +27282,7 @@
         },
         "6786": {
           "boss": "High Inquisitor Whitemane",
-          "count": 1,
+          "count": 2,
           "instance": "Scarlet Monastery"
         }
       },
@@ -27410,6 +27410,14 @@
           "name": "Raging Berserker's Helm",
           "quality": "RARE"
         },
+        "7724": {
+          "name": "Gauntlets of Divinity",
+          "quality": "RARE"
+        },
+        "7726": {
+          "name": "Aegis of the Scarlet Commander",
+          "quality": "RARE"
+        },
         "9446": {
           "name": "Electrocutioner Leg",
           "quality": "RARE"
@@ -27425,7 +27433,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795802211000,
+      "last_login": 1795814870000,
       "level": 39,
       "level_at": {
         "31": 1794965196,
@@ -27441,7 +27449,7 @@
       "professions": {
         "Blacksmithing": 169,
         "Cooking": 300,
-        "First Aid": 216,
+        "First Aid": 225,
         "Fishing": 227,
         "Mining": 243
       },
@@ -28034,19 +28042,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 205,
-        "deaths": 31,
-        "drinks": 3,
+        "critters": 206,
+        "deaths": 32,
+        "drinks": 6,
         "flights": 162,
-        "food": 222,
-        "health_potions": 47,
-        "hearths": 94,
+        "food": 228,
+        "health_potions": 50,
+        "hearths": 95,
         "honorable_kills": 2,
-        "killing_blows": 3435,
-        "mobs": 8294,
+        "killing_blows": 3456,
+        "mobs": 8380,
         "quests": 358
       },
-      "xp": 6635
+      "xp": 15770
     },
     "us:whizz-aard": {
       "achievements": {
@@ -28776,6 +28784,20 @@
           "class": "Mage",
           "level": 41
         }
+      },
+      "us:steel-appeal": {
+        "c": {
+          "name": "steel",
+          "region": "us",
+          "surname": "appeal"
+        },
+        "lines": [
+          "🛠️ **Erste Hilfe** auf 225"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 39
+        }
       }
     },
     "last": "2026-11-27"
@@ -28789,6 +28811,7 @@
     "Acidproof Cloak": "Säurefester Umhang",
     "Acolyte's Robe": "Akolythenrobe",
     "Adept's Cloak": "Adepten-Umhang",
+    "Aegis of the Scarlet Commander": "Aegis des Scharlachroten Kommandanten",
     "Affliction": "Gebrechen",
     "Aftermath": "Nachwirkung",
     "Agility": "Beweglichkeit",
@@ -29460,6 +29483,7 @@
     "Garb of Florid Feathers": "Überreich verziertes Federgewand",
     "Gargoyle Leggings": "Gargoylegamaschen",
     "Garrison Cuffs": "Garnisons-Manschetten",
+    "Gauntlets of Divinity": "Stulpen der Offenbarung",
     "Gaze Dreamer Pants": "Gazeträumer-Hose",
     "Gear": "Ausrüstung",
     "Gelkis Clan Centaur": "Gelkisklan",
@@ -30137,6 +30161,7 @@
     "Scarlet Gauntlets": "Scharlachrote Stulpen",
     "Scarlet Leggings": "Scharlachrote Gamaschen",
     "Scarlet Monastery": "Scharlachrotes Kloster",
+    "Scarlet Retribution": "Scharlachrote Vergeltung",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
     "Scorching Wand": "Zauberstab des Versengens",
     "Scouting Gloves of the Tiger": "Späherhandschuhe des Tigers",
@@ -31770,7 +31795,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795814777,
+  "saved_at": 1795815590,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
