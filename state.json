@@ -26134,7 +26134,7 @@
       },
       "ilvl": 23,
       "last_explored": "Dun Morogh",
-      "last_login": 1795802168000,
+      "last_login": 1795810344000,
       "level": 33,
       "level_at": {
         "18": 1795149590,
@@ -28723,214 +28723,8 @@
     ]
   },
   "daily_digest": {
-    "items": {
-      "eu:blck-jck": {
-        "c": {
-          "name": "Blck",
-          "region": "eu",
-          "surname": "Jck"
-        },
-        "lines": [
-          "🛠️ **Angeln** auf 75"
-        ],
-        "snap": {
-          "class": "Priest",
-          "level": 34
-        }
-      },
-      "eu:blut-leiche": {
-        "c": {
-          "name": "Blut",
-          "region": "eu",
-          "surname": "Leiche"
-        },
-        "lines": [
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
-        ],
-        "snap": {
-          "class": "Warlock",
-          "level": 48
-        }
-      },
-      "eu:efrye-frostmage": {
-        "c": {
-          "name": "Efrye",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Frostmage"
-        },
-        "lines": [
-          "🎖️ [Expert Tailor](https://www.wowhead.com/forever/de/achievement=62029)"
-        ],
-        "snap": {
-          "class": "Mage",
-          "level": 10
-        }
-      },
-      "eu:h%C3%A4uptling-blutmacht": {
-        "c": {
-          "name": "Häuptling",
-          "rank_name": "Gildenmeister",
-          "region": "eu",
-          "surname": "Blutmacht"
-        },
-        "lines": [
-          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 51
-        }
-      },
-      "eu:ignatius-glattsteyn": {
-        "c": {
-          "name": "Ignatius",
-          "rank_name": "Offizier",
-          "region": "eu",
-          "surname": "Glattsteyn"
-        },
-        "lines": [
-          "🛠️ **Bergbau** auf 75",
-          "🔵 Erstes blaues Item: **[Leuchtende Kupferstiefel](https://www.wowhead.com/forever/de/item=250482)** (Feet)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 12
-        }
-      },
-      "eu:kamah-suhtrah": {
-        "c": {
-          "name": "Kamah",
-          "region": "eu",
-          "surname": "Suhtrah"
-        },
-        "lines": [
-          "🎖️ [Novice Druid](https://www.wowhead.com/forever/de/achievement=61502)",
-          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 32
-        }
-      },
-      "eu:pfeil-gail": {
-        "c": {
-          "name": "Pfeil",
-          "region": "eu",
-          "surname": "Gail"
-        },
-        "lines": [
-          "🎖️ [Erkundet Durotar](https://www.wowhead.com/forever/de/achievement=728)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 15
-        }
-      },
-      "eu:quantino-pralino": {
-        "c": {
-          "name": "Quantino",
-          "region": "eu",
-          "surname": "Pralino"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Darkspear"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 38
-        }
-      },
-      "eu:thalia-mondrabe": {
-        "c": {
-          "name": "Thalia",
-          "region": "eu",
-          "surname": "Mondrabe"
-        },
-        "lines": [
-          "Neues Reittier: **[Stürmischer Windschreiter](https://www.wowhead.com/forever/de/search?q=St%C3%BCrmischer%20Windschreiter)**",
-          "🛠️ **Kochkunst** auf 225"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 44
-        }
-      },
-      "eu:vlad-impalar": {
-        "c": {
-          "name": "Vlad",
-          "region": "eu",
-          "surname": "Impalar"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Darkspear",
-          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)"
-        ],
-        "snap": {
-          "class": "Paladin",
-          "level": 49
-        }
-      },
-      "eu:zugzug-graufuss": {
-        "c": {
-          "name": "Zugzug",
-          "region": "eu",
-          "surname": "Graufuss"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Orgrimmar",
-          "🔵 Erstes blaues Item: **[Knochenschlagring](https://www.wowhead.com/forever/de/item=272998)** (Main Hand)"
-        ],
-        "snap": {
-          "class": "Rogue",
-          "level": 17
-        }
-      },
-      "us:aeri-moonglow": {
-        "c": {
-          "name": "aeri",
-          "region": "us",
-          "surname": "moonglow"
-        },
-        "lines": [
-          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
-        ],
-        "snap": {
-          "class": "Druid",
-          "level": 36
-        }
-      },
-      "us:devil-latterday": {
-        "c": {
-          "name": "devil",
-          "region": "us",
-          "surname": "latterday"
-        },
-        "lines": [
-          "🎖️ [Erkundet Dun Morogh](https://www.wowhead.com/forever/de/achievement=627)"
-        ],
-        "snap": {
-          "class": "Hunter",
-          "level": 33
-        }
-      },
-      "us:steel-appeal": {
-        "c": {
-          "name": "steel",
-          "region": "us",
-          "surname": "appeal"
-        },
-        "lines": [
-          "🤝 **Wohlwollend** bei Eisenschmiede",
-          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
-        ],
-        "snap": {
-          "class": "Warrior",
-          "level": 38
-        }
-      }
-    },
-    "last": "2026-11-26"
+    "items": {},
+    "last": "2026-11-27"
   },
   "de_names": {
     "Abomination Bones": "Monstrositätenknochen",
@@ -31920,7 +31714,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795809300,
+  "saved_at": 1795811133,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
