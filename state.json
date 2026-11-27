@@ -3794,6 +3794,234 @@
       },
       "xp": 62439
     },
+    "eu:beast-eye": {
+      "achievements": {
+        "62003": "Novice Rogue",
+        "62009": "Novice Warlock",
+        "62024": "Journeyman Leatherworker",
+        "62031": "Novice Spelunker",
+        "728": "Explore Durotar",
+        "760": "Explore Alterac Mountains",
+        "780": "Explore Redridge Mountains",
+        "846": "Explore Thousand Needles"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/165/133032357-avatar.jpg",
+      "best_item": {
+        "id": 15444,
+        "ilvl": null,
+        "name": "Staff of Orgrimmar",
+        "quality": "RARE",
+        "slot": "Main Hand"
+      },
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 2,
+          "instance": "Ragefire Chasm"
+        },
+        "63571": {
+          "boss": "Rath'mael",
+          "count": 1,
+          "instance": "Ruins of Lordaeron"
+        }
+      },
+      "class": "Hunter",
+      "dungeons": {},
+      "first_seen": 1795806742,
+      "gear": {
+        "13136": {
+          "name": "Lil Timmy's Peashooter",
+          "quality": "RARE"
+        },
+        "15444": {
+          "name": "Staff of Orgrimmar",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": null,
+      "last_explored": "Durotar",
+      "last_login": 1795782612000,
+      "level": 21,
+      "level_at": {
+        "21": 1795806742
+      },
+      "professions": {
+        "Cooking": 19,
+        "Enchanting": 20,
+        "First Aid": 69,
+        "Herbalism": 75
+      },
+      "race": "Orc",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1536,
+            "name": "Spiced Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "Enchanting": [
+          {
+            "id": 7999,
+            "name": "Lesser Magic Wand"
+          },
+          {
+            "id": 13137,
+            "name": "Minor Wizard Oil"
+          },
+          {
+            "id": 7316,
+            "name": "Disenchant"
+          },
+          {
+            "id": 4289,
+            "name": "Enchant Bracer - Inferior Stamina"
+          },
+          {
+            "id": 4290,
+            "name": "Enchant Chest - Inferior Stamina"
+          },
+          {
+            "id": 4291,
+            "name": "Runed Copper Rod"
+          },
+          {
+            "id": 4293,
+            "name": "Enchant Bracer - Minor Deflect"
+          },
+          {
+            "id": 4297,
+            "name": "Enchant Chest - Minor Intellect"
+          },
+          {
+            "id": 52649,
+            "name": "Enchanted Lute"
+          },
+          {
+            "id": 54213,
+            "name": "Dust to Motes"
+          },
+          {
+            "id": 54214,
+            "name": "Novice's Practice Wand"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          }
+        ],
+        "Herbalism": [
+          {
+            "id": 1419,
+            "name": "Herbalism"
+          },
+          {
+            "id": 54115,
+            "name": "Herbalism"
+          },
+          {
+            "id": 52642,
+            "name": "Incense Candle"
+          }
+        ]
+      },
+      "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 1008,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 8191,
+          "tier": 4
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 1008,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 1008,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Honored",
+          "raw": 11117,
+          "tier": 5
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 1008,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 1916,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 4465,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 1940,
+          "tier": 3
+        },
+        "Warsong Outriders": {
+          "name": "Neutral",
+          "raw": 360,
+          "tier": 3
+        }
+      },
+      "spec": "Marksmanship",
+      "stats": {
+        "deaths": 14,
+        "drinks": 22,
+        "flights": 9,
+        "food": 27,
+        "health_potions": 4,
+        "hearths": 2,
+        "honorable_kills": 94,
+        "killing_blows": 1010,
+        "mobs": 1286,
+        "quests": 116
+      },
+      "xp": 10797
+    },
     "eu:blck-jck": {
       "achievements": {
         "61989": "Novice Hunter",
@@ -28987,6 +29215,7 @@
     "City of Dalaran": "Dalaran",
     "Civinad Robes": "Civinad-Roben",
     "Clasped Belt": "Schnallengürtel",
+    "Clay Ring of the Falcon": "Tonring des Falken",
     "Clever Shapeshifter": "Gerissener Gestaltwandler",
     "Cloak of the Cult": "Umhang des Kults",
     "Clobrok's Block Rock": "Clobroks Brockenfels",
@@ -29285,6 +29514,7 @@
     "Fighter Broadsword of the Elder": "Kämpferbreitschwert des Ältesten",
     "Filigreed Shining Circlet": "Filigraner glänzender Reif",
     "Fine Leather Belt": "Feiner Ledergürtel",
+    "Fine Leather Boots": "Feine Lederstiefel",
     "Fine Leather Tunic": "Feine Ledertunika",
     "Fine Scimitar": "Feiner Krummsäbel",
     "Finscale Soles": "Flossenschuppensohlen",
@@ -29649,6 +29879,7 @@
     "Light Bow": "Leichter Bogen",
     "Light Chain Bracers": "Leichte Kettenarmschienen",
     "Light Leather Bracers": "Leichte Lederarmschienen",
+    "Light Leather Pants": "Leichte Lederhose",
     "Light Shot": "Leichtes Geschoss",
     "Lightheel Boots": "Leichtfußstiefel",
     "Lightning Bolt": "Blitzschlag",
@@ -29900,7 +30131,8 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
+    "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30651,6 +30883,12 @@
         "3130": "Veteran Adventurer's Loyal Companion"
       }
     },
+    "eu:beast-eye": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
     "eu:blck-jck": {
       "mounts": {}
     },
@@ -30988,6 +31226,7 @@
       "aristides-soulreaper": "Aristides Soulreaper",
       "aru-tai": "Aru Tai",
       "baumora-axiom": "Baumora Axiom",
+      "beast-eye": "Beast Eye",
       "blck-jck": "Blck Jck",
       "blut-leiche": "Blut Leiche",
       "bon-tschorno": "Bon Tschorno",
@@ -31063,7 +31302,7 @@
         "guild": true,
         "level": 44,
         "name": "Thalia",
-        "rank": 5,
+        "rank": 4,
         "region": "eu",
         "surname": "Mondrabe"
       },
@@ -31133,7 +31372,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 56,
+        "level": 57,
         "name": "Baumora",
         "rank": 4,
         "region": "eu",
@@ -31331,7 +31570,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -31565,9 +31804,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 38,
+        "level": 39,
         "name": "Quantino",
-        "rank": 5,
+        "rank": 4,
         "region": "eu",
         "surname": "Pralino"
       },
@@ -31619,16 +31858,16 @@
       {
         "class": null,
         "guild": true,
-        "level": 12,
+        "level": 15,
         "name": "Pfeil",
-        "rank": 5,
+        "rank": 1,
         "region": "eu",
         "surname": "Gail"
       },
       {
         "class": null,
         "guild": true,
-        "level": 7,
+        "level": 8,
         "name": "Rama",
         "rank": 5,
         "region": "eu",
@@ -31637,18 +31876,27 @@
       {
         "class": null,
         "guild": true,
-        "level": 16,
+        "level": 18,
         "name": "Zugzug",
         "rank": 1,
         "region": "eu",
         "surname": "Graufuss"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 22,
+        "name": "Beast",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Eye"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795805697,
+  "saved_at": 1795806744,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -31977,6 +32225,45 @@
           "quests": 432
         },
         "xp": 56750
+      },
+      "eu:beast-eye": {
+        "achievements": 8,
+        "clears": {
+          "Ruins of Lordaeron": 1
+        },
+        "epics": [],
+        "level": 21,
+        "professions": {
+          "Cooking": 19,
+          "Enchanting": 20,
+          "First Aid": 69,
+          "Herbalism": 75
+        },
+        "rep": {
+          "Booty Bay": 1008,
+          "Darkspear Trolls": 8191,
+          "Everlook": 1008,
+          "Gadgetzan": 1008,
+          "Orgrimmar": 11117,
+          "Powderfuse": 1008,
+          "Ratchet": 1916,
+          "Thunder Bluff": 4465,
+          "Undercity": 1940,
+          "Warsong Outriders": 360
+        },
+        "stats": {
+          "deaths": 14,
+          "drinks": 22,
+          "flights": 9,
+          "food": 27,
+          "health_potions": 4,
+          "hearths": 2,
+          "honorable_kills": 94,
+          "killing_blows": 1010,
+          "mobs": 1286,
+          "quests": 116
+        },
+        "xp": 10797
       },
       "eu:blck-jck": {
         "achievements": 3,
