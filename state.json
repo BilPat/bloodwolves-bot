@@ -1834,7 +1834,7 @@
       },
       "ilvl": 22,
       "last_explored": "Teldrassil",
-      "last_login": 1795621310000,
+      "last_login": 1795809088000,
       "level": 26,
       "level_at": {
         "23": 1795383606,
@@ -6907,7 +6907,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795737660000,
+      "last_login": 1795808981000,
       "level": 34,
       "level_at": {
         "22": 1794866470,
@@ -6926,7 +6926,7 @@
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 269,
+        "Herbalism": 279,
         "Tailoring": 225
       },
       "race": "Undead",
@@ -7705,18 +7705,18 @@
       "spec": "Holy",
       "stats": {
         "critters": 37,
-        "deaths": 68,
-        "drinks": 197,
-        "flights": 115,
+        "deaths": 69,
+        "drinks": 209,
+        "flights": 117,
         "food": 154,
         "health_potions": 16,
-        "hearths": 70,
-        "killing_blows": 1666,
-        "mana_potions": 61,
-        "mobs": 4417,
+        "hearths": 71,
+        "killing_blows": 1716,
+        "mana_potions": 62,
+        "mobs": 4467,
         "quests": 258
       },
-      "xp": 34339
+      "xp": 49478
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -14534,7 +14534,7 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795741669000,
+      "last_login": 1795809062000,
       "level": 36,
       "level_at": {
         "27": 1794866470,
@@ -14855,13 +14855,13 @@
         "flights": 82,
         "food": 346,
         "health_potions": 10,
-        "hearths": 32,
+        "hearths": 33,
         "killing_blows": 2284,
         "mana_potions": 6,
         "mobs": 4376,
         "quests": 257
       },
-      "xp": 1991
+      "xp": 2271
     },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
@@ -31920,7 +31920,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795808399,
+  "saved_at": 1795809300,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
