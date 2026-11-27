@@ -20216,34 +20216,42 @@
       "achievements": {
         "61502": "Novice Druid",
         "62012": "Journeyman Alchemist",
+        "728": "Explore Durotar",
         "847": "Explore Stonetalon Mountains",
         "855": "Explore Moonglade"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/103/133291623-avatar.jpg",
       "best_item": {
-        "id": 5957,
+        "id": 4243,
         "ilvl": null,
-        "name": "Handstitched Leather Vest",
+        "name": "Fine Leather Tunic",
         "quality": "UNCOMMON",
         "slot": "Chest"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 1,
+          "instance": "Ragefire Chasm"
+        }
+      },
       "class": "Hunter",
       "dungeons": {},
       "first_seen": 1795721971,
       "gear": {},
       "ilvl": null,
-      "last_explored": "Stonetalon Mountains",
-      "last_login": 1795721551000,
-      "level": 11,
+      "last_explored": "Durotar",
+      "last_login": 1795801916000,
+      "level": 15,
       "level_at": {
-        "11": 1795721971
+        "11": 1795721971,
+        "15": 1795802109
       },
       "professions": {
         "Cooking": 1,
-        "First Aid": 22,
-        "Leatherworking": 81,
-        "Skinning": 95
+        "First Aid": 49,
+        "Leatherworking": 93,
+        "Skinning": 102
       },
       "race": "Troll",
       "raids": {},
@@ -20318,6 +20326,10 @@
             "name": "Gray Leather Boots"
           },
           {
+            "id": 1370,
+            "name": "Dark Leather Cloak"
+          },
+          {
             "id": 1708,
             "name": "Light Leather"
           },
@@ -20382,8 +20394,20 @@
             "name": "Handstitched Leather Vest"
           },
           {
+            "id": 4159,
+            "name": "Dark Leather Pants"
+          },
+          {
             "id": 52647,
             "name": "Camp Tent"
+          },
+          {
+            "id": 55184,
+            "name": "Forceful Medium Armor Kit"
+          },
+          {
+            "id": 55185,
+            "name": "Mystic Medium Armor Kit"
           },
           {
             "id": 55204,
@@ -20400,6 +20424,10 @@
           {
             "id": 55207,
             "name": "Black Whelp Slippers"
+          },
+          {
+            "id": 58812,
+            "name": "Light Leather Reagent Bag"
           }
         ],
         "Skinning": [
@@ -20416,36 +20444,43 @@
       "reputations": {
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7310,
+          "raw": 8632,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6735,
+          "raw": 8245,
           "tier": 4
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 900,
+          "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3175,
+          "raw": 3475,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 575,
+          "raw": 800,
           "tier": 3
         }
       },
-      "spec": "Marksmanship",
+      "spec": "Beast Mastery",
       "stats": {
         "critters": 1,
-        "flights": 1,
-        "food": 2,
-        "hearths": 5,
-        "killing_blows": 250,
-        "mobs": 323,
-        "quests": 50
+        "deaths": 1,
+        "flights": 2,
+        "food": 5,
+        "health_potions": 1,
+        "hearths": 8,
+        "killing_blows": 380,
+        "mobs": 543,
+        "quests": 73
       },
-      "xp": 6719
+      "xp": 1739
     },
     "eu:pippilotta-viktualiah": {
       "achievements": {
@@ -28496,6 +28531,20 @@
           "level": 32
         }
       },
+      "eu:pfeil-gail": {
+        "c": {
+          "name": "Pfeil",
+          "region": "eu",
+          "surname": "Gail"
+        },
+        "lines": [
+          "🎖️ [Erkundet Durotar](https://www.wowhead.com/forever/de/achievement=728)"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 15
+        }
+      },
       "eu:quantino-pralino": {
         "c": {
           "name": "Quantino",
@@ -28862,6 +28911,7 @@
     "Careful Aim": "Sorgfältiges Zielen",
     "Carrot on a Stick": "Karotte am Stiel",
     "Cartilage Shapers": "Knorpelformer",
+    "Carving Knife of the Tiger": "Schnitzmesser des Tigers",
     "Catacomb Cloak": "Katakombenumhang",
     "Cavedweller Bracers": "Höhlenbewohner-Armschienen",
     "Celestial Pauldrons of the Elder": "Himmlische Schulterstücke des Ältesten",
@@ -29384,6 +29434,7 @@
     "Heraldic Belt": "Heraldischer Gürtel",
     "Herbalism Skill": "Kräuterkundefertigkeit",
     "Herod's Shoulder": "Herods Schulter",
+    "Hickory Shortbow": "Hickory-Kurzbogen",
     "Hidden Belt": "Versteckter Gürtel",
     "Hidden Boots": "Versteckte Stiefel",
     "Hidden Bracers": "Versteckte Armschienen",
@@ -31554,7 +31605,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795801238,
+  "saved_at": 1795802111,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
