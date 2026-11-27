@@ -24227,6 +24227,11 @@
           "count": 2,
           "instance": "City of Dalaran"
         },
+        "63575": {
+          "boss": "Blazeroar",
+          "count": 1,
+          "instance": "Alcaz Prison"
+        },
         "63589": {
           "boss": "Lyn the Ignored",
           "count": 1,
@@ -24362,6 +24367,10 @@
           "name": "Jarkal's Enhancing Necklace",
           "quality": "RARE"
         },
+        "7939": {
+          "name": "Truesilver Breastplate",
+          "quality": "RARE"
+        },
         "9458": {
           "name": "Thermaplugg's Central Core",
           "quality": "RARE"
@@ -24373,7 +24382,7 @@
       },
       "ilvl": 37,
       "last_explored": "Shen'dralas",
-      "last_login": 1795773388000,
+      "last_login": 1795788211000,
       "level": 49,
       "level_at": {
         "35": 1794866470,
@@ -24661,6 +24670,10 @@
             "name": "Mystery Stew"
           },
           {
+            "id": 8623,
+            "name": "Dragonbreath Chili"
+          },
+          {
             "id": 3930,
             "name": "Strider Stew"
           },
@@ -24844,7 +24857,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9750,
+          "raw": -10500,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -24854,12 +24867,12 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 3160,
+          "raw": 3310,
           "tier": 4
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 9042,
+          "raw": 9432,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -24874,12 +24887,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 2755,
+          "raw": 2830,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 2767,
+          "raw": 2842,
           "tier": 3
         },
         "Gelkis Clan Centaur": {
@@ -24894,45 +24907,45 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9398,
+          "raw": 10295,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 3817,
+          "raw": 3892,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3230,
+          "raw": 3305,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 8263,
+          "raw": 8530,
           "tier": 4
         },
         "Undercity": {
           "name": "Revered",
-          "raw": 22106,
+          "raw": 22365,
           "tier": 6
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 117,
-        "deaths": 64,
-        "drinks": 43,
-        "flights": 125,
-        "food": 79,
-        "health_potions": 45,
-        "hearths": 52,
-        "killing_blows": 4050,
-        "mana_potions": 2,
-        "mobs": 9365,
-        "quests": 543
+        "critters": 118,
+        "deaths": 65,
+        "drinks": 45,
+        "flights": 129,
+        "food": 83,
+        "health_potions": 46,
+        "hearths": 55,
+        "killing_blows": 4190,
+        "mana_potions": 3,
+        "mobs": 9596,
+        "quests": 559
       },
-      "xp": 23027
+      "xp": 123028
     },
     "eu:zugzug-graufuss": {
       "achievements": {
@@ -26822,6 +26835,11 @@
           "count": 3,
           "instance": "Shadowfang Keep"
         },
+        "1093": {
+          "boss": "Scarlet Commander Mograine",
+          "count": 1,
+          "instance": "Scarlet Monastery"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 1,
@@ -26871,6 +26889,11 @@
           "boss": "Durgen Dirgehammer",
           "count": 1,
           "instance": "Hall of Thanes"
+        },
+        "6786": {
+          "boss": "High Inquisitor Whitemane",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         }
       },
       "class": "Warrior",
@@ -26879,6 +26902,10 @@
       "gear": {
         "10329": {
           "name": "Scarlet Belt",
+          "quality": "RARE"
+        },
+        "19509": {
+          "name": "Dusty Mail Boots",
           "quality": "RARE"
         },
         "250528": {
@@ -26985,6 +27012,10 @@
           "name": "Brawler Gloves",
           "quality": "RARE"
         },
+        "7718": {
+          "name": "Herod's Shoulder",
+          "quality": "RARE"
+        },
         "9446": {
           "name": "Electrocutioner Leg",
           "quality": "RARE"
@@ -27000,7 +27031,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795763735000,
+      "last_login": 1795788852000,
       "level": 38,
       "level_at": {
         "31": 1794965196,
@@ -27604,19 +27635,19 @@
       },
       "spec": "Protection",
       "stats": {
-        "critters": 199,
+        "critters": 201,
         "deaths": 31,
         "drinks": 2,
         "flights": 159,
-        "food": 213,
-        "health_potions": 46,
+        "food": 218,
+        "health_potions": 47,
         "hearths": 93,
         "honorable_kills": 2,
-        "killing_blows": 3350,
-        "mobs": 7926,
+        "killing_blows": 3385,
+        "mobs": 8085,
         "quests": 358
       },
-      "xp": 56809
+      "xp": 72954
     },
     "us:whizz-aard": {
       "achievements": {
@@ -28439,7 +28470,8 @@
           "surname": "Impalar"
         },
         "lines": [
-          "🤝 **Wohlwollend** bei Darkspear"
+          "🤝 **Wohlwollend** bei Darkspear",
+          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)"
         ],
         "snap": {
           "class": "Paladin",
@@ -28495,11 +28527,12 @@
           "surname": "appeal"
         },
         "lines": [
-          "🤝 **Wohlwollend** bei Eisenschmiede"
+          "🤝 **Wohlwollend** bei Eisenschmiede",
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen"
         ],
         "snap": {
           "class": "Warrior",
-          "level": 37
+          "level": 38
         }
       }
     },
@@ -29280,6 +29313,7 @@
     "Hellslayer Battle Axe": "Streitaxt des Höllenschlächters",
     "Heraldic Belt": "Heraldischer Gürtel",
     "Herbalism Skill": "Kräuterkundefertigkeit",
+    "Herod's Shoulder": "Herods Schulter",
     "Hidden Belt": "Versteckter Gürtel",
     "Hidden Boots": "Versteckte Stiefel",
     "Hidden Bracers": "Versteckte Armschienen",
@@ -29658,6 +29692,7 @@
     "Prismstone": "Prismastein",
     "Pristine Orcish Dagger": "Makelloser Orcdolch",
     "Privateer Musket": "Freibeutermuskete",
+    "Proc Self Heal 22": "Proc Selbstheilen 22",
     "Professions": "Berufe",
     "Professions at maximum skill": "Berufe auf maximaler Stufe",
     "Professions learned": "Erlernte Berufe",
@@ -29694,7 +29729,7 @@
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
     "Raptorbane Armor": "Raptorbannrüstung",
@@ -30115,6 +30150,7 @@
     "Trinket 1": "Schmuckstück 1",
     "Trinket 2": "Schmuckstück 2",
     "Triprunner Dungarees": "Stolperläufer-Latzhose",
+    "Truesilver Breastplate": "Echtsilberbrustplatte",
     "Tundra Boots": "Tundra-Stiefel",
     "Tundra Ring of the Bandit": "Tundraring des Gorillas",
     "Tundra Ring of the Gorilla": "Tundraring des Gorillas",
@@ -31425,7 +31461,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795787696,
+  "saved_at": 1795788944,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
