@@ -4407,6 +4407,7 @@
         "62019": "Expert Enchanter",
         "62024": "Journeyman Leatherworker",
         "62028": "Journeyman Tailor",
+        "62031": "Novice Spelunker",
         "769": "Explore Silverpine Forest"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/181/6286517-avatar.jpg",
@@ -4544,7 +4545,7 @@
       },
       "ilvl": 40,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795716337000,
+      "last_login": 1795791566000,
       "level": 48,
       "level_at": {
         "42": 1794866470,
@@ -14652,9 +14653,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 280076,
+        "id": 9534,
         "ilvl": null,
-        "name": "Horns of Varrox",
+        "name": "Engineer's Guild Headpiece",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -14721,7 +14722,7 @@
         },
         "6144": {
           "boss": "Shade of Eranikus",
-          "count": 1,
+          "count": 2,
           "instance": "Sunken Temple"
         },
         "63570": {
@@ -14738,6 +14739,11 @@
           "boss": "Shade of the Archmage",
           "count": 1,
           "instance": "City of Dalaran"
+        },
+        "63574": {
+          "boss": "Nanaya",
+          "count": 1,
+          "instance": "Shaper's Terrace"
         },
         "63575": {
           "boss": "Blazeroar",
@@ -14759,8 +14765,32 @@
       "dungeons": {},
       "first_seen": 1794866470,
       "gear": {
+        "10800": {
+          "name": "Darkwater Bracers of Healing",
+          "quality": "RARE"
+        },
+        "10808": {
+          "name": "Gloves of the Atal'ai Prophet",
+          "quality": "RARE"
+        },
+        "10828": {
+          "name": "Dire Nail of the Prophet",
+          "quality": "RARE"
+        },
         "11118": {
           "name": "Archaedic Stone of the Falcon",
+          "quality": "RARE"
+        },
+        "11123": {
+          "name": "Rainstrider Leggings",
+          "quality": "RARE"
+        },
+        "11832": {
+          "name": "Burst of Knowledge",
+          "quality": "RARE"
+        },
+        "11928": {
+          "name": "Thaurissan's Royal Scepter",
           "quality": "RARE"
         },
         "17743": {
@@ -14781,6 +14811,10 @@
         },
         "22204": {
           "name": "Wristguards of Renown",
+          "quality": "RARE"
+        },
+        "22272": {
+          "name": "Forest's Embrace",
           "quality": "RARE"
         },
         "22274": {
@@ -14819,6 +14853,10 @@
           "name": "Courier's Clasp",
           "quality": "RARE"
         },
+        "280011": {
+          "name": "Deeproar Cord",
+          "quality": "RARE"
+        },
         "280076": {
           "name": "Horns of Varrox",
           "quality": "RARE"
@@ -14838,7 +14876,7 @@
       },
       "ilvl": 53,
       "last_explored": "Feralas",
-      "last_login": 1795738104000,
+      "last_login": 1795792331000,
       "level": 60,
       "level_at": {
         "45": 1794866470,
@@ -15470,19 +15508,19 @@
           "tier": 5
         }
       },
-      "spec": "Feral Combat",
+      "spec": "Restoration",
       "stats": {
-        "critters": 144,
-        "deaths": 66,
-        "drinks": 293,
-        "flights": 299,
+        "critters": 162,
+        "deaths": 67,
+        "drinks": 299,
+        "flights": 306,
         "food": 321,
         "health_potions": 90,
         "hearths": 72,
         "honorable_kills": 1,
-        "killing_blows": 5528,
+        "killing_blows": 5541,
         "mana_potions": 10,
-        "mobs": 12588,
+        "mobs": 12825,
         "quests": 883
       },
       "xp": 0
@@ -28374,6 +28412,20 @@
           "level": 34
         }
       },
+      "eu:blut-leiche": {
+        "c": {
+          "name": "Blut",
+          "region": "eu",
+          "surname": "Leiche"
+        },
+        "lines": [
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
+        ],
+        "snap": {
+          "class": "Warlock",
+          "level": 48
+        }
+      },
       "eu:efrye-frostmage": {
         "c": {
           "name": "Efrye",
@@ -28802,6 +28854,7 @@
     "Cartilage Shapers": "Knorpelformer",
     "Catacomb Cloak": "Katakombenumhang",
     "Cavedweller Bracers": "Höhlenbewohner-Armschienen",
+    "Celestial Pauldrons of the Elder": "Himmlische Schulterstücke des Ältesten",
     "Cenarion Circle": "Zirkel des Cenarius",
     "Ceranium Rod": "Ceraniumrute",
     "Ceremonial Leather Ankleguards": "Zeremonieller Lederknöchelschutz",
@@ -28909,6 +28962,7 @@
     "Darkspear Islands battles": "Schlachten auf den Darkspear-Inseln",
     "Darkspear Raiders": "Darkspear-Räuber",
     "Darkspear Trolls": "Darkspear",
+    "Darkwater Bracers of Healing": "Dunkelwasserarmschienen der Heilung",
     "Darkwater Talwar": "Dunkelwassertalwar",
     "Deadly Aspects": "Tödliche Aspekte",
     "Deadmines": "Todesminen",
@@ -28929,6 +28983,7 @@
     "Deep River Cloak": "Tiefenfluss-Umhang",
     "Deep Woodlands Cloak": "Umhang des tiefen Waldlands",
     "Deep Wounds": "Tiefe Wunden",
+    "Deeproar Cord": "Kordel von Deeproar",
     "Defender Cloak of Shadow Wrath": "Verteidigerumhang des Schattenzorns",
     "Defender Gauntlets of the Tiger": "Verteidigerstulpen des Tigers",
     "Defender's Leather Hood": "Lederkapuze des Verteidigers",
@@ -28960,6 +29015,7 @@
     "Desertwalker Cane": "Stock des Wüstenläufers",
     "Destruction": "Zerstörung",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
+    "Dire Nail of the Prophet": "Terrornagel des Propheten",
     "Direhammer Leggings": "Düsterhammergamaschen",
     "Dirt-trodden Boots": "Schmutzstarrende Stiefel",
     "Disciple's Boots": "Jüngerstiefel",
@@ -29179,6 +29235,7 @@
     "Forest Leather Mantle": "Waldledermantel",
     "Forest Pendant of the Hierophant": "Waldanhänger des Hierophanten",
     "Forest Troll Leggings": "Waldtrollgamaschen",
+    "Forest's Embrace": "Umarmung des Waldes",
     "Formal White Shirt": "Formelles weißes Hemd",
     "Forsaken Bastard Sword": "Bastardschwert der Verlassenen",
     "Forsaken Dagger": "Dolch der Verlassenen",
@@ -29214,6 +29271,7 @@
     "Glimmering Mail Girdle": "Gleißender Panzergurt",
     "Glinteye Slippers": "Glanzaugenpantoffeln",
     "Glistening Stompers": "Glitzernde Stampfer",
+    "Gloves of the Atal'ai Prophet": "Prophetenhandschuhe der Atal'ai",
     "Gloves of the Fang": "Handschuhe des Giftzahns",
     "Gloves of the Moon": "Handschuhe des Mondes",
     "Gloves of the Pathfinder": "Handschuhe des Pfadfinders",
@@ -29411,6 +29469,7 @@
     "Improved Sunder Armor": "Verbessertes Rüstung zerreißen",
     "Improved Tactical Mastery": "Verbesserter Taktiker",
     "Improved Thunder Clap": "Verbesserter Donnerknall",
+    "Improved Tranquility": "Verbesserte Gelassenheit",
     "Improved Wrath": "Verbesserter Zorn",
     "Incineration": "Verbrennung",
     "Indoctrinated Choker": "Halsreif des Indoktrinierten",
@@ -29463,6 +29522,7 @@
     "Krol'dok Warplate Legplates": "Kriegsplattenbeinplatten von Krol'Dok",
     "Krol'dok Warplate Pauldrons": "Kriegsplattenschulterstücke von Krol'Dok",
     "Lacerate": "Aufschlitzen",
+    "Lagrave's Seal": "Lagraves Siegel",
     "Laminated Recurve Bow": "Laminierter Doppelbogen",
     "Laquered Wooden Plate Legplates": "Versiegelte Holzplattenbeinschienen",
     "Larcenist's Belt": "Diebesgürtel",
@@ -29588,6 +29648,8 @@
     "Mystic's Belt": "Mystikergürtel",
     "Mystic's Cape": "Mystikercape",
     "Naga Priestess's Mantle": "Mantel der Nagapriesterin",
+    "Nanaya": "Nanaya",
+    "Nanaya Kills (Shaper's Terrace)": "Siege über Nanaya (Terrasse des Formers)",
     "Natural Instinct": "Instinkt der Natur",
     "Natural Reaction": "Natürliche Reaktion",
     "Natural Shapeshifter": "Schnellwandlung",
@@ -29728,6 +29790,8 @@
     "Raider's Legguards of the Bear": "Räuber-Beinschützer des Bären",
     "Raider's Legguards of the Gorilla": "Räuber-Beinschützer des Gorillas",
     "Raincaller Cloak of the Bandit": "Regenmacherumhang des Banditen",
+    "Raincaster Drape": "Regenzauberertuch",
+    "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
     "Ranged": "Distanzwaffe",
     "Raptor Hide Cloak": "Raptorbalgumhang",
@@ -29911,6 +29975,7 @@
     "Shal'ma's Shawl": "Shal'mas Schal",
     "Shaman": "Schamane",
     "Shamanistic Focus": "Schamanistischer Fokus",
+    "Shaper's Terrace": "Terrasse des Formers",
     "Sharp Arrow": "Scharfer Pfeil",
     "Sharpened Claws": "Geschärfte Klauen",
     "Shen'dorei Skyseer's Belt": "Gürtel des Shen'dorei-Himmelsdeuters",
@@ -30080,6 +30145,7 @@
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
     "Thallium Choker of Power": "Thalliumhalsschmuck der Macht",
+    "Thaurissan's Royal Scepter": "Thaurissans königliches Szepter",
     "The Defilers": "Die Entweihten",
     "The Desert Rose": "Die Wüstenrose",
     "The League of Arathor": "Der Bund von Arathor",
@@ -30327,6 +30393,9 @@
         "Lyn the Ignored (City of Dalaran)": [
           "eu:fred-feuersturm"
         ],
+        "Nanaya (Shaper's Terrace)": [
+          "eu:krakmor-ci%C3%B3rdan"
+        ],
         "Shade of the Archmage (City of Dalaran)": [
           "eu:fred-feuersturm"
         ]
@@ -30366,7 +30435,16 @@
       },
       "raid": {}
     },
-    "firsts_pending": {},
+    "firsts_pending": {
+      "boss|Nanaya (Shaper's Terrace)": {
+        "keys": [
+          "eu:krakmor-ci%C3%B3rdan"
+        ],
+        "kind": "boss",
+        "since": 1795792542,
+        "what": "Nanaya (Shaper's Terrace)"
+      }
+    },
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -30910,7 +30988,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Alto",
         "rank": 4,
         "region": "eu",
@@ -30937,7 +31015,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 50,
+        "level": 51,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -31432,7 +31510,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 11,
+        "level": 12,
         "name": "Pfeil",
         "rank": 5,
         "region": "eu",
@@ -31450,9 +31528,9 @@
       {
         "class": null,
         "guild": true,
-        "level": 14,
+        "level": 16,
         "name": "Zugzug",
-        "rank": 5,
+        "rank": 1,
         "region": "eu",
         "surname": "Graufuss"
       }
@@ -31461,7 +31539,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795790449,
+  "saved_at": 1795792543,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
