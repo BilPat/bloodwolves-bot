@@ -3187,7 +3187,7 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795769544000,
+      "last_login": 1795785260000,
       "level": 56,
       "level_at": {
         "38": 1794866470,
@@ -12137,7 +12137,7 @@
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/4873569-avatar.jpg",
       "best_item": {
         "id": 19159,
-        "ilvl": 51,
+        "ilvl": null,
         "name": "Woven Ivy Necklace",
         "quality": "RARE",
         "slot": "Neck"
@@ -12147,6 +12147,11 @@
           "boss": "Scarlet Commander Mograine",
           "count": 1,
           "instance": "Scarlet Monastery"
+        },
+        "1094": {
+          "boss": "Chief Ukorz Sandscalp",
+          "count": 1,
+          "instance": "Zul'Farrak"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -12220,6 +12225,14 @@
           "name": "Woven Ivy Necklace",
           "quality": "RARE"
         },
+        "274642": {
+          "name": "Blood Ritual Ring",
+          "quality": "RARE"
+        },
+        "274648": {
+          "name": "The Desert Rose",
+          "quality": "RARE"
+        },
         "274996": {
           "name": "Resistance Breaker Spaulder",
           "quality": "RARE"
@@ -12239,12 +12252,16 @@
         "7747": {
           "name": "Vile Protector",
           "quality": "RARE"
+        },
+        "9640": {
+          "name": "Vice Grips of the Tiger",
+          "quality": "RARE"
         }
       },
       "ilvl": 46,
       "last_explored": "The Hinterlands",
-      "last_login": 1795432942000,
-      "level": 49,
+      "last_login": 1795785761000,
+      "level": 51,
       "level_at": {
         "42": 1794866470,
         "44": 1794878167,
@@ -12252,26 +12269,23 @@
         "46": 1795224302,
         "47": 1795273985,
         "48": 1795315195,
-        "49": 1795374757
+        "49": 1795374757,
+        "51": 1795785940
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
         "Fishing": 210,
-        "Mining": 197,
-        "Skinning": 246
+        "Mining": 200,
+        "Skinning": 259
       },
       "race": "Tauren",
       "raids": {},
       "recipes": {
         "Cooking": [
           {
-            "id": 4786,
-            "name": "Herb Baked Egg"
-          },
-          {
-            "id": 52640,
-            "name": "Basic Campfire"
+            "id": 1535,
+            "name": "Charred Wolf Meat"
           },
           {
             "id": 1536,
@@ -12282,22 +12296,26 @@
             "name": "Roasted Boar Meat"
           },
           {
-            "id": 1535,
-            "name": "Charred Wolf Meat"
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
           }
         ],
         "First Aid": [
           {
-            "id": 54191,
-            "name": "Minor Healing Potion"
+            "id": 1838,
+            "name": "Linen Bandage"
           },
           {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
-            "id": 1838,
-            "name": "Linen Bandage"
+            "id": 54191,
+            "name": "Minor Healing Potion"
           }
         ],
         "Fishing": [
@@ -12312,16 +12330,24 @@
         ],
         "Mining": [
           {
-            "id": 3324,
-            "name": "Smelt Copper"
+            "id": 1846,
+            "name": "Smelt Gold"
+          },
+          {
+            "id": 1847,
+            "name": "Smelt Iron"
+          },
+          {
+            "id": 1848,
+            "name": "Smelt Tin"
           },
           {
             "id": 1570,
             "name": "Mining"
           },
           {
-            "id": 1847,
-            "name": "Smelt Iron"
+            "id": 1599,
+            "name": "Smelt Silver"
           },
           {
             "id": 1600,
@@ -12332,45 +12358,37 @@
             "name": "Mining"
           },
           {
-            "id": 5387,
-            "name": "Smelt Mithril"
-          },
-          {
-            "id": 1846,
-            "name": "Smelt Gold"
-          },
-          {
-            "id": 1848,
-            "name": "Smelt Tin"
-          },
-          {
-            "id": 52643,
-            "name": "Lodestone"
-          },
-          {
             "id": 2037,
             "name": "Smelt Steel"
           },
           {
-            "id": 1599,
-            "name": "Smelt Silver"
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 5387,
+            "name": "Smelt Mithril"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
           }
         ],
         "Skinning": [
           {
-            "id": 52644,
-            "name": "Camp Chair"
-          },
-          {
             "id": 5746,
             "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
           }
         ]
       },
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -20275,
+          "raw": -20775,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -12380,7 +12398,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 8065,
+          "raw": 8790,
           "tier": 4
         },
         "Darkspear Trolls": {
@@ -12395,12 +12413,12 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 6443,
+          "raw": 7118,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 7313,
+          "raw": 8613,
           "tier": 4
         },
         "Orgrimmar": {
@@ -12410,12 +12428,12 @@
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 7603,
+          "raw": 8278,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 8135,
+          "raw": 8810,
           "tier": 4
         },
         "Thunder Bluff": {
@@ -12435,14 +12453,14 @@
         "deaths": 79,
         "drinks": 2,
         "flights": 114,
-        "food": 188,
-        "health_potions": 135,
-        "hearths": 31,
-        "killing_blows": 4165,
-        "mobs": 7151,
-        "quests": 612
+        "food": 192,
+        "health_potions": 136,
+        "hearths": 32,
+        "killing_blows": 4402,
+        "mobs": 7701,
+        "quests": 632
       },
-      "xp": 122349
+      "xp": 4804
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -28340,6 +28358,21 @@
           "level": 10
         }
       },
+      "eu:h%C3%A4uptling-blutmacht": {
+        "c": {
+          "name": "Häuptling",
+          "rank_name": "Gildenmeister",
+          "region": "eu",
+          "surname": "Blutmacht"
+        },
+        "lines": [
+          "🗝️ **[Zul'Farrak](https://www.wowhead.com/forever/de/search?q=Zul%27Farrak)** zum ersten Mal abgeschlossen"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 51
+        }
+      },
       "eu:ignatius-glattsteyn": {
         "c": {
           "name": "Ignatius",
@@ -28644,6 +28677,7 @@
     "Block Value": "Blocken",
     "Blood Craze": "Blutwahnsinn",
     "Blood Frenzy": "Blutraserei",
+    "Blood Ritual Ring": "Blutritualring",
     "Blood Splatter": "Blutspritzer",
     "Bloodforged Shoulder Pads of Magic": "Blutgeschmiedete Schulterpolster der Magie",
     "Bloodied Chestwraps": "Blutige Brustwickel",
@@ -29368,6 +29402,7 @@
     "Ivycloth Pants of the Eagle": "Efeustoffhose des Adlers",
     "Jacinth Circle of the Bandit": "Hyazinth-Reif des Banditen",
     "Jacinth Circle of the Beast": "Hyazinth-Reif der Bestie",
+    "Jade Belt of the Champion": "Jadegürtel des Champions",
     "Jagged Dagger": "Gezackter Dolch",
     "Jarkal's Enhancing Necklace": "Jarkals intensivierende Halskette",
     "Jet Chain of the Monkey": "Jettkette des Affen",
@@ -30011,6 +30046,7 @@
     "Templar's Bulwark": "Bollwerk des Templers",
     "Thallium Choker of Power": "Thalliumhalsschmuck der Macht",
     "The Defilers": "Die Entweihten",
+    "The Desert Rose": "Die Wüstenrose",
     "The League of Arathor": "Der Bund von Arathor",
     "Theka's Last Breath": "Thekas letzter Atemzug",
     "Thendal Novice's Shirt": "Hemd des Novizen von Thendal",
@@ -30126,6 +30162,7 @@
     "Veteran's Chain Helm": "Kettenhelm des Veteranen",
     "Veteran's Silvered Chain Helm": "Versilberter Kettenhelm des Veteranen",
     "Veteran's Silvered Chain Shirt": "Versilbertes Kettenhemd des Veteranen",
+    "Vice Grips of the Tiger": "Zwingenhandschutz des Tigers",
     "Vigor": "Lebenskraft",
     "Vile Poisons": "Üble Gifte",
     "Vile Protector": "Grässlicher Beschützer",
@@ -30332,7 +30369,8 @@
       ],
       "50": [
         "eu:krakmor-ci%C3%B3rdan",
-        "eu:baumora-axiom"
+        "eu:baumora-axiom",
+        "eu:h%C3%A4uptling-blutmacht"
       ],
       "60": [
         "eu:krakmor-ci%C3%B3rdan"
@@ -31387,7 +31425,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795785360,
+  "saved_at": 1795785942,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
