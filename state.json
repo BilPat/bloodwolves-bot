@@ -14914,6 +14914,380 @@
       },
       "xp": 31022
     },
+    "eu:klebrige-finger": {
+      "achievements": {
+        "61502": "Novice Druid",
+        "61997": "Novice Paladin",
+        "62012": "Journeyman Alchemist",
+        "62018": "Journeyman Enchanter",
+        "62021": "Journeyman Engineer",
+        "62024": "Journeyman Leatherworker",
+        "62031": "Novice Spelunker",
+        "728": "Explore Durotar",
+        "736": "Explore Mulgore",
+        "802": "Explore Westfall",
+        "846": "Explore Thousand Needles",
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/127/70285695-avatar.jpg",
+      "best_item": {
+        "id": 1121,
+        "ilvl": null,
+        "name": "Feet of the Lynx",
+        "quality": "RARE",
+        "slot": "Feet"
+      },
+      "boss_kills": {
+        "15027": {
+          "boss": "Bazzalan",
+          "count": 2,
+          "instance": "Ragefire Chasm"
+        }
+      },
+      "class": "Rogue",
+      "dungeons": {},
+      "first_seen": 1795821218,
+      "gear": {
+        "1121": {
+          "name": "Feet of the Lynx",
+          "quality": "RARE"
+        },
+        "14151": {
+          "name": "Chanting Blade",
+          "quality": "RARE"
+        },
+        "2059": {
+          "name": "Sentry Cloak",
+          "quality": "RARE"
+        },
+        "2256": {
+          "name": "Skeletal Club",
+          "quality": "RARE"
+        },
+        "272999": {
+          "name": "Barbaric Crossbow",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": null,
+      "last_explored": "Thousand Needles",
+      "last_login": 1795812474000,
+      "level": 19,
+      "level_at": {
+        "19": 1795821218
+      },
+      "professions": {
+        "Cooking": 1,
+        "Engineering": 150,
+        "First Aid": 68,
+        "Fishing": 2,
+        "Mining": 108
+      },
+      "race": "Orc",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "Engineering": [
+          {
+            "id": 2437,
+            "name": "Shadow Goggles"
+          },
+          {
+            "id": 2438,
+            "name": "Small Bronze Bomb"
+          },
+          {
+            "id": 2439,
+            "name": "Whirring Bronze Gizmo"
+          },
+          {
+            "id": 2441,
+            "name": "Heavy Blasting Powder"
+          },
+          {
+            "id": 2442,
+            "name": "Heavy Dynamite"
+          },
+          {
+            "id": 2443,
+            "name": "Crafted Solid Shot"
+          },
+          {
+            "id": 2444,
+            "name": "Silver-plated Shotgun"
+          },
+          {
+            "id": 2445,
+            "name": "Big Bronze Bomb"
+          },
+          {
+            "id": 2447,
+            "name": "Bronze Framework"
+          },
+          {
+            "id": 2449,
+            "name": "Explosive Sheep"
+          },
+          {
+            "id": 2450,
+            "name": "Green Tinted Goggles"
+          },
+          {
+            "id": 12421,
+            "name": "Green Firework"
+          },
+          {
+            "id": 2413,
+            "name": "Rough Blasting Powder"
+          },
+          {
+            "id": 2414,
+            "name": "Rough Dynamite"
+          },
+          {
+            "id": 2415,
+            "name": "Crafted Light Shot"
+          },
+          {
+            "id": 2417,
+            "name": "Handful of Copper Bolts"
+          },
+          {
+            "id": 2418,
+            "name": "Rough Copper Bomb"
+          },
+          {
+            "id": 2419,
+            "name": "Copper Tube"
+          },
+          {
+            "id": 2420,
+            "name": "Rough Boomstick"
+          },
+          {
+            "id": 2421,
+            "name": "Crude Scope"
+          },
+          {
+            "id": 2422,
+            "name": "Silver Contact"
+          },
+          {
+            "id": 2423,
+            "name": "Copper Modulator"
+          },
+          {
+            "id": 2425,
+            "name": "Coarse Blasting Powder"
+          },
+          {
+            "id": 2426,
+            "name": "Crafted Heavy Shot"
+          },
+          {
+            "id": 2427,
+            "name": "Coarse Dynamite"
+          },
+          {
+            "id": 2428,
+            "name": "Target Dummy"
+          },
+          {
+            "id": 2430,
+            "name": "Flying Tiger Goggles"
+          },
+          {
+            "id": 2431,
+            "name": "Deadly Blunderbuss"
+          },
+          {
+            "id": 2432,
+            "name": "Large Copper Bomb"
+          },
+          {
+            "id": 2433,
+            "name": "Bronze Tube"
+          },
+          {
+            "id": 2435,
+            "name": "Standard Scope"
+          },
+          {
+            "id": 4606,
+            "name": "Practice Lock"
+          },
+          {
+            "id": 4607,
+            "name": "EZ-Thro Dynamite"
+          },
+          {
+            "id": 5067,
+            "name": "Aquadynamic Fish Attractor"
+          },
+          {
+            "id": 3945,
+            "name": "Ornate Spyglass"
+          },
+          {
+            "id": 4294,
+            "name": "Arclight Spanner"
+          },
+          {
+            "id": 6857,
+            "name": "Gold Power Core"
+          },
+          {
+            "id": 52650,
+            "name": "Reagent Bot"
+          },
+          {
+            "id": 54457,
+            "name": "Sandpaper"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          },
+          {
+            "id": 54191,
+            "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          }
+        ],
+        "Mining": [
+          {
+            "id": 1848,
+            "name": "Smelt Tin"
+          },
+          {
+            "id": 1570,
+            "name": "Mining"
+          },
+          {
+            "id": 1599,
+            "name": "Smelt Silver"
+          },
+          {
+            "id": 1600,
+            "name": "Smelt Bronze"
+          },
+          {
+            "id": 3324,
+            "name": "Smelt Copper"
+          },
+          {
+            "id": 52643,
+            "name": "Lodestone"
+          }
+        ]
+      },
+      "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 1461,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 8113,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 1461,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 1461,
+          "tier": 3
+        },
+        "Orgrimmar": {
+          "name": "Honored",
+          "raw": 10732,
+          "tier": 5
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 1461,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 2822,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 4012,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 1412,
+          "tier": 3
+        },
+        "Warsong Outriders": {
+          "name": "Neutral",
+          "raw": 150,
+          "tier": 3
+        }
+      },
+      "spec": "Subtlety",
+      "stats": {
+        "deaths": 21,
+        "flights": 17,
+        "food": 3,
+        "health_potions": 7,
+        "hearths": 11,
+        "honorable_kills": 81,
+        "killing_blows": 748,
+        "mobs": 979,
+        "quests": 108
+      },
+      "xp": 6976
+    },
     "eu:krakmor-ci%C3%B3rdan": {
       "achievements": {
         "61502": "Novice Druid",
@@ -20817,7 +21191,7 @@
       "gear": {},
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795740162000,
+      "last_login": 1795820498000,
       "level": 16,
       "level_at": {
         "16": 1795763831
@@ -20825,8 +21199,8 @@
       "professions": {
         "Cooking": 24,
         "First Aid": 53,
-        "Leatherworking": 38,
-        "Skinning": 123
+        "Leatherworking": 40,
+        "Skinning": 124
       },
       "race": "Troll",
       "raids": {},
@@ -20961,7 +21335,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7882,
+          "raw": 7945,
           "tier": 4
         },
         "Everlook": {
@@ -20976,7 +21350,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7513,
+          "raw": 7707,
           "tier": 4
         },
         "Powderfuse": {
@@ -20991,27 +21365,27 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3393,
+          "raw": 3456,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2137,
+          "raw": 2256,
           "tier": 3
         }
       },
       "spec": "Elemental Combat",
       "stats": {
-        "critters": 6,
-        "deaths": 19,
-        "drinks": 14,
-        "food": 23,
+        "critters": 7,
+        "deaths": 20,
+        "drinks": 16,
+        "food": 28,
         "hearths": 1,
-        "killing_blows": 749,
-        "mobs": 1227,
-        "quests": 81
+        "killing_blows": 786,
+        "mobs": 1263,
+        "quests": 84
       },
-      "xp": 3182
+      "xp": 9256
     },
     "eu:quantino-pralino": {
       "achievements": {
@@ -28103,9 +28477,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-us/character/151/7402647-avatar.jpg",
       "best_item": {
-        "id": 281321,
+        "id": 7746,
         "ilvl": null,
-        "name": "Giantstone Medallion",
+        "name": "Explorers' League Commendation",
         "quality": "RARE",
         "slot": "Neck"
       },
@@ -28114,6 +28488,11 @@
           "boss": "Archmage Arugal",
           "count": 1,
           "instance": "Shadowfang Keep"
+        },
+        "1093": {
+          "boss": "Scarlet Commander Mograine",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         },
         "15027": {
           "boss": "Bazzalan",
@@ -28164,6 +28543,11 @@
           "boss": "Durgen Dirgehammer",
           "count": 1,
           "instance": "Hall of Thanes"
+        },
+        "6786": {
+          "boss": "High Inquisitor Whitemane",
+          "count": 1,
+          "instance": "Scarlet Monastery"
         }
       },
       "class": "Mage",
@@ -28210,6 +28594,10 @@
           "name": "Thornweaver Drape",
           "quality": "RARE"
         },
+        "276898": {
+          "name": "Salve and Salvation",
+          "quality": "RARE"
+        },
         "281312": {
           "name": "Fallen Dragon's Scepter",
           "quality": "RARE"
@@ -28234,6 +28622,14 @@
           "name": "Bloodmage Mantle",
           "quality": "RARE"
         },
+        "7714": {
+          "name": "Hypnotic Blade",
+          "quality": "RARE"
+        },
+        "7746": {
+          "name": "Explorers' League Commendation",
+          "quality": "RARE"
+        },
         "9448": {
           "name": "Spidertank Oilrag",
           "quality": "RARE"
@@ -28241,8 +28637,8 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795802944000,
-      "level": 34,
+      "last_login": 1795820230000,
+      "level": 35,
       "level_at": {
         "28": 1794965196,
         "29": 1795061895,
@@ -28250,13 +28646,14 @@
         "31": 1795490340,
         "32": 1795498767,
         "33": 1795649117,
-        "34": 1795668038
+        "34": 1795668038,
+        "35": 1795821218
       },
       "professions": {
         "Cooking": 65,
-        "Enchanting": 201,
+        "Enchanting": 205,
         "First Aid": 80,
-        "Tailoring": 134
+        "Tailoring": 143
       },
       "race": "Human",
       "raids": {},
@@ -28371,6 +28768,14 @@
           {
             "id": 7426,
             "name": "Enchant Weapon - Lesser Striking"
+          },
+          {
+            "id": 7530,
+            "name": "Enchant 2H Weapon - Impact"
+          },
+          {
+            "id": 7532,
+            "name": "Enchant Chest - Lesser Stats"
           },
           {
             "id": 7999,
@@ -28645,6 +29050,10 @@
             "name": "Azure Silk Vest"
           },
           {
+            "id": 2396,
+            "name": "Boots of the Enchanter"
+          },
+          {
             "id": 3973,
             "name": "Pearl-clasped Cloak"
           },
@@ -28715,6 +29124,10 @@
           {
             "id": 55367,
             "name": "Woolen Reagent Bag"
+          },
+          {
+            "id": 57018,
+            "name": "Spinning Wheel"
           }
         ]
       },
@@ -28735,9 +29148,9 @@
           "tier": 3
         },
         "Darnassus": {
-          "name": "Friendly",
-          "raw": 8976,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9038,
+          "tier": 5
         },
         "Everlook": {
           "name": "Neutral",
@@ -28751,17 +29164,17 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7068,
+          "raw": 7131,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8647,
+          "raw": 8822,
           "tier": 4
         },
         "Kirin Tor": {
           "name": "Friendly",
-          "raw": 3465,
+          "raw": 3565,
           "tier": 4
         },
         "Powderfuse": {
@@ -28776,26 +29189,26 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 15371,
+          "raw": 15508,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
-        "critters": 85,
-        "deaths": 75,
-        "drinks": 949,
-        "flights": 59,
-        "food": 139,
-        "health_potions": 50,
+        "critters": 86,
+        "deaths": 78,
+        "drinks": 1019,
+        "flights": 61,
+        "food": 143,
+        "health_potions": 51,
         "hearths": 28,
         "honorable_kills": 1,
-        "killing_blows": 2038,
-        "mana_potions": 19,
-        "mobs": 4891,
-        "quests": 311
+        "killing_blows": 2092,
+        "mana_potions": 21,
+        "mobs": 5012,
+        "quests": 315
       },
-      "xp": 23937
+      "xp": 1267
     }
   },
   "craft_board": {
@@ -28847,6 +29260,21 @@
         "snap": {
           "class": "Warrior",
           "level": 39
+        }
+      },
+      "us:whizz-aard": {
+        "c": {
+          "name": "whizz",
+          "region": "us",
+          "surname": "aard"
+        },
+        "lines": [
+          "🗝️ **[Scarlet Monastery: Cathedral](https://www.wowhead.com/forever/de/search?q=Scarlet%20Monastery%3A%20Cathedral)** zum ersten Mal abgeschlossen",
+          "🤝 **Wohlwollend** bei Darnassus"
+        ],
+        "snap": {
+          "class": "Mage",
+          "level": 35
         }
       }
     },
@@ -28946,6 +29374,7 @@
     "Bandit Bracers of the Owl": "Banditen-Armschienen der Eule",
     "Bandit Cinch of the Boar": "Banditen-Sattelgurt des Ebers",
     "Bandit Gloves of Intellect": "Banditen-Handschuhe der Intelligenz",
+    "Bandit Jerkin of Power": "Banditen-Wams der Macht",
     "Bandit Pants of Stamina": "Banditen-Hose der Ausdauer",
     "Bandit Pants of the Monkey": "Banditen-Hose des Affen",
     "Bands of Serra'kis": "Bänder von Serra'kis",
@@ -29122,6 +29551,7 @@
     "Cartilage Shapers": "Knorpelformer",
     "Carving Knife of the Tiger": "Schnitzmesser des Tigers",
     "Catacomb Cloak": "Katakombenumhang",
+    "Cauldron Stirrer": "Kesselrührer",
     "Cavedweller Bracers": "Höhlenbewohner-Armschienen",
     "Celestial Pauldrons of the Elder": "Himmlische Schulterstücke des Ältesten",
     "Cenarion Circle": "Zirkel des Cenarius",
@@ -29402,6 +29832,7 @@
     "Enchant Gloves - Agility": "Handschuhe - Beweglichkeit",
     "Enchant Shield - Greater Stamina": "Schild - Große Ausdauer",
     "Enchant Weapon - Lesser Striking": "Waffe - Geringes Schlagen",
+    "Enchant Weapon - Minor Striking": "Waffe - Schwaches Schlagen",
     "Enchant Weapon - Recovery": "Waffe - Erholung",
     "Enchanted Kodo Bracers": "Verzauberte Kodoarmschienen",
     "Enchanted Sandals": "Verzauberte Sandalen",
@@ -29410,6 +29841,7 @@
     "Endurance Training": "Belastbarkeit-Ausbildung",
     "Engineer's Cloak": "Ingenieurs-Umhang",
     "Engineer's Guild Headpiece": "Ingenieursgildenkopfstück",
+    "Engineering": "Ingenieurskunst",
     "Engineering Schematics learned": "Erlernte Ingenieurskunstschemata",
     "Enhancement": "Verstärkung",
     "Enrage": "Wutanfall",
@@ -29427,6 +29859,7 @@
     "Executor Staff": "Stab des Exekutors",
     "Expertise": "Waffenkunde",
     "Exploding Shot": "Explosivgeschoss",
+    "Explorers' League Commendation": "Forscherliga-Empfehlung",
     "Eye of the Storm": "Auge des Sturms",
     "Fade": "Verblassen",
     "Fallbrush Handgrips": "Kristallnietenhandschutz",
@@ -29438,6 +29871,7 @@
     "Feathered Arrow": "Gefiederter Pfeil",
     "Featherskin Cape": "Federhautcape",
     "Feet": "Füße",
+    "Feet of the Lynx": "Füße des Luchses",
     "Fel Concentration": "Teufelskonzentration",
     "Fel Vitality": "Teuflische Vitalität",
     "Felbough Arm": "Teufelsastwaffe",
@@ -29451,6 +29885,7 @@
     "Feral Cord of the Tiger": "Wild-Kordel des Tigers",
     "Feral Harness of Nature Protection": "Wildharnisch des Naturschutzes",
     "Feral Instinct": "Instinkt der Wildnis",
+    "Feral Shoulder Pads": "Wild-Schulterpolster",
     "Feral Swiftness": "Schnelligkeit der Wildnis",
     "Ferine Leggings": "Ferinen-Gamaschen",
     "Ferocity": "Wildheit",
@@ -29499,6 +29934,7 @@
     "Flimsy Chain Bracers": "Sehr leichte Kettenarmschienen",
     "Flimsy Chain Gloves": "Sehr leichte Kettenhandschuhe",
     "Flurry": "Schlaghagel",
+    "Flying Tiger Goggles": "Fliegerbrille",
     "Focused Fire": "Konzentriertes Feuer",
     "Focused Rage": "Fokussierte Wut",
     "Food eaten": "Nahrung konsumiert",
@@ -29573,6 +30009,7 @@
     "Greasy Tinker's Pants": "Schmierige Tüftlerhose",
     "Greater Firestone": "Großer Feuerstein",
     "Greater Magic Wand": "Großer Magiezauberstab",
+    "Greater Mystic Wand": "Großer Mystikerzauberstab",
     "Greaves of the People's Militia": "Schienbeinschützer der Volksmiliz",
     "Greed rolls made on loot": "Würfe für Gier bei Plünderungen",
     "Green Iron Bracers": "Grüne Eisenarmschienen",
@@ -29885,6 +30322,7 @@
     "Marshdweller's Pants": "Hose des Sumpfbewohners",
     "Master Demonologist": "Meister der Dämonologie",
     "Master Hunter's Wand": "Zauberstab des Meisterjägers",
+    "Master of Deception": "Meister der Täuschung",
     "Master of Defense": "Meister der Verteidigung",
     "Master of Elements": "Meister der Elemente",
     "Materials produced from disenchanting": "Durch Entzaubern produzierte Materialien",
@@ -30188,6 +30626,7 @@
     "Sage's Gloves of the Channeler": "Weisenhandschuhe des Kanalisierers",
     "Saltseer's Helm": "Helm des Salzsehers",
     "Salvaged Wooden Tower Shield": "Geborgener Holzturmschild",
+    "Salve and Salvation": "Das große Buch der Heilsalben",
     "Sanctified Judgement": "Gesegnetes Richturteil",
     "Sandals of the Insurgent": "Sandalen des Aufrührers",
     "Sandrunner Wristguards": "Sandläuferhandgelenksschützer",
@@ -30215,6 +30654,7 @@
     "Scarlet Retribution": "Scharlachrote Vergeltung",
     "Scarlet Wristguards": "Scharlachroter Handgelenksschutz",
     "Scorching Wand": "Zauberstab des Versengens",
+    "Scouting Gloves of the Monkey": "Späherhandschuhe des Affen",
     "Scouting Gloves of the Tiger": "Späherhandschuhe des Tigers",
     "Scouting Spaulders": "Späherschiftung",
     "Scouting Trousers of the Tiger": "Späherhose des Tigers",
@@ -30238,6 +30678,7 @@
     "Sentinel Cloak of the Knight": "Schildwachenumhang des Ritters",
     "Sentinel Shoulders of the Tiger": "Schildwachenschultern des Tigers",
     "Sentinel's Slasher": "Schlitzer der Schildwache",
+    "Sentry Cloak": "Wachpostenumhang",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Sentry's Leggings of the Tiger": "Wachpostengamaschen des Tigers",
     "Sentry's Shoulderguards": "Wachpostenschulterschutz",
@@ -30304,6 +30745,7 @@
     "Simple Linen Pants": "Einfache Leinenhose",
     "Simple Robe": "Einfache Robe",
     "Siphon Life": "Lebensentzug",
+    "Skeletal Club": "Skelettkeule",
     "Skills": "Fertigkeiten",
     "Skinning Knife": "Kürschnermesser",
     "Skinning Skill": "Kürschnerfertigkeit",
@@ -30965,6 +31407,12 @@
         "3130": "Veteran Adventurer's Loyal Companion"
       }
     },
+    "eu:klebrige-finger": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
     "eu:krakmor-ci%c3%b3rdan": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
@@ -31206,6 +31654,7 @@
       "keta-f%C3%A4se": "Keta Fäse",
       "khaladin-ronen": "Khaladin Ronen",
       "klabusta-beren": "Klabusta Beren",
+      "klebrige-finger": "Klebrige Finger",
       "krakmor-ci%C3%B3rdan": "Krakmor Ciórdan",
       "kreuzaua-scoops": "Kreuzaua Scoops",
       "lagertha-graufuss": "Lagertha Graufuss",
@@ -31315,7 +31764,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 51,
+        "level": 52,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -31459,7 +31908,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 40,
+        "level": 41,
         "name": "Fred",
         "rank": 4,
         "region": "eu",
@@ -31522,7 +31971,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 26,
+        "level": 27,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -31605,7 +32054,7 @@
         "guild": true,
         "level": 28,
         "name": "Christopher",
-        "rank": 5,
+        "rank": 4,
         "region": "eu",
         "surname": "Kuhlumbus"
       },
@@ -31749,7 +32198,7 @@
         "guild": true,
         "level": 16,
         "name": "Pippilotta",
-        "rank": 5,
+        "rank": 4,
         "region": "eu",
         "surname": "Viktualiah"
       },
@@ -31819,7 +32268,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 8,
+        "level": 9,
         "name": "Rama",
         "rank": 5,
         "region": "eu",
@@ -31837,18 +32286,27 @@
       {
         "class": null,
         "guild": true,
-        "level": 22,
+        "level": 24,
         "name": "Beast",
         "rank": 4,
         "region": "eu",
         "surname": "Eye"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 19,
+        "name": "Klebrige",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Finger"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795820129,
+  "saved_at": 1795821219,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -33243,6 +33701,44 @@
           "quests": 209
         },
         "xp": 35617
+      },
+      "eu:klebrige-finger": {
+        "achievements": 12,
+        "clears": {},
+        "epics": [],
+        "level": 19,
+        "professions": {
+          "Cooking": 1,
+          "Engineering": 150,
+          "First Aid": 68,
+          "Fishing": 2,
+          "Mining": 108
+        },
+        "rep": {
+          "Booty Bay": 1461,
+          "Darkspear Trolls": 8113,
+          "Durotar Supply and Logistics": 2000,
+          "Everlook": 1461,
+          "Gadgetzan": 1461,
+          "Orgrimmar": 10732,
+          "Powderfuse": 1461,
+          "Ratchet": 2822,
+          "Thunder Bluff": 4012,
+          "Undercity": 1412,
+          "Warsong Outriders": 150
+        },
+        "stats": {
+          "deaths": 21,
+          "flights": 17,
+          "food": 3,
+          "health_potions": 7,
+          "hearths": 11,
+          "honorable_kills": 81,
+          "killing_blows": 748,
+          "mobs": 979,
+          "quests": 108
+        },
+        "xp": 6976
       },
       "eu:krakmor-ci%C3%B3rdan": {
         "achievements": 21,
