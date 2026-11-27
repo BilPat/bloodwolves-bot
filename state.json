@@ -26390,8 +26390,8 @@
       },
       "ilvl": 28,
       "last_explored": "Wetlands",
-      "last_login": 1795662236000,
-      "level": 34,
+      "last_login": 1795800919000,
+      "level": 35,
       "level_at": {
         "26": 1794965196,
         "27": 1795005720,
@@ -26401,7 +26401,8 @@
         "31": 1795288333,
         "32": 1795437784,
         "33": 1795584444,
-        "34": 1795663859
+        "34": 1795663859,
+        "35": 1795801233
       },
       "professions": {
         "Alchemy": 220,
@@ -26796,7 +26797,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 16331,
+          "raw": 16362,
           "tier": 5
         },
         "Everlook": {
@@ -26811,12 +26812,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 8045,
+          "raw": 8076,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 7693,
+          "raw": 7725,
           "tier": 4
         },
         "Kirin Tor": {
@@ -26836,7 +26837,7 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 10257,
+          "raw": 10382,
           "tier": 5
         }
       },
@@ -26845,17 +26846,17 @@
         "critters": 67,
         "deaths": 48,
         "drinks": 126,
-        "flights": 69,
-        "food": 67,
+        "flights": 72,
+        "food": 68,
         "health_potions": 69,
-        "hearths": 30,
+        "hearths": 31,
         "honorable_kills": 1,
-        "killing_blows": 1270,
+        "killing_blows": 1275,
         "mana_potions": 61,
-        "mobs": 4158,
-        "quests": 309
+        "mobs": 4163,
+        "quests": 321
       },
-      "xp": 55692
+      "xp": 929
     },
     "us:steel-appeal": {
       "achievements": {
@@ -29180,6 +29181,7 @@
     "Felbough Arm": "Teufelsastwaffe",
     "Feline Mantle": "Felinen-Mantel",
     "Female": "Weiblich",
+    "Fen Ring of the Tiger": "Moorring des Tigers",
     "Fenrus' Hide": "Fenrus' Balg",
     "Feral Bindings of Nature's Wrath": "Wild-Bindungen des Naturzorns",
     "Feral Charge": "Wilde Attacke",
@@ -29432,6 +29434,7 @@
     "Hunting Bow": "Jagdbogen",
     "Hunting Gloves": "Jagdhandschuhe",
     "Hunting Tunic": "Jagdtunika",
+    "Huntsman's Bands of the Tiger": "Jägersmann-Bänder des Tigers",
     "Huntsman's Cape of Healing": "Jägersmann-Cape der Heilung",
     "Hydra Leather Legs": "Hydralederbeinlinge",
     "Hypnotic Blade": "Hypnoseklinge",
@@ -29959,6 +29962,7 @@
     "Sentinel Boots of the Elder": "Schildwachenstiefel des Ältesten",
     "Sentinel Boots of the Tiger": "Schildwachenstiefel des Tigers",
     "Sentinel Cloak of the Knight": "Schildwachenumhang des Ritters",
+    "Sentinel Shoulders of the Tiger": "Schildwachenschultern des Tigers",
     "Sentinel's Slasher": "Schlitzer der Schildwache",
     "Sentry's Gloves of the Bear": "Wachpostenhandschuhe des Bären",
     "Sentry's Leggings of the Tiger": "Wachpostengamaschen des Tigers",
@@ -30155,6 +30159,7 @@
     "Tellurium Necklace of the Channeler": "Tellurhalskette des Kanalisierers",
     "Templar's Bulwark": "Bollwerk des Templers",
     "Thallium Choker of Power": "Thalliumhalsschmuck der Macht",
+    "Thallium Choker of the Tiger": "Thalliumhalsschmuck des Tigers",
     "Thaurissan's Royal Scepter": "Thaurissans königliches Szepter",
     "The Defilers": "Die Entweihten",
     "The Desert Rose": "Die Wüstenrose",
@@ -31549,7 +31554,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795800338,
+  "saved_at": 1795801238,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
