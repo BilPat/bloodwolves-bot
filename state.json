@@ -25159,7 +25159,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795717464000,
+      "last_login": 1795779513000,
       "level": 32,
       "level_at": {
         "21": 1794866470,
@@ -25260,7 +25260,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 4823,
+          "raw": 4873,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -25285,7 +25285,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 5048,
+          "raw": 5173,
           "tier": 4
         },
         "Powderfuse": {
@@ -25300,30 +25300,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4648,
+          "raw": 4698,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 14598,
+          "raw": 14723,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 54,
-        "deaths": 18,
-        "drinks": 1291,
+        "deaths": 20,
+        "drinks": 1331,
         "flights": 32,
-        "food": 359,
-        "health_potions": 12,
-        "hearths": 32,
-        "killing_blows": 1883,
+        "food": 379,
+        "health_potions": 13,
+        "hearths": 33,
+        "killing_blows": 1902,
         "mana_potions": 26,
-        "mobs": 3193,
-        "quests": 205
+        "mobs": 3267,
+        "quests": 208
       },
-      "xp": 16643
+      "xp": 34741
     },
     "us:aeri-moonglow": {
       "achievements": {
@@ -29743,6 +29743,7 @@
     "Sacred Burial Trousers": "Heilige Begräbnis-Beinkleider",
     "Sacred Duty": "Heilige Pflicht",
     "Sacrificial Sword": "Opferschwert",
+    "Sage's Gloves of the Channeler": "Weisenhandschuhe des Kanalisierers",
     "Saltseer's Helm": "Helm des Salzsehers",
     "Salvaged Wooden Tower Shield": "Geborgener Holzturmschild",
     "Sanctified Judgement": "Gesegnetes Richturteil",
@@ -31362,7 +31363,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795778737,
+  "saved_at": 1795779602,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
