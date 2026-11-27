@@ -3820,17 +3820,27 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/165/133032357-avatar.jpg",
       "best_item": {
-        "id": 15444,
+        "id": 5404,
         "ilvl": null,
-        "name": "Staff of Orgrimmar",
+        "name": "Serpent's Shoulders",
         "quality": "RARE",
-        "slot": "Main Hand"
+        "slot": "Shoulders"
       },
       "boss_kills": {
+        "1092": {
+          "boss": "Archmage Arugal",
+          "count": 1,
+          "instance": "Shadowfang Keep"
+        },
         "15027": {
           "boss": "Bazzalan",
           "count": 2,
           "instance": "Ragefire Chasm"
+        },
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -3842,6 +3852,10 @@
       "dungeons": {},
       "first_seen": 1795806742,
       "gear": {
+        "10413": {
+          "name": "Gloves of the Fang",
+          "quality": "RARE"
+        },
         "13136": {
           "name": "Lil Timmy's Peashooter",
           "quality": "RARE"
@@ -3849,20 +3863,37 @@
         "15444": {
           "name": "Staff of Orgrimmar",
           "quality": "RARE"
+        },
+        "5404": {
+          "name": "Serpent's Shoulders",
+          "quality": "RARE"
+        },
+        "6314": {
+          "name": "Wolfmaster Cape",
+          "quality": "RARE"
+        },
+        "6414": {
+          "name": "Seal of Sylvanas",
+          "quality": "RARE"
+        },
+        "6469": {
+          "name": "Venomstrike",
+          "quality": "RARE"
         }
       },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795782612000,
-      "level": 21,
+      "last_login": 1795817899000,
+      "level": 24,
       "level_at": {
-        "21": 1795806742
+        "21": 1795806742,
+        "24": 1795818303
       },
       "professions": {
         "Cooking": 19,
-        "Enchanting": 20,
-        "First Aid": 69,
-        "Herbalism": 75
+        "Enchanting": 22,
+        "First Aid": 75,
+        "Herbalism": 78
       },
       "race": "Orc",
       "raids": {},
@@ -3951,6 +3982,10 @@
           {
             "id": 54191,
             "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Herbalism": [
@@ -3971,47 +4006,47 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1008,
+          "raw": 1133,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8191,
+          "raw": 8437,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1008,
+          "raw": 1133,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1008,
+          "raw": 1133,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11117,
+          "raw": 11476,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1008,
+          "raw": 1133,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 1916,
+          "raw": 2166,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4465,
+          "raw": 4925,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1940,
+          "raw": 2598,
           "tier": 3
         },
         "Warsong Outriders": {
@@ -4022,18 +4057,19 @@
       },
       "spec": "Marksmanship",
       "stats": {
-        "deaths": 14,
-        "drinks": 22,
-        "flights": 9,
-        "food": 27,
-        "health_potions": 4,
-        "hearths": 2,
+        "critters": 31,
+        "deaths": 18,
+        "drinks": 65,
+        "flights": 17,
+        "food": 41,
+        "health_potions": 6,
+        "hearths": 4,
         "honorable_kills": 94,
-        "killing_blows": 1010,
-        "mobs": 1286,
-        "quests": 116
+        "killing_blows": 1317,
+        "mobs": 1850,
+        "quests": 129
       },
-      "xp": 10797
+      "xp": 107
     },
     "eu:blck-jck": {
       "achievements": {
@@ -28771,6 +28807,20 @@
   },
   "daily_digest": {
     "items": {
+      "eu:beast-eye": {
+        "c": {
+          "name": "Beast",
+          "region": "eu",
+          "surname": "Eye"
+        },
+        "lines": [
+          "🛠️ **Erste Hilfe** auf 75"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 24
+        }
+      },
       "eu:fred-feuersturm": {
         "c": {
           "name": "Fred",
@@ -30486,7 +30536,9 @@
     "Vanquisher's Sword": "Bezwingerschwert",
     "Veiled Grips": "Verhüllter Handschutz",
     "Vengeance": "Rache",
+    "Venom Shot": "Giftschuss",
     "Venomshroud Armguards": "Giftschleierarmschützer",
+    "Venomstrike": "Giftschlag",
     "Verek's Loyal Wraps": "Vereks treue Wickel",
     "Veteran Adventurer's Belt": "Gürtel des erfahrenen Abenteurers",
     "Veteran Adventurer's Boots": "Stiefel des erfahrenen Abenteurers",
@@ -31796,7 +31848,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795817725,
+  "saved_at": 1795818304,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
