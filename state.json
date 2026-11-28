@@ -18379,16 +18379,16 @@
       "spec": "Enhancement",
       "stats": {
         "critters": 35,
-        "deaths": 71,
-        "drinks": 321,
-        "flights": 93,
-        "food": 258,
+        "deaths": 72,
+        "drinks": 328,
+        "flights": 95,
+        "food": 261,
         "health_potions": 34,
         "hearths": 21,
         "honorable_kills": 3,
-        "killing_blows": 2676,
-        "mana_potions": 99,
-        "mobs": 3743,
+        "killing_blows": 2702,
+        "mana_potions": 106,
+        "mobs": 3916,
         "quests": 330
       },
       "xp": 13372
@@ -32327,7 +32327,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795827146,
+  "saved_at": 1795828551,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
