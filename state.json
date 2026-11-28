@@ -31075,7 +31075,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -31745,16 +31745,7 @@
       },
       "raid": {}
     },
-    "firsts_pending": {
-      "boss|Nanaya (Shaper's Terrace)": {
-        "keys": [
-          "eu:krakmor-ci%C3%B3rdan"
-        ],
-        "kind": "boss",
-        "since": 1795792542,
-        "what": "Nanaya (Shaper's Terrace)"
-      }
-    },
+    "firsts_pending": {},
     "firsts_reposted": [],
     "milestone_order": {
       "20": [
@@ -32898,7 +32889,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795852496,
+  "saved_at": 1795853896,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
