@@ -2924,6 +2924,7 @@
         "61503": "Experienced Druid",
         "62009": "Novice Warlock",
         "62024": "Journeyman Leatherworker",
+        "62025": "Expert Leatherworker",
         "62031": "Novice Spelunker",
         "62032": "Experienced Spelunker",
         "728": "Explore Durotar",
@@ -2957,7 +2958,7 @@
         },
         "1095": {
           "boss": "Emperor Dagran Thaurissan",
-          "count": 1,
+          "count": 2,
           "instance": "Blackrock Depths"
         },
         "15027": {
@@ -3093,6 +3094,10 @@
           "name": "Armswake Cloak",
           "quality": "RARE"
         },
+        "16695": {
+          "name": "Devout Mantle",
+          "quality": "RARE"
+        },
         "17732": {
           "name": "Rotgrip Mantle",
           "quality": "RARE"
@@ -3115,6 +3120,10 @@
         },
         "22234": {
           "name": "Mantle of Lost Hope",
+          "quality": "RARE"
+        },
+        "252532": {
+          "name": "Skycaller's Leather Shoes",
           "quality": "RARE"
         },
         "270081": {
@@ -3200,7 +3209,7 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795812171000,
+      "last_login": 1795841953000,
       "level": 57,
       "level_at": {
         "38": 1794866470,
@@ -3222,7 +3231,7 @@
         "Cooking": 193,
         "First Aid": 1,
         "Fishing": 30,
-        "Leatherworking": 193,
+        "Leatherworking": 233,
         "Skinning": 300
       },
       "race": "Windshaper Skyborne",
@@ -3384,6 +3393,14 @@
         ],
         "Leatherworking": [
           {
+            "id": 8056,
+            "name": "Quickdraw Quiver"
+          },
+          {
+            "id": 8057,
+            "name": "Thick Leather Ammo Pouch"
+          },
+          {
             "id": 4419,
             "name": "Deviate Scale Belt"
           },
@@ -3436,6 +3453,10 @@
             "name": "Light Leather"
           },
           {
+            "id": 12516,
+            "name": "Heavy Leather Ball"
+          },
+          {
             "id": 2162,
             "name": "Handstitched Leather Belt"
           },
@@ -3454,6 +3475,34 @@
           {
             "id": 2170,
             "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 5672,
+            "name": "Turtle Scale Breastplate"
+          },
+          {
+            "id": 5679,
+            "name": "Tough Scorpid Bracers"
+          },
+          {
+            "id": 5685,
+            "name": "Nightscape Pants"
+          },
+          {
+            "id": 5687,
+            "name": "Turtle Scale Helm"
+          },
+          {
+            "id": 5689,
+            "name": "Tough Scorpid Boots"
+          },
+          {
+            "id": 5690,
+            "name": "Turtle Scale Leggings"
+          },
+          {
+            "id": 5691,
+            "name": "Nightscape Boots"
           },
           {
             "id": 4987,
@@ -3504,6 +3553,10 @@
             "name": "Dusky Bracers"
           },
           {
+            "id": 5055,
+            "name": "Dusky Belt"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
           },
@@ -3536,6 +3589,10 @@
             "name": "Green Leather Bracers"
           },
           {
+            "id": 2186,
+            "name": "Guardian Leather Bracers"
+          },
+          {
             "id": 2195,
             "name": "Cured Light Hide"
           },
@@ -3564,6 +3621,10 @@
             "name": "Heavy Leather"
           },
           {
+            "id": 11758,
+            "name": "Thick Leather"
+          },
+          {
             "id": 4010,
             "name": "Barbaric Harness"
           },
@@ -3578,6 +3639,26 @@
           {
             "id": 4029,
             "name": "Thick Murloc Armor"
+          },
+          {
+            "id": 5666,
+            "name": "Cured Thick Hide"
+          },
+          {
+            "id": 5669,
+            "name": "Nightscape Tunic"
+          },
+          {
+            "id": 5670,
+            "name": "Nightscape Headband"
+          },
+          {
+            "id": 5674,
+            "name": "Turtle Scale Bracers"
+          },
+          {
+            "id": 5696,
+            "name": "Tough Scorpid Leggings"
           },
           {
             "id": 5050,
@@ -3606,6 +3687,18 @@
           {
             "id": 52647,
             "name": "Camp Tent"
+          },
+          {
+            "id": 55072,
+            "name": "Stalker's Mail Boots"
+          },
+          {
+            "id": 55122,
+            "name": "Skycaller's Leather Shoes"
+          },
+          {
+            "id": 55125,
+            "name": "Prowler's Leather Shoes"
           },
           {
             "id": 55136,
@@ -3733,7 +3826,7 @@
         },
         "Earthen Ring": {
           "name": "Friendly",
-          "raw": 4150,
+          "raw": 6250,
           "tier": 4
         },
         "Everlook": {
@@ -3766,6 +3859,11 @@
           "raw": 5769,
           "tier": 4
         },
+        "Shen'dralar": {
+          "name": "Neutral",
+          "raw": 200,
+          "tier": 3
+        },
         "Thorium Brotherhood": {
           "name": "Neutral",
           "raw": 200,
@@ -3794,19 +3892,19 @@
       },
       "spec": "Restoration",
       "stats": {
-        "critters": 254,
-        "deaths": 55,
-        "drinks": 826,
-        "flights": 118,
-        "food": 201,
-        "health_potions": 57,
-        "hearths": 41,
-        "killing_blows": 3686,
-        "mana_potions": 31,
-        "mobs": 16809,
-        "quests": 569
+        "critters": 288,
+        "deaths": 69,
+        "drinks": 892,
+        "flights": 123,
+        "food": 207,
+        "health_potions": 59,
+        "hearths": 43,
+        "killing_blows": 3712,
+        "mana_potions": 39,
+        "mobs": 17601,
+        "quests": 572
       },
-      "xp": 41761
+      "xp": 130270
     },
     "eu:beast-eye": {
       "achievements": {
@@ -29595,6 +29693,21 @@
   },
   "daily_digest": {
     "items": {
+      "eu:baumora-axiom": {
+        "c": {
+          "name": "Baumora",
+          "region": "eu",
+          "surname": "Axiom"
+        },
+        "lines": [
+          "🛠️ **Lederverarbeitung** auf 225",
+          "🎖️ [Expert Leatherworker](https://www.wowhead.com/forever/de/achievement=62025)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 57
+        }
+      },
       "eu:beast-eye": {
         "c": {
           "name": "Beast",
@@ -30144,6 +30257,14 @@
     "Desert Shoulders": "Wüsten-Schultern",
     "Desertwalker Cane": "Stock des Wüstenläufers",
     "Destruction": "Zerstörung",
+    "Devout Belt": "Gürtel des Gläubigen",
+    "Devout Bracers": "Armschienen des Gläubigen",
+    "Devout Crown": "Krone des Gläubigen",
+    "Devout Gloves": "Handschuhe des Gläubigen",
+    "Devout Mantle": "Mantel des Gläubigen",
+    "Devout Robe": "Robe des Gläubigen",
+    "Devout Sandals": "Sandalen des Gläubigen",
+    "Devout Skirt": "Rock des Gläubigen",
     "Different creature types killed": "Unterschiedliche Arten von Kreaturen getötet",
     "Dire Nail of the Prophet": "Terrornagel des Propheten",
     "Direhammer Leggings": "Düsterhammergamaschen",
@@ -31196,6 +31317,7 @@
     "Skinning Knife": "Kürschnermesser",
     "Skinning Skill": "Kürschnerfertigkeit",
     "Skullthumper": "Schädelbrecher",
+    "Skycaller's Leather Shoes": "Lederschuhe des Himmelsrufers",
     "Skywatcher's Vestments": "Himmelsschauergewänder",
     "Slaghammer": "Schlackenhammer",
     "Slain Baron's Signet": "Siegelring des getöteten Barons",
@@ -31429,6 +31551,7 @@
     "Venomshroud Armguards": "Giftschleierarmschützer",
     "Venomstrike": "Giftschlag",
     "Verek's Loyal Wraps": "Vereks treue Wickel",
+    "Vestments of the Devout": "Gewänder des Gläubigen",
     "Veteran Adventurer's Belt": "Gürtel des erfahrenen Abenteurers",
     "Veteran Adventurer's Boots": "Stiefel des erfahrenen Abenteurers",
     "Veteran Adventurer's Bracer": "Armschienen des erfahrenen Abenteurers",
@@ -32770,7 +32893,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795841683,
+  "saved_at": 1795842895,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
