@@ -6948,8 +6948,8 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795808981000,
-      "level": 34,
+      "last_login": 1795838987000,
+      "level": 35,
       "level_at": {
         "22": 1794866470,
         "23": 1794945303,
@@ -6961,14 +6961,15 @@
         "30": 1795481938,
         "32": 1795562697,
         "33": 1795613257,
-        "34": 1795684641
+        "34": 1795684641,
+        "35": 1795840111
       },
       "professions": {
         "Cooking": 225,
         "First Aid": 225,
         "Fishing": 225,
-        "Herbalism": 279,
-        "Tailoring": 225
+        "Herbalism": 288,
+        "Tailoring": 233
       },
       "race": "Undead",
       "raids": {},
@@ -6993,6 +6994,10 @@
           {
             "id": 1902,
             "name": "Hot Lion Chops"
+          },
+          {
+            "id": 11873,
+            "name": "Mithril Headed Trout"
           },
           {
             "id": 13344,
@@ -7061,6 +7066,10 @@
           {
             "id": 4391,
             "name": "Rainbow Fin Albacore"
+          },
+          {
+            "id": 4392,
+            "name": "Rockscale Cod"
           },
           {
             "id": 3963,
@@ -7499,6 +7508,10 @@
             "name": "Runecloth Belt"
           },
           {
+            "id": 10401,
+            "name": "Runecloth Bag"
+          },
+          {
             "id": 3973,
             "name": "Pearl-clasped Cloak"
           },
@@ -7537,6 +7550,10 @@
           {
             "id": 6610,
             "name": "Red Mageweave Bag"
+          },
+          {
+            "id": 6616,
+            "name": "Tuxedo Shirt"
           },
           {
             "id": 4714,
@@ -7746,18 +7763,18 @@
       "spec": "Holy",
       "stats": {
         "critters": 37,
-        "deaths": 69,
-        "drinks": 209,
-        "flights": 117,
+        "deaths": 76,
+        "drinks": 226,
+        "flights": 124,
         "food": 154,
         "health_potions": 16,
-        "hearths": 71,
-        "killing_blows": 1716,
-        "mana_potions": 62,
-        "mobs": 4467,
+        "hearths": 76,
+        "killing_blows": 1782,
+        "mana_potions": 68,
+        "mobs": 4532,
         "quests": 258
       },
-      "xp": 49478
+      "xp": 4040
     },
     "eu:efrye-frostmage": {
       "achievements": {
@@ -28999,7 +29016,7 @@
       },
       "ilvl": 25,
       "last_explored": "Redridge Mountains",
-      "last_login": 1795820230000,
+      "last_login": 1795838120000,
       "level": 35,
       "level_at": {
         "28": 1794965196,
@@ -29511,7 +29528,7 @@
         },
         "Darnassus": {
           "name": "Honored",
-          "raw": 9038,
+          "raw": 9082,
           "tier": 5
         },
         "Everlook": {
@@ -29526,12 +29543,12 @@
         },
         "Gnomeregan Exiles": {
           "name": "Friendly",
-          "raw": 7131,
+          "raw": 7175,
           "tier": 4
         },
         "Ironforge": {
           "name": "Friendly",
-          "raw": 8822,
+          "raw": 8866,
           "tier": 4
         },
         "Kirin Tor": {
@@ -29551,26 +29568,26 @@
         },
         "Stormwind": {
           "name": "Honored",
-          "raw": 15508,
+          "raw": 15683,
           "tier": 5
         }
       },
       "spec": "Fire",
       "stats": {
         "critters": 86,
-        "deaths": 78,
-        "drinks": 1019,
-        "flights": 61,
-        "food": 143,
-        "health_potions": 51,
-        "hearths": 28,
+        "deaths": 79,
+        "drinks": 1046,
+        "flights": 63,
+        "food": 145,
+        "health_potions": 52,
+        "hearths": 29,
         "honorable_kills": 1,
-        "killing_blows": 2092,
-        "mana_potions": 21,
-        "mobs": 5012,
-        "quests": 315
+        "killing_blows": 2135,
+        "mana_potions": 22,
+        "mobs": 5056,
+        "quests": 317
       },
-      "xp": 1267
+      "xp": 15660
     }
   },
   "craft_board": {
@@ -30936,7 +30953,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -32757,7 +32774,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795838125,
+  "saved_at": 1795840112,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
