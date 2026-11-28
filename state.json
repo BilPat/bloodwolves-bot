@@ -15298,6 +15298,7 @@
         "61502": "Novice Druid",
         "61503": "Experienced Druid",
         "61504": "Master Druid",
+        "62006": "Novice Shaman",
         "62012": "Journeyman Alchemist",
         "62013": "Expert Alchemist",
         "62014": "Artisan Alchemist",
@@ -15324,9 +15325,9 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/238/2360814-avatar.jpg",
       "best_item": {
-        "id": 9534,
+        "id": 280076,
         "ilvl": null,
-        "name": "Engineer's Guild Headpiece",
+        "name": "Horns of Varrox",
         "quality": "RARE",
         "slot": "Head"
       },
@@ -15396,6 +15397,11 @@
           "count": 2,
           "instance": "Sunken Temple"
         },
+        "6145": {
+          "boss": "Overlord Wyrmthalak",
+          "count": 1,
+          "instance": "Lower Blackrock Spire"
+        },
         "63570": {
           "boss": "Edwin VanCleef",
           "count": 1,
@@ -15413,7 +15419,7 @@
         },
         "63574": {
           "boss": "Nanaya",
-          "count": 1,
+          "count": 2,
           "instance": "Shaper's Terrace"
         },
         "63575": {
@@ -15462,6 +15468,14 @@
         },
         "11928": {
           "name": "Thaurissan's Royal Scepter",
+          "quality": "RARE"
+        },
+        "13210": {
+          "name": "Pads of the Dread Wolf",
+          "quality": "RARE"
+        },
+        "16712": {
+          "name": "Shadowcraft Gloves",
           "quality": "RARE"
         },
         "17743": {
@@ -15524,6 +15538,10 @@
           "name": "Courier's Clasp",
           "quality": "RARE"
         },
+        "279910": {
+          "name": "Beastslayer's Trident",
+          "quality": "RARE"
+        },
         "280011": {
           "name": "Deeproar Cord",
           "quality": "RARE"
@@ -15547,7 +15565,7 @@
       },
       "ilvl": 53,
       "last_explored": "Feralas",
-      "last_login": 1795792331000,
+      "last_login": 1795831735000,
       "level": 60,
       "level_at": {
         "45": 1794866470,
@@ -15567,7 +15585,7 @@
         "Alchemy": 300,
         "Cooking": 300,
         "First Aid": 300,
-        "Fishing": 176,
+        "Fishing": 178,
         "Herbalism": 300
       },
       "race": "Tauren",
@@ -15711,6 +15729,10 @@
             "name": "Stonescale Oil"
           },
           {
+            "id": 9944,
+            "name": "Transmute: Earth to Water"
+          },
+          {
             "id": 9946,
             "name": "Transmute: Fire to Earth"
           },
@@ -15751,6 +15773,10 @@
             "name": "Superior Mana Potion"
           },
           {
+            "id": 9939,
+            "name": "Elixir of Greater Defense"
+          },
+          {
             "id": 4004,
             "name": "Free Action Potion"
           },
@@ -15785,6 +15811,10 @@
           {
             "id": 52646,
             "name": "Mana Well"
+          },
+          {
+            "id": 54190,
+            "name": "Distilled Firewater"
           },
           {
             "id": 54453,
@@ -15981,6 +16011,10 @@
             "name": "Twice-Spiced Raptor Slice"
           },
           {
+            "id": 54477,
+            "name": "Sunny Tea"
+          },
+          {
             "id": 58468,
             "name": "Briny Seafood Stew"
           },
@@ -16059,6 +16093,10 @@
             "name": "Woolen Tourniquet"
           },
           {
+            "id": 55744,
+            "name": "Powerful Poultice"
+          },
+          {
             "id": 55747,
             "name": "Simple Poultice"
           }
@@ -16105,7 +16143,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -14225,
+          "raw": -14725,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -16115,7 +16153,7 @@
         },
         "Booty Bay": {
           "name": "Friendly",
-          "raw": 7134,
+          "raw": 7234,
           "tier": 4
         },
         "Cenarion Circle": {
@@ -16125,7 +16163,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 14622,
+          "raw": 14797,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -16140,59 +16178,59 @@
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 6524,
+          "raw": 6574,
           "tier": 4
         },
         "Gadgetzan": {
           "name": "Friendly",
-          "raw": 7689,
+          "raw": 7739,
           "tier": 4
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 18968,
+          "raw": 19406,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Friendly",
-          "raw": 7366,
+          "raw": 7416,
           "tier": 4
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 7830,
+          "raw": 7880,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 22871,
+          "raw": 23046,
           "tier": 6
         },
         "Timbermaw Hold": {
-          "name": "Unfriendly",
-          "raw": -65,
-          "tier": 2
+          "name": "Friendly",
+          "raw": 3125,
+          "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16093,
+          "raw": 16531,
           "tier": 5
         }
       },
-      "spec": "Restoration",
+      "spec": "Feral Combat",
       "stats": {
-        "critters": 162,
-        "deaths": 67,
-        "drinks": 299,
-        "flights": 306,
-        "food": 321,
-        "health_potions": 90,
-        "hearths": 72,
+        "critters": 175,
+        "deaths": 71,
+        "drinks": 313,
+        "flights": 314,
+        "food": 323,
+        "health_potions": 91,
+        "hearths": 77,
         "honorable_kills": 1,
-        "killing_blows": 5541,
+        "killing_blows": 5696,
         "mana_potions": 10,
-        "mobs": 12825,
-        "quests": 883
+        "mobs": 13490,
+        "quests": 913
       },
       "xp": 0
     },
@@ -18229,7 +18267,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795829932000,
+      "last_login": 1795830918000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -29261,6 +29299,22 @@
           "level": 41
         }
       },
+      "eu:krakmor-ci%C3%B3rdan": {
+        "c": {
+          "name": "Krakmor",
+          "rank_name": "Gildeninitiand",
+          "region": "eu",
+          "surname": "Ciórdan"
+        },
+        "lines": [
+          "🗝️ **[Untere Schwarzfelsspitze](https://www.wowhead.com/forever/de/search?q=Untere%20Schwarzfelsspitze)** zum ersten Mal abgeschlossen",
+          "🎖️ [Novice Shaman](https://www.wowhead.com/forever/de/achievement=62006)"
+        ],
+        "snap": {
+          "class": "Druid",
+          "level": 60
+        }
+      },
       "eu:mimisiku-meatshield": {
         "c": {
           "name": "Mimisiku",
@@ -29441,6 +29495,7 @@
     "Bazzalan kills (Ragefire Chasm)": "Siege über Bazzalan (Flammenschlund)",
     "Beast Mastery": "Tierherrschaft",
     "Beastmaster's Girdle": "Bestienmeistergurt",
+    "Beastslayer's Trident": "Dreizack des Bestientöters",
     "Beaten Battle Axe": "Gehämmerte Streitaxt",
     "Belt of Vindication": "Gürtel der Rechtfertigung",
     "Belt of the Fang": "Gürtel des Giftzahns",
@@ -30454,6 +30509,7 @@
     "Overlord Wyrmthalak kills (Lower Blackrock Spire)": "Siege über Oberanführer Wyrmthalak (Untere Schwarzfelsspitze)",
     "Overlord's Vambraces of Stamina": "Oberherrenunterarmschienen der Ausdauer",
     "Padded Lamellar Boots": "Gefütterte Lamellenstiefel",
+    "Pads of the Dread Wolf": "Polster des Schreckenwolfs",
     "Pandemic": "Pandemie",
     "Panther Armor": "Panther-Rüstung",
     "Parry": "Parieren",
@@ -30730,6 +30786,15 @@
     "Shadow Gown": "Schattenrobe",
     "Shadow Mastery": "Schattenbeherrschung",
     "Shadow Resistance": "Schattenwiderstand",
+    "Shadowcraft Armor": "Rüstung der Schattenkunst",
+    "Shadowcraft Belt": "Gürtel der Schattenkunst",
+    "Shadowcraft Boots": "Stiefel der Schattenkunst",
+    "Shadowcraft Bracers": "Armschienen der Schattenkunst",
+    "Shadowcraft Cap": "Kappe der Schattenkunst",
+    "Shadowcraft Gloves": "Handschuhe der Schattenkunst",
+    "Shadowcraft Pants": "Hose der Schattenkunst",
+    "Shadowcraft Spaulders": "Schiftung der Schattenkunst",
+    "Shadowcraft Tunic": "Tunika der Schattenkunst",
     "Shadowfang Keep": "Burg Schattenfang",
     "Shal'ma's Shawl": "Shal'mas Schal",
     "Shaman": "Schamane",
@@ -32336,7 +32401,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795830934,
+  "saved_at": 1795832420,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
