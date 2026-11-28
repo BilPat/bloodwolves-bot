@@ -335,8 +335,8 @@
       },
       "ilvl": 29,
       "last_explored": "Silverpine Forest",
-      "last_login": 1795821312000,
-      "level": 35,
+      "last_login": 1795841049000,
+      "level": 36,
       "level_at": {
         "26": 1794866470,
         "27": 1794957233,
@@ -347,12 +347,13 @@
         "32": 1795530479,
         "33": 1795649983,
         "34": 1795737286,
-        "35": 1795785356
+        "35": 1795785356,
+        "36": 1795841682
       },
       "professions": {
         "Blacksmithing": 174,
         "Cooking": 12,
-        "Mining": 204
+        "Mining": 205
       },
       "race": "Undead",
       "raids": {},
@@ -717,7 +718,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 6463,
+          "raw": 6570,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -742,7 +743,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6682,
+          "raw": 7032,
           "tier": 4
         },
         "Powderfuse": {
@@ -755,19 +756,14 @@
           "raw": 950,
           "tier": 3
         },
-        "The Defilers": {
-          "name": "Neutral",
-          "raw": 0,
-          "tier": 3
-        },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6390,
+          "raw": 6496,
           "tier": 4
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 19307,
+          "raw": 19488,
           "tier": 5
         }
       },
@@ -775,18 +771,18 @@
       "stats": {
         "critters": 57,
         "deaths": 29,
-        "drinks": 85,
-        "flights": 57,
+        "drinks": 86,
+        "flights": 58,
         "food": 7,
-        "health_potions": 22,
-        "hearths": 27,
+        "health_potions": 23,
+        "hearths": 28,
         "honorable_kills": 6,
-        "killing_blows": 2362,
-        "mana_potions": 5,
-        "mobs": 5206,
-        "quests": 277
+        "killing_blows": 2398,
+        "mana_potions": 6,
+        "mobs": 5243,
+        "quests": 284
       },
-      "xp": 54904
+      "xp": 8783
     },
     "eu:anna-graufuss": {
       "achievements": {
@@ -28222,7 +28218,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795814870000,
+      "last_login": 1795841293000,
       "level": 39,
       "level_at": {
         "31": 1794965196,
@@ -32774,7 +32770,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795840838,
+  "saved_at": 1795841683,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
