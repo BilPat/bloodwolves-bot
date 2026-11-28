@@ -14726,7 +14726,7 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795825707000,
+      "last_login": 1795857750000,
       "level": 36,
       "level_at": {
         "27": 1794866470,
@@ -15043,17 +15043,17 @@
       "stats": {
         "critters": 32,
         "deaths": 20,
-        "drinks": 920,
-        "flights": 84,
-        "food": 379,
+        "drinks": 928,
+        "flights": 85,
+        "food": 388,
         "health_potions": 11,
         "hearths": 35,
-        "killing_blows": 2425,
+        "killing_blows": 2455,
         "mana_potions": 7,
-        "mobs": 4531,
-        "quests": 267
+        "mobs": 4561,
+        "quests": 269
       },
-      "xp": 50677
+      "xp": 62150
     },
     "eu:klebrige-finger": {
       "achievements": {
@@ -32889,7 +32889,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795857319,
+  "saved_at": 1795857964,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
