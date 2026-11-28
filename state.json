@@ -18229,7 +18229,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795813103000,
+      "last_login": 1795828538000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -18391,7 +18391,7 @@
         "mobs": 3916,
         "quests": 330
       },
-      "xp": 13372
+      "xp": 17907
     },
     "eu:maniac-menacepuppy": {
       "achievements": {},
@@ -32327,7 +32327,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795828551,
+  "saved_at": 1795829149,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
