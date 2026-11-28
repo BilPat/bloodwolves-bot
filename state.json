@@ -19888,8 +19888,8 @@
       },
       "ilvl": 17,
       "last_explored": null,
-      "last_login": 1795821931000,
-      "level": 27,
+      "last_login": 1795869650000,
+      "level": 28,
       "level_at": {
         "20": 1794866470,
         "21": 1794938124,
@@ -19897,12 +19897,13 @@
         "23": 1795198664,
         "24": 1795214368,
         "25": 1795301667,
-        "27": 1795822782
+        "27": 1795822782,
+        "28": 1795869708
       },
       "professions": {
         "Blacksmithing": 87,
         "Cooking": 19,
-        "First Aid": 155,
+        "First Aid": 157,
         "Fishing": 3,
         "Mining": 109
       },
@@ -20091,6 +20092,10 @@
         ],
         "First Aid": [
           {
+            "id": 4414,
+            "name": "Silk Bandage"
+          },
+          {
             "id": 4417,
             "name": "Anti-Venom"
           },
@@ -20181,7 +20186,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 5216,
+          "raw": 5335,
           "tier": 4
         },
         "Earthen Ring": {
@@ -20201,7 +20206,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 6435,
+          "raw": 6666,
           "tier": 4
         },
         "Powderfuse": {
@@ -20216,28 +20221,28 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10542,
+          "raw": 10661,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 3328,
+          "raw": 3691,
           "tier": 4
         }
       },
       "spec": "Fury",
       "stats": {
-        "critters": 33,
+        "critters": 35,
         "deaths": 43,
-        "flights": 43,
-        "food": 39,
-        "health_potions": 40,
-        "hearths": 21,
-        "killing_blows": 1451,
-        "mobs": 2259,
-        "quests": 196
+        "flights": 44,
+        "food": 40,
+        "health_potions": 41,
+        "hearths": 22,
+        "killing_blows": 1518,
+        "mobs": 2325,
+        "quests": 200
       },
-      "xp": 36882
+      "xp": 15038
     },
     "eu:nekrion-grabw%C3%A4chter": {
       "achievements": {},
@@ -33036,7 +33041,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795869176,
+  "saved_at": 1795869709,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
