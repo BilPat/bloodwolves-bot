@@ -15730,7 +15730,7 @@
       },
       "ilvl": 53,
       "last_explored": "Feralas",
-      "last_login": 1795831735000,
+      "last_login": 1795866459000,
       "level": 60,
       "level_at": {
         "45": 1794866470,
@@ -16326,9 +16326,14 @@
           "raw": 3345,
           "tier": 4
         },
+        "Darkspear Raiders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 14797,
+          "raw": 14810,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -16338,13 +16343,18 @@
         },
         "Earthen Ring": {
           "name": "Friendly",
-          "raw": 3900,
+          "raw": 6400,
           "tier": 4
         },
         "Everlook": {
           "name": "Friendly",
           "raw": 6574,
           "tier": 4
+        },
+        "Frostwolf Clan": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Gadgetzan": {
           "name": "Friendly",
@@ -16353,7 +16363,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 19406,
+          "raw": 19456,
           "tier": 5
         },
         "Powderfuse": {
@@ -16368,7 +16378,7 @@
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 23046,
+          "raw": 23058,
           "tier": 6
         },
         "Timbermaw Hold": {
@@ -16378,8 +16388,18 @@
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 16531,
+          "raw": 16543,
           "tier": 5
+        },
+        "Warsong Outriders": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Feral Combat",
@@ -16387,15 +16407,15 @@
         "critters": 175,
         "deaths": 71,
         "drinks": 313,
-        "flights": 314,
+        "flights": 317,
         "food": 323,
         "health_potions": 91,
-        "hearths": 77,
+        "hearths": 78,
         "honorable_kills": 1,
         "killing_blows": 5696,
         "mana_potions": 10,
         "mobs": 13490,
-        "quests": 913
+        "quests": 914
       },
       "xp": 0
     },
@@ -33014,7 +33034,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795865962,
+  "saved_at": 1795866880,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
