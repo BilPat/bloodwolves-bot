@@ -8722,7 +8722,7 @@
       },
       "ilvl": 15,
       "last_explored": "Durotar",
-      "last_login": 1795823472000,
+      "last_login": 1795825342000,
       "level": 22,
       "level_at": {
         "20": 1794866470,
@@ -9009,7 +9009,7 @@
         "critters": 51,
         "deaths": 3,
         "drinks": 3,
-        "flights": 23,
+        "flights": 24,
         "food": 4,
         "health_potions": 3,
         "hearths": 1,
@@ -14590,7 +14590,7 @@
       },
       "ilvl": 28,
       "last_explored": "The Barrens",
-      "last_login": 1795821442000,
+      "last_login": 1795825707000,
       "level": 36,
       "level_at": {
         "27": 1794866470,
@@ -14607,7 +14607,7 @@
       "professions": {
         "Cooking": 27,
         "Enchanting": 55,
-        "Fishing": 18,
+        "Fishing": 20,
         "Tailoring": 140
       },
       "race": "Orc",
@@ -14844,7 +14844,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 11566,
+          "raw": 11691,
           "tier": 5
         },
         "Durotar Supply and Logistics": {
@@ -14879,7 +14879,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14947,
+          "raw": 15072,
           "tier": 5
         },
         "Powderfuse": {
@@ -14894,12 +14894,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10461,
+          "raw": 10511,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5721,
+          "raw": 5771,
           "tier": 4
         }
       },
@@ -14907,17 +14907,17 @@
       "stats": {
         "critters": 32,
         "deaths": 20,
-        "drinks": 916,
-        "flights": 82,
-        "food": 374,
-        "health_potions": 10,
-        "hearths": 34,
-        "killing_blows": 2406,
+        "drinks": 920,
+        "flights": 84,
+        "food": 379,
+        "health_potions": 11,
+        "hearths": 35,
+        "killing_blows": 2425,
         "mana_potions": 7,
-        "mobs": 4512,
-        "quests": 262
+        "mobs": 4531,
+        "quests": 267
       },
-      "xp": 41929
+      "xp": 50677
     },
     "eu:klebrige-finger": {
       "achievements": {
@@ -32327,7 +32327,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795823699,
+  "saved_at": 1795826077,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
