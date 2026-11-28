@@ -7060,7 +7060,7 @@
       },
       "ilvl": 25,
       "last_explored": "Hillsbrad Foothills",
-      "last_login": 1795838987000,
+      "last_login": 1795859425000,
       "level": 35,
       "level_at": {
         "22": 1794866470,
@@ -7081,7 +7081,7 @@
         "First Aid": 225,
         "Fishing": 225,
         "Herbalism": 288,
-        "Tailoring": 233
+        "Tailoring": 235
       },
       "race": "Undead",
       "raids": {},
@@ -26307,21 +26307,22 @@
       },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795837625000,
-      "level": 21,
+      "last_login": 1795858928000,
+      "level": 22,
       "level_at": {
         "13": 1795719303,
         "14": 1795725596,
         "15": 1795783387,
         "17": 1795804170,
         "18": 1795808394,
-        "21": 1795838124
+        "21": 1795838124,
+        "22": 1795860898
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 73,
         "Mining": 26,
-        "Skinning": 146
+        "Skinning": 150
       },
       "race": "Orc",
       "raids": {},
@@ -26394,62 +26395,62 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1900,
+          "raw": 1975,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8625,
+          "raw": 8918,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1900,
+          "raw": 1975,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1900,
+          "raw": 1975,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11926,
+          "raw": 12407,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1900,
+          "raw": 1975,
           "tier": 3
         },
         "Ratchet": {
           "name": "Friendly",
-          "raw": 3700,
+          "raw": 3850,
           "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4995,
+          "raw": 5757,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2173,
+          "raw": 2467,
           "tier": 3
         }
       },
       "spec": "Combat",
       "stats": {
         "deaths": 2,
-        "flights": 18,
+        "flights": 23,
         "food": 12,
         "health_potions": 8,
-        "hearths": 9,
-        "killing_blows": 842,
-        "mobs": 1250,
-        "quests": 144
+        "hearths": 10,
+        "killing_blows": 858,
+        "mobs": 1268,
+        "quests": 153
       },
-      "xp": 9778
+      "xp": 282
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -28395,7 +28396,7 @@
       },
       "ilvl": 29,
       "last_explored": "Arathi Highlands",
-      "last_login": 1795850022000,
+      "last_login": 1795860720000,
       "level": 39,
       "level_at": {
         "31": 1794965196,
@@ -29898,6 +29899,21 @@
           "level": 16
         }
       },
+      "eu:zugzug-graufuss": {
+        "c": {
+          "name": "Zugzug",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Graufuss"
+        },
+        "lines": [
+          "🛠️ **Kürschnerei** auf 150"
+        ],
+        "snap": {
+          "class": "Rogue",
+          "level": 22
+        }
+      },
       "us:steel-appeal": {
         "c": {
           "name": "steel",
@@ -30967,7 +30983,7 @@
     "Magistrate's Pantaloons": "Pantalons des Magistrats",
     "Magram Clan Centaur": "Magramklan",
     "Mail": "Schwere Rüstung",
-    "Main Hand": "Waffenhand",
+    "Main Hand": "Schildhand",
     "Makeshift Belt": "Behelfsmäßiger Gürtel",
     "Makeshift Stormcaller": "Behelfsmäßiger Sturmrufer",
     "Male": "Männlich",
@@ -32419,7 +32435,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
+        "level": 36,
         "name": "Alto",
         "rank": 4,
         "region": "eu",
@@ -32716,6 +32732,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 22,
+        "name": "Serena",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Veiford"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 13,
         "name": "Garakosh",
         "rank": 5,
@@ -32869,6 +32894,15 @@
       {
         "class": null,
         "guild": true,
+        "level": 19,
+        "name": "Klebrige",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Finger"
+      },
+      {
+        "class": null,
+        "guild": true,
         "level": 13,
         "name": "Senor",
         "rank": 5,
@@ -32941,7 +32975,16 @@
       {
         "class": null,
         "guild": true,
-        "level": 15,
+        "level": 25,
+        "name": "Beast",
+        "rank": 4,
+        "region": "eu",
+        "surname": "Eye"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 16,
         "name": "Pfeil",
         "rank": 1,
         "region": "eu",
@@ -32959,45 +33002,18 @@
       {
         "class": null,
         "guild": true,
-        "level": 21,
+        "level": 22,
         "name": "Zugzug",
         "rank": 1,
         "region": "eu",
         "surname": "Graufuss"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 24,
-        "name": "Beast",
-        "rank": 4,
-        "region": "eu",
-        "surname": "Eye"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 19,
-        "name": "Klebrige",
-        "rank": 5,
-        "region": "eu",
-        "surname": "Finger"
-      },
-      {
-        "class": null,
-        "guild": true,
-        "level": 22,
-        "name": "Serena",
-        "rank": 5,
-        "region": "eu",
-        "surname": "Veiford"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795858820,
+  "saved_at": 1795860899,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
