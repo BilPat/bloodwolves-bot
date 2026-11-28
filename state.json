@@ -10983,7 +10983,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795849669000,
+      "last_login": 1795861401000,
       "level": 37,
       "level_at": {
         "27": 1794866470,
@@ -11462,7 +11462,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7172,
+          "raw": 7310,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -11487,17 +11487,17 @@
         },
         "Gelkis Clan Centaur": {
           "name": "Friendly",
-          "raw": 5890,
+          "raw": 6450,
           "tier": 4
         },
         "Magram Clan Centaur": {
           "name": "Hated",
-          "raw": -17450,
+          "raw": -20250,
           "tier": 0
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9630,
+          "raw": 9692,
           "tier": 5
         },
         "Powderfuse": {
@@ -11512,12 +11512,12 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 15207,
+          "raw": 15382,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6391,
+          "raw": 6453,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -11529,19 +11529,19 @@
       "spec": "Feral Combat",
       "stats": {
         "critters": 49,
-        "deaths": 48,
-        "drinks": 68,
-        "flights": 74,
-        "food": 186,
+        "deaths": 49,
+        "drinks": 70,
+        "flights": 75,
+        "food": 188,
         "health_potions": 32,
         "hearths": 39,
         "honorable_kills": 71,
-        "killing_blows": 2662,
+        "killing_blows": 2679,
         "mana_potions": 2,
-        "mobs": 3534,
-        "quests": 317
+        "mobs": 3551,
+        "quests": 320
       },
-      "xp": 38364
+      "xp": 51622
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -31257,6 +31257,7 @@
     "Ring of Pure Silver": "Ring aus reinem Silber",
     "Ring of Scorn": "Ring der Verachtung",
     "Ring of the Moon": "Ring des Mondes",
+    "Ringtail Girdle": "Ringtail-Gurt",
     "Ritual Belt of Stamina": "Ritueller Gürtel der Ausdauer",
     "Ritual Belt of the Owl": "Ritueller Gürtel der Eule",
     "Riveted Gauntlets": "Nietenstulpen",
@@ -33013,7 +33014,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795860899,
+  "saved_at": 1795861563,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
