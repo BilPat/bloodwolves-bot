@@ -2352,7 +2352,7 @@
       },
       "ilvl": 22,
       "last_explored": "Durotar",
-      "last_login": 1795849553000,
+      "last_login": 1795854538000,
       "level": 29,
       "level_at": {
         "23": 1794866470,
@@ -2531,12 +2531,12 @@
         "food": 10,
         "health_potions": 8,
         "hearths": 24,
-        "killing_blows": 1400,
+        "killing_blows": 1401,
         "mana_potions": 30,
-        "mobs": 2665,
+        "mobs": 2666,
         "quests": 179
       },
-      "xp": 5898
+      "xp": 6078
     },
     "eu:barbariana-hunter": {
       "achievements": {
@@ -31075,7 +31075,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -32889,7 +32889,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795854551,
+  "saved_at": 1795855187,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
