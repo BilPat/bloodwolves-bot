@@ -18229,7 +18229,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795828538000,
+      "last_login": 1795829932000,
       "level": 35,
       "level_at": {
         "27": 1795430379,
@@ -21190,23 +21190,30 @@
         "quality": "UNCOMMON",
         "slot": "Chest"
       },
-      "boss_kills": {},
+      "boss_kills": {
+        "15028": {
+          "boss": "Mutanus the Devourer",
+          "count": 1,
+          "instance": "Wailing Caverns"
+        }
+      },
       "class": "Shaman",
       "dungeons": {},
       "first_seen": 1795763831,
       "gear": {},
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795820498000,
-      "level": 16,
+      "last_login": 1795830110000,
+      "level": 17,
       "level_at": {
-        "16": 1795763831
+        "16": 1795763831,
+        "17": 1795830196
       },
       "professions": {
         "Cooking": 24,
         "First Aid": 53,
         "Leatherworking": 40,
-        "Skinning": 124
+        "Skinning": 139
       },
       "race": "Troll",
       "raids": {},
@@ -21341,7 +21348,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7945,
+          "raw": 8020,
           "tier": 4
         },
         "Everlook": {
@@ -21356,7 +21363,7 @@
         },
         "Orgrimmar": {
           "name": "Friendly",
-          "raw": 7707,
+          "raw": 7782,
           "tier": 4
         },
         "Powderfuse": {
@@ -21371,27 +21378,27 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3456,
+          "raw": 3556,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2256,
+          "raw": 2281,
           "tier": 3
         }
       },
       "spec": "Elemental Combat",
       "stats": {
-        "critters": 7,
-        "deaths": 20,
-        "drinks": 16,
-        "food": 28,
-        "hearths": 1,
-        "killing_blows": 786,
-        "mobs": 1263,
-        "quests": 84
+        "critters": 38,
+        "deaths": 23,
+        "drinks": 22,
+        "food": 29,
+        "hearths": 2,
+        "killing_blows": 804,
+        "mobs": 1541,
+        "quests": 86
       },
-      "xp": 9256
+      "xp": 6934
     },
     "eu:quantino-pralino": {
       "achievements": {
@@ -29974,6 +29981,7 @@
     "Forsaken Greataxe": "Großaxt des Verlassenen",
     "Forsaken Weapons": "Waffen der Verlassenen",
     "Fortified Cloak of Agility": "Befestigter Umhang der Beweglichkeit",
+    "Fortified Cloak of Nature Protection": "Befestigter Umhang des Naturschutzes",
     "Foulfur Gloves": "Faulfellhandschuhe",
     "Frayed Bracers": "Ausgefranste Armschienen",
     "Frayed Gloves": "Ausgefranste Handschuhe",
@@ -30588,6 +30596,7 @@
     "Rezlak's Spare Knife": "Rezlaks Ersatzmesser",
     "Ribbed Breastplate": "Rippenbrustplatte",
     "Rich Purple Silk Shirt": "Dunkellilanes Seidenhemd",
+    "Rigid Belt of Shadow Protection": "Starrer Gürtel des Schattenschutzes",
     "Ring 1": "Ring 2",
     "Ring of Iron Will": "Ring des eisernen Willens",
     "Ring of Pure Silver": "Ring aus reinem Silber",
@@ -32327,7 +32336,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795829149,
+  "saved_at": 1795830198,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
