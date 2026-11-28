@@ -26093,11 +26093,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/143632481-avatar.jpg",
       "best_item": {
-        "id": 272998,
+        "id": 15116,
         "ilvl": null,
-        "name": "Bone Knuckles",
-        "quality": "RARE",
-        "slot": "Main Hand"
+        "name": "Rigid Shoulders of Stamina",
+        "quality": "UNCOMMON",
+        "slot": "Shoulders"
       },
       "boss_kills": {
         "15027": {
@@ -26117,20 +26117,21 @@
       },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795807523000,
-      "level": 18,
+      "last_login": 1795837625000,
+      "level": 21,
       "level_at": {
         "13": 1795719303,
         "14": 1795725596,
         "15": 1795783387,
         "17": 1795804170,
-        "18": 1795808394
+        "18": 1795808394,
+        "21": 1795838124
       },
       "professions": {
         "Cooking": 1,
         "First Aid": 73,
-        "Mining": 24,
-        "Skinning": 134
+        "Mining": 26,
+        "Skinning": 146
       },
       "race": "Orc",
       "raids": {},
@@ -26203,62 +26204,62 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1330,
+          "raw": 1900,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7960,
+          "raw": 8625,
           "tier": 4
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1330,
+          "raw": 1900,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1330,
+          "raw": 1900,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 10616,
+          "raw": 11926,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1330,
+          "raw": 1900,
           "tier": 3
         },
         "Ratchet": {
-          "name": "Neutral",
-          "raw": 2560,
-          "tier": 3
+          "name": "Friendly",
+          "raw": 3700,
+          "tier": 4
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4022,
+          "raw": 4995,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 1321,
+          "raw": 2173,
           "tier": 3
         }
       },
       "spec": "Combat",
       "stats": {
-        "deaths": 1,
-        "flights": 11,
+        "deaths": 2,
+        "flights": 18,
         "food": 12,
-        "health_potions": 6,
-        "hearths": 6,
-        "killing_blows": 601,
-        "mobs": 857,
-        "quests": 108
+        "health_potions": 8,
+        "hearths": 9,
+        "killing_blows": 842,
+        "mobs": 1250,
+        "quests": 144
       },
-      "xp": 3979
+      "xp": 9778
     },
     "eu:zulka-seelenfluch": {
       "achievements": {
@@ -29825,6 +29826,7 @@
     "Bazzalan": "Bazzalan",
     "Bazzalan kills (Ragefire Chasm)": "Siege über Bazzalan (Flammenschlund)",
     "Beast Mastery": "Tierherrschaft",
+    "Beastculler's Knife": "Messer des Wildtierschlächters",
     "Beastmaster's Girdle": "Bestienmeistergurt",
     "Beastslayer's Trident": "Dreizack des Bestientöters",
     "Beaten Battle Axe": "Gehämmerte Streitaxt",
@@ -30934,7 +30936,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanzwaffe",
+    "Ranged": "Distanz",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -30987,6 +30989,7 @@
     "Ribbed Breastplate": "Rippenbrustplatte",
     "Rich Purple Silk Shirt": "Dunkellilanes Seidenhemd",
     "Rigid Belt of Shadow Protection": "Starrer Gürtel des Schattenschutzes",
+    "Rigid Shoulders of Stamina": "Starre Schultern der Ausdauer",
     "Ring 1": "Ring 2",
     "Ring of Iron Will": "Ring des eisernen Willens",
     "Ring of Pure Silver": "Ring aus reinem Silber",
@@ -31618,7 +31621,8 @@
         "us:devil-latterday",
         "eu:maniac-menacepuppy",
         "eu:ogmar-donnerhammer",
-        "eu:barbariana-hunter"
+        "eu:barbariana-hunter",
+        "eu:zugzug-graufuss"
       ],
       "30": [
         "eu:fred-feuersturm",
@@ -32753,7 +32757,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795836616,
+  "saved_at": 1795838125,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
