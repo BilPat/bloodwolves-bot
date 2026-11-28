@@ -4023,18 +4023,19 @@
       },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795857961000,
-      "level": 25,
+      "last_login": 1795872799000,
+      "level": 26,
       "level_at": {
         "21": 1795806742,
         "24": 1795818303,
-        "25": 1795858819
+        "25": 1795858819,
+        "26": 1795873199
       },
       "professions": {
         "Cooking": 19,
         "Enchanting": 60,
         "First Aid": 75,
-        "Herbalism": 82
+        "Herbalism": 84
       },
       "race": "Orc",
       "raids": {},
@@ -4163,47 +4164,52 @@
       "reputations": {
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 1133,
+          "raw": 1183,
           "tier": 3
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8633,
+          "raw": 8832,
           "tier": 4
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1133,
+          "raw": 1183,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1133,
+          "raw": 1183,
           "tier": 3
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 12028,
+          "raw": 12358,
           "tier": 5
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 1133,
+          "raw": 1183,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2166,
+          "raw": 2266,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 5353,
+          "raw": 5567,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2795,
+          "raw": 2918,
           "tier": 3
         },
         "Warsong Outriders": {
@@ -4215,18 +4221,19 @@
       "spec": "Marksmanship",
       "stats": {
         "critters": 42,
-        "deaths": 19,
-        "drinks": 72,
-        "flights": 20,
-        "food": 48,
-        "health_potions": 8,
-        "hearths": 5,
+        "deaths": 20,
+        "drinks": 83,
+        "flights": 21,
+        "food": 57,
+        "health_potions": 9,
+        "hearths": 6,
         "honorable_kills": 94,
-        "killing_blows": 1439,
-        "mobs": 1986,
-        "quests": 140
+        "killing_blows": 1545,
+        "mana_potions": 1,
+        "mobs": 2092,
+        "quests": 148
       },
-      "xp": 5834
+      "xp": 2729
     },
     "eu:blck-jck": {
       "achievements": {
@@ -30495,7 +30502,7 @@
     "Druid": "Druide",
     "Dry Moss Tunic": "Trockenmoostunika",
     "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
-    "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
+    "Dual Wield Specialization": "Beidhändigkeits-Spezialisierung",
     "Duels lost": "Duelle verloren",
     "Duels won": "Duelle gewonnen",
     "Dull Sawblade": "Stumpfes Sägeblatt",
@@ -31104,6 +31111,7 @@
     "Moonglow": "Mondschein",
     "Moonsilver Blade": "Mondsilberklinge",
     "Moonstone Wand": "Mondsteinzauberstab",
+    "Mortal Shots": "Todbringende Schüsse",
     "Mortal Strike": "Tödlicher Stoß",
     "Most Alliance factions at Exalted": "Meiste Allianzfraktionen auf Ehrfürchtig",
     "Most Horde factions at Exalted": "Meiste Hordefraktionen auf Ehrfürchtig",
@@ -33087,7 +33095,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795872319,
+  "saved_at": 1795873204,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
