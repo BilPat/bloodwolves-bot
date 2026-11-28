@@ -3209,7 +3209,7 @@
       },
       "ilvl": 50,
       "last_explored": "Thousand Needles",
-      "last_login": 1795841953000,
+      "last_login": 1795864118000,
       "level": 57,
       "level_at": {
         "38": 1794866470,
@@ -3821,7 +3821,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7718,
+          "raw": 7756,
           "tier": 4
         },
         "Earthen Ring": {
@@ -3846,7 +3846,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9447,
+          "raw": 9485,
           "tier": 5
         },
         "Powderfuse": {
@@ -3871,7 +3871,7 @@
         },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 10605,
+          "raw": 10642,
           "tier": 5
         },
         "Timbermaw Hold": {
@@ -3881,7 +3881,7 @@
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 8491,
+          "raw": 8641,
           "tier": 4
         },
         "Windshapers": {
@@ -3895,16 +3895,16 @@
         "critters": 288,
         "deaths": 69,
         "drinks": 892,
-        "flights": 123,
+        "flights": 124,
         "food": 207,
         "health_potions": 59,
         "hearths": 43,
         "killing_blows": 3712,
         "mana_potions": 39,
         "mobs": 17601,
-        "quests": 572
+        "quests": 573
       },
-      "xp": 130270
+      "xp": 152470
     },
     "eu:beast-eye": {
       "achievements": {
@@ -9738,7 +9738,7 @@
       },
       "ilvl": 32,
       "last_explored": "Tirisfal Glades",
-      "last_login": 1795814481000,
+      "last_login": 1795863933000,
       "level": 41,
       "level_at": {
         "28": 1794866470,
@@ -10298,7 +10298,7 @@
         },
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -9875,
+          "raw": -11550,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -10308,7 +10308,7 @@
         },
         "Booty Bay": {
           "name": "Neutral",
-          "raw": 2205,
+          "raw": 2590,
           "tier": 3
         },
         "Darkspear Trolls": {
@@ -10328,12 +10328,12 @@
         },
         "Everlook": {
           "name": "Neutral",
-          "raw": 1780,
+          "raw": 1972,
           "tier": 3
         },
         "Gadgetzan": {
           "name": "Neutral",
-          "raw": 1780,
+          "raw": 1972,
           "tier": 3
         },
         "Orgrimmar": {
@@ -10343,12 +10343,12 @@
         },
         "Powderfuse": {
           "name": "Neutral",
-          "raw": 2110,
+          "raw": 2302,
           "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 2005,
+          "raw": 2197,
           "tier": 3
         },
         "Thunder Bluff": {
@@ -10366,18 +10366,18 @@
       "stats": {
         "critters": 108,
         "deaths": 25,
-        "drinks": 947,
-        "flights": 58,
-        "food": 347,
+        "drinks": 948,
+        "flights": 59,
+        "food": 349,
         "health_potions": 30,
         "hearths": 27,
         "honorable_kills": 4,
-        "killing_blows": 2780,
-        "mana_potions": 14,
-        "mobs": 6284,
-        "quests": 333
+        "killing_blows": 2809,
+        "mana_potions": 15,
+        "mobs": 6313,
+        "quests": 338
       },
-      "xp": 50714
+      "xp": 74849
     },
     "eu:freya-graufuss": {
       "achievements": {
@@ -33014,7 +33014,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795862419,
+  "saved_at": 1795864381,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
