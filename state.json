@@ -8570,7 +8570,7 @@
       },
       "ilvl": 14,
       "last_explored": "The Barrens",
-      "last_login": 1795649582000,
+      "last_login": 1795873904000,
       "level": 26,
       "level_at": {
         "21": 1794866470,
@@ -8581,10 +8581,10 @@
       },
       "professions": {
         "Blacksmithing": 54,
-        "Cooking": 20,
-        "First Aid": 50,
+        "Cooking": 32,
+        "First Aid": 55,
         "Fishing": 100,
-        "Mining": 98
+        "Mining": 101
       },
       "race": "Orc",
       "raids": {},
@@ -8731,6 +8731,10 @@
           {
             "id": 52640,
             "name": "Basic Campfire"
+          },
+          {
+            "id": 54504,
+            "name": "Tasty Raptor Bites"
           }
         ],
         "First Aid": [
@@ -8749,6 +8753,10 @@
           {
             "id": 54191,
             "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Fishing": [
@@ -8796,7 +8804,7 @@
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 10270,
+          "raw": 10401,
           "tier": 5
         },
         "Everlook": {
@@ -8811,7 +8819,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 14583,
+          "raw": 14715,
           "tier": 5
         },
         "Powderfuse": {
@@ -8826,30 +8834,30 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 6966,
+          "raw": 7097,
           "tier": 4
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 5715,
+          "raw": 6240,
           "tier": 4
         }
       },
       "spec": "Protection",
       "stats": {
         "critters": 13,
-        "deaths": 45,
+        "deaths": 46,
         "drinks": 4,
-        "flights": 56,
+        "flights": 59,
         "food": 8,
-        "health_potions": 21,
-        "hearths": 17,
+        "health_potions": 22,
+        "hearths": 18,
         "honorable_kills": 1,
-        "killing_blows": 1380,
-        "mobs": 2076,
-        "quests": 227
+        "killing_blows": 1431,
+        "mobs": 2132,
+        "quests": 235
       },
-      "xp": 7225
+      "xp": 25716
     },
     "eu:eluna-sia": {
       "achievements": {
@@ -10971,11 +10979,11 @@
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/222/17890014-avatar.jpg",
       "best_item": {
-        "id": 10410,
+        "id": 252460,
         "ilvl": null,
-        "name": "Leggings of the Fang",
+        "name": "Warden's Leather Belt",
         "quality": "RARE",
-        "slot": "Legs"
+        "slot": "Waist"
       },
       "boss_kills": {
         "1092": {
@@ -11007,6 +11015,10 @@
           "name": "Leggings of the Fang",
           "quality": "RARE"
         },
+        "252460": {
+          "name": "Warden's Leather Belt",
+          "quality": "RARE"
+        },
         "271766": {
           "name": "Heavehammer",
           "quality": "RARE"
@@ -11030,7 +11042,7 @@
       },
       "ilvl": 27,
       "last_explored": "Thousand Needles",
-      "last_login": 1795861401000,
+      "last_login": 1795873705000,
       "level": 37,
       "level_at": {
         "27": 1794866470,
@@ -11050,7 +11062,7 @@
         "First Aid": 20,
         "Fishing": 209,
         "Leatherworking": 161,
-        "Skinning": 261
+        "Skinning": 262
       },
       "race": "Tauren",
       "raids": {},
@@ -11509,7 +11521,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 7310,
+          "raw": 7335,
           "tier": 4
         },
         "Durotar Supply and Logistics": {
@@ -11544,7 +11556,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 9692,
+          "raw": 9698,
           "tier": 5
         },
         "Powderfuse": {
@@ -11557,14 +11569,19 @@
           "raw": 3650,
           "tier": 4
         },
+        "The Defilers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
+        },
         "Thunder Bluff": {
           "name": "Honored",
-          "raw": 15382,
+          "raw": 15388,
           "tier": 5
         },
         "Undercity": {
           "name": "Friendly",
-          "raw": 6453,
+          "raw": 6460,
           "tier": 4
         },
         "Warsong Outriders": {
@@ -11578,17 +11595,17 @@
         "critters": 49,
         "deaths": 49,
         "drinks": 70,
-        "flights": 75,
-        "food": 188,
-        "health_potions": 32,
+        "flights": 76,
+        "food": 190,
+        "health_potions": 34,
         "hearths": 39,
         "honorable_kills": 71,
-        "killing_blows": 2679,
+        "killing_blows": 2753,
         "mana_potions": 2,
-        "mobs": 3551,
-        "quests": 320
+        "mobs": 3631,
+        "quests": 322
       },
-      "xp": 51622
+      "xp": 67260
     },
     "eu:garret-aschwind": {
       "achievements": {
@@ -30502,7 +30519,7 @@
     "Druid": "Druide",
     "Dry Moss Tunic": "Trockenmoostunika",
     "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
-    "Dual Wield Specialization": "Beidhändigkeits-Spezialisierung",
+    "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
     "Duels lost": "Duelle verloren",
     "Duels won": "Duelle gewonnen",
     "Dull Sawblade": "Stumpfes Sägeblatt",
@@ -30743,6 +30760,7 @@
     "Glimmering Mail Girdle": "Gleißender Panzergurt",
     "Glinteye Slippers": "Glanzaugenpantoffeln",
     "Glistening Stompers": "Glitzernde Stampfer",
+    "Gloves of Brawn": "Handschuhe der Muskelkraft",
     "Gloves of the Atal'ai Prophet": "Prophetenhandschuhe der Atal'ai",
     "Gloves of the Fang": "Handschuhe des Giftzahns",
     "Gloves of the Moon": "Handschuhe des Mondes",
@@ -31175,6 +31193,7 @@
     "Opaque Wand": "Undurchsichtiger Zauberstab",
     "Operator's Gloves": "Handschuhe des Betreibers",
     "Orange Mageweave Shirt": "Oranges Magiestoffhemd",
+    "Orcish War Chain": "Orc-Kriegskette",
     "Ornate Blunderbuss": "Verschnörkelte Donnerbüchse",
     "Outlaw Sabre": "Gesetzlosensäbel",
     "Outrunner's Cloak of the Bear": "Kundschafter-Umhang des Bären",
@@ -31526,6 +31545,7 @@
     "Skills": "Fertigkeiten",
     "Skinning Knife": "Kürschnermesser",
     "Skinning Skill": "Kürschnerfertigkeit",
+    "Skull Ring": "Schädelring",
     "Skullthumper": "Schädelbrecher",
     "Skycaller's Leather Shoes": "Lederschuhe des Himmelsrufers",
     "Skywatcher's Vestments": "Himmelsschauergewänder",
@@ -32373,6 +32393,10 @@
   "roster": {
     "left_log": [
       {
+        "name": "Mamulo Shamäsich",
+        "ts": 1795873999
+      },
+      {
         "name": "Barbariana Hunter",
         "ts": 1795763757
       },
@@ -32440,7 +32464,6 @@
       "lazy-quinn": "Lazy Quinn",
       "liquider-nasenb%C3%A4r": "Liquider Nasenbär",
       "lockendotter-bonechrusher": "Lockendotter Bonechrusher",
-      "mamulo-sham%C3%A4sich": "Mamulo Shamäsich",
       "maniac-menacepuppy": "Maniac Menacepuppy",
       "mento-zemento": "Mento Zemento",
       "mia-graufuss": "Mia Graufuss",
@@ -32751,7 +32774,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 27,
+        "level": 28,
         "name": "Mimisiku",
         "rank": 4,
         "region": "eu",
@@ -33039,15 +33062,6 @@
       {
         "class": null,
         "guild": true,
-        "level": 35,
-        "name": "Mamulo",
-        "rank": 5,
-        "region": "eu",
-        "surname": "Shamäsich"
-      },
-      {
-        "class": null,
-        "guild": true,
         "level": 14,
         "name": "Finn",
         "rank": 1,
@@ -33057,7 +33071,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 25,
+        "level": 26,
         "name": "Beast",
         "rank": 4,
         "region": "eu",
@@ -33095,7 +33109,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795873204,
+  "saved_at": 1795874079,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
