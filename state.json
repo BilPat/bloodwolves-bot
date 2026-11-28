@@ -12430,7 +12430,8 @@
         "61500": "Experienced Warrior",
         "773": "Explore The Hinterlands",
         "846": "Explore Thousand Needles",
-        "847": "Explore Stonetalon Mountains"
+        "847": "Explore Stonetalon Mountains",
+        "854": "Explore Un'Goro Crater"
       },
       "avatar": "https://render.worldofwarcraft.com/forever-eu/character/97/4873569-avatar.jpg",
       "best_item": {
@@ -12480,6 +12481,11 @@
           "boss": "Rath'mael",
           "count": 1,
           "instance": "Ruins of Lordaeron"
+        },
+        "63575": {
+          "boss": "Blazeroar",
+          "count": 1,
+          "instance": "Alcaz Prison"
         },
         "6786": {
           "boss": "High Inquisitor Whitemane",
@@ -12543,6 +12549,14 @@
           "name": "Ogre Horn Ring",
           "quality": "RARE"
         },
+        "276742": {
+          "name": "Girdle of Extracted Answers",
+          "quality": "RARE"
+        },
+        "279831": {
+          "name": "Fatebound Buckler",
+          "quality": "RARE"
+        },
         "6686": {
           "name": "Tusken Helm",
           "quality": "RARE"
@@ -12557,9 +12571,9 @@
         }
       },
       "ilvl": 46,
-      "last_explored": "The Hinterlands",
-      "last_login": 1795785761000,
-      "level": 51,
+      "last_explored": "Un'Goro Crater",
+      "last_login": 1795834732000,
+      "level": 53,
       "level_at": {
         "42": 1794866470,
         "44": 1794878167,
@@ -12568,14 +12582,15 @@
         "47": 1795273985,
         "48": 1795315195,
         "49": 1795374757,
-        "51": 1795785940
+        "51": 1795785940,
+        "53": 1795835818
       },
       "professions": {
         "Cooking": 31,
         "First Aid": 20,
-        "Fishing": 210,
-        "Mining": 200,
-        "Skinning": 259
+        "Fishing": 225,
+        "Mining": 206,
+        "Skinning": 291
       },
       "race": "Tauren",
       "raids": {},
@@ -12618,7 +12633,7 @@
         ],
         "Fishing": [
           {
-            "id": 4346,
+            "id": 10242,
             "name": "Fishing"
           },
           {
@@ -12686,7 +12701,7 @@
       "reputations": {
         "Bloodsail Buccaneers": {
           "name": "Hated",
-          "raw": -20775,
+          "raw": -25250,
           "tier": 0
         },
         "Bolder'ok Clan": {
@@ -12695,70 +12710,75 @@
           "tier": 4
         },
         "Booty Bay": {
-          "name": "Friendly",
-          "raw": 8790,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9881,
+          "tier": 5
         },
         "Darkspear Trolls": {
           "name": "Honored",
-          "raw": 12811,
+          "raw": 13706,
           "tier": 5
         },
         "Earthen Ring": {
           "name": "Neutral",
-          "raw": 1300,
+          "raw": 1600,
           "tier": 3
         },
         "Everlook": {
           "name": "Friendly",
-          "raw": 7118,
+          "raw": 7857,
           "tier": 4
         },
         "Gadgetzan": {
-          "name": "Friendly",
-          "raw": 8613,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9589,
+          "tier": 5
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 15752,
+          "raw": 16880,
           "tier": 5
         },
         "Powderfuse": {
-          "name": "Friendly",
-          "raw": 8278,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9017,
+          "tier": 5
         },
         "Ratchet": {
-          "name": "Friendly",
-          "raw": 8810,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9602,
+          "tier": 5
         },
         "Thunder Bluff": {
           "name": "Revered",
-          "raw": 21226,
+          "raw": 21948,
           "tier": 6
         },
         "Undercity": {
           "name": "Honored",
-          "raw": 11032,
+          "raw": 11740,
           "tier": 5
+        },
+        "Windshapers": {
+          "name": "Neutral",
+          "raw": 0,
+          "tier": 3
         }
       },
       "spec": "Protection",
       "stats": {
-        "critters": 102,
-        "deaths": 79,
+        "critters": 103,
+        "deaths": 84,
         "drinks": 2,
-        "flights": 114,
-        "food": 192,
-        "health_potions": 136,
-        "hearths": 32,
-        "killing_blows": 4402,
-        "mobs": 7701,
-        "quests": 632
+        "flights": 134,
+        "food": 203,
+        "health_potions": 151,
+        "hearths": 35,
+        "killing_blows": 4770,
+        "mobs": 8212,
+        "quests": 714
       },
-      "xp": 4804
+      "xp": 113569
     },
     "eu:howard-wolowitzard": {
       "achievements": {
@@ -23497,6 +23517,296 @@
       },
       "xp": 2386
     },
+    "eu:serena-veiford": {
+      "achievements": {
+        "855": "Explore Moonglade"
+      },
+      "avatar": "https://render.worldofwarcraft.com/forever-eu/character/131/18314115-avatar.jpg",
+      "best_item": {
+        "id": 252425,
+        "ilvl": null,
+        "name": "Dark Leather Boots",
+        "quality": "RARE",
+        "slot": "Feet"
+      },
+      "boss_kills": {},
+      "class": "Druid",
+      "dungeons": {},
+      "first_seen": 1795835818,
+      "gear": {
+        "252425": {
+          "name": "Dark Leather Boots",
+          "quality": "RARE"
+        }
+      },
+      "ilvl": null,
+      "last_explored": "Moonglade",
+      "last_login": 1795833976000,
+      "level": 22,
+      "level_at": {
+        "22": 1795835818
+      },
+      "professions": {
+        "Cooking": 10,
+        "First Aid": 60,
+        "Fishing": 20,
+        "Leatherworking": 101,
+        "Skinning": 170
+      },
+      "race": "Windshaper Skyborne",
+      "raids": {},
+      "recipes": {
+        "Cooking": [
+          {
+            "id": 1535,
+            "name": "Charred Wolf Meat"
+          },
+          {
+            "id": 1537,
+            "name": "Roasted Boar Meat"
+          },
+          {
+            "id": 4353,
+            "name": "Brilliant Smallfish"
+          },
+          {
+            "id": 4354,
+            "name": "Slitherskin Mackerel"
+          },
+          {
+            "id": 4786,
+            "name": "Herb Baked Egg"
+          },
+          {
+            "id": 52640,
+            "name": "Basic Campfire"
+          }
+        ],
+        "First Aid": [
+          {
+            "id": 1838,
+            "name": "Linen Bandage"
+          },
+          {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
+            "id": 52641,
+            "name": "First Aid Kit"
+          }
+        ],
+        "Fishing": [
+          {
+            "id": 4344,
+            "name": "Fishing"
+          },
+          {
+            "id": 52639,
+            "name": "Fish Bowl"
+          }
+        ],
+        "Leatherworking": [
+          {
+            "id": 1353,
+            "name": "Handstitched Leather Boots"
+          },
+          {
+            "id": 1355,
+            "name": "Handstitched Leather Pants"
+          },
+          {
+            "id": 1356,
+            "name": "Light Armor Kit"
+          },
+          {
+            "id": 1362,
+            "name": "Embossed Leather Vest"
+          },
+          {
+            "id": 1364,
+            "name": "Embossed Leather Cloak"
+          },
+          {
+            "id": 1367,
+            "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1708,
+            "name": "Light Leather"
+          },
+          {
+            "id": 2162,
+            "name": "Handstitched Leather Belt"
+          },
+          {
+            "id": 2164,
+            "name": "Embossed Leather Gloves"
+          },
+          {
+            "id": 2170,
+            "name": "Fine Leather Tunic"
+          },
+          {
+            "id": 4987,
+            "name": "Handstitched Leather Cloak"
+          },
+          {
+            "id": 4988,
+            "name": "Handstitched Leather Bracers"
+          },
+          {
+            "id": 4989,
+            "name": "Light Leather Quiver"
+          },
+          {
+            "id": 4990,
+            "name": "Small Leather Ammo Pouch"
+          },
+          {
+            "id": 4992,
+            "name": "Light Leather Bracers"
+          },
+          {
+            "id": 4993,
+            "name": "Light Leather Pants"
+          },
+          {
+            "id": 2172,
+            "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
+          },
+          {
+            "id": 2195,
+            "name": "Cured Light Hide"
+          },
+          {
+            "id": 2196,
+            "name": "Cured Medium Hide"
+          },
+          {
+            "id": 11756,
+            "name": "Medium Leather"
+          },
+          {
+            "id": 4156,
+            "name": "Handstitched Leather Vest"
+          },
+          {
+            "id": 52647,
+            "name": "Camp Tent"
+          },
+          {
+            "id": 55204,
+            "name": "Moonglow Boots"
+          },
+          {
+            "id": 55206,
+            "name": "Dark Leather Boots"
+          }
+        ],
+        "Skinning": [
+          {
+            "id": 4768,
+            "name": "Skinning"
+          },
+          {
+            "id": 52644,
+            "name": "Camp Chair"
+          }
+        ]
+      },
+      "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 1712,
+          "tier": 3
+        },
+        "Cenarion Circle": {
+          "name": "Neutral",
+          "raw": 2885,
+          "tier": 3
+        },
+        "Darkspear Trolls": {
+          "name": "Friendly",
+          "raw": 3312,
+          "tier": 4
+        },
+        "Durotar Supply and Logistics": {
+          "name": "Neutral",
+          "raw": 2000,
+          "tier": 3
+        },
+        "Earthen Ring": {
+          "name": "Neutral",
+          "raw": 700,
+          "tier": 3
+        },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 1712,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 1712,
+          "tier": 3
+        },
+        "Nightclaw Druids": {
+          "name": "Friendly",
+          "raw": 5300,
+          "tier": 4
+        },
+        "Orgrimmar": {
+          "name": "Friendly",
+          "raw": 4700,
+          "tier": 4
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 1712,
+          "tier": 3
+        },
+        "Ratchet": {
+          "name": "Neutral",
+          "raw": 2924,
+          "tier": 3
+        },
+        "Thunder Bluff": {
+          "name": "Friendly",
+          "raw": 4851,
+          "tier": 4
+        },
+        "Undercity": {
+          "name": "Neutral",
+          "raw": 1718,
+          "tier": 3
+        },
+        "Windshapers": {
+          "name": "Friendly",
+          "raw": 6010,
+          "tier": 4
+        }
+      },
+      "spec": "Feral Combat",
+      "stats": {
+        "critters": 2,
+        "deaths": 3,
+        "drinks": 8,
+        "flights": 21,
+        "food": 1,
+        "health_potions": 6,
+        "hearths": 10,
+        "killing_blows": 1139,
+        "mana_potions": 1,
+        "mobs": 1341,
+        "quests": 172
+      },
+      "xp": 11222
+    },
     "eu:sorayha-avalon": {
       "achievements": {
         "736": "Explore Mulgore"
@@ -26634,7 +26944,7 @@
       },
       "ilvl": 23,
       "last_explored": "Dun Morogh",
-      "last_login": 1795810344000,
+      "last_login": 1795835223000,
       "level": 33,
       "level_at": {
         "18": 1795149590,
@@ -29299,6 +29609,27 @@
           "level": 41
         }
       },
+      "eu:h%C3%A4uptling-blutmacht": {
+        "c": {
+          "name": "Häuptling",
+          "rank_name": "Gildenmeister",
+          "region": "eu",
+          "surname": "Blutmacht"
+        },
+        "lines": [
+          "🛠️ **Angeln** auf 225",
+          "⚔️ Erster Kill: **[Blazeroar](https://www.wowhead.com/forever/de/search?q=Blazeroar)** (Alcaz Prison)",
+          "🤝 **Wohlwollend** bei Booty Bay",
+          "🤝 **Wohlwollend** bei Gadgetzan",
+          "🤝 **Wohlwollend** bei Powderfuse",
+          "🤝 **Wohlwollend** bei Ratchet",
+          "🎖️ [Erkundet Krater von Un'Goro](https://www.wowhead.com/forever/de/achievement=854)"
+        ],
+        "snap": {
+          "class": "Warrior",
+          "level": 53
+        }
+      },
       "eu:krakmor-ci%C3%B3rdan": {
         "c": {
           "name": "Krakmor",
@@ -29707,6 +30038,7 @@
     "Coup de Grace": "Gnadenstoß",
     "Courier's Clasp": "Schnallengürtel des Kuriers",
     "Crafted Light Shot": "Gefertigtes leichtes Geschoss",
+    "Cragplate Greaves": "Cragplate-Schienbeinschützer",
     "Creature type killed the most": "Am häufigsten getöteter Kreaturtyp",
     "Creatures": "Kreaturen",
     "Creatures killed": "Kreaturen getötet",
@@ -29950,6 +30282,7 @@
     "Fallen Guard's Pendant": "Anhänger des gefallenen Wächters",
     "Fallenroot Longbow": "Langbogen der Leidbringer",
     "Farmer's Shovel": "Bauernschaufel",
+    "Fatebound Buckler": "Schicksalsgebundener Rundschild",
     "Featherbead Bracers": "Federleichte Armschienen",
     "Feathered Arrow": "Gefiederter Pfeil",
     "Featherskin Cape": "Federhautcape",
@@ -30064,6 +30397,7 @@
     "Ghostly Mantle": "Geisterhafter Mantel",
     "Giantstone Medallion": "Riesensteinmedallion",
     "Gift of Nature": "Geschenk der Natur",
+    "Girdle of Extracted Answers": "Gurt der entrissenen Antworten",
     "Glimmering Mail Girdle": "Gleißender Panzergurt",
     "Glinteye Slippers": "Glanzaugenpantoffeln",
     "Glistening Stompers": "Glitzernde Stampfer",
@@ -30600,7 +30934,7 @@
     "Raincaster Drape": "Regenzauberertuch",
     "Rainstrider Leggings": "Regenschreitergamaschen",
     "Rambling Boots": "Stromer-Stiefel",
-    "Ranged": "Distanz",
+    "Ranged": "Distanzwaffe",
     "Rapid Killing": "Schneller Tod",
     "Raptor Hide Cloak": "Raptorbalgumhang",
     "Raptor Hunter Tunic": "Raptorjägertunika",
@@ -30815,6 +31149,7 @@
     "Shield": "Schild",
     "Shield Slam": "Schildschlag",
     "Shield Specialization": "Schild-Spezialisierung",
+    "Shield Spike": "Schildstachel",
     "Shieldsworn": "Schildgeschworen",
     "Shifting Power": "Machtverschiebung",
     "Shilly Mitts": "Fäustlinge der Entschlossenheit",
@@ -31029,6 +31364,7 @@
     "Toughened Leather Gloves": "Gekräftigte Lederhandschuhe",
     "Toughness": "Zähigkeit",
     "Toxic Sporidium": "Toxisches Sporidium",
+    "Tracker's Pants": "Fährtenleserhose",
     "Tranquil Spirit": "Gelassener Geist",
     "Transformative Cocoon": "Transformativer Kokon",
     "Trapper's Leather Pants": "Lederhose des Fallenstellers",
@@ -31622,6 +31958,12 @@
     "eu:senor-nefando": {
       "mounts": {}
     },
+    "eu:serena-veiford": {
+      "mounts": {
+        "3111": "Cerulean Prideclaw",
+        "3130": "Veteran Adventurer's Loyal Companion"
+      }
+    },
     "eu:sorayha-avalon": {
       "mounts": {
         "3111": "Cerulean Prideclaw",
@@ -31776,6 +32118,7 @@
       "redbully-badbully": "Redbully Badbully",
       "senor-nefando": "Senor Nefando",
       "seppi-sapbert": "Seppi Sapbert",
+      "serena-veiford": "Serena Veiford",
       "sorayha-avalon": "Sorayha Avalon",
       "thalgrim-tirisfal": "Thalgrim Tirisfal",
       "thalia-mondrabe": "Thalia Mondrabe",
@@ -31859,7 +32202,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 52,
+        "level": 53,
         "name": "Häuptling",
         "rank": 0,
         "region": "eu",
@@ -32057,7 +32400,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 34,
+        "level": 35,
         "name": "Efrye",
         "rank": 1,
         "region": "eu",
@@ -32291,7 +32634,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 16,
+        "level": 17,
         "name": "Pippilotta",
         "rank": 4,
         "region": "eu",
@@ -32372,7 +32715,7 @@
       {
         "class": null,
         "guild": true,
-        "level": 18,
+        "level": 21,
         "name": "Zugzug",
         "rank": 1,
         "region": "eu",
@@ -32395,13 +32738,22 @@
         "rank": 5,
         "region": "eu",
         "surname": "Finger"
+      },
+      {
+        "class": null,
+        "guild": true,
+        "level": 22,
+        "name": "Serena",
+        "rank": 5,
+        "region": "eu",
+        "surname": "Veiford"
       }
     ],
     "message_ids": [
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795834487,
+  "saved_at": 1795835820,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
@@ -34666,6 +35018,49 @@
           "quests": 50
         },
         "xp": 2386
+      },
+      "eu:serena-veiford": {
+        "achievements": 1,
+        "clears": {},
+        "epics": [],
+        "level": 22,
+        "professions": {
+          "Cooking": 10,
+          "First Aid": 60,
+          "Fishing": 20,
+          "Leatherworking": 101,
+          "Skinning": 170
+        },
+        "rep": {
+          "Booty Bay": 1712,
+          "Cenarion Circle": 2885,
+          "Darkspear Trolls": 3312,
+          "Durotar Supply and Logistics": 2000,
+          "Earthen Ring": 700,
+          "Everlook": 1712,
+          "Gadgetzan": 1712,
+          "Nightclaw Druids": 5300,
+          "Orgrimmar": 4700,
+          "Powderfuse": 1712,
+          "Ratchet": 2924,
+          "Thunder Bluff": 4851,
+          "Undercity": 1718,
+          "Windshapers": 6010
+        },
+        "stats": {
+          "critters": 2,
+          "deaths": 3,
+          "drinks": 8,
+          "flights": 21,
+          "food": 1,
+          "health_potions": 6,
+          "hearths": 10,
+          "killing_blows": 1139,
+          "mana_potions": 1,
+          "mobs": 1341,
+          "quests": 172
+        },
+        "xp": 11222
       },
       "eu:sorayha-avalon": {
         "achievements": 1,
