@@ -3908,6 +3908,7 @@
     },
     "eu:beast-eye": {
       "achievements": {
+        "61989": "Novice Hunter",
         "62003": "Novice Rogue",
         "62009": "Novice Warlock",
         "62024": "Journeyman Leatherworker",
@@ -3982,17 +3983,18 @@
       },
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795817899000,
-      "level": 24,
+      "last_login": 1795857961000,
+      "level": 25,
       "level_at": {
         "21": 1795806742,
-        "24": 1795818303
+        "24": 1795818303,
+        "25": 1795858819
       },
       "professions": {
         "Cooking": 19,
-        "Enchanting": 22,
+        "Enchanting": 60,
         "First Aid": 75,
-        "Herbalism": 78
+        "Herbalism": 82
       },
       "race": "Orc",
       "raids": {},
@@ -4029,6 +4031,10 @@
             "name": "Minor Wizard Oil"
           },
           {
+            "id": 4352,
+            "name": "Enchant Chest - Lesser Stamina"
+          },
+          {
             "id": 7316,
             "name": "Disenchant"
           },
@@ -4045,12 +4051,24 @@
             "name": "Runed Copper Rod"
           },
           {
+            "id": 4292,
+            "name": "Enchant Chest - Minor Absorption"
+          },
+          {
             "id": 4293,
             "name": "Enchant Bracer - Minor Deflect"
           },
           {
             "id": 4297,
             "name": "Enchant Chest - Minor Intellect"
+          },
+          {
+            "id": 4300,
+            "name": "Enchant Cloak - Minor Resistance"
+          },
+          {
+            "id": 4301,
+            "name": "Enchant Bracer - Minor Stamina"
           },
           {
             "id": 52649,
@@ -4110,7 +4128,7 @@
         },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8437,
+          "raw": 8633,
           "tier": 4
         },
         "Everlook": {
@@ -4125,7 +4143,7 @@
         },
         "Orgrimmar": {
           "name": "Honored",
-          "raw": 11476,
+          "raw": 12028,
           "tier": 5
         },
         "Powderfuse": {
@@ -4140,12 +4158,12 @@
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 4925,
+          "raw": 5353,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 2598,
+          "raw": 2795,
           "tier": 3
         },
         "Warsong Outriders": {
@@ -4156,19 +4174,19 @@
       },
       "spec": "Marksmanship",
       "stats": {
-        "critters": 31,
-        "deaths": 18,
-        "drinks": 65,
-        "flights": 17,
-        "food": 41,
-        "health_potions": 6,
-        "hearths": 4,
+        "critters": 42,
+        "deaths": 19,
+        "drinks": 72,
+        "flights": 20,
+        "food": 48,
+        "health_potions": 8,
+        "hearths": 5,
         "honorable_kills": 94,
-        "killing_blows": 1317,
-        "mobs": 1850,
-        "quests": 129
+        "killing_blows": 1439,
+        "mobs": 1986,
+        "quests": 140
       },
-      "xp": 107
+      "xp": 5834
     },
     "eu:blck-jck": {
       "achievements": {
@@ -11529,8 +11547,10 @@
       "achievements": {
         "61997": "Novice Paladin",
         "61998": "Experienced Paladin",
+        "62012": "Journeyman Alchemist",
         "62015": "Journeyman Blacksmith",
         "62016": "Expert Blacksmith",
+        "62031": "Novice Spelunker",
         "846": "Explore Thousand Needles",
         "855": "Explore Moonglade"
       },
@@ -11577,6 +11597,11 @@
           "boss": "Amnennar the Coldbringer",
           "count": 1,
           "instance": "Razorfen Downs"
+        },
+        "63570": {
+          "boss": "Edwin VanCleef",
+          "count": 1,
+          "instance": "Deadmines"
         },
         "63571": {
           "boss": "Rath'mael",
@@ -11661,7 +11686,7 @@
       },
       "ilvl": 43,
       "last_explored": "Moonglade",
-      "last_login": 1795712011000,
+      "last_login": 1795858474000,
       "level": 48,
       "level_at": {
         "40": 1794866470,
@@ -12001,6 +12026,10 @@
             "name": "Veteran's Silvered Chain Helm"
           },
           {
+            "id": 54755,
+            "name": "Shining Mithril Helm"
+          },
+          {
             "id": 54772,
             "name": "Justicar's Belt"
           },
@@ -12312,20 +12341,20 @@
       },
       "spec": "Retribution",
       "stats": {
-        "critters": 106,
-        "deaths": 11,
-        "drinks": 117,
-        "flights": 86,
-        "food": 118,
-        "health_potions": 38,
-        "hearths": 32,
+        "critters": 107,
+        "deaths": 12,
+        "drinks": 122,
+        "flights": 87,
+        "food": 121,
+        "health_potions": 40,
+        "hearths": 33,
         "honorable_kills": 1,
-        "killing_blows": 4171,
+        "killing_blows": 4253,
         "mana_potions": 1,
-        "mobs": 6811,
-        "quests": 589
+        "mobs": 6894,
+        "quests": 591
       },
-      "xp": 56036
+      "xp": 61109
     },
     "eu:gaul-jin": {
       "achievements": {},
@@ -21111,17 +21140,18 @@
       "gear": {},
       "ilvl": null,
       "last_explored": "Durotar",
-      "last_login": 1795801916000,
-      "level": 15,
+      "last_login": 1795858070000,
+      "level": 16,
       "level_at": {
         "11": 1795721971,
-        "15": 1795802109
+        "15": 1795802109,
+        "16": 1795858819
       },
       "professions": {
         "Cooking": 1,
-        "First Aid": 49,
-        "Leatherworking": 93,
-        "Skinning": 102
+        "First Aid": 63,
+        "Leatherworking": 100,
+        "Skinning": 124
       },
       "race": "Troll",
       "raids": {},
@@ -21150,12 +21180,20 @@
             "name": "Linen Bandage"
           },
           {
+            "id": 1839,
+            "name": "Heavy Linen Bandage"
+          },
+          {
             "id": 52641,
             "name": "First Aid Kit"
           },
           {
             "id": 54191,
             "name": "Minor Healing Potion"
+          },
+          {
+            "id": 54192,
+            "name": "Lesser Healing Potion"
           }
         ],
         "Leatherworking": [
@@ -21190,6 +21228,10 @@
           {
             "id": 1367,
             "name": "Medium Armor Kit"
+          },
+          {
+            "id": 1368,
+            "name": "Toughened Leather Armor"
           },
           {
             "id": 1369,
@@ -21244,8 +21286,20 @@
             "name": "Light Leather Pants"
           },
           {
+            "id": 4996,
+            "name": "Nimble Leather Gloves"
+          },
+          {
+            "id": 5026,
+            "name": "Fletcher's Gloves"
+          },
+          {
             "id": 2172,
             "name": "Fine Leather Belt"
+          },
+          {
+            "id": 2175,
+            "name": "Dark Leather Belt"
           },
           {
             "id": 2195,
@@ -21312,29 +21366,49 @@
         ]
       },
       "reputations": {
+        "Booty Bay": {
+          "name": "Neutral",
+          "raw": 675,
+          "tier": 3
+        },
         "Darkspear Trolls": {
           "name": "Friendly",
-          "raw": 8632,
+          "raw": 8926,
           "tier": 4
         },
+        "Everlook": {
+          "name": "Neutral",
+          "raw": 675,
+          "tier": 3
+        },
+        "Gadgetzan": {
+          "name": "Neutral",
+          "raw": 675,
+          "tier": 3
+        },
         "Orgrimmar": {
-          "name": "Friendly",
-          "raw": 8245,
-          "tier": 4
+          "name": "Honored",
+          "raw": 9082,
+          "tier": 5
+        },
+        "Powderfuse": {
+          "name": "Neutral",
+          "raw": 675,
+          "tier": 3
         },
         "Ratchet": {
           "name": "Neutral",
-          "raw": 900,
+          "raw": 1250,
           "tier": 3
         },
         "Thunder Bluff": {
           "name": "Friendly",
-          "raw": 3475,
+          "raw": 3775,
           "tier": 4
         },
         "Undercity": {
           "name": "Neutral",
-          "raw": 800,
+          "raw": 1175,
           "tier": 3
         }
       },
@@ -21342,15 +21416,15 @@
       "stats": {
         "critters": 1,
         "deaths": 1,
-        "flights": 2,
+        "flights": 6,
         "food": 5,
-        "health_potions": 1,
-        "hearths": 8,
-        "killing_blows": 380,
-        "mobs": 543,
-        "quests": 73
+        "health_potions": 2,
+        "hearths": 9,
+        "killing_blows": 478,
+        "mobs": 658,
+        "quests": 86
       },
-      "xp": 1739
+      "xp": 11235
     },
     "eu:pippilotta-viktualiah": {
       "achievements": {
@@ -29720,11 +29794,12 @@
           "surname": "Eye"
         },
         "lines": [
-          "🛠️ **Erste Hilfe** auf 75"
+          "🛠️ **Erste Hilfe** auf 75",
+          "🎖️ [Novice Hunter](https://www.wowhead.com/forever/de/achievement=61989)"
         ],
         "snap": {
           "class": "Hunter",
-          "level": 24
+          "level": 25
         }
       },
       "eu:fred-feuersturm": {
@@ -29739,6 +29814,22 @@
         "snap": {
           "class": "Mage",
           "level": 41
+        }
+      },
+      "eu:garret-aschwind": {
+        "c": {
+          "name": "Garret",
+          "region": "eu",
+          "surname": "Aschwind"
+        },
+        "lines": [
+          "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
+          "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
+        ],
+        "snap": {
+          "class": "Paladin",
+          "level": 48
         }
       },
       "eu:h%C3%A4uptling-blutmacht": {
@@ -29790,6 +29881,21 @@
         "snap": {
           "class": "Warrior",
           "level": 27
+        }
+      },
+      "eu:pfeil-gail": {
+        "c": {
+          "name": "Pfeil",
+          "rank_name": "Offizier",
+          "region": "eu",
+          "surname": "Gail"
+        },
+        "lines": [
+          "🤝 **Wohlwollend** bei Orgrimmar"
+        ],
+        "snap": {
+          "class": "Hunter",
+          "level": 16
         }
       },
       "us:steel-appeal": {
@@ -30300,6 +30406,7 @@
     "Dredgemire Leggings": "Gamaschen des Sumpfgräbers",
     "Driftmire Shield": "Schild des Moornebels",
     "Druid": "Druide",
+    "Dry Moss Tunic": "Trockenmoostunika",
     "Dual Reinforced Leggings": "Zweifach verstärkte Gamaschen",
     "Dual Wield Specialization": "Beidhändigkeitsspezialisierung",
     "Duels lost": "Duelle verloren",
@@ -31521,6 +31628,7 @@
     "Trinket 1": "Schmuckstück 1",
     "Trinket 2": "Schmuckstück 2",
     "Triprunner Dungarees": "Stolperläufer-Latzhose",
+    "Trueshot Aura": "Aura des Volltreffers",
     "Truesilver Breastplate": "Echtsilberbrustplatte",
     "Tundra Boots": "Tundra-Stiefel",
     "Tundra Ring of the Bandit": "Tundraring des Gorillas",
@@ -32889,7 +32997,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795857964,
+  "saved_at": 1795858820,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
