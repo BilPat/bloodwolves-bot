@@ -11550,6 +11550,7 @@
         "62012": "Journeyman Alchemist",
         "62015": "Journeyman Blacksmith",
         "62016": "Expert Blacksmith",
+        "62024": "Journeyman Leatherworker",
         "62031": "Novice Spelunker",
         "846": "Explore Thousand Needles",
         "855": "Explore Moonglade"
@@ -11686,7 +11687,7 @@
       },
       "ilvl": 43,
       "last_explored": "Moonglade",
-      "last_login": 1795858474000,
+      "last_login": 1795868052000,
       "level": 48,
       "level_at": {
         "40": 1794866470,
@@ -12347,7 +12348,7 @@
         "flights": 87,
         "food": 121,
         "health_potions": 40,
-        "hearths": 33,
+        "hearths": 34,
         "honorable_kills": 1,
         "killing_blows": 4253,
         "mana_potions": 1,
@@ -29846,7 +29847,8 @@
         "lines": [
           "🗝️ **[The Deadmines](https://www.wowhead.com/forever/de/search?q=The%20Deadmines)** zum ersten Mal abgeschlossen",
           "🎖️ [Journeyman Alchemist](https://www.wowhead.com/forever/de/achievement=62012)",
-          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)"
+          "🎖️ [Novice Spelunker](https://www.wowhead.com/forever/de/achievement=62031)",
+          "🎖️ [Journeyman Leatherworker](https://www.wowhead.com/forever/de/achievement=62024)"
         ],
         "snap": {
           "class": "Paladin",
@@ -33034,7 +33036,7 @@
       "1572047649069207714"
     ]
   },
-  "saved_at": 1795866880,
+  "saved_at": 1795868373,
   "weekly": {
     "baseline": {
       "eu:aldric-crowood": {
